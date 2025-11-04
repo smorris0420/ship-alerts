@@ -49,36 +49,73 @@ def find_port_calls_section(soup: BeautifulSoup):
 
 def parse_port_calls(html: str):
     soup = BeautifulSoup(html, "html.parser")
-    section = find_port_calls_section(soup)
+
+    # Find the Recent Port Calls section
+    header = soup.find(lambda tag: tag.name in ["h2","h3","div"]
+                       and "recent port calls" in tag.get_text(strip=True).lower())
+
+    if not header:
+        return []
+
+    # The container is just below the header
+    container = header.find_next("div")
+
+    if not container:
+        return []
+
     rows = []
-    if not section:
-        return rows
-    for tr in section.find_all("tr"):
-        txt = tr.get_text(" ", strip=True)
-        if not txt:
-            continue
-        low = txt.lower()
-        if not any(k in low for k in ["arrival", "arrived", "depart", "departure", "departed"]):
-            continue
-        tds = [td.get_text(" ", strip=True) for td in tr.find_all("td")]
-        port = ""
-        if tds:
-            port = max([c for c in tds if c], key=len, default="")
-        when = ""
-        m = re.search(r"(?:\d{1,2}[:.]\d{2}\s?(?:am|pm|utc)?)|(\d{4}-\d{2}-\d{2}\s+\d{2}:\d{2})", low)
-        if m:
-            when = m.group(0)
-        event = "Arrival" if "arriv" in low else "Departure"
-        a = tr.find("a")
-        link = a["href"] if (a and a.has_attr("href")) else ""
-        rows.append({
-            "event": event,
-            "port": (port or "").strip(),
-            "when_raw": (when or "").strip(),
-            "link": link,
-            "detail": txt.strip()
-        })
+
+    # Each port call entry is inside a <div> with multiple sub-divs
+    for entry in container.find_all("div", recursive=False):
+
+        text = entry.get_text(" ", strip=True).lower()
+        if "arrival (utc)" not in text:
+            continue  # skip non-port-call rows
+
+        # Extract port name
+        port_tag = entry.find("a")
+        port_name = port_tag.get_text(strip=True) if port_tag else "Unknown Port"
+        port_link = port_tag["href"] if port_tag and port_tag.has_attr("href") else ""
+
+        # Extract arrival & departure
+        arrival = ""
+        departure = ""
+
+        # Arrival
+        arrival_tag = entry.find(string=lambda s: s and "arrival (utc)" in s.lower())
+        if arrival_tag:
+            arrival_value = arrival_tag.parent.find_next("div")
+            if arrival_value:
+                arrival = arrival_value.get_text(strip=True)
+
+        # Departure
+        departure_tag = entry.find(string=lambda s: s and "departure" in s.lower())
+        if departure_tag:
+            departure_value = departure_tag.parent.find_next("div")
+            if departure_value:
+                departure = departure_value.get_text(strip=True)
+
+        # Determine if this is an arrival or departure event
+        if arrival:
+            rows.append({
+                "event": "Arrival",
+                "port": port_name,
+                "when_raw": arrival,
+                "link": port_link,
+                "detail": f"{port_name} Arrival UTC {arrival}"
+            })
+
+        if departure:
+            rows.append({
+                "event": "Departure",
+                "port": port_name,
+                "when_raw": departure,
+                "link": port_link,
+                "detail": f"{port_name} Departure UTC {departure}"
+            })
+
     return rows
+
 
 def to_rfc2822(dt: datetime) -> str:
     return dt.astimezone(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S GMT")
