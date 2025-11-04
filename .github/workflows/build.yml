@@ -1,9 +1,9 @@
-name: Build RSS
+name: Build RSS (Playwright)
 
 on:
   schedule:
-    - cron: "*/5 * * * *"   # every 5 minutes
-  workflow_dispatch:        # allow manual Runs
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -11,16 +11,28 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
+
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-      - name: Install deps
-        run: pip install requests beautifulsoup4
+
+      - name: Install Python deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install playwright beautifulsoup4
+
+      - name: Install Playwright browsers
+        run: |
+          python -m playwright install --with-deps chromium
+
       - name: Run scraper
-        run: python scrape.py
+        run: |
+          python playwright_scrape.py
+
       - name: Commit & push
         run: |
           git config user.name "rss-bot"
