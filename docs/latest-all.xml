@@ -4,8 +4,36 @@
   <title>DCL Ships - Latest (One per Ship)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Latest (One per Ship) - Auto-generated</description>
-  <lastBuildDate>Wed, 05 Nov 2025 13:42:27 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 05 Nov 2025 13:56:34 GMT</lastBuildDate>
   
+  <item>
+    <title>Disney Treasure Arrived at Georgetown, Grand Cayman Anch., Cayman Islands at Nov 03, 07:31 AM EST. The local time to the port is Nov 03, 07:31 AM EST</title>
+    <link>https://www.vesselfinder.com/ports/KYGEC001</link>
+    <guid isPermaLink="false">70289f027a48eed32a411100a06a490b4a8cef10</guid>
+    <pubDate>Wed, 05 Nov 2025 13:56:18 GMT</pubDate>
+    <description>Georgetown, Grand Cayman Anch., Cayman Islands Arrival (UTC) Nov 3, 12:31 — Local: Nov 03, 07:31 AM EST</description>
+  </item>
+  <item>
+    <title>Disney Dream Arrived at Port Everglades, United States (USA) at Nov 03, 05:49 AM EST. The local time to the port is Nov 03, 05:49 AM EST</title>
+    <link>https://www.vesselfinder.com/ports/USPEF001</link>
+    <guid isPermaLink="false">fc80173a860b74578592cf840b1bfaa9380e0b76</guid>
+    <pubDate>Wed, 05 Nov 2025 13:56:26 GMT</pubDate>
+    <description>Port Everglades, United States (USA) Arrival (UTC) Nov 3, 10:49 — Local: Nov 03, 05:49 AM EST</description>
+  </item>
+  <item>
+    <title>Disney Adventure Arrived at Bremerhaven, Germany at Sep 09, 06:00 AM EST. The local time to the port is Sep 09, 06:00 AM EDT</title>
+    <link>https://www.vesselfinder.com/ports/DEBRV001</link>
+    <guid isPermaLink="false">c4f55c980c43d6979e96d58f8c41a4edc5e36cc3</guid>
+    <pubDate>Wed, 05 Nov 2025 13:56:30 GMT</pubDate>
+    <description>Bremerhaven, Germany Arrival (UTC) Sep 9, 10:00 — Local: Sep 09, 06:00 AM EDT</description>
+  </item>
+  <item>
+    <title>Disney Destiny Arrived at Cape Canaveral, United States (USA) at Nov 02, 06:55 PM EST. The local time to the port is Nov 02, 06:55 PM EST</title>
+    <link>https://www.vesselfinder.com/ports/USPCV001</link>
+    <guid isPermaLink="false">ac3f927a59b5c7c5932bb076d78428a66aa086a0</guid>
+    <pubDate>Wed, 05 Nov 2025 13:56:33 GMT</pubDate>
+    <description>Cape Canaveral, United States (USA) Arrival (UTC) Nov 2, 23:55 — Local: Nov 02, 06:55 PM EST</description>
+  </item>
   <item>
     <title>Disney Magic Arrived at St Johns, Antigua &amp; Barbuda at Nov 05, 06:42 AM EST. The local time to the port is Nov 05, 07:42 AM AST</title>
     <link>https://www.vesselfinder.com/ports/AGSJO001</link>
@@ -33,13 +61,6 @@
     <guid isPermaLink="false">eea9fc68c6edb5115ca52c53dd3be1b5b993a208</guid>
     <pubDate>Wed, 05 Nov 2025 10:30:02 GMT</pubDate>
     <description>Nassau, Bahamas Arrival (UTC) Nov 4, 13:38 — Local: Nov 04, 08:38 AM EST</description>
-  </item>
-  <item>
-    <title>Disney Destiny Departed from Cape Canaveral, United States (USA) at Nov 04, 05:07 PM EST. The local time to the port is Nov 04, 05:07 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/USPCV001</link>
-    <guid isPermaLink="false">953e6ce5e3dd6f15accbfd54e5ee44b968b78d22</guid>
-    <pubDate>Tue, 04 Nov 2025 22:44:58 GMT</pubDate>
-    <description>Cape Canaveral, United States (USA) Departure (UTC) Nov 4, 22:07 — Local: Nov 04, 05:07 PM EST</description>
   </item>
 </channel>
 </rss>
