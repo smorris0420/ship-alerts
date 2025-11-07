@@ -294,22 +294,23 @@ def _ensure_stylesheet_dcl():
         <title><xsl:value-of select="rss/channel/title"/></title>
         <style>
           :root{
-            --dcl-navy:#16578A;
-            --dcl-gold:#C9A227;
-            --ink:#1b1b1b;
+            --dcl-navy:#16578A;     /* page background + brand color */
+            --dcl-gold:#C9A227;     /* trim accent */
+            --ink:#1b1b1b;          /* body text on white */
             --muted:#6b6f76;
-            --bg:#16578A;   /* page background (blue) */
-            --card:#ffffff; /* card background (white) */
+            --bg:#16578A;           /* page background (blue) */
+            --card:#ffffff;         /* card background (white) */
             --line:#e9edf2;
             --pill:#eef4fb;
           }
           *{box-sizing:border-box}
           body{
             margin:0;
-            background:var(--bg);
+            background:var(--bg);       /* BLUE page behind cards */
             color:var(--ink);
             font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,Helvetica,sans-serif;
           }
+
           /* White header bar */
           .bar{
             background:#ffffff;
@@ -317,6 +318,7 @@ def _ensure_stylesheet_dcl():
             padding:14px 18px;
             border-bottom:4px solid var(--dcl-gold);
           }
+
           /* Center logo + title (stacked) */
           .brand{
             display:flex;
@@ -338,6 +340,7 @@ def _ensure_stylesheet_dcl():
             font-weight:700;
             color:var(--dcl-navy);    /* title in blue */
           }
+
           .wrap{max-width:1100px;margin:18px auto;padding:0 16px}
           .card{
             background:var(--card);
@@ -357,6 +360,7 @@ def _ensure_stylesheet_dcl():
             border:1px solid #d7e5f6;padding:4px 8px;border-radius:999px;
             font-size:12px;font-weight:600;
           }
+
           table{width:100%;border-collapse:collapse;font-size:14px;background:#fff}
           thead th{
             position:sticky;top:0;background:#fbfdff;z-index:1;
@@ -369,12 +373,14 @@ def _ensure_stylesheet_dcl():
           .title a:hover{text-decoration:underline}
           .guid{font-family:ui-monospace,Menlo,Consolas,monospace;color:var(--muted);font-size:12px}
           .desc{white-space:pre-wrap}
+
           .badge{
             display:inline-block;padding:3px 8px;border-radius:6px;
             font-weight:700;font-size:12px;border:1px solid transparent;margin-right:8px;
           }
           .arr{background:#e8f6ee;color:#11643a;border-color:#cfead9}
           .dep{background:#fff0f0;color:#8a1620;border-color:#ffd9de}
+
           @media (max-width:760px){
             thead{display:none}
             tbody tr{display:block;border-bottom:8px solid #f0f4f8}
@@ -399,6 +405,7 @@ def _ensure_stylesheet_dcl():
               <span><strong>Feed link:</strong> <a href="{rss/channel/link}"><xsl:value-of select="rss/channel/link"/></a></span>
               <span><strong>Last Build:</strong> <xsl:value-of select="rss/channel/lastBuildDate"/></span>
             </div>
+
             <table role="table" aria-label="Items">
               <thead>
                 <tr><th>Title</th><th>Published</th><th>Description</th></tr>
@@ -907,7 +914,7 @@ def main():
         with open(os.path.join(DOCS_DIR, "latest-all.xml"), "w", encoding="utf-8") as f:
             f.write(latest_all_xml)
     except Exception as e:
-        print(f="[error] Writing latest-all.xml failed: {e}", file=sys.stderr)
+        print(f"[error] Writing latest-all.xml failed: {e}", file=sys.stderr)
 
     save_json(STATE_PATH, state)
 
