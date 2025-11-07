@@ -5,7 +5,20 @@
     <title>Disney Wish - Arrivals &amp; Departures</title>
     <link>https://www.vesselfinder.com/vessels/details/9834739</link>
     <description>Disney Wish - Arrivals &amp; Departures - Auto-generated</description>
-    <lastBuildDate>Fri, 07 Nov 2025 21:21:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Nov 2025 21:29:49 GMT</lastBuildDate>
+    <item>
+      <title>Disney Wish Departed from Cape Canaveral, United States (USA) (time TBA)</title>
+      <link>https://www.vesselfinder.com/ports/USPCV001</link>
+      <guid isPermaLink="false">49814e9e5306d9ddd73993a9f7e6108dd4711484</guid>
+      <pubDate>Fri, 07 Nov 2025 21:29:48 GMT</pubDate>
+      <description><![CDATA[Cape Canaveral, United States (USA) Departure (UTC) (time not yet posted)]]></description>
+      <eventKind>Departed</eventKind>
+      <portName>Cape Canaveral, United States (USA)</portName>
+      <hasTime>true</hasTime>
+      <eventUtc>2025-11-07T21:29:48.594282+00:00</eventUtc>
+      <shipSlug>disney-wish</shipSlug>
+      <shipName>Disney Wish</shipName>
+    </item>
     <item>
       <title>Disney Wish Departed from Cape Canaveral, United States (USA) (time TBA)</title>
       <link>https://www.vesselfinder.com/ports/USPCV001</link>
@@ -67,6 +80,19 @@
       <eventKind/>
       <portName/>
       <hasTime>false</hasTime>
+      <eventUtc>2025-11-07T11:12:00+00:00</eventUtc>
+      <shipSlug>disney-wish</shipSlug>
+      <shipName>Disney Wish</shipName>
+    </item>
+    <item>
+      <title>Disney Wish Arrived at Cape Canaveral, United States (USA) at Nov 07, 06:12 AM EST. The local time to the port is Nov 07, 06:12 AM EST</title>
+      <link>https://www.vesselfinder.com/ports/USPCV001</link>
+      <guid isPermaLink="false">72f6f4428cfd6c22f137a5c71fe995b583e75272</guid>
+      <pubDate>Fri, 07 Nov 2025 21:29:48 GMT</pubDate>
+      <description><![CDATA[Cape Canaveral, United States (USA) Arrival (UTC) Nov 7, 11:12 — ET: Nov 07, 06:12 AM EST | Local: Nov 07, 06:12 AM EST]]></description>
+      <eventKind>Arrived</eventKind>
+      <portName>Cape Canaveral, United States (USA)</portName>
+      <hasTime>true</hasTime>
       <eventUtc>2025-11-07T11:12:00+00:00</eventUtc>
       <shipSlug>disney-wish</shipSlug>
       <shipName>Disney Wish</shipName>

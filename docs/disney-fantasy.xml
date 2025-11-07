@@ -5,7 +5,7 @@
     <title>Disney Fantasy - Arrivals &amp; Departures</title>
     <link>https://www.vesselfinder.com/vessels/details/9445590</link>
     <description>Disney Fantasy - Arrivals &amp; Departures - Auto-generated</description>
-    <lastBuildDate>Fri, 07 Nov 2025 21:21:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Nov 2025 21:29:53 GMT</lastBuildDate>
     <item>
       <title>Disney Fantasy Departed from A Coruna, Spain at Nov 06, 10:42 AM EST. The local time to the port is Nov 06, 04:42 PM CET</title>
       <link>https://www.vesselfinder.com/ports/ESLCG001</link>
@@ -46,6 +46,19 @@
       <shipName>Disney Fantasy</shipName>
     </item>
     <item>
+      <title>Disney Fantasy Departed from A Coruna, Spain at Nov 06, 10:42 AM EST. The local time to the port is Nov 06, 04:42 PM CET</title>
+      <link>https://www.vesselfinder.com/ports/ESLCG001</link>
+      <guid isPermaLink="false">de6f0cb630e314f28cf5e27da5042e7d02c0c60c</guid>
+      <pubDate>Fri, 07 Nov 2025 21:29:52 GMT</pubDate>
+      <description><![CDATA[A Coruna, Spain Departure (UTC) Nov 6, 15:42 — ET: Nov 06, 10:42 AM EST | Local: Nov 06, 04:42 PM CET]]></description>
+      <eventKind>Departed</eventKind>
+      <portName>A Coruna, Spain</portName>
+      <hasTime>true</hasTime>
+      <eventUtc>2025-11-06T15:42:00+00:00</eventUtc>
+      <shipSlug>disney-fantasy</shipSlug>
+      <shipName>Disney Fantasy</shipName>
+    </item>
+    <item>
       <title>Disney Fantasy Arrived at A Coruna, Spain at Nov 05, 12:00 AM EST. The local time to the port is Nov 05, 06:00 AM CET</title>
       <link>https://www.vesselfinder.com/ports/ESLCG001</link>
       <guid isPermaLink="false">843679d9d6a27157e97d152e059920e99c91b37e</guid>
@@ -80,6 +93,19 @@
       <eventKind/>
       <portName/>
       <hasTime>false</hasTime>
+      <eventUtc>2025-11-05T05:00:00+00:00</eventUtc>
+      <shipSlug>disney-fantasy</shipSlug>
+      <shipName>Disney Fantasy</shipName>
+    </item>
+    <item>
+      <title>Disney Fantasy Arrived at A Coruna, Spain at Nov 05, 12:00 AM EST. The local time to the port is Nov 05, 06:00 AM CET</title>
+      <link>https://www.vesselfinder.com/ports/ESLCG001</link>
+      <guid isPermaLink="false">f60722c5b805e77d7031f656beea9cfc25ed348c</guid>
+      <pubDate>Fri, 07 Nov 2025 21:29:52 GMT</pubDate>
+      <description><![CDATA[A Coruna, Spain Arrival (UTC) Nov 5, 05:00 — ET: Nov 05, 12:00 AM EST | Local: Nov 05, 06:00 AM CET]]></description>
+      <eventKind>Arrived</eventKind>
+      <portName>A Coruna, Spain</portName>
+      <hasTime>true</hasTime>
       <eventUtc>2025-11-05T05:00:00+00:00</eventUtc>
       <shipSlug>disney-fantasy</shipSlug>
       <shipName>Disney Fantasy</shipName>

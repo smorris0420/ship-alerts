@@ -5,11 +5,24 @@
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
     "guid": "9c738d8f5dc525d0ceef16575a95841ac6b88ad2",
     "pubDate": "Fri, 07 Nov 2025 21:21:51 GMT",
-    "eventUtc": "2025-11-07T21:21:51.270859+00:00",
+    "eventUtc": "2025-11-07T21:29:50.685389+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
     "eventKind": "Departed",
     "portName": "Gorda Cay, Bahamas",
+    "hasTime": true
+  },
+  {
+    "title": "Disney Wish Departed from Cape Canaveral, United States (USA) (time TBA)",
+    "description": "Cape Canaveral, United States (USA) Departure (UTC) (time not yet posted)",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "49814e9e5306d9ddd73993a9f7e6108dd4711484",
+    "pubDate": "Fri, 07 Nov 2025 21:29:48 GMT",
+    "eventUtc": "2025-11-07T21:29:48.594282+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "eventKind": "Departed",
+    "portName": "Cape Canaveral, United States (USA)",
     "hasTime": true
   },
   {
@@ -86,6 +99,19 @@
     "shipName": "Disney Wish"
   },
   {
+    "title": "Disney Wish Arrived at Cape Canaveral, United States (USA) at Nov 07, 06:12 AM EST. The local time to the port is Nov 07, 06:12 AM EST",
+    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Nov 7, 11:12 — ET: Nov 07, 06:12 AM EST | Local: Nov 07, 06:12 AM EST",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "72f6f4428cfd6c22f137a5c71fe995b583e75272",
+    "pubDate": "Fri, 07 Nov 2025 21:29:48 GMT",
+    "eventUtc": "2025-11-07T11:12:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "eventKind": "Arrived",
+    "portName": "Cape Canaveral, United States (USA)",
+    "hasTime": true
+  },
+  {
     "title": "Disney Dream Departed from Gorda Cay, Bahamas at Nov 06, 05:06 PM EST. The local time to the port is Nov 06, 05:06 PM EST",
     "description": "Gorda Cay, Bahamas Departure (UTC) Nov 6, 22:06 — ET: Nov 06, 05:06 PM EST | Local: Nov 06, 05:06 PM EST",
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
@@ -114,6 +140,19 @@
     "eventUtc": "2025-11-06T22:06:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream"
+  },
+  {
+    "title": "Disney Dream Departed from Gorda Cay, Bahamas at Nov 06, 05:06 PM EST. The local time to the port is Nov 06, 05:06 PM EST",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Nov 6, 22:06 — ET: Nov 06, 05:06 PM EST | Local: Nov 06, 05:06 PM EST",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "1fb7cb08d81a2ee5681d3cd3c3a3ba2f8948691d",
+    "pubDate": "Fri, 07 Nov 2025 21:29:56 GMT",
+    "eventUtc": "2025-11-06T22:06:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "eventKind": "Departed",
+    "portName": "Gorda Cay, Bahamas",
+    "hasTime": true
   },
   {
     "title": "Disney Destiny Departed from Nassau, Bahamas at Nov 06, 04:10 PM EST. The local time to the port is Nov 06, 04:10 PM EST",
@@ -232,6 +271,19 @@
     "shipName": "Disney Wonder"
   },
   {
+    "title": "Disney Wonder Departed from Melbourne, Australia at Nov 06, 10:57 AM EST. The local time to the port is Nov 07, 02:57 AM AEDT",
+    "description": "Melbourne, Australia Departure (UTC) Nov 6, 15:57 — ET: Nov 06, 10:57 AM EST | Local: Nov 07, 02:57 AM AEDT",
+    "link": "https://www.vesselfinder.com/ports/AUMEL001",
+    "guid": "89ca91b8fd9e1f0a7246c03443e7f4a9778c7cf8",
+    "pubDate": "Fri, 07 Nov 2025 21:29:58 GMT",
+    "eventUtc": "2025-11-06T15:57:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "eventKind": "Departed",
+    "portName": "Melbourne, Australia",
+    "hasTime": true
+  },
+  {
     "title": "Disney Fantasy Departed from A Coruna, Spain at Nov 06, 10:42 AM EST. The local time to the port is Nov 06, 04:42 PM CET",
     "description": "A Coruna, Spain Departure (UTC) Nov 6, 15:42 — ET: Nov 06, 10:42 AM EST | Local: Nov 06, 04:42 PM CET",
     "link": "https://www.vesselfinder.com/ports/ESLCG001",
@@ -260,6 +312,19 @@
     "eventUtc": "2025-11-06T15:42:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy"
+  },
+  {
+    "title": "Disney Fantasy Departed from A Coruna, Spain at Nov 06, 10:42 AM EST. The local time to the port is Nov 06, 04:42 PM CET",
+    "description": "A Coruna, Spain Departure (UTC) Nov 6, 15:42 — ET: Nov 06, 10:42 AM EST | Local: Nov 06, 04:42 PM CET",
+    "link": "https://www.vesselfinder.com/ports/ESLCG001",
+    "guid": "de6f0cb630e314f28cf5e27da5042e7d02c0c60c",
+    "pubDate": "Fri, 07 Nov 2025 21:29:52 GMT",
+    "eventUtc": "2025-11-06T15:42:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "eventKind": "Departed",
+    "portName": "A Coruna, Spain",
+    "hasTime": true
   },
   {
     "title": "Disney Dream Arrived at Gorda Cay, Bahamas at Nov 06, 07:31 AM EST. The local time to the port is Nov 06, 07:31 AM EST",
@@ -292,6 +357,19 @@
     "shipName": "Disney Dream"
   },
   {
+    "title": "Disney Dream Arrived at Gorda Cay, Bahamas at Nov 06, 07:31 AM EST. The local time to the port is Nov 06, 07:31 AM EST",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Nov 6, 12:31 — ET: Nov 06, 07:31 AM EST | Local: Nov 06, 07:31 AM EST",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "16a70db17b2ea963f4c269b20c41a087f574df8e",
+    "pubDate": "Fri, 07 Nov 2025 21:29:56 GMT",
+    "eventUtc": "2025-11-06T12:31:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "eventKind": "Arrived",
+    "portName": "Gorda Cay, Bahamas",
+    "hasTime": true
+  },
+  {
     "title": "Disney Magic Departed from St Johns, Antigua & Barbuda at Nov 05, 05:12 PM EST. The local time to the port is Nov 05, 06:12 PM AST",
     "description": "St Johns, Antigua & Barbuda Departure (UTC) Nov 5, 22:12 — ET: Nov 05, 05:12 PM EST | Local: Nov 05, 06:12 PM AST",
     "link": "https://www.vesselfinder.com/ports/AGSJO001",
@@ -320,6 +398,19 @@
     "eventUtc": "2025-11-05T22:12:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic"
+  },
+  {
+    "title": "Disney Magic Departed from St Johns, Antigua & Barbuda at Nov 05, 05:12 PM EST. The local time to the port is Nov 05, 06:12 PM AST",
+    "description": "St Johns, Antigua & Barbuda Departure (UTC) Nov 5, 22:12 — ET: Nov 05, 05:12 PM EST | Local: Nov 05, 06:12 PM AST",
+    "link": "https://www.vesselfinder.com/ports/AGSJO001",
+    "guid": "98c08d13850a1ae55d65581fa49bd8a99bbb5c40",
+    "pubDate": "Fri, 07 Nov 2025 21:29:54 GMT",
+    "eventUtc": "2025-11-05T22:12:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "eventKind": "Departed",
+    "portName": "St Johns, Antigua & Barbuda",
+    "hasTime": true
   },
   {
     "title": "Disney Wonder Arrived at Melbourne, Australia at Nov 05, 01:54 PM EST. The local time to the port is Nov 06, 05:54 AM AEDT",
@@ -352,6 +443,19 @@
     "shipName": "Disney Wonder"
   },
   {
+    "title": "Disney Wonder Arrived at Melbourne, Australia at Nov 05, 01:54 PM EST. The local time to the port is Nov 06, 05:54 AM AEDT",
+    "description": "Melbourne, Australia Arrival (UTC) Nov 5, 18:54 — ET: Nov 05, 01:54 PM EST | Local: Nov 06, 05:54 AM AEDT",
+    "link": "https://www.vesselfinder.com/ports/AUMEL001",
+    "guid": "a4924b6fcc3a0a68e018c7d1e9eae27770cd544a",
+    "pubDate": "Fri, 07 Nov 2025 21:29:58 GMT",
+    "eventUtc": "2025-11-05T18:54:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "eventKind": "Arrived",
+    "portName": "Melbourne, Australia",
+    "hasTime": true
+  },
+  {
     "title": "Disney Magic Arrived at St Johns, Antigua & Barbuda at Nov 05, 06:42 AM EST. The local time to the port is Nov 05, 07:42 AM AST",
     "description": "St Johns, Antigua & Barbuda Arrival (UTC) Nov 5, 11:42 — ET: Nov 05, 06:42 AM EST | Local: Nov 05, 07:42 AM AST",
     "link": "https://www.vesselfinder.com/ports/AGSJO001",
@@ -382,6 +486,19 @@
     "shipName": "Disney Magic"
   },
   {
+    "title": "Disney Magic Arrived at St Johns, Antigua & Barbuda at Nov 05, 06:42 AM EST. The local time to the port is Nov 05, 07:42 AM AST",
+    "description": "St Johns, Antigua & Barbuda Arrival (UTC) Nov 5, 11:42 — ET: Nov 05, 06:42 AM EST | Local: Nov 05, 07:42 AM AST",
+    "link": "https://www.vesselfinder.com/ports/AGSJO001",
+    "guid": "8d2b7d3afb05557db8c322f56d09bdb2cc6d7524",
+    "pubDate": "Fri, 07 Nov 2025 21:29:54 GMT",
+    "eventUtc": "2025-11-05T11:42:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "eventKind": "Arrived",
+    "portName": "St Johns, Antigua & Barbuda",
+    "hasTime": true
+  },
+  {
     "title": "Disney Fantasy Arrived at A Coruna, Spain at Nov 05, 12:00 AM EST. The local time to the port is Nov 05, 06:00 AM CET",
     "description": "A Coruna, Spain Arrival (UTC) Nov 5, 05:00 — ET: Nov 05, 12:00 AM EST | Local: Nov 05, 06:00 AM CET",
     "link": "https://www.vesselfinder.com/ports/ESLCG001",
@@ -410,6 +527,19 @@
     "eventUtc": "2025-11-05T05:00:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy"
+  },
+  {
+    "title": "Disney Fantasy Arrived at A Coruna, Spain at Nov 05, 12:00 AM EST. The local time to the port is Nov 05, 06:00 AM CET",
+    "description": "A Coruna, Spain Arrival (UTC) Nov 5, 05:00 — ET: Nov 05, 12:00 AM EST | Local: Nov 05, 06:00 AM CET",
+    "link": "https://www.vesselfinder.com/ports/ESLCG001",
+    "guid": "f60722c5b805e77d7031f656beea9cfc25ed348c",
+    "pubDate": "Fri, 07 Nov 2025 21:29:52 GMT",
+    "eventUtc": "2025-11-05T05:00:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "eventKind": "Arrived",
+    "portName": "A Coruna, Spain",
+    "hasTime": true
   },
   {
     "title": "Disney Treasure Departed from Georgetown, Grand Cayman Anch., Cayman Islands at Nov 03, 05:05 PM EST. The local time to the port is Nov 03, 05:05 PM EST",
