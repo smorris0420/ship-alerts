@@ -5,7 +5,7 @@
     <title>DCL Ships - Arrivals &amp; Departures (All)</title>
     <link>https://github.com/</link>
     <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-    <lastBuildDate>Fri, 07 Nov 2025 21:30:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Nov 2025 21:42:18 GMT</lastBuildDate>
     <item>
       <title>Disney Treasure Departed from Gorda Cay, Bahamas (time TBA)</title>
       <link>https://www.vesselfinder.com/ports/BSGOC001</link>
@@ -15,20 +15,20 @@
       <eventKind>Departed</eventKind>
       <portName>Gorda Cay, Bahamas</portName>
       <hasTime>true</hasTime>
-      <eventUtc>2025-11-07T21:29:50.685389+00:00</eventUtc>
+      <eventUtc>2025-11-07T21:42:05.416718+00:00</eventUtc>
       <shipSlug>disney-treasure</shipSlug>
       <shipName>Disney Treasure</shipName>
     </item>
     <item>
-      <title>Disney Wish Departed from Cape Canaveral, United States (USA) (time TBA)</title>
+      <title>Disney Wish Departed from Cape Canaveral, United States (USA) at Nov 07, 04:35 PM EST. The local time to the port is Nov 07, 04:35 PM EST</title>
       <link>https://www.vesselfinder.com/ports/USPCV001</link>
       <guid isPermaLink="false">49814e9e5306d9ddd73993a9f7e6108dd4711484</guid>
       <pubDate>Fri, 07 Nov 2025 21:29:48 GMT</pubDate>
-      <description><![CDATA[Cape Canaveral, United States (USA) Departure (UTC) (time not yet posted)]]></description>
+      <description><![CDATA[Cape Canaveral, United States (USA) Departure (UTC) Nov 7, 21:35 — ET: Nov 07, 04:35 PM EST | Local: Nov 07, 04:35 PM EST]]></description>
       <eventKind>Departed</eventKind>
       <portName>Cape Canaveral, United States (USA)</portName>
       <hasTime>true</hasTime>
-      <eventUtc>2025-11-07T21:29:48.594282+00:00</eventUtc>
+      <eventUtc>2025-11-07T21:35:00+00:00</eventUtc>
       <shipSlug>disney-wish</shipSlug>
       <shipName>Disney Wish</shipName>
     </item>
@@ -774,6 +774,19 @@
       <shipName>Disney Adventure</shipName>
     </item>
     <item>
+      <title>Disney Adventure Departed from Bremerhaven, Germany at Sep 10, 07:10 PM EDT. The local time to the port is Sep 11, 01:10 AM CEST</title>
+      <link>https://www.vesselfinder.com/ports/DEBRV001</link>
+      <guid isPermaLink="false">d766c75d863ba8b7f02d88d83356f23699aa78b0</guid>
+      <pubDate>Fri, 07 Nov 2025 21:42:15 GMT</pubDate>
+      <description><![CDATA[Bremerhaven, Germany Departure (UTC) Sep 10, 23:10 — ET: Sep 10, 07:10 PM EDT | Local: Sep 11, 01:10 AM CEST]]></description>
+      <eventKind>Departed</eventKind>
+      <portName>Bremerhaven, Germany</portName>
+      <hasTime>true</hasTime>
+      <eventUtc>2025-09-10T23:10:00+00:00</eventUtc>
+      <shipSlug>disney-adventure</shipSlug>
+      <shipName>Disney Adventure</shipName>
+    </item>
+    <item>
       <title>Disney Adventure Arrived at Bremerhaven, Germany at Sep 09, 06:00 AM EDT. The local time to the port is Sep 09, 12:00 PM CEST</title>
       <link>https://www.vesselfinder.com/ports/DEBRV001</link>
       <guid isPermaLink="false">639844e0bed76ae8204b558fa2302f5b76939c06</guid>
@@ -808,6 +821,19 @@
       <eventKind/>
       <portName/>
       <hasTime>false</hasTime>
+      <eventUtc>2025-09-09T10:00:00+00:00</eventUtc>
+      <shipSlug>disney-adventure</shipSlug>
+      <shipName>Disney Adventure</shipName>
+    </item>
+    <item>
+      <title>Disney Adventure Arrived at Bremerhaven, Germany at Sep 09, 06:00 AM EDT. The local time to the port is Sep 09, 12:00 PM CEST</title>
+      <link>https://www.vesselfinder.com/ports/DEBRV001</link>
+      <guid isPermaLink="false">7ec5ae7537cab04ef672215f57e8a3a001b74eaa</guid>
+      <pubDate>Fri, 07 Nov 2025 21:42:15 GMT</pubDate>
+      <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Sep 9, 10:00 — ET: Sep 09, 06:00 AM EDT | Local: Sep 09, 12:00 PM CEST]]></description>
+      <eventKind>Arrived</eventKind>
+      <portName>Bremerhaven, Germany</portName>
+      <hasTime>true</hasTime>
       <eventUtc>2025-09-09T10:00:00+00:00</eventUtc>
       <shipSlug>disney-adventure</shipSlug>
       <shipName>Disney Adventure</shipName>

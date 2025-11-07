@@ -30,6 +30,19 @@
     "shipName": "Disney Adventure"
   },
   {
+    "title": "Disney Adventure Departed from Bremerhaven, Germany at Sep 10, 07:10 PM EDT. The local time to the port is Sep 11, 01:10 AM CEST",
+    "description": "Bremerhaven, Germany Departure (UTC) Sep 10, 23:10 — ET: Sep 10, 07:10 PM EDT | Local: Sep 11, 01:10 AM CEST",
+    "link": "https://www.vesselfinder.com/ports/DEBRV001",
+    "guid": "d766c75d863ba8b7f02d88d83356f23699aa78b0",
+    "pubDate": "Fri, 07 Nov 2025 21:42:15 GMT",
+    "eventUtc": "2025-09-10T23:10:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "eventKind": "Departed",
+    "portName": "Bremerhaven, Germany",
+    "hasTime": true
+  },
+  {
     "title": "Disney Adventure Arrived at Bremerhaven, Germany at Sep 09, 06:00 AM EDT. The local time to the port is Sep 09, 12:00 PM CEST",
     "description": "Bremerhaven, Germany Arrival (UTC) Sep 9, 10:00 — ET: Sep 09, 06:00 AM EDT | Local: Sep 09, 12:00 PM CEST",
     "link": "https://www.vesselfinder.com/ports/DEBRV001",
@@ -58,5 +71,18 @@
     "eventUtc": "2025-09-09T10:00:00+00:00",
     "shipSlug": "disney-adventure",
     "shipName": "Disney Adventure"
+  },
+  {
+    "title": "Disney Adventure Arrived at Bremerhaven, Germany at Sep 09, 06:00 AM EDT. The local time to the port is Sep 09, 12:00 PM CEST",
+    "description": "Bremerhaven, Germany Arrival (UTC) Sep 9, 10:00 — ET: Sep 09, 06:00 AM EDT | Local: Sep 09, 12:00 PM CEST",
+    "link": "https://www.vesselfinder.com/ports/DEBRV001",
+    "guid": "7ec5ae7537cab04ef672215f57e8a3a001b74eaa",
+    "pubDate": "Fri, 07 Nov 2025 21:42:15 GMT",
+    "eventUtc": "2025-09-09T10:00:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "eventKind": "Arrived",
+    "portName": "Bremerhaven, Germany",
+    "hasTime": true
   }
 ]
