@@ -253,18 +253,175 @@ def to_rfc2822(dt: datetime) -> str:
 def make_id(s: str) -> str:
     return hashlib.sha1((s or "").encode("utf-8")).hexdigest()
 
-def build_rss(channel_title: str, channel_link: str, items: list) -> str:
+# ---- XML output formatting knobs + helpers ----
+PRETTY_XML = True
+USE_CDATA  = True
+STYLESHEET_NAME = "rss-dcl.xsl"   # will be written to docs/
+
+def _pretty_xml(xml_str: str) -> str:
+    """Indent XML nicely; fall back to raw if anything fails."""
+    try:
+        from xml.dom import minidom
+        dom = minidom.parseString(xml_str.encode("utf-8"))
+        pretty = dom.toprettyxml(indent="  ", encoding="UTF-8").decode("utf-8")
+        return "\n".join([ln for ln in pretty.splitlines() if ln.strip()])
+    except Exception:
+        return xml_str
+
+def _cdata(s: str) -> str:
+    """Wrap text in CDATA safely (handles ']]>')."""
+    s = s or ""
+    parts = s.split("]]>")
+    return "<![CDATA[" + "]]]]><![CDATA[>".join(parts) + "]]>" if len(parts) > 1 else f"<![CDATA[{s}]]>"
+
+def _ensure_stylesheet_dcl():
+    """
+    Write a DCL-styled XSL to docs/ if missing.
+    Uses your PNG logo: docs/DCLDailySummary.png
+    """
+    try:
+        os.makedirs(DOCS_DIR, exist_ok=True)
+        xsl_path = os.path.join(DOCS_DIR, STYLESHEET_NAME)
+        if os.path.exists(xsl_path):
+            return
+        xsl = """<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
+  <xsl:output method="html" indent="yes"/>
+  <xsl:template match="/">
+    <html>
+      <head>
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <title><xsl:value-of select="rss/channel/title"/></title>
+        <style>
+          :root{
+            --dcl-navy:#16578A;
+            --dcl-gold:#C9A227;
+            --ink:#1b1b1b;
+            --muted:#6b6f76;
+            --bg:#f5f7fa;
+            --card:#ffffff;
+            --line:#e9edf2;
+            --pill:#eef4fb;
+          }
+          *{box-sizing:border-box}
+          body{margin:0;background:var(--bg);color:var(--ink);
+               font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,Helvetica,sans-serif;}
+          .bar{background:var(--dcl-navy);color:#fff;padding:16px 20px;border-bottom:4px solid var(--dcl-gold);}
+          .brand{display:flex;align-items:center;gap:12px;max-width:1100px;margin:0 auto;}
+          .logo-img{width:48px;height:auto;display:block}
+          .brand h1{margin:0;font-size:18px;font-weight:600}
+          .wrap{max-width:1100px;margin:20px auto;padding:0 16px}
+          .card{background:var(--card);border-radius:10px;box-shadow:0 6px 18px rgba(0,0,0,.08);border:1px solid var(--line);}
+          .meta{padding:14px 16px;display:flex;flex-wrap:wrap;gap:12px;align-items:center;border-bottom:1px solid var(--line);color:var(--muted);font-size:12px;}
+          .chip{background:var(--pill);color:var(--dcl-navy);border:1px solid #d7e5f6;padding:4px 8px;border-radius:999px;font-size:12px;font-weight:600;}
+          table{width:100%;border-collapse:collapse;font-size:14px}
+          thead th{position:sticky;top:0;background:#fbfdff;z-index:1;text-align:left;padding:12px 14px;border-bottom:2px solid var(--line);color:#133c5e;font-weight:700;}
+          tbody td{padding:12px 14px;border-bottom:1px solid var(--line);vertical-align:top;}
+          tbody tr:hover{background:#fbfdff}
+          .title a{color:var(--dcl-navy);text-decoration:none;font-weight:600}
+          .title a:hover{text-decoration:underline}
+          .guid{font-family:ui-monospace,Menlo,Consolas,monospace;color:var(--muted);font-size:12px}
+          .desc{white-space:pre-wrap}
+          .badge{display:inline-block;padding:3px 8px;border-radius:6px;font-weight:700;font-size:12px;border:1px solid transparent;margin-right:8px;}
+          .arr{background:#e8f6ee;color:#11643a;border-color:#cfead9}
+          .dep{background:#fff0f0;color:#8a1620;border-color:#ffd9de}
+          @media (max-width:760px){
+            thead{display:none}
+            tbody tr{display:block;border-bottom:8px solid var(--bg)}
+            tbody td{display:block;border:0;padding:8px 14px}
+            tbody td::before{content:attr(data-label) " ";font-weight:600;color:var(--muted);display:block;margin-bottom:2px}
+            .meta{gap:8px}
+          }
+        </style>
+      </head>
+      <body>
+        <div class="bar">
+          <div class="brand">
+            <img src="DCLDailySummary.png" alt="DCL Logo" class="logo-img"/>
+            <h1><xsl:value-of select="rss/channel/title"/></h1>
+          </div>
+        </div>
+
+        <div class="wrap">
+          <div class="card">
+            <div class="meta">
+              <span class="chip">DCL • Airport &amp; Resort Reporting</span>
+              <span><strong>Feed link:</strong> <a href="{rss/channel/link}"><xsl:value-of select="rss/channel/link"/></a></span>
+              <span><strong>Last Build:</strong> <xsl:value-of select="rss/channel/lastBuildDate"/></span>
+            </div>
+
+            <table role="table" aria-label="Items">
+              <thead>
+                <tr><th>Title</th><th>Published</th><th>Description</th></tr>
+              </thead>
+              <tbody>
+                <xsl:for-each select="rss/channel/item">
+                  <tr>
+                    <td class="title" data-label="Title">
+                      <span class="badge">
+                        <xsl:attribute name="class">
+                          <xsl:text>badge </xsl:text>
+                          <xsl:choose>
+                            <xsl:when test="contains(title,'Arrived')">arr</xsl:when>
+                            <xsl:otherwise>dep</xsl:otherwise>
+                          </xsl:choose>
+                        </xsl:attribute>
+                        <xsl:choose>
+                          <xsl:when test="contains(title,'Arrived')">ARR</xsl:when>
+                          <xsl:otherwise>DEP</xsl:otherwise>
+                        </xsl:choose>
+                      </span>
+                      <a href="{link}"><xsl:value-of select="title"/></a><br/>
+                      <span class="guid"><xsl:value-of select="guid"/></span>
+                    </td>
+                    <td data-label="Published"><xsl:value-of select="pubDate"/></td>
+                    <td class="desc" data-label="Description">
+                      <xsl:value-of select="description" disable-output-escaping="yes"/>
+                    </td>
+                  </tr>
+                </xsl:for-each>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </body>
+    </html>
+  </xsl:template>
+</xsl:stylesheet>
+"""
+        with open(xsl_path, "w", encoding="utf-8") as f:
+            f.write(xsl)
+    except Exception as e:
+        print(f"[warn] Could not write stylesheet: {e}", file=sys.stderr)
+
+def build_rss(channel_title: str, channel_link: str, items: list, stylesheet=None, use_cdata=None) -> str:
+    """Build RSS with optional CDATA and XSL stylesheet reference."""
+    if stylesheet is None:
+        stylesheet = STYLESHEET_NAME
+    if use_cdata is None:
+        use_cdata = USE_CDATA
+
     xml_items = []
     for it in items:
+        title = rss_escape(it.get("title",""))
+        link  = rss_escape(it.get("link",""))
+        guid  = rss_escape(it.get("guid",""))
+        pub   = rss_escape(it.get("pubDate",""))
+        desc  = it.get("description","")
+        desc_xml = _cdata(desc) if use_cdata else rss_escape(desc)
+
         xml_items.append(f"""
   <item>
-    <title>{rss_escape(it.get("title",""))}</title>
-    <link>{rss_escape(it.get("link",""))}</link>
-    <guid isPermaLink="false">{rss_escape(it.get("guid",""))}</guid>
-    <pubDate>{rss_escape(it.get("pubDate",""))}</pubDate>
-    <description>{rss_escape(it.get("description",""))}</description>
+    <title>{title}</title>
+    <link>{link}</link>
+    <guid isPermaLink="false">{guid}</guid>
+    <pubDate>{pub}</pubDate>
+    <description>{desc_xml}</description>
   </item>""")
-    return f"""<?xml version="1.0" encoding="UTF-8"?>
+
+    pi = f'\n<?xml-stylesheet type="text/xsl" href="{stylesheet}"?>' if stylesheet else ""
+    xml = f"""<?xml version="1.0" encoding="UTF-8"?>{pi}
 <rss version="2.0">
 <channel>
   <title>{rss_escape(channel_title)}</title>
@@ -275,6 +432,7 @@ def build_rss(channel_title: str, channel_link: str, items: list) -> str:
 </channel>
 </rss>
 """
+    return xml
 
 # ---------- Time handling ----------
 
@@ -557,6 +715,9 @@ def main():
 
     all_items_new = []
 
+    # Write stylesheet once (idempotent)
+    _ensure_stylesheet_dcl()
+
     with sync_playwright() as p:
         for s in ships:
             name = s.get("name"); slug = s.get("slug"); vf_url = s.get("url")
@@ -643,13 +804,15 @@ def main():
             ship_hist = merge_items(ship_hist, ship_items_new, PER_SHIP_CAP)
             save_history(slug, ship_hist)
 
-            # Write per-ship feeds
+            # Write per-ship feeds (pretty + XSL PI)
             try:
                 ship_xml = build_rss(f"{name} - Arrivals & Departures", vf_url, ship_hist)
+                if PRETTY_XML: ship_xml = _pretty_xml(ship_xml)
                 with open(os.path.join(DOCS_DIR, f"{slug}.xml"), "w", encoding="utf-8") as f:
                     f.write(ship_xml)
 
                 latest_xml = build_rss(f"{name} - Latest Arrival/Departure", vf_url, ship_hist[:1])
+                if PRETTY_XML: latest_xml = _pretty_xml(latest_xml)
                 with open(os.path.join(DOCS_DIR, f"{slug}-latest.xml"), "w", encoding="utf-8") as f:
                     f.write(latest_xml)
             except Exception as e:
@@ -662,6 +825,7 @@ def main():
 
     try:
         all_xml = build_rss("DCL Ships - Arrivals & Departures (All)", "https://github.com/", all_hist)
+        if PRETTY_XML: all_xml = _pretty_xml(all_xml)
         with open(os.path.join(DOCS_DIR, "all.xml"), "w", encoding="utf-8") as f:
             f.write(all_xml)
     except Exception as e:
@@ -692,6 +856,7 @@ def main():
     latest_all = list(latest_by_slug.values())
     try:
         latest_all_xml = build_rss("DCL Ships - Latest (One per Ship)", "https://github.com/", latest_all)
+        if PRETTY_XML: latest_all_xml = _pretty_xml(latest_all_xml)
         with open(os.path.join(DOCS_DIR, "latest-all.xml"), "w", encoding="utf-8") as f:
             f.write(latest_all_xml)
     except Exception as e:
