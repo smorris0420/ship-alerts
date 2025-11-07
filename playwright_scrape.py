@@ -38,6 +38,12 @@ SPECIAL_GEOFENCES = {
         "aliases": ["lighthouse point", "lookout cay", "lighthouse pt"],
         "center": (24.8350, -76.2800),
         "radius_km": 5.0
+    },
+    # NEW: Port Canaveral geofence (covers CT8/CT10 berths and channel approach)
+    "Port Canaveral, Florida": {
+        "aliases": ["port canaveral", "cape canaveral", "canaveral"],
+        "center": (28.4105, -80.6190),
+        "radius_km": 6.0
     }
 }
 
@@ -559,6 +565,7 @@ def _find_root(soup: BeautifulSoup):
                 return node
     return None
 
+# UPDATED: emit "pending" items when label is present but time cell blank
 def _parse_vf(html: str):
     soup = BeautifulSoup(html, "html.parser")
     root = _find_root(soup)
@@ -570,38 +577,60 @@ def _parse_vf(html: str):
         txt = (block.get_text(" ", strip=True) or "").lower()
         return ("arrival (utc)" in txt) or ("departure (utc)" in txt)
 
+    def value_after(matched: Tag, label_substr: str):
+        """
+        Returns:
+          None -> label not present
+          ""   -> label present but time blank
+          "..."-> the time value string
+        """
+        lab = matched.find(string=lambda s: isinstance(s, str) and label_substr in s.lower())
+        if not lab:
+            return None
+        try:
+            lab_div = lab.parent if isinstance(lab.parent, Tag) else None
+            if lab_div:
+                nxt = lab_div.find_next_sibling()
+                hops = 0
+                while nxt and hops < 6 and (not isinstance(nxt, Tag) or nxt.get_text(strip=True) == ""):
+                    nxt = nxt.next_sibling; hops += 1
+                if isinstance(nxt, Tag):
+                    val = nxt.get_text(strip=True)
+                    return val if val else ""
+        except Exception:
+            pass
+        return ""  # label exists but we couldn't extract a value (treat as blank)
+
     blocks = [c for c in root.find_all(recursive=False) if isinstance(c, Tag)]
     for block in blocks:
         candidates = [block] + [c for c in block.find_all(recursive=False) if isinstance(c, Tag)]
         matched = next((c for c in candidates if block_has_labels(c)), None)
         if not matched:
             continue
+
         a = matched.find("a")
         port_name = a.get_text(strip=True) if a else "Unknown Port"
         port_link = a["href"] if (a and a.has_attr("href")) else ""
-        def value_after(label_substr: str) -> str:
-            lab = matched.find(string=lambda s: isinstance(s, str) and label_substr in s.lower())
-            if not lab: return ""
-            try:
-                lab_div = lab.parent if isinstance(lab.parent, Tag) else None
-                if lab_div:
-                    nxt = lab_div.find_next_sibling()
-                    hops = 0
-                    while nxt and hops < 6 and (not isinstance(nxt, Tag) or nxt.get_text(strip=True) == ""):
-                        nxt = nxt.next_sibling; hops += 1
-                    if isinstance(nxt, Tag):
-                        return nxt.get_text(strip=True)
-            except Exception:
-                pass
-            return ""
-        arr = value_after("arrival (utc)")
-        dep = value_after("departure (utc)")
-        if arr:
-            results.append({"event":"Arrived","port":port_name,"when_raw":arr,"link":port_link,
-                            "detail":f"{port_name} Arrival (UTC) {arr}"})
-        if dep:
-            results.append({"event":"Departed","port":port_name,"when_raw":dep,"link":port_link,
-                            "detail":f"{port_name} Departure (UTC) {dep}"})
+
+        arr_val = value_after(matched, "arrival (utc)")
+        dep_val = value_after(matched, "departure (utc)")
+
+        if arr_val is not None:
+            if arr_val:
+                results.append({"event":"Arrived","port":port_name,"when_raw":arr_val,"link":port_link,
+                                "detail":f"{port_name} Arrival (UTC) {arr_val}"})
+            else:
+                results.append({"event":"Arrived","port":port_name,"when_raw":"","link":port_link,
+                                "detail":f"{port_name} Arrival (UTC) (time not yet posted)"})
+
+        if dep_val is not None:
+            if dep_val:
+                results.append({"event":"Departed","port":port_name,"when_raw":dep_val,"link":port_link,
+                                "detail":f"{port_name} Departure (UTC) {dep_val}"})
+            else:
+                results.append({"event":"Departed","port":port_name,"when_raw":"","link":port_link,
+                                "detail":f"{port_name} Departure (UTC) (time not yet posted)"})
+
     return results
 
 def _rendered_html(url: str, p, mobile: bool):
@@ -767,7 +796,7 @@ def main():
 
     all_items_new = []
 
-    # Write stylesheet once (idempotent)
+    # Write stylesheet each run (kept simple + deterministic)
     _ensure_stylesheet_dcl()
 
     with sync_playwright() as p:
