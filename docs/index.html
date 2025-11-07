@@ -1,34 +1,145 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>DCL Ship Alerts Feeds</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <style>body{font-family:Arial,sans-serif;padding:24px}a{display:block;margin:8px 0}</style>
-</head>
-<body>
-  <h1>DCL Ship Alerts – RSS Feeds</h1>
-  <p>Subscribe to these in Power Automate or any RSS reader.</p>
-  <a href="all.xml">All Ships (combined)</a>
-  <a href="disney-magic.xml">Disney Magic</a>
-  <a href="disney-wonder.xml">Disney Wonder</a>
-  <a href="disney-dream.xml">Disney Dream</a>
-  <a href="disney-fantasy.xml">Disney Fantasy</a>
-  <a href="disney-wish.xml">Disney Wish</a>
-  <a href="disney-treasure.xml">Disney Treasure</a>
-  <a href="disney-destiny.xml">Disney Destiny</a>
-  <a href="disney-adventure.xml">Disney Adventure</a>
-  
-  <p>Below feeds only report the latest RSS receieved (No History).</p>
-  <a href="latest-all.xml">All Ships (Combined & Latest)</a>
-  <a href="disney-magic-latest.xml">Disney Magic - Latest RSS Only</a> 
-  <a href="disney-wonder-latest.xml">Disney Wonder - Latest RSS Only</a> 
-  <a href="disney-dream-latest.xml">Disney Dream - Latest RSS Only</a> 
-  <a href="disney-fantasy-latest.xml">Disney Fantasy - Latest RSS Only</a> 
-  <a href="disney-wish-latest.xml">Disney Wish - Latest RSS Only</a> 
-  <a href="disney-treasure-latest.xml">Disney Treasure - Latest RSS Only</a> 
-  <a href="disney-destiny-latest.xml">Disney Destiny - Latest RSS Only</a>  
-  <a href="disney-adventure-latest.xml">Disney Adventure - Latest RSS Only</a> 
-  
-</body>
-</html>
+<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
+  <xsl:output method="html" indent="yes"/>
+
+  <!-- Helpers to extract values across different index shapes -->
+  <xsl:variable name="rootName" select="name(/*)"/>
+
+  <!-- Row iteration: supports feeds/feed, index/item, urlset/url -->
+  <xsl:template name="rows">
+    <xsl:choose>
+      <xsl:when test="/feeds/feed"><xsl:for-each select="/feeds/feed"><xsl:call-template name="row"/></xsl:for-each></xsl:when>
+      <xsl:when test="/index/item"><xsl:for-each select="/index/item"><xsl:call-template name="row"/></xsl:for-each></xsl:when>
+      <xsl:when test="/urlset/url"><xsl:for-each select="/urlset/url"><xsl:call-template name="row"/></xsl:for-each></xsl:when>
+      <!-- Generic fallback: any element with a link-ish child -->
+      <xsl:otherwise>
+        <xsl:for-each select="//*[loc or link or @href]"><xsl:call-template name="row"/></xsl:for-each>
+      </xsl:otherwise>
+    </xsl:choose>
+  </xsl:template>
+
+  <!-- Per-row renderer -->
+  <xsl:template name="row">
+    <tr>
+      <td class="title" data-label="Link">
+        <a>
+          <xsl:attribute name="href">
+            <xsl:choose>
+              <xsl:when test="string(@href)"><xsl:value-of select="@href"/></xsl:when>
+              <xsl:when test="string(link)"><xsl:value-of select="link"/></xsl:when>
+              <xsl:when test="string(loc)"><xsl:value-of select="loc"/></xsl:when>
+              <xsl:otherwise>#</xsl:otherwise>
+            </xsl:choose>
+          </xsl:attribute>
+          <xsl:choose>
+            <xsl:when test="string(@title)"><xsl:value-of select="@title"/></xsl:when>
+            <xsl:when test="string(title)"><xsl:value-of select="title"/></xsl:when>
+            <xsl:otherwise>
+              <xsl:choose>
+                <xsl:when test="string(@href)"><xsl:value-of select="@href"/></xsl:when>
+                <xsl:when test="string(link)"><xsl:value-of select="link"/></xsl:when>
+                <xsl:when test="string(loc)"><xsl:value-of select="loc"/></xsl:when>
+                <xsl:otherwise>Feed</xsl:otherwise>
+              </xsl:choose>
+            </xsl:otherwise>
+          </xsl:choose>
+        </a>
+      </td>
+      <td class="muted" data-label="Updated">
+        <xsl:choose>
+          <xsl:when test="string(@updated)"><xsl:value-of select="@updated"/></xsl:when>
+          <xsl:when test="string(updated)"><xsl:value-of select="updated"/></xsl:when>
+          <xsl:when test="string(lastmod)"><xsl:value-of select="lastmod"/></xsl:when>
+          <xsl:otherwise>—</xsl:otherwise>
+        </xsl:choose>
+      </td>
+      <td class="muted" data-label="Notes">
+        <xsl:choose>
+          <xsl:when test="string(@note)"><xsl:value-of select="@note"/></xsl:when>
+          <xsl:when test="string(description)"><xsl:value-of select="description"/></xsl:when>
+          <xsl:otherwise/>
+        </xsl:choose>
+      </td>
+    </tr>
+  </xsl:template>
+
+  <!-- PAGE TEMPLATE -->
+  <xsl:template match="/">
+    <html>
+      <head>
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <title>
+          <xsl:choose>
+            <xsl:when test="string(/index/title)"><xsl:value-of select="/index/title"/></xsl:when>
+            <xsl:otherwise>DCL Ship Feeds Index</xsl:otherwise>
+          </xsl:choose>
+        </title>
+        <style>
+          :root{
+            --dcl-navy:#16578A;
+            --dcl-gold:#C9A227;
+            --ink:#1b1b1b;
+            --muted:#6b6f76;
+            --bg:#16578A;   /* blue page */
+            --card:#ffffff; /* white cards */
+            --line:#e9edf2;
+          }
+          *{box-sizing:border-box}
+          body{margin:0;background:var(--bg);color:var(--ink);
+               font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,Helvetica,sans-serif;}
+
+          /* White header bar */
+          .bar{background:#fff;color:var(--dcl-navy);padding:14px 18px;border-bottom:4px solid var(--dcl-gold);}
+          .brand{display:flex;flex-direction:column;align-items:center;text-align:center;gap:6px;max-width:1100px;margin:0 auto;}
+          .logo-img{width:48px;height:auto;display:block;margin:0 auto;}
+          .brand h1{margin:0;font-size:18px;line-height:1.2;font-weight:700;color:var(--dcl-navy);}
+
+          .wrap{max-width:1100px;margin:18px auto;padding:0 16px}
+          .card{background:var(--card);border-radius:10px;box-shadow:0 6px 18px rgba(0,0,0,.10);border:1px solid var(--line)}
+          .meta{padding:14px 16px;border-bottom:1px solid var(--line);color:var(--muted);font-size:12px}
+
+          table{width:100%;border-collapse:collapse;font-size:14px;background:#fff}
+          thead th{position:sticky;top:0;background:#fbfdff;z-index:1;text-align:left;padding:12px 14px;border-bottom:2px solid var(--line);color:#133c5e;font-weight:700}
+          tbody td{padding:12px 14px;border-bottom:1px solid var(--line);vertical-align:top}
+          tbody tr:hover{background:#fbfdff}
+          .title a{color:var(--dcl-navy);text-decoration:none;font-weight:700}
+          .title a:hover{text-decoration:underline}
+          .muted{color:var(--muted)}
+          @media (max-width:760px){
+            thead{display:none}
+            tbody tr{display:block;border-bottom:8px solid #f0f4f8}
+            tbody td{display:block;border:0;padding:8px 14px}
+            tbody td::before{content:attr(data-label) " ";font-weight:600;color:var(--muted);display:block;margin-bottom:2px}
+            .brand{gap:8px}
+          }
+        </style>
+      </head>
+      <body>
+        <div class="bar">
+          <div class="brand">
+            <img src="DCLDailySummary.png" alt="DCL Logo" class="logo-img"/>
+            <h1>
+              <xsl:choose>
+                <xsl:when test="string(/index/title)"><xsl:value-of select="/index/title"/></xsl:when>
+                <xsl:otherwise>Disney Cruise Line — Ship Feeds</xsl:otherwise>
+              </xsl:choose>
+            </h1>
+          </div>
+        </div>
+
+        <div class="wrap">
+          <div class="card">
+            <div class="meta">
+              <strong>Index Type:</strong>&#160;<xsl:value-of select="$rootName"/>
+            </div>
+            <table role="table" aria-label="Index">
+              <thead><tr><th>Link</th><th>Updated</th><th>Notes</th></tr></thead>
+              <tbody><xsl:call-template name="rows"/></tbody>
+            </table>
+          </div>
+        </div>
+      </body>
+    </html>
+  </xsl:template>
+</xsl:stylesheet>
