@@ -319,6 +319,23 @@ def _canonical_guid(slug: str, verb: str, port: str, event_iso: str) -> str:
     key = f"canon|{slug}|{verb.lower()}|{_normalize_port_name(port)}|{dt.isoformat()}"
     return make_id(key)
 
+# ---- Helpers to detect TBA and verb (used in history purge and latest-all logic)
+
+def _is_tba(it: dict) -> bool:
+    """Detect 'time TBA/not yet posted' items (works for older history too)."""
+    t = (it.get("title", "") or "").lower()
+    d = (it.get("description", "") or "").lower()
+    return ("time tba" in t) or ("time tbd" in t) or ("time not yet posted" in d)
+
+def _verb_of(it: dict) -> str:
+    """Infer event verb from title text."""
+    t = it.get("title", "") or ""
+    if " Arrived " in t or " Arrived at " in t:
+        return "Arrived"
+    if " Departed " in t or " Departed from " in t:
+        return "Departed"
+    return ""
+
 # ---- XML output formatting knobs + helpers ----
 PRETTY_XML = True
 USE_CDATA  = True
@@ -722,7 +739,7 @@ def haversine_km(a, b):
     R = 6371.0
     lat1, lon1 = math.radians(a[0]), math.radians(a[1])
     lat2, lon2 = math.radians(b[0]), math.radians(b[1])
-    dlat = lat2 - lat1; dlon = lon2 - lon1
+    dlat = lat2 - lat1; dlon = dlon = lon2 - lon1
     h = math.sin(dlat/2)**2 + math.cos(lat1)*math.cos(lat2)*math.sin(dlon/2)**2
     return 2*R*math.asin(math.sqrt(h))
 
@@ -1082,11 +1099,14 @@ def main():
             save_history(slug, ship_hist)
 
             # DEBUG metrics
-            print(f"[debug] {name} new_items: ship_page={len([i for i in ship_items_new if i.get('source')=='vf_ship'])} "
-                  f"port_fallback={len([i for i in ship_items_new if i.get('source')=='vf_port'])} "
-                  f"geo={len([i for i in ship_items_new if i.get('source')=='geo'])} "
-                  f"total_added_this_run={len(ship_items_new)} "
-                  f"hist_after_merge={len(ship_hist)}")
+            print(
+                f"[debug] {name} new_items: "
+                f"ship_page={len([i for i in ship_items_new if i.get('source')=='vf_ship'])} "
+                f"port_fallback={len([i for i in ship_items_new if i.get('source')=='vf_port'])} "
+                f"geo={len([i for i in ship_items_new if i.get('source')=='geo'])} "
+                f"total_added_this_run={len(ship_items_new)} "
+                f"hist_after_merge={len(ship_hist)}"
+            )
 
             # Write per-ship feeds (pretty + XSL PI)
             try:
@@ -1105,6 +1125,12 @@ def main():
     # ---- COMBINED HISTORY (sorted by event time) ----
     all_hist = load_history("all")
     all_hist = merge_items(all_hist, all_items_new, ALL_CAP)
+
+    # Purge legacy TBA Departed items so they never override arrivals in "latest-all"
+    PURGE_TBA_DEPARTED = True
+    if PURGE_TBA_DEPARTED:
+        all_hist = [it for it in all_hist if not (_verb_of(it) == "Departed" and _is_tba(it))]
+
     save_history("all", all_hist)
 
     try:
@@ -1115,7 +1141,7 @@ def main():
     except Exception as e:
         print(f"[error] Writing all.xml failed: {e}", file=sys.stderr)
 
-    # ---- Latest one per ship (use shipSlug) ----
+    # ---- Latest one per ship (use shipSlug), prefer ARRIVED (non-TBA) ----
     def _infer_slug_from_title(title: str) -> str:
         for nm, sl in slug_by_name.items():
             if title.startswith(nm):
@@ -1129,13 +1155,31 @@ def main():
                 return sl
         return base.strip()
 
+    # Work from newest to oldest (all_hist already DESC by eventUtc)
+    preferred_arrival = {}
+    fallback_any = {}
+
+    for it in all_hist:
+        slug = it.get("shipSlug") or _infer_slug_from_title(it.get("title",""))
+        if not slug:
+            continue
+        if _is_tba(it):
+            # Never consider TBA items for latest-all
+            continue
+
+        verb = _verb_of(it)
+        if verb == "Arrived" and slug not in preferred_arrival:
+            preferred_arrival[slug] = it
+            continue
+
+        if slug not in fallback_any:
+            fallback_any[slug] = it
+
     latest_by_slug = {}
-    for it in all_hist:  # already sorted DESC by eventUtc
-        key = it.get("shipSlug")
-        if not key:
-            key = _infer_slug_from_title(it.get("title",""))
-        if key and key not in latest_by_slug:
-            latest_by_slug[key] = it
+    for slug, it in fallback_any.items():
+        latest_by_slug[slug] = it
+    for slug, it in preferred_arrival.items():
+        latest_by_slug[slug] = it
 
     latest_all = list(latest_by_slug.values())
     try:
