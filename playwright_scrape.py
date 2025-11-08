@@ -1141,7 +1141,7 @@ def main():
     except Exception as e:
         print(f"[error] Writing all.xml failed: {e}", file=sys.stderr)
 
-    # ---- Latest one per ship (use shipSlug), prefer ARRIVED (non-TBA) ----
+    # ---- Latest one per ship (use shipSlug), pick newest non-TBA event (arrival OR departure) ----
     def _infer_slug_from_title(title: str) -> str:
         for nm, sl in slug_by_name.items():
             if title.startswith(nm):
@@ -1155,31 +1155,17 @@ def main():
                 return sl
         return base.strip()
 
-    # Work from newest to oldest (all_hist already DESC by eventUtc)
-    preferred_arrival = {}
-    fallback_any = {}
-
+    # all_hist is already sorted DESC by eventUtc
+    latest_by_slug = {}
     for it in all_hist:
+        if _is_tba(it):
+            continue  # never surface TBA entries in latest-all
         slug = it.get("shipSlug") or _infer_slug_from_title(it.get("title",""))
         if not slug:
             continue
-        if _is_tba(it):
-            # Never consider TBA items for latest-all
-            continue
-
-        verb = _verb_of(it)
-        if verb == "Arrived" and slug not in preferred_arrival:
-            preferred_arrival[slug] = it
-            continue
-
-        if slug not in fallback_any:
-            fallback_any[slug] = it
-
-    latest_by_slug = {}
-    for slug, it in fallback_any.items():
-        latest_by_slug[slug] = it
-    for slug, it in preferred_arrival.items():
-        latest_by_slug[slug] = it
+        # first time we see a slug in DESC order is the newest real event (Arrived OR Departed)
+        if slug not in latest_by_slug:
+            latest_by_slug[slug] = it
 
     latest_all = list(latest_by_slug.values())
     try:
@@ -1191,7 +1177,7 @@ def main():
         print(f"[error] Writing latest-all.xml failed: {e}", file=sys.stderr)
 
     save_json(STATE_PATH, state)
-
+    
 if __name__ == "__main__":
     try:
         main()
