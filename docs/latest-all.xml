@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rss-dcl.xsl"?>
+<rss version="2.0">
+  <channel>
+    <title>DCL Ships - Latest (One per Ship)</title>
+    <link>https://github.com/</link>
+    <description>DCL Ships - Latest (One per Ship) - Auto-generated</description>
+    <lastBuildDate>Sat, 08 Nov 2025 13:27:21 GMT</lastBuildDate>
+    <item>
+      <title>Disney Wonder Departed from Melbourne, Australia at Nov 06, 10:57 AM EST. The local time to the port is Nov 07, 02:57 AM AEDT</title>
+      <link>https://www.vesselfinder.com/ports/AUMEL001</link>
+      <guid isPermaLink="false">258c55773e46d8a8681fc1d9bd760a9336de9975</guid>
+      <pubDate>Sat, 08 Nov 2025 13:26:36 GMT</pubDate>
+      <description><![CDATA[Melbourne, Australia Departure (UTC) Nov 6, 15:57 — ET: Nov 06, 10:57 AM EST | Local: Nov 07, 02:57 AM AEDT]]></description>
+    </item>
+    <item>
+      <title>Disney Magic Departed from St Johns, Antigua &amp; Barbuda at Nov 05, 05:12 PM EST. The local time to the port is Nov 05, 06:12 PM AST</title>
+      <link>https://www.vesselfinder.com/ports/AGSJO001</link>
+      <guid isPermaLink="false">d23acf668b48f5973cf5be2d3612a383b691c6aa</guid>
+      <pubDate>Sat, 08 Nov 2025 13:26:11 GMT</pubDate>
+      <description><![CDATA[St Johns, Antigua & Barbuda Departure (UTC) Nov 5, 22:12 — ET: Nov 05, 05:12 PM EST | Local: Nov 05, 06:12 PM AST]]></description>
+    </item>
+    <item>
+      <title>Disney Adventure Departed from Bremerhaven, Germany at Sep 10, 07:10 PM EDT. The local time to the port is Sep 11, 01:10 AM CEST</title>
+      <link>https://www.vesselfinder.com/ports/DEBRV001</link>
+      <guid isPermaLink="false">6897de159669bba9999f9a0fe7aceedcd47b304b</guid>
+      <pubDate>Sat, 08 Nov 2025 13:26:58 GMT</pubDate>
+      <description><![CDATA[Bremerhaven, Germany Departure (UTC) Sep 10, 23:10 — ET: Sep 10, 07:10 PM EDT | Local: Sep 11, 01:10 AM CEST]]></description>
+    </item>
+  </channel>
+</rss>
