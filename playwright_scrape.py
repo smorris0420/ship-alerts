@@ -1,20 +1,21 @@
 #!/usr/bin/env python3
 # Hybrid scraper:
-# - VesselFinder ship page "Recent Port Calls" (JS-rendered via Playwright)
-# - Fallback: selected VesselFinder PORT pages (Arrivals/Departures) by ship name
+# - VesselFinder "Recent Port Calls" (JS-rendered via Playwright)
 # - PLUS geofencing for private islands using live coordinates parsed from CruiseMapper
+# - PLUS port-page fallback when ship pages are stale (tries last port from ship page
+#   and any optional 'home_ports' links from ships.json; checks both Arrivals/Departures tabs)
 #
 # Requirements:
 #   pip install playwright beautifulsoup4
 #   python -m playwright install --with-deps chromium
 
 import os, json, hashlib, sys, math, traceback, re
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 try:
     from zoneinfo import ZoneInfo
 except Exception:
-    ZoneInfo = None  # graceful fallback below
-from urllib.parse import urljoin, urlparse, urlunparse
+    ZoneInfo = None
+from urllib.parse import urljoin, urlparse, urlunparse, parse_qs, urlencode
 from playwright.sync_api import sync_playwright, TimeoutError as PWTimeout
 from bs4 import BeautifulSoup, Tag, NavigableString
 
@@ -40,6 +41,7 @@ SPECIAL_GEOFENCES = {
         "center": (24.8350, -76.2800),
         "radius_km": 5.0
     },
+    # CT8/CT10 and approach
     "Port Canaveral, Florida": {
         "aliases": ["port canaveral", "cape canaveral", "canaveral"],
         "center": (28.4105, -80.6190),
@@ -52,7 +54,6 @@ PORT_TZ_MAP = [
     ("canaveral", "America/New_York"),
     ("everglades", "America/New_York"),
     ("fort lauderdale", "America/New_York"),
-    ("san juan", "America/Puerto_Rico"),
     ("castaway", "America/Nassau"),
     ("gorda cay", "America/Nassau"),
     ("lookout cay", "America/Nassau"),
@@ -61,6 +62,7 @@ PORT_TZ_MAP = [
     ("cozumel", "America/Cancun"),
     ("progreso", "America/Merida"),
     ("galveston", "America/Chicago"),
+    ("san juan", "America/Puerto_Rico"),
     ("tortola", "America/Tortola"),
     ("st. maarten", "America/Lower_Princes"),
     ("st maarten", "America/Lower_Princes"),
@@ -183,22 +185,6 @@ TZ_BY_PORT_PREFIX = {
     "CO": "America/Bogota",
 }
 
-# ---- Selected port pages for fallback (Arrivals/Departures tabs)
-# Key = lowercase substring(s) to match from ship-page port names; value = port page base URL
-PORT_FALLBACK_PAGES = {
-    # Cape/Port Canaveral
-    "canaveral": "https://www.vesselfinder.com/ports/CAPE-CANAVERAL-PORT-CANAVERAL-?tab=departures",
-    "cape canaveral": "https://www.vesselfinder.com/ports/CAPE-CANAVERAL-PORT-CANAVERAL-?tab=departures",
-    "port canaveral": "https://www.vesselfinder.com/ports/CAPE-CANAVERAL-PORT-CANAVERAL-?tab=departures",
-
-    # Port Everglades (Fort Lauderdale)
-    "everglades": "https://www.vesselfinder.com/ports/PORT-EVERGLADES-?tab=departures",
-    "fort lauderdale": "https://www.vesselfinder.com/ports/PORT-EVERGLADES-?tab=departures",
-
-    # San Juan
-    "san juan": "https://www.vesselfinder.com/ports/SAN-JUAN-?tab=departures",
-}
-
 # ---------- Utilities ----------
 
 def zinfo(tz_name: str):
@@ -274,6 +260,29 @@ def to_rfc2822(dt: datetime) -> str:
 def make_id(s: str) -> str:
     return hashlib.sha1((s or "").encode("utf-8")).hexdigest()
 
+# ---- Canonical de-dupe (Option C)
+
+def _normalize_port_name(name: str) -> str:
+    s = (name or "").lower()
+    s = re.sub(r"[^a-z0-9]+", " ", s).strip()
+    # light normalization
+    s = s.replace("cape canaveral", "port canaveral")
+    s = s.replace("ft lauderdale", "fort lauderdale")
+    return re.sub(r"\s+", " ", s)
+
+def _canonical_guid(slug: str, verb: str, port: str, event_iso: str) -> str:
+    """
+    Canonical ID by ship + verb + normalized port + UTC minute.
+    Prevents duplicate notifications when a stale ship-page later updates.
+    """
+    try:
+        dt = datetime.fromisoformat(event_iso)
+    except Exception:
+        dt = datetime.utcnow().replace(tzinfo=timezone.utc)
+    dt = dt.astimezone(timezone.utc).replace(second=0, microsecond=0)
+    key = f"canon|{slug}|{verb.lower()}|{_normalize_port_name(port)}|{dt.isoformat()}"
+    return make_id(key)
+
 # ---- XML output formatting knobs + helpers ----
 PRETTY_XML = True
 USE_CDATA  = True
@@ -321,26 +330,30 @@ def _ensure_stylesheet_dcl():
             --pill:#eef4fb;
           }
           *{box-sizing:border-box}
-          body{ margin:0; background:var(--bg); color:var(--ink);
-                font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,Helvetica,sans-serif; }
-          .bar{ background:#ffffff; color:var(--dcl-navy); padding:14px 18px; border-bottom:4px solid var(--dcl-gold);}
-          .brand{ display:flex; flex-direction:column; align-items:center; text-align:center; gap:6px; max-width:1100px; margin:0 auto;}
-          .logo-img{ width:325px; height:auto; display:block; margin:0 auto;}
-          .brand h1{ margin:0; font-size:18px; line-height:1.2; font-weight:700; color:var(--dcl-navy); }
+          body{
+            margin:0;
+            background:var(--bg);
+            color:var(--ink);
+            font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,Helvetica,sans-serif;
+          }
+          .bar{background:#ffffff;color:var(--dcl-navy);padding:14px 18px;border-bottom:4px solid var(--dcl-gold);}
+          .brand{display:flex;flex-direction:column;align-items:center;text-align:center;gap:6px;max-width:1100px;margin:0 auto;}
+          .logo-img{width:325px;height:auto;display:block;margin:0 auto;}
+          .brand h1{margin:0;font-size:18px;line-height:1.2;font-weight:700;color:var(--dcl-navy);}
           .wrap{max-width:1100px;margin:18px auto;padding:0 16px}
-          .card{ background:var(--card); border-radius:10px; box-shadow:0 6px 18px rgba(0,0,0,.10); border:1px solid var(--line); }
-          .meta{ padding:14px 16px; display:flex; flex-wrap:wrap; gap:12px; align-items:center; border-bottom:1px solid var(--line); color:var(--muted); font-size:12px; }
-          .meta a{color:var(--dcl-navy); text-decoration:underline}
-          .chip{ background:var(--pill); color:var(--dcl-navy); border:1px solid #d7e5f6; padding:4px 8px; border-radius:999px; font-size:12px; font-weight:600;}
+          .card{background:var(--card);border-radius:10px;box-shadow:0 6px 18px rgba(0,0,0,.10);border:1px solid var(--line);}
+          .meta{padding:14px 16px;display:flex;flex-wrap:wrap;gap:12px;align-items:center;border-bottom:1px solid var(--line);color:var(--muted);font-size:12px;}
+          .meta a{color:var(--dcl-navy);text-decoration:underline}
+          .chip{background:var(--pill);color:var(--dcl-navy);border:1px solid #d7e5f6;padding:4px 8px;border-radius:999px;font-size:12px;font-weight:600;}
           table{width:100%;border-collapse:collapse;font-size:14px;background:#fff}
-          thead th{ position:sticky; top:0; background:#fbfdff; z-index:1; text-align:left; padding:12px 14px; border-bottom:2px solid var(--line); color:#133c5e; font-weight:700;}
-          tbody td{ padding:12px 14px; border-bottom:1px solid var(--line); vertical-align:top;}
+          thead th{position:sticky;top:0;background:#fbfdff;z-index:1;text-align:left;padding:12px 14px;border-bottom:2px solid var(--line);color:#133c5e;font-weight:700;}
+          tbody td{padding:12px 14px;border-bottom:1px solid var(--line);vertical-align:top;}
           tbody tr:hover{background:#fbfdff}
           .title a{color:var(--dcl-navy);text-decoration:none;font-weight:700}
           .title a:hover{text-decoration:underline}
           .guid{font-family:ui-monospace,Menlo,Consolas,monospace;color:var(--muted);font-size:12px}
           .desc{white-space:pre-wrap}
-          .badge{ display:inline-block; padding:3px 8px; border-radius:6px; font-weight:700; font-size:12px; border:1px solid transparent; margin-right:8px;}
+          .badge{display:inline-block;padding:3px 8px;border-radius:6px;font-weight:700;font-size:12px;border:1px solid transparent;margin-right:8px;}
           .arr{background:#e8f6ee;color:#11643a;border-color:#cfead9}
           .dep{background:#fff0f0;color:#8a1620;border-color:#ffd9de}
           @media (max-width:760px){
@@ -359,7 +372,6 @@ def _ensure_stylesheet_dcl():
             <h1><xsl:value-of select="rss/channel/title"/></h1>
           </div>
         </div>
-
         <div class="wrap">
           <div class="card">
             <div class="meta">
@@ -367,11 +379,8 @@ def _ensure_stylesheet_dcl():
               <span><strong>Feed link:</strong> <a href="{rss/channel/link}"><xsl:value-of select="rss/channel/link"/></a></span>
               <span><strong>Last Build:</strong> <xsl:value-of select="rss/channel/lastBuildDate"/></span>
             </div>
-
             <table role="table" aria-label="Items">
-              <thead>
-                <tr><th>Title</th><th>Published</th><th>Description</th></tr>
-              </thead>
+              <thead><tr><th>Title</th><th>Published</th><th>Description</th></tr></thead>
               <tbody>
                 <xsl:for-each select="rss/channel/item">
                   <tr>
@@ -393,9 +402,7 @@ def _ensure_stylesheet_dcl():
                       <span class="guid"><xsl:value-of select="guid"/></span>
                     </td>
                     <td data-label="Published"><xsl:value-of select="pubDate"/></td>
-                    <td class="desc" data-label="Description">
-                      <xsl:value-of select="description" disable-output-escaping="yes"/>
-                    </td>
+                    <td class="desc" data-label="Description"><xsl:value-of select="description" disable-output-escaping="yes"/></td>
                   </tr>
                 </xsl:for-each>
               </tbody>
@@ -454,7 +461,6 @@ def build_rss(channel_title: str, channel_link: str, items: list, stylesheet=Non
 # ---------- Time handling ----------
 
 def _parse_vf_time_utc(raw_time: str):
-    """Ship-page times are labeled *(UTC)*; parse as UTC with current year."""
     if not raw_time:
         return None
     raw = raw_time.strip()
@@ -501,7 +507,7 @@ def format_times_for_notification(port_name: str, port_link: str, when_raw: str)
 
     return est_str, local_str, dt_utc.isoformat()
 
-# ---------- Finding the ship-page port-calls ----------
+# ---------- VesselFinder ship-page scraping ----------
 
 def _find_root(soup: BeautifulSoup):
     for tag in soup.find_all(lambda t: isinstance(t, Tag) and t.name in ("h1","h2","h3","h4","div")):
@@ -513,19 +519,24 @@ def _find_root(soup: BeautifulSoup):
                 nxt = nxt.next_sibling; hops += 1
             if isinstance(nxt, Tag):
                 return nxt
-    lab = soup.find(string=lambda s: isinstance(s, str) and "arrival (utc)" in s.lower())
+    lab = soup.find(string=lambda s: isinstance(s, str) and ("arrival (utc)" in s.lower() or "ata (utc)" in s.lower()))
     if lab:
         node = lab
         for _ in range(6):
             node = node.parent
             if not isinstance(node, Tag): break
-            labels = node.find_all(string=lambda s: isinstance(s, str) and "arrival (utc)" in s.lower())
+            labels = node.find_all(string=lambda s: isinstance(s, str) and ("arrival (utc)" in s.lower() or "ata (utc)" in s.lower()))
             if len(labels) >= 2:
                 return node
     return None
 
 def _parse_vf(html: str):
-    """Ship-page parser; emits items even when time is blank (pending)."""
+    """
+    Ship-page parser:
+      - supports 'Arrival (UTC)' / 'Departure (UTC)'
+      - also supports 'ATA (UTC)' / 'ATD (UTC)' variants
+      - emits items even when the time cell is blank (pending) with when_raw=""
+    """
     soup = BeautifulSoup(html, "html.parser")
     root = _find_root(soup)
     results = []
@@ -534,14 +545,17 @@ def _parse_vf(html: str):
 
     def block_has_labels(block: Tag) -> bool:
         txt = (block.get_text(" ", strip=True) or "").lower()
-        return ("arrival (utc)" in txt) or ("departure (utc)" in txt)
+        return any(k in txt for k in ("arrival (utc)", "departure (utc)", "ata (utc)", "atd (utc)"))
 
-    def value_after(matched: Tag, label_substr: str):
-        lab = matched.find(string=lambda s: isinstance(s, str) and label_substr in s.lower())
-        if not lab:
+    def value_after_label(matched: Tag, label_keys):
+        lab_node = None
+        for key in label_keys:
+            lab_node = matched.find(string=lambda s: isinstance(s, str) and key in s.lower())
+            if lab_node: break
+        if not lab_node:
             return None
         try:
-            lab_div = lab.parent if isinstance(lab.parent, Tag) else None
+            lab_div = lab_node.parent if isinstance(lab_node.parent, Tag) else None
             if lab_div:
                 nxt = lab_div.find_next_sibling()
                 hops = 0
@@ -565,8 +579,8 @@ def _parse_vf(html: str):
         port_name = a.get_text(strip=True) if a else "Unknown Port"
         port_link = a["href"] if (a and a.has_attr("href")) else ""
 
-        arr_val = value_after(matched, "arrival (utc)")
-        dep_val = value_after(matched, "departure (utc)")
+        arr_val = value_after_label(matched, ["arrival (utc)", "ata (utc)"])
+        dep_val = value_after_label(matched, ["departure (utc)", "atd (utc)"])
 
         if arr_val is not None:
             if arr_val:
@@ -575,6 +589,7 @@ def _parse_vf(html: str):
             else:
                 results.append({"event":"Arrived","port":port_name,"when_raw":"","link":port_link,
                                 "detail":f"{port_name} Arrival (UTC) (time not yet posted)"})
+
         if dep_val is not None:
             if dep_val:
                 results.append({"event":"Departed","port":port_name,"when_raw":dep_val,"link":port_link,
@@ -584,8 +599,6 @@ def _parse_vf(html: str):
                                 "detail":f"{port_name} Departure (UTC) (time not yet posted)"})
 
     return results
-
-# ---------- Render a page (desktop or mobile) ----------
 
 def _rendered_html(url: str, p, mobile: bool):
     ua = ("Mozilla/5.0 (Linux; Android 12; Pixel 5) AppleWebKit/537.36 "
@@ -626,115 +639,7 @@ def _vf_events_for_ship(p, ship):
         print(f"[warn] mobile VF render failed for {ship['name']}: {e}", file=sys.stderr)
     return [], base_url
 
-# ---------- Port page fallback ----------
-
-def _tz_for_portname(port_name: str):
-    return _port_zoneinfo_from_name(port_name) or zinfo_eastern()
-
-def _parse_port_table_for_ship(html: str, ship_name: str, port_name_hint: str):
-    """
-    Parse a VesselFinder PORT page (Arrivals/Departures). Rows are shown in *local time (LT)*.
-    Return list of dicts with event, port, when_raw_local, eventUtc, etc, for the given ship.
-    """
-    soup = BeautifulSoup(html, "html.parser")
-    results = []
-    ship_lower = (ship_name or "").strip().lower()
-
-    # Find table rows that include vessel cells
-    rows = soup.select("table tr")
-    if not rows:
-        # Mobile layout uses cards – fallback: search links containing the ship name
-        rows = soup.find_all("tr")  # still try
-
-    # Determine this port's display name from page header if possible
-    heading = soup.find(string=re.compile(r"Recent ship (arrivals|departures) from", re.I))
-    display_port = port_name_hint
-    if heading and heading.parent:
-        txt = heading.parent.get_text(" ", strip=True)
-        m = re.search(r"from\s+(.+)$", txt, re.I)
-        if m:
-            display_port = m.group(1).strip()
-
-    # Guess time zone from port string
-    tz = _tz_for_portname(display_port)
-    eastern = zinfo_eastern()
-
-    def _parse_local_to_utc(local_str: str):
-        # Examples from VF: "Nov 7, 18:26" (LT). We parse as naive in tz, then to UTC.
-        fmts = ["%b %d, %H:%M", "%b %d, %I:%M %p"]
-        for fmt in fmts:
-            try:
-                d = datetime.strptime(local_str.strip(), fmt)
-                d = d.replace(year=datetime.utcnow().year)
-                if tz:
-                    d = d.replace(tzinfo=tz)
-                    return d.astimezone(timezone.utc)
-            except Exception:
-                continue
-        return None
-
-    for tr in rows:
-        tds = tr.find_all("td")
-        if len(tds) < 2:
-            continue
-
-        # Try to identify columns by link text / headers
-        txtrow = tr.get_text(" ", strip=True).lower()
-        if ship_lower not in txtrow:
-            continue
-
-        # Determine event type by which tab we scraped (URL contains tab=departures/arrivals)
-        # Fallback: look for words in row
-        event = None
-        if "departures" in txtrow or "departure" in txtrow:
-            event = "Departed"
-        if "arrivals" in txtrow or "arrival" in txtrow:
-            event = "Arrived"
-        # If URL has ?tab=... we can infer outside; we'll pass it in when calling.
-
-        # Pull the LT timestamp from the first or second cell (VF varies)
-        local_match = re.search(r"(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s+\d{1,2},\s+\d{1,2}:\d{2}(?:\s?(?:AM|PM))?",
-                                tr.get_text(" ", strip=True), re.I)
-        if not local_match:
-            continue
-        local_str = local_match.group(0)
-        dt_utc = _parse_local_to_utc(local_str)
-        if not dt_utc:
-            continue
-
-        results.append({
-            "event": event or "Departed",  # default if uncertain (tab usually disambiguates)
-            "port": display_port,
-            "when_raw_local": local_str,
-            "eventUtc": dt_utc.isoformat(),
-            "tzLocal": tz.key if hasattr(tz, "key") else "local",
-        })
-    return results
-
-def _fetch_port_fallback_events(p, candidate_port_name: str, ship_name: str):
-    """Hit the port 'departures' page first; if needed you could also try 'arrivals' similarly."""
-    # Choose a fallback URL based on the port name substring
-    url = None
-    low = (candidate_port_name or "").lower()
-    for key, u in PORT_FALLBACK_PAGES.items():
-        if key in low:
-            url = u
-            break
-    if not url:
-        return []
-
-    html = _rendered_html(url, p, mobile=False)
-    rows = _parse_port_table_for_ship(html, ship_name, candidate_port_name)
-
-    # If nothing on departures, try arrivals page too
-    if not rows:
-        alt = re.sub(r"tab=departures", "tab=arrivals", url)
-        html = _rendered_html(alt, p, mobile=False)
-        rows = _parse_port_table_for_ship(html, ship_name, candidate_port_name)
-
-    return rows
-
-# ---------- Geofence (CruiseMapper) ----------
+# ---------- CruiseMapper coordinate scrape ----------
 
 COORD_RE = re.compile(
     r'([+-]?\d+(?:\.\d+)?)\s*[°]?\s*([NS])?\s*[,/ ]\s*([+-]?\d+(?:\.\d+)?)\s*[°]?\s*([EW])?',
@@ -767,7 +672,7 @@ def _cm_fetch_coords(p, cm_url: str):
     soup = BeautifulSoup(html, "html.parser")
     txt = soup.get_text(" ", strip=True)
     coords = _parse_coords(txt)
-    return coords
+    return coords  # (lat, lon) or None
 
 def haversine_km(a, b):
     R = 6371.0
@@ -804,7 +709,7 @@ def geofence_events_from_coords(ship_name: str, slug: str, coords, state_seen):
             if local_str:
                 title += f". The local time to the port is {local_str}"
             desc = f"{fence_name} Arrival (UTC) {now_utc.strftime('%b %d, %H:%M')} — Geofence"
-            guid = make_id(f"geo|{slug}|arr|{fence_name}|{now_utc.isoformat()}")
+            guid = _canonical_guid(slug, "Arrived", fence_name, event_iso or now_utc.isoformat())
             items.append({
                 "title": title,
                 "description": desc,
@@ -814,6 +719,7 @@ def geofence_events_from_coords(ship_name: str, slug: str, coords, state_seen):
                 "eventUtc": event_iso or now_utc.isoformat(),
                 "shipSlug": slug,
                 "shipName": ship_name,
+                "source": "geo"
             })
 
         elif (not inside) and prev:
@@ -823,7 +729,7 @@ def geofence_events_from_coords(ship_name: str, slug: str, coords, state_seen):
             if local_str:
                 title += f". The local time to the port is {local_str}"
             desc = f"{fence_name} Departure (UTC) {now_utc.strftime('%b %d, %H:%M')} — Geofence"
-            guid = make_id(f"geo|{slug}|dep|{fence_name}|{now_utc.isoformat()}")
+            guid = _canonical_guid(slug, "Departed", fence_name, event_iso or now_utc.isoformat())
             items.append({
                 "title": title,
                 "description": desc,
@@ -833,38 +739,113 @@ def geofence_events_from_coords(ship_name: str, slug: str, coords, state_seen):
                 "eventUtc": event_iso or now_utc.isoformat(),
                 "shipSlug": slug,
                 "shipName": ship_name,
+                "source": "geo"
             })
+
         geo_state[key] = inside
 
     return items
 
-# ---------- De-dup helpers ----------
+# ---------- Port-page fallback ----------
 
-def _has_similar_event(existing_list: list, event: str, port_name: str, event_iso: str, hours=12) -> bool:
+def _ensure_tab(url: str, tab: str) -> str:
+    """Return url with ?tab=arrivals/ departures set."""
+    parsed = urlparse(url)
+    qs = parse_qs(parsed.query)
+    qs["tab"] = [tab]
+    new_q = urlencode({k: v[0] if isinstance(v, list) else v for k, v in qs.items()})
+    return urlunparse(parsed._replace(query=new_q))
+
+def _parse_port_time_lt(raw_time: str, tz: ZoneInfo):
     """
-    True if existing_list already has same event type & same port (case-insensitive)
-    within +/- hours of event_iso. existing_list should include both persisted
-    history and any items staged during this run.
+    raw_time is like 'Nov 7, 17:24' (LT on VF port pages).
+    Returns (est_str, local_str, iso_utc) using tz and Eastern.
     """
-    try:
-        t0 = datetime.fromisoformat(event_iso)
-    except Exception:
-        return False
-    port_norm = (port_name or "").strip().lower()
-    for it in existing_list:
-        if not isinstance(it, dict):
+    raw = (raw_time or "").strip()
+    for fmt in ("%b %d, %H:%M", "%b %d, %I:%M %p"):
+        try:
+            base = datetime.strptime(raw, fmt).replace(year=datetime.utcnow().year)
+            local = base.replace(tzinfo=tz)
+            utc_dt = local.astimezone(timezone.utc)
+            eastern = zinfo_eastern()
+            est_dt = utc_dt.astimezone(eastern) if eastern else utc_dt
+            return est_dt.strftime("%b %d, %I:%M %p %Z"), local.strftime("%b %d, %I:%M %p %Z"), utc_dt.isoformat()
+        except Exception:
             continue
-        title = it.get("title","")
-        same_event = (("Arrived" in title) if event == "Arrived" else ("Departed" in title))
-        same_port  = port_norm and (port_norm in title.lower())
-        if same_event and same_port:
+    return None, None, None
+
+def _port_tz_from_url(port_url: str, fallback_name: str):
+    tz = _port_zoneinfo_from_link(port_url)
+    if tz: return tz
+    return _port_zoneinfo_from_name(fallback_name)
+
+def _parse_port_table_for_ship(html: str, ship_name: str, port_url: str, tab_kind: str, port_label: str):
+    """
+    Parse a VF port Arrivals/Departures page and emit rows for the named ship.
+    tab_kind: 'arrivals' or 'departures'
+    """
+    soup = BeautifulSoup(html, "html.parser")
+    table = soup.find("table")
+    if not table:
+        return []
+
+    rows = []
+    tz = _port_tz_from_url(port_url, port_label)
+
+    # Look for a row with the ship name; first column is time (LT)
+    for tr in table.find_all("tr"):
+        tds = tr.find_all("td")
+        if len(tds) < 2: 
+            continue
+        txt = tr.get_text(" ", strip=True)
+        if ship_name.lower() not in txt.lower():
+            continue
+
+        # Usually first td has time in LT
+        lt = tds[0].get_text(strip=True)
+        est_str, local_str, iso_utc = _parse_port_time_lt(lt, tz)
+        if not iso_utc:
+            continue
+
+        event = "Arrived" if tab_kind == "arrivals" else "Departed"
+        port_name = port_label
+        detail = f"{port_name} {'Arrival' if event=='Arrived' else 'Departure'} (UTC) {datetime.fromisoformat(iso_utc).strftime('%b %d, %H:%M')}"
+
+        rows.append({
+            "event": event,
+            "port": port_name,
+            "when_raw": datetime.fromisoformat(iso_utc).strftime("%b %d, %H:%M"),
+            "link": port_url,
+            "detail": detail,
+            "_est": est_str,
+            "_local": local_str,
+            "_iso": iso_utc,
+            "_source": f"port:{tab_kind}"
+        })
+    return rows
+
+def _fetch_port_fallback_events(p, ship_name: str, candidate_links_with_labels: list):
+    """
+    Try multiple port links (and both tabs). Each candidate is (port_url, port_label).
+    Returns aggregated rows for the ship across all tried pages.
+    """
+    out = []
+    seen = set()
+    for port_url, label in candidate_links_with_labels:
+        for tab in ("departures", "arrivals"):
             try:
-                t1 = datetime.fromisoformat(it.get("eventUtc",""))
-                if abs((t1 - t0).total_seconds()) <= hours*3600:
-                    return True
-            except Exception:
-                continue
-    return False
+                url = _ensure_tab(urljoin("https://www.vesselfinder.com", port_url), tab)
+                html = _rendered_html(url, p, mobile=False)
+                rows = _parse_port_table_for_ship(html, ship_name, port_url, tab, label or port_url)
+                for r in rows:
+                    key = (r["event"], r["port"], r["_iso"])
+                    if key in seen: 
+                        continue
+                    out.append(r)
+                    seen.add(key)
+            except Exception as e:
+                print(f"[warn] Port fallback {label or port_url} ({tab}) failed: {e}", file=sys.stderr)
+    return out
 
 # ---------- Main ----------
 
@@ -874,13 +855,17 @@ def main():
     ships = load_json(SHIPS_PATH, [])
     if not ships:
         print(f"[error] ships.json not found or empty at {SHIPS_PATH}", file=sys.stderr)
-        return
+        return  # nothing to do
 
+    # name -> slug lookup (for latest-all fallback)
     slug_by_name = {s["name"]: s["slug"] for s in ships}
 
     state = load_json(STATE_PATH, {"seen": {}, "geo": {}})
     if "seen" not in state: state["seen"] = {}
     if "geo" not in state: state["geo"] = {}
+
+    # ALSO maintain a canonical-seen to prevent duplicates from port vs ship sources
+    canon_seen = state.setdefault("canon_seen", {})
 
     all_items_new = []
 
@@ -895,13 +880,10 @@ def main():
 
             print(f"[info] Fetching VF for {name}: {vf_url}")
 
-            # Load existing history now (we need it for de-dup decisions)
-            ship_hist = load_history(slug)
-
-            # 1) VesselFinder ship page (Recent Port Calls)
+            # 1) VesselFinder port-calls (ship page)
             try:
                 rows, used = _vf_events_for_ship(p, s)
-                print(f"[info] Parsed VF {name}: {len(rows)} ship-page events")
+                print(f"[info] Parsed VF {name}: {len(rows)} events")
             except Exception as e:
                 print(f"[error] VF parse failed for {name}: {e}\n{traceback.format_exc()}", file=sys.stderr)
                 rows = []
@@ -909,39 +891,36 @@ def main():
 
             ship_items_new = []
 
-            # Build items from ship-page rows
+            # 1a) Build items from ship page rows (ATA/ATD supported)
             for r in rows:
                 try:
                     est_str, local_str, event_iso = format_times_for_notification(
                         r.get("port",""), r.get("link",""), r.get("when_raw","")
                     )
-                    # If ship page time missing, skip adding until we get something concrete;
-                    # fallback below may add a timed event.
-                    if not event_iso:
-                        continue
+                    verb = "Arrived" if r.get("event") == "Arrived" else "Departed"
+                    title_verb = "Arrived at" if verb == "Arrived" else "Departed from"
 
-                    # De-dup against persisted + staged items
-                    if _has_similar_event(ship_hist + ship_items_new, r.get("event",""), r.get("port",""), event_iso, hours=12):
-                        continue
-
-                    verb = "Arrived at" if r.get("event") == "Arrived" else "Departed from"
                     if est_str and local_str:
-                        title = f"{name} {verb} {r['port']} at {est_str}. The local time to the port is {local_str}"
+                        title = f"{name} {title_verb} {r['port']} at {est_str}. The local time to the port is {local_str}"
                     elif est_str:
-                        title = f"{name} {verb} {r['port']} at {est_str}"
+                        title = f"{name} {title_verb} {r['port']} at {est_str}"
                     else:
-                        title = f"{name} {verb} {r['port']} (time TBA)"
+                        title = f"{name} {title_verb} {r['port']} (time TBA)"
 
                     base_desc = r.get("detail","").replace(" (UTC) -", " (UTC) (time not yet posted)")
-                    desc = f"{base_desc} — ET: {est_str} | Local: {local_str}" if (est_str and local_str) else (
-                           f"{base_desc} — ET: {est_str}" if est_str else base_desc)
-
-                    guid_src = f"vf|{slug}|{r['event']}|{r.get('port','')}|{event_iso}"
-                    guid = make_id(guid_src)
-                    if state["seen"].get(guid):
-                        continue
+                    if est_str and local_str:
+                        desc = f"{base_desc} — ET: {est_str} | Local: {local_str}"
+                    elif est_str:
+                        desc = f"{base_desc} — ET: {est_str}"
+                    else:
+                        desc = base_desc
 
                     link = urljoin(vf_url, r.get("link","")) if r.get("link") else vf_url
+
+                    event_iso_final = event_iso or datetime.utcnow().replace(tzinfo=timezone.utc).isoformat()
+                    guid = _canonical_guid(slug, verb, r['port'], event_iso_final)
+                    if canon_seen.get(guid):
+                        continue
 
                     item = {
                         "title": title,
@@ -949,68 +928,77 @@ def main():
                         "link": link,
                         "guid": guid,
                         "pubDate": to_rfc2822(datetime.utcnow()),
-                        "eventUtc": event_iso,
+                        "eventUtc": event_iso_final,
                         "shipSlug": slug,
                         "shipName": name,
+                        "source": "vf_ship"
                     }
                     ship_items_new.append(item)
                     all_items_new.append(item)
-                    state["seen"][guid] = True
+                    canon_seen[guid] = True
                 except Exception as e:
                     print(f"[warn] VF item build failed for {name}: {e}", file=sys.stderr)
 
-            # 2) Port-page fallback: use the *most recent ship-page port* as a hint
-            # If ship page had no timed rows or is stale, we try known port pages
+            # 2) Port-page fallback
             try:
-                # pick candidate port name from the first ship-page row if available,
-                # otherwise try common homeports
-                candidate = None
-                if rows:
-                    candidate = rows[0].get("port")
-                if not candidate:
-                    # sensible defaults if ship-page empty
-                    candidate = "Port Everglades"
+                candidate_links = []
+                # If ship-page produced any rows, prefer its *first* port link as a hint
+                if rows and rows[0].get("link"):
+                    candidate_links.append((rows[0]["link"], rows[0].get("port","")))
 
-                port_rows = _fetch_port_fallback_events(p, candidate, name)
-                print(f"[info] Port fallback {name} using '{candidate}': {len(port_rows)} rows")
+                # Optional: 'home_ports' array in ships.json: each item may be either a VF port URL
+                # (e.g. '/ports/USCPV?name=Port-Canaveral') or tuple dicts with {link, label}
+                for hp in s.get("home_ports", []):
+                    if isinstance(hp, str):
+                        candidate_links.append((hp, ""))
+                    elif isinstance(hp, dict):
+                        candidate_links.append((hp.get("link",""), hp.get("label","")))
+                # De-dup by URL
+                dedup = {}
+                for u,lbl in candidate_links:
+                    if u and u not in dedup:
+                        dedup[u] = lbl
+                candidate_links = [(u, dedup[u]) for u in dedup.keys()]
 
-                for pr in port_rows:
-                    # pr has event, port, eventUtc
-                    event_iso = pr["eventUtc"]
-                    if _has_similar_event(ship_hist + ship_items_new, pr["event"], pr["port"], event_iso, hours=12):
-                        continue
+                if candidate_links:
+                    port_rows = _fetch_port_fallback_events(p, name, candidate_links)
+                    print(f"[info] Port fallback {name} using {len(candidate_links)} port(s): {len(port_rows)} rows")
 
-                    # Build title/desc
-                    # Convert UTC -> Eastern and Local for display
-                    dt_utc = datetime.fromisoformat(event_iso)
-                    est_str = dt_utc.astimezone(zinfo_eastern()).strftime("%b %d, %I:%M %p %Z")
-                    local_tz = _tz_for_portname(pr["port"])
-                    local_str = dt_utc.astimezone(local_tz).strftime("%b %d, %I:%M %p %Z")
-                    verb = "Arrived at" if pr["event"] == "Arrived" else "Departed from"
+                    for r in port_rows:
+                        try:
+                            verb = r["event"]
+                            # We already computed est/local/iso in r for speed
+                            est_str, local_str, event_iso = r.get("_est"), r.get("_local"), r.get("_iso")
+                            title_verb = "Arrived at" if verb == "Arrived" else "Departed from"
+                            title = f"{name} {title_verb} {r['port']} at {est_str}. The local time to the port is {local_str}"
 
-                    title = f"{name} {verb} {pr['port']} at {est_str}. The local time to the port is {local_str}"
-                    base_desc = f"{pr['port']} {('Arrival' if pr['event']=='Arrived' else 'Departure')} (LT) {pr['when_raw_local']} — ET: {est_str} | Local: {local_str}"
+                            base_desc = r.get("detail","")
+                            desc = f"{base_desc} — ET: {est_str} | Local: {local_str}"
 
-                    guid_src = f"port|{slug}|{pr['event']}|{pr['port']}|{event_iso}"
-                    guid = make_id(guid_src)
-                    if state["seen"].get(guid):
-                        continue
+                            link = urljoin("https://www.vesselfinder.com", r.get("link",""))
 
-                    item = {
-                        "title": title,
-                        "description": base_desc,
-                        "link": "",  # port list page isn't a single item link
-                        "guid": guid,
-                        "pubDate": to_rfc2822(datetime.utcnow()),
-                        "eventUtc": event_iso,
-                        "shipSlug": slug,
-                        "shipName": name,
-                    }
-                    ship_items_new.append(item)
-                    all_items_new.append(item)
-                    state["seen"][guid] = True
+                            guid = _canonical_guid(slug, verb, r['port'], event_iso)
+                            if canon_seen.get(guid):
+                                continue
+
+                            item = {
+                                "title": title,
+                                "description": desc,
+                                "link": link,
+                                "guid": guid,
+                                "pubDate": to_rfc2822(datetime.utcnow()),
+                                "eventUtc": event_iso,
+                                "shipSlug": slug,
+                                "shipName": name,
+                                "source": "vf_port"
+                            }
+                            ship_items_new.append(item)
+                            all_items_new.append(item)
+                            canon_seen[guid] = True
+                        except Exception as e:
+                            print(f"[warn] Port-fallback build failed for {name}: {e}", file=sys.stderr)
             except Exception as e:
-                print(f"[warn] Port-fallback failed for {name}: {e}", file=sys.stderr)
+                print(f"[warn] Port fallback failed for {name}: {e}", file=sys.stderr)
 
             # 3) Geofence (CruiseMapper coords)
             cm_url = s.get("cm_url") or f"https://www.cruisemapper.com/ships/{_cm_slug(name)}"
@@ -1019,25 +1007,22 @@ def main():
                 if coords:
                     geo_items = geofence_events_from_coords(name, slug, coords, state)
                     for it in geo_items:
-                        if state["seen"].get(it["guid"]):
-                            continue
-                        # de-dup geofence against staged ship+port items
-                        if _has_similar_event(ship_hist + ship_items_new, "Arrived" if "Arrived" in it["title"] else "Departed",
-                                              it["title"], it["eventUtc"], hours=6):
+                        if canon_seen.get(it["guid"]):
                             continue
                         ship_items_new.append(it)
                         all_items_new.append(it)
-                        state["seen"][it["guid"]] = True
+                        canon_seen[it["guid"]] = True
                 else:
                     print(f"[warn] No coords from CruiseMapper for {name} ({cm_url})")
             except Exception as e:
                 print(f"[warn] Geofence failed for {name}: {e}", file=sys.stderr)
 
-            # ---- PER SHIP HISTORY ----
+            # ---- PER SHIP HISTORY (sorted by event time) ----
+            ship_hist = load_history(slug)
             ship_hist = merge_items(ship_hist, ship_items_new, PER_SHIP_CAP)
             save_history(slug, ship_hist)
 
-            # Write per-ship feeds
+            # Write per-ship feeds (pretty + XSL PI)
             try:
                 ship_xml = build_rss(f"{name} - Arrivals & Departures", vf_url, ship_hist)
                 if PRETTY_XML: ship_xml = _pretty_xml(ship_xml)
@@ -1051,7 +1036,7 @@ def main():
             except Exception as e:
                 print(f"[error] Writing ship feeds failed for {name}: {e}", file=sys.stderr)
 
-    # ---- COMBINED HISTORY ----
+    # ---- COMBINED HISTORY (sorted by event time) ----
     all_hist = load_history("all")
     all_hist = merge_items(all_hist, all_items_new, ALL_CAP)
     save_history("all", all_hist)
@@ -1064,7 +1049,7 @@ def main():
     except Exception as e:
         print(f"[error] Writing all.xml failed: {e}", file=sys.stderr)
 
-    # ---- Latest one per ship ----
+    # ---- Latest one per ship (use shipSlug) ----
     def _infer_slug_from_title(title: str) -> str:
         for nm, sl in slug_by_name.items():
             if title.startswith(nm):
@@ -1079,8 +1064,10 @@ def main():
         return base.strip()
 
     latest_by_slug = {}
-    for it in all_hist:  # sorted DESC by eventUtc
-        key = it.get("shipSlug") or _infer_slug_from_title(it.get("title",""))
+    for it in all_hist:  # already sorted DESC by eventUtc
+        key = it.get("shipSlug")
+        if not key:
+            key = _infer_slug_from_title(it.get("title",""))
         if key and key not in latest_by_slug:
             latest_by_slug[key] = it
 
