@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       mode:
-        description: "Choose Publish (write test) or RestorePrevious (revert latest-all.xml)"
+        description: "Choose Publish (write test) or RestorePrevious (copy latest.xml to latest-all.xml)"
         required: true
         type: choice
         options: [Publish, RestorePrevious]
@@ -57,7 +57,7 @@ jobs:
       - name: Checkout (with history)
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0   # IMPORTANT for HEAD~1
+          fetch-depth: 0
 
       - name: Configure Git
         run: |
@@ -88,50 +88,41 @@ jobs:
         if: ${{ inputs.mode == 'Publish' }}
         run: |
           set -e
-          FILE="docs/${{ inputs.filename || 'latest-all.xml' }}"
+          FILE="docs/${{ inputs.filename }}"
           git add "$FILE"
           if [ "${{ inputs.also_underscore }}" = "true" ]; then
             git add docs/latest_all.xml || true
           fi
           git commit -m "manual publish: ${{ inputs.ship }} ${{ inputs.event }} at ${{ inputs.port }}" || echo "No changes to commit"
-          git push
+          git push || echo "No changes pushed"
 
-# ---------- Restore (copy latest.xml -> latest-all.xml) ----------
-- name: Restore from latest.xml (RestorePrevious mode)
-  if: ${{ inputs.mode == 'RestorePrevious' }}
-  env:
-    DEST_FILE: docs/${{ inputs.filename || 'latest-all.xml' }}
-    SRC_FILE: docs/latest.xml
-    ALSO_UNDERSCORE: ${{ inputs.also_underscore }}
-  run: |
-    set -e
+      # ---------- Restore (copy latest.xml -> latest-all.xml) ----------
+      - name: Restore from latest.xml (RestorePrevious mode)
+        if: ${{ inputs.mode == 'RestorePrevious' }}
+        env:
+          DEST_FILE: docs/${{ inputs.filename }}
+          SRC_FILE: docs/latest.xml
+          ALSO_UNDERSCORE: ${{ inputs.also_underscore }}
+        run: |
+          set -e
+          echo "Source:  $SRC_FILE"
+          echo "Dest:    $DEST_FILE"
 
-    echo "Source:  $SRC_FILE"
-    echo "Dest:    $DEST_FILE"
+          if [ ! -f "$SRC_FILE" ]; then
+            echo "ERROR: $SRC_FILE not found. Cannot restore."
+            exit 1
+          fi
 
-    # Ensure latest.xml exists
-    if [ ! -f "$SRC_FILE" ]; then
-      echo "ERROR: $SRC_FILE not found. Cannot restore."
-      exit 1
-    fi
+          mkdir -p "$(dirname "$DEST_FILE")"
+          cp "$SRC_FILE" "$DEST_FILE"
 
-    # Make sure destination folder exists
-    mkdir -p "$(dirname "$DEST_FILE")"
+          if [ "$ALSO_UNDERSCORE" = "true" ]; then
+            cp "$SRC_FILE" docs/latest_all.xml
+            git add docs/latest_all.xml
+            echo "Also restored docs/latest_all.xml from latest.xml."
+          fi
 
-    # Copy latest.xml to destination (latest-all.xml by default)
-    cp "$SRC_FILE" "$DEST_FILE"
-
-    # Optional underscore companion
-    if [ "$ALSO_UNDERSCORE" = "true" ]; then
-      cp "$SRC_FILE" docs/latest_all.xml
-      git add docs/latest_all.xml
-      echo "Also restored docs/latest_all.xml from latest.xml."
-    fi
-
-    git add "$DEST_FILE"
-    git config user.name "github-actions[bot]"
-    git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-    git commit -m "restore: copy latest.xml -> $DEST_FILE" || echo "No changes to commit"
-    git push || echo "No changes pushed"
-    echo "Restore complete."
-
+          git add "$DEST_FILE"
+          git commit -m "restore: copy latest.xml -> $DEST_FILE" || echo "No changes to commit"
+          git push || echo "No changes pushed"
+          echo "Restore complete."
