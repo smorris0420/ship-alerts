@@ -290,18 +290,31 @@ def make_id(s: str) -> str:
     return hashlib.sha1((s or "").encode("utf-8")).hexdigest()
 
 # ---- TBA filtering: drop ship-page items with no real UTC time ----
-# You can allow Arrived but skip Departed by toggling these.
+# Toggle which verbs to drop if no time is posted yet.
 SKIP_TBA = {
     "Arrived": True,
     "Departed": True
 }
+
+def _is_tba(item: dict) -> bool:
+    """Treat as TBA if eventUtc missing/invalid OR text hints say 'time TBA/not yet posted'."""
+    iso = item.get("eventUtc")
+    if not iso:
+        return True
+    try:
+        # allow timezone-aware ISO 8601
+        datetime.fromisoformat(iso)
+    except Exception:
+        return True
+    txt = (item.get("title","") + " " + item.get("description","")).lower()
+    return ("time tba" in txt) or ("time not yet posted" in txt)
 
 # ---- Canonical de-dupe (Option C)
 
 def _normalize_port_name(name: str) -> str:
     s = (name or "").lower()
     s = re.sub(r"[^a-z0-9]+", " ", s).strip()
-    # light normalization (you’ll normalize further downstream)
+    # light normalization (you normalize further downstream in Power Automate)
     s = s.replace("cape canaveral", "port canaveral")
     s = s.replace("ft lauderdale", "fort lauderdale")
     return re.sub(r"\s+", " ", s)
@@ -318,23 +331,6 @@ def _canonical_guid(slug: str, verb: str, port: str, event_iso: str) -> str:
     dt = dt.astimezone(timezone.utc).replace(second=0, microsecond=0)
     key = f"canon|{slug}|{verb.lower()}|{_normalize_port_name(port)}|{dt.isoformat()}"
     return make_id(key)
-
-# ---- Helpers to detect TBA and verb (used in history purge and latest-all logic)
-
-def _is_tba(it: dict) -> bool:
-    """Detect 'time TBA/not yet posted' items (works for older history too)."""
-    t = (it.get("title", "") or "").lower()
-    d = (it.get("description", "") or "").lower()
-    return ("time tba" in t) or ("time tbd" in t) or ("time not yet posted" in d)
-
-def _verb_of(it: dict) -> str:
-    """Infer event verb from title text."""
-    t = it.get("title", "") or ""
-    if " Arrived " in t or " Arrived at " in t:
-        return "Arrived"
-    if " Departed " in t or " Departed from " in t:
-        return "Departed"
-    return ""
 
 # ---- XML output formatting knobs + helpers ----
 PRETTY_XML = True
@@ -739,7 +735,7 @@ def haversine_km(a, b):
     R = 6371.0
     lat1, lon1 = math.radians(a[0]), math.radians(a[1])
     lat2, lon2 = math.radians(b[0]), math.radians(b[1])
-    dlat = lat2 - lat1; dlon = dlon = lon2 - lon1
+    dlat = lat2 - lat1; dlon = lon2 - lon1
     h = math.sin(dlat/2)**2 + math.cos(lat1)*math.cos(lat2)*math.sin(dlon/2)**2
     return 2*R*math.asin(math.sqrt(h))
 
@@ -1100,12 +1096,14 @@ def main():
 
             # DEBUG metrics
             print(
-                f"[debug] {name} new_items: "
-                f"ship_page={len([i for i in ship_items_new if i.get('source')=='vf_ship'])} "
-                f"port_fallback={len([i for i in ship_items_new if i.get('source')=='vf_port'])} "
-                f"geo={len([i for i in ship_items_new if i.get('source')=='geo'])} "
-                f"total_added_this_run={len(ship_items_new)} "
-                f"hist_after_merge={len(ship_hist)}"
+                "[debug] {nm} new_items: ship_page={a} port_fallback={b} geo={c} total_added_this_run={t} hist_after_merge={h}".format(
+                    nm=name,
+                    a=len([i for i in ship_items_new if i.get('source')=='vf_ship']),
+                    b=len([i for i in ship_items_new if i.get('source')=='vf_port']),
+                    c=len([i for i in ship_items_new if i.get('source')=='geo']),
+                    t=len(ship_items_new),
+                    h=len(ship_hist)
+                )
             )
 
             # Write per-ship feeds (pretty + XSL PI)
@@ -1125,12 +1123,6 @@ def main():
     # ---- COMBINED HISTORY (sorted by event time) ----
     all_hist = load_history("all")
     all_hist = merge_items(all_hist, all_items_new, ALL_CAP)
-
-    # Purge legacy TBA Departed items so they never override arrivals in "latest-all"
-    PURGE_TBA_DEPARTED = True
-    if PURGE_TBA_DEPARTED:
-        all_hist = [it for it in all_hist if not (_verb_of(it) == "Departed" and _is_tba(it))]
-
     save_history("all", all_hist)
 
     try:
@@ -1155,15 +1147,17 @@ def main():
                 return sl
         return base.strip()
 
-    # all_hist is already sorted DESC by eventUtc
+    # Ensure newest→oldest by eventUtc just in case
+    all_hist_sorted = sorted(all_hist, key=_event_key, reverse=True)
+
     latest_by_slug = {}
-    for it in all_hist:
+    for it in all_hist_sorted:
         if _is_tba(it):
             continue  # never surface TBA entries in latest-all
         slug = it.get("shipSlug") or _infer_slug_from_title(it.get("title",""))
         if not slug:
             continue
-        # first time we see a slug in DESC order is the newest real event (Arrived OR Departed)
+        # first seen per slug in DESC order is the newest real event (Arrived OR Departed)
         if slug not in latest_by_slug:
             latest_by_slug[slug] = it
 
@@ -1177,7 +1171,7 @@ def main():
         print(f"[error] Writing latest-all.xml failed: {e}", file=sys.stderr)
 
     save_json(STATE_PATH, state)
-    
+
 if __name__ == "__main__":
     try:
         main()
