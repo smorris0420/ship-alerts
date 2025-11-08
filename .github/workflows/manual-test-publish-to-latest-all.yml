@@ -96,53 +96,42 @@ jobs:
           git commit -m "manual publish: ${{ inputs.ship }} ${{ inputs.event }} at ${{ inputs.port }}" || echo "No changes to commit"
           git push
 
-      # ---------- Restore ----------
-      - name: Restore previous file (RestorePrevious mode)
-        if: ${{ inputs.mode == 'RestorePrevious' }}
-        env:
-          FILE: docs/${{ inputs.filename || 'latest-all.xml' }}
-          ALSO_UNDERSCORE: ${{ inputs.also_underscore }}
-        run: |
-          set -e
+# ---------- Restore (copy latest.xml -> latest-all.xml) ----------
+- name: Restore from latest.xml (RestorePrevious mode)
+  if: ${{ inputs.mode == 'RestorePrevious' }}
+  env:
+    DEST_FILE: docs/${{ inputs.filename || 'latest-all.xml' }}
+    SRC_FILE: docs/latest.xml
+    ALSO_UNDERSCORE: ${{ inputs.also_underscore }}
+  run: |
+    set -e
 
-          echo "Restoring previous version of: $FILE"
-          echo "Current HEAD: $(git rev-parse --short HEAD)"
-          echo "Commit count: $(git rev-list --count HEAD)"
+    echo "Source:  $SRC_FILE"
+    echo "Dest:    $DEST_FILE"
 
-          # Ensure we have at least one previous commit
-          if [ "$(git rev-list --count HEAD)" -lt 2 ]; then
-            echo "Not enough history to restore previous version. Ensure checkout uses fetch-depth: 0."
-            exit 1
-          fi
+    # Ensure latest.xml exists
+    if [ ! -f "$SRC_FILE" ]; then
+      echo "ERROR: $SRC_FILE not found. Cannot restore."
+      exit 1
+    fi
 
-          # Confirm file existed in previous commit
-          if ! git ls-tree -r --name-only HEAD~1 | grep -qx "$FILE"; then
-            echo "Previous commit does not contain $FILE. Nothing to restore."
-            exit 0
-          fi
+    # Make sure destination folder exists
+    mkdir -p "$(dirname "$DEST_FILE")"
 
-          # Show diff for troubleshooting
-          echo "---- DIFF vs previous ----"
-          git diff --stat HEAD~1 -- "$FILE" || true
-          echo "--------------------------"
+    # Copy latest.xml to destination (latest-all.xml by default)
+    cp "$SRC_FILE" "$DEST_FILE"
 
-          # Restore from previous commit
-          git restore --source=HEAD~1 -- "$FILE"
-          git add "$FILE"
+    # Optional underscore companion
+    if [ "$ALSO_UNDERSCORE" = "true" ]; then
+      cp "$SRC_FILE" docs/latest_all.xml
+      git add docs/latest_all.xml
+      echo "Also restored docs/latest_all.xml from latest.xml."
+    fi
 
-          # Optional underscore companion
-          if [ "$ALSO_UNDERSCORE" = "true" ]; then
-            UNDERSCORE="docs/latest_all.xml"
-            if git ls-tree -r --name-only HEAD~1 | grep -qx "$UNDERSCORE"; then
-              git restore --source=HEAD~1 -- "$UNDERSCORE"
-              git add "$UNDERSCORE"
-              echo "Restored $UNDERSCORE as well."
-            else
-              echo "No previous version of $UNDERSCORE found; skipping."
-            fi
-          fi
+    git add "$DEST_FILE"
+    git config user.name "github-actions[bot]"
+    git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+    git commit -m "restore: copy latest.xml -> $DEST_FILE" || echo "No changes to commit"
+    git push || echo "No changes pushed"
+    echo "Restore complete."
 
-          # Commit/push (no-op if identical)
-          git commit -m "restore previous: $FILE" || echo "No changes to commit"
-          git push || echo "No changes pushed"
-          echo "Restore step complete."
