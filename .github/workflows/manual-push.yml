@@ -1,0 +1,38 @@
+name: Manual RSS Push
+
+on:
+  workflow_dispatch:
+    inputs:
+      ship:
+        description: 'Ship name'
+        required: true
+        default: 'Test Ship'
+      port:
+        description: 'Port name'
+        required: true
+        default: 'Port Canaveral'
+      event:
+        description: 'Event type (Arrived or Departed)'
+        required: true
+        default: 'Arrived'
+
+jobs:
+  run-scraper:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install playwright beautifulsoup4
+          python -m playwright install --with-deps chromium
+
+      - name: Run scraper with inputs
+        run: |
+          python playwright_scrape.txt --ship "${{ github.event.inputs.ship }}" --port "${{ github.event.inputs.port }}" --event "${{ github.event.inputs.event }}"
