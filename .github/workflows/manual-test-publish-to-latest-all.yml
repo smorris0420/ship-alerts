@@ -1,10 +1,10 @@
-name: Manual Publish or Restore latest-all.xml
+name: Manual Publish or Restore
 
 on:
   workflow_dispatch:
     inputs:
       mode:
-        description: "Choose Publish (write test) or RestorePrevious (copy latest.xml to latest-all.xml)"
+        description: "Choose Publish (write test) or RestorePrevious (copy latest.xml → latest-all.xml)"
         required: true
         type: choice
         options: [Publish, RestorePrevious]
@@ -65,6 +65,15 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
       # ---------- Publish ----------
+      - name: Validate inputs (Publish mode)
+        if: ${{ inputs.mode == 'Publish' }}
+        run: |
+          set -e
+          if [ -z "${{ inputs.ship }}" ] || [ -z "${{ inputs.event }}" ] || [ -z "${{ inputs.port }}" ] || [ -z "${{ inputs.est }}" ]; then
+            echo "Missing one or more required inputs: ship, event, port, est"
+            exit 1
+          fi
+
       - name: Install Python
         if: ${{ inputs.mode == 'Publish' }}
         uses: actions/setup-python@v5
@@ -73,7 +82,11 @@ jobs:
 
       - name: Run publisher (Publish mode)
         if: ${{ inputs.mode == 'Publish' }}
+        env:
+          TARGET_FILE: docs/${{ inputs.filename }}
         run: |
+          set -euo pipefail
+          echo "Writing to: $TARGET_FILE"
           python .github/scripts/publish_latest_all.py \
             --ship "${{ inputs.ship }}" \
             --event "${{ inputs.event }}" \
@@ -82,19 +95,34 @@ jobs:
             --local "${{ inputs.local }}" \
             --link "${{ inputs.link }}" \
             --filename "${{ inputs.filename }}" \
+            --nonce "${{ github.run_id }}" \
             $([ "${{ inputs.also_underscore }}" = "true" ] && echo "--also-underscore")
+
+          echo "---- HEAD of file after write ----"
+          sed -n '1,80p' "$TARGET_FILE" || true
+          echo "----------------------------------"
 
       - name: Commit publish
         if: ${{ inputs.mode == 'Publish' }}
+        env:
+          TARGET_FILE: docs/${{ inputs.filename }}
+          ALSO_UNDERSCORE: ${{ inputs.also_underscore }}
         run: |
-          set -e
-          FILE="docs/${{ inputs.filename }}"
-          git add "$FILE"
-          if [ "${{ inputs.also_underscore }}" = "true" ]; then
+          set -euo pipefail
+          git status --porcelain
+          if git diff --quiet -- "$TARGET_FILE"; then
+            echo "::error ::No changes detected in $TARGET_FILE after publisher ran."
+            exit 1
+          fi
+
+          git add "$TARGET_FILE"
+          if [ "$ALSO_UNDERSCORE" = "true" ]; then
             git add docs/latest_all.xml || true
           fi
-          git commit -m "manual publish: ${{ inputs.ship }} ${{ inputs.event }} at ${{ inputs.port }}" || echo "No changes to commit"
-          git push || echo "No changes pushed"
+
+          git commit -m "manual publish: ${{ inputs.ship }} ${{ inputs.event }} at ${{ inputs.port }}"
+          git push
+          echo "Publish committed & pushed."
 
       # ---------- Restore (copy latest.xml -> latest-all.xml) ----------
       - name: Restore from latest.xml (RestorePrevious mode)
