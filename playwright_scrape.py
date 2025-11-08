@@ -289,8 +289,7 @@ def to_rfc2822(dt: datetime) -> str:
 def make_id(s: str) -> str:
     return hashlib.sha1((s or "").encode("utf-8")).hexdigest()
 
-# ---- TBA filtering: drop ship-page items with no real UTC time ----
-# You can allow Arrived but skip Departed by toggling these.
+# ---- TBA filtering ----
 SKIP_TBA = {
     "Arrived": True,
     "Departed": True
@@ -305,16 +304,12 @@ def _is_tba(item: dict) -> bool:
 def _normalize_port_name(name: str) -> str:
     s = (name or "").lower()
     s = re.sub(r"[^a-z0-9]+", " ", s).strip()
-    # light normalization (you’ll normalize further downstream)
     s = s.replace("cape canaveral", "port canaveral")
     s = s.replace("ft lauderdale", "fort lauderdale")
     return re.sub(r"\s+", " ", s)
 
 def _canonical_guid(slug: str, verb: str, port: str, event_iso: str) -> str:
-    """
-    Canonical ID by ship + verb + normalized port + UTC minute.
-    Prevents duplicate notifications when a stale ship-page later updates.
-    """
+    """Canonical ID by ship + verb + normalized port + UTC minute."""
     try:
         dt = datetime.fromisoformat(event_iso)
     except Exception:
@@ -323,13 +318,12 @@ def _canonical_guid(slug: str, verb: str, port: str, event_iso: str) -> str:
     key = f"canon|{slug}|{verb.lower()}|{_normalize_port_name(port)}|{dt.isoformat()}"
     return make_id(key)
 
-# ---- XML output formatting knobs + helpers ----
+# ---- XML formatting knobs ----
 PRETTY_XML = True
 USE_CDATA  = True
 STYLESHEET_NAME = "rss-dcl.xsl"   # written to docs/
 
 def _pretty_xml(xml_str: str) -> str:
-    """Indent XML nicely; fall back to raw if anything fails."""
     try:
         from xml.dom import minidom
         dom = minidom.parseString(xml_str.encode("utf-8"))
@@ -339,13 +333,11 @@ def _pretty_xml(xml_str: str) -> str:
         return xml_str
 
 def _cdata(s: str) -> str:
-    """Wrap text in CDATA safely (handles ']]>')."""
     s = s or ""
     parts = s.split("]]>")
     return "<![CDATA[" + "]]]]><![CDATA[>".join(parts) + "]]>" if len(parts) > 1 else f"<![CDATA[{s}]]>"
 
 def _ensure_stylesheet_dcl():
-    """Write/overwrite the DCL-styled XSL to docs/ every run."""
     try:
         os.makedirs(DOCS_DIR, exist_ok=True)
         xsl_path = os.path.join(DOCS_DIR, STYLESHEET_NAME)
@@ -460,7 +452,6 @@ def _ensure_stylesheet_dcl():
         print(f"[warn] Could not write stylesheet: {e}", file=sys.stderr)
 
 def build_rss(channel_title: str, channel_link: str, items: list, stylesheet=None, use_cdata=None) -> str:
-    """Build RSS with optional CDATA and XSL stylesheet reference."""
     if stylesheet is None:
         stylesheet = STYLESHEET_NAME
     if use_cdata is None:
@@ -571,12 +562,6 @@ def _find_root(soup: BeautifulSoup):
     return None
 
 def _parse_vf(html: str):
-    """
-    Ship-page parser:
-      - supports 'Arrival (UTC)' / 'Departure (UTC)'
-      - also supports 'ATA (UTC)' / 'ATD (UTC)' variants
-      - emits items even when the time cell is blank (pending) with when_raw=""
-    """
     soup = BeautifulSoup(html, "html.parser")
     root = _find_root(soup)
     results = []
@@ -640,21 +625,36 @@ def _parse_vf(html: str):
 
     return results
 
-def _rendered_html(url: str, p, mobile: bool):
+def _rendered_html(url: str, p, mobile: bool, wait_selector: str = None, wait_text: str = None):
     ua = ("Mozilla/5.0 (Linux; Android 12; Pixel 5) AppleWebKit/537.36 "
           "(KHTML, like Gecko) Chrome/120 Mobile Safari/537.36") if mobile else \
          ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
           "(KHTML, like Gecko) Chrome/120 Safari/537.36")
     browser = p.chromium.launch(headless=True)
-    ctx = browser.new_context(user_agent=ua, viewport={"width": 1280, "height": 2000})
+    ctx = browser.new_context(user_agent=ua, viewport={"width": 1280, "height": 2200})
     page = ctx.new_page()
     try:
         page.goto(url, timeout=45000, wait_until="domcontentloaded")
-        page.evaluate("window.scrollTo(0, document.body.scrollHeight * 0.6);")
+
+        # Optional waits for dynamic content
+        if wait_text:
+            try:
+                page.wait_for_selector(f"text={wait_text}", timeout=10000)
+            except PWTimeout:
+                pass
+        if wait_selector:
+            try:
+                page.wait_for_selector(wait_selector, timeout=12000)
+            except PWTimeout:
+                pass
+
+        # Allow background XHRs to settle
         try:
-            page.wait_for_selector("text=Recent Port Calls", timeout=8000)
+            page.wait_for_load_state("networkidle", timeout=8000)
         except PWTimeout:
             pass
+
+        page.evaluate("window.scrollTo(0, document.body.scrollHeight * 0.6);")
         html = page.content()
     finally:
         ctx.close(); browser.close()
@@ -663,7 +663,7 @@ def _rendered_html(url: str, p, mobile: bool):
         _sleep_jitter()
         parsed = urlparse(url)
         mobile_url = urlunparse(parsed._replace(netloc="m.vesselfinder.com"))
-        return _rendered_html(mobile_url, p, mobile=True)
+        return _rendered_html(mobile_url, p, mobile=True, wait_selector=wait_selector, wait_text=wait_text)
     _sleep_jitter()
     return html
 
@@ -671,7 +671,7 @@ def _vf_events_for_ship(p, ship):
     base_url = ship["url"]
     # Desktop
     try:
-        html = _rendered_html(base_url, p, mobile=False)
+        html = _rendered_html(base_url, p, mobile=False, wait_text="Recent Port Calls")
         rows = _parse_vf(html)
         if rows: return rows, base_url
     except Exception as e:
@@ -680,7 +680,7 @@ def _vf_events_for_ship(p, ship):
     try:
         parsed = urlparse(base_url)
         mobile_url = urlunparse(parsed._replace(netloc="m.vesselfinder.com"))
-        html = _rendered_html(mobile_url, p, mobile=True)
+        html = _rendered_html(mobile_url, p, mobile=True, wait_text="Recent Port Calls")
         rows = _parse_vf(html)
         if rows: return rows, mobile_url
     except Exception as e:
@@ -797,7 +797,6 @@ def geofence_events_from_coords(ship_name: str, slug: str, coords, state_seen):
 # ---------- Port-page fallback ----------
 
 def _ensure_tab(url: str, tab: str) -> str:
-    """Return url with ?tab=arrivals/ departures set."""
     parsed = urlparse(url)
     qs = parse_qs(parsed.query)
     qs["tab"] = [tab]
@@ -805,10 +804,6 @@ def _ensure_tab(url: str, tab: str) -> str:
     return urlunparse(parsed._replace(query=new_q))
 
 def _parse_port_time_lt(raw_time: str, tz: ZoneInfo):
-    """
-    raw_time is like 'Nov 7, 17:24' (LT on VF port pages).
-    Returns (est_str, local_str, iso_utc) using tz and Eastern.
-    """
     raw = (raw_time or "").strip()
     for fmt in ("%b %d, %H:%M", "%b %d, %I:%M %p"):
         try:
@@ -840,7 +835,7 @@ def _parse_port_table_for_ship(html: str, ship_name: str, port_url: str, tab_kin
     rows = []
     tz = _port_tz_from_url(port_url, port_label)
 
-    # Look for a row with the ship name; first column is time (LT)
+    # Look for a row with the ship name; be lenient about where LT lives
     for tr in table.find_all("tr"):
         tds = tr.find_all("td")
         if len(tds) < 2:
@@ -849,7 +844,13 @@ def _parse_port_table_for_ship(html: str, ship_name: str, port_url: str, tab_kin
         if ship_name.lower() not in txt.lower():
             continue
 
-        lt = tds[0].get_text(strip=True)
+        candidates = []
+        if tds:
+            candidates.append(tds[0].get_text(strip=True))
+        if len(tds) > 1:
+            candidates.append(tds[1].get_text(strip=True))
+        lt = next((c for c in candidates if c), "").replace("(LT)", "").replace("LT", "").strip()
+
         est_str, local_str, iso_utc = _parse_port_time_lt(lt, tz)
         if not iso_utc:
             continue
@@ -882,8 +883,17 @@ def _fetch_port_fallback_events(p, ship_name: str, candidate_links_with_labels: 
         for tab in ("departures", "arrivals"):
             try:
                 url = _ensure_tab(urljoin("https://www.vesselfinder.com", port_url), tab)
-                html = _rendered_html(url, p, mobile=False)
+                # Desktop with robust waits
+                html = _rendered_html(url, p, mobile=False, wait_selector="table")
                 rows = _parse_port_table_for_ship(html, ship_name, port_url, tab, label or port_url)
+
+                # If nothing, try mobile (often more stable)
+                if not rows:
+                    parsed = urlparse(url)
+                    mobile_url = urlunparse(parsed._replace(netloc="m.vesselfinder.com"))
+                    html_m = _rendered_html(mobile_url, p, mobile=True, wait_selector="table")
+                    rows = _parse_port_table_for_ship(html_m, ship_name, port_url, tab, label or port_url)
+
                 for r in rows:
                     key = (r["event"], r["port"], r["_iso"])
                     if key in seen:
@@ -936,7 +946,7 @@ def main():
 
             ship_items_new = []
 
-            # 1a) Build items from ship page rows (ATA/ATD supported)
+            # 1a) Build items from ship page rows
             for r in rows:
                 try:
                     est_str, local_str, event_iso = format_times_for_notification(
@@ -945,7 +955,6 @@ def main():
                     verb = "Arrived" if r.get("event") == "Arrived" else "Departed"
                     title_verb = "Arrived at" if verb == "Arrived" else "Departed from"
 
-                    # ---- Skip TBA (no event time) based on SKIP_TBA switches
                     if (not event_iso) and SKIP_TBA.get(verb, False):
                         continue
 
@@ -954,7 +963,6 @@ def main():
                     elif est_str:
                         title = f"{name} {title_verb} {r['port']} at {est_str}"
                     else:
-                        # no reliable time -> drop instead of fabricating
                         continue
 
                     base_desc = r.get("detail","").replace(" (UTC) -", " (UTC) (time not yet posted)")
@@ -969,7 +977,7 @@ def main():
 
                     event_iso_final = event_iso
                     if not event_iso_final:
-                        continue  # double-guard
+                        continue
 
                     guid = _canonical_guid(slug, verb, r['port'], event_iso_final)
                     if canon_seen.get(guid):
@@ -995,11 +1003,9 @@ def main():
             # 2) Port-page fallback
             try:
                 candidate_links = []
-                # If ship-page produced any rows, prefer its *first* port link as a hint
                 if rows and rows[0].get("link"):
                     candidate_links.append((rows[0]["link"], rows[0].get("port","")))
 
-                # Optional: 'home_ports' array in ships.json
                 for hp in s.get("home_ports", []):
                     if isinstance(hp, str):
                         candidate_links.append((hp, ""))
@@ -1009,14 +1015,12 @@ def main():
                         if link:
                             candidate_links.append((link, label))
 
-                # De-dup by URL
                 dedup = {}
                 for u,lbl in candidate_links:
                     if u and u not in dedup:
                         dedup[u] = lbl
                 candidate_links = [(u, dedup[u]) for u in dedup.keys()]
 
-                # Defaults if nothing to try
                 if not candidate_links:
                     dflt = DEFAULT_PORTS_BY_SHIP.get(name, [])
                     if dflt:
@@ -1119,7 +1123,7 @@ def main():
     except Exception as e:
         print(f"[error] Writing all.xml failed: {e}", file=sys.stderr)
 
-    # ---- Latest one per ship (use shipSlug), pick newest non-TBA event (arrival OR departure) ----
+    # ---- Latest one per ship (newest real event) ----
     def _infer_slug_from_title(title: str) -> str:
         for nm, sl in slug_by_name.items():
             if title.startswith(nm):
@@ -1133,21 +1137,18 @@ def main():
                 return sl
         return base.strip()
 
-    # Ensure newest→oldest by eventUtc for input
     all_hist_sorted = sorted(all_hist, key=_event_key, reverse=True)
 
     latest_by_slug = {}
     for it in all_hist_sorted:
         if _is_tba(it):
-            continue  # never surface TBA entries in latest-all
+            continue
         slug = it.get("shipSlug") or _infer_slug_from_title(it.get("title",""))
         if not slug:
             continue
-        # first seen per slug in DESC order is the newest real event (Arrived OR Departed)
         if slug not in latest_by_slug:
             latest_by_slug[slug] = it
 
-    # Sort the final list strictly by event time (newest first), regardless of Arrived/Departed
     latest_all = sorted(list(latest_by_slug.values()), key=_event_key, reverse=True)
 
     try:
@@ -1155,7 +1156,6 @@ def main():
         if PRETTY_XML: latest_all_xml = _pretty_xml(latest_all_xml)
         with open(os.path.join(DOCS_DIR, "latest-all.xml"), "w", encoding="utf-8") as f:
             f.write(latest_all_xml)
-        # Optional short alias
         with open(os.path.join(DOCS_DIR, "latest.xml"), "w", encoding="utf-8") as f:
             f.write(latest_all_xml)
     except Exception as e:
