@@ -5,7 +5,7 @@
     <title>DCL Ships - Arrivals &amp; Departures (All)</title>
     <link>https://github.com/</link>
     <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-    <lastBuildDate>Sun, 09 Nov 2025 09:30:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Nov 2025 09:43:39 GMT</lastBuildDate>
     <item>
       <title>Disney Wonder Departed from Melbourne, Australia at Nov 09, 01:25 AM EST. The local time to the port is Nov 09, 05:25 PM AEDT</title>
       <link>https://www.vesselfinder.com/ports/AUMEL001</link>
@@ -54,6 +54,20 @@
       <guid isPermaLink="false">3626b5e0b48ce24326259e89552c7834939d758d</guid>
       <pubDate>Sat, 08 Nov 2025 19:56:25 GMT</pubDate>
       <description><![CDATA[Cape Canaveral, United States (USA) Departure (UTC) Nov 8, 17:30 — ET: Nov 08, 12:30 PM EST | Local: Nov 08, 12:30 PM EST]]></description>
+    </item>
+    <item>
+      <title>Disney Magic Departed from San Juan, Puerto Rico at Nov 07, 04:24 PM EST. The local time to the port is Nov 07, 05:24 PM AST</title>
+      <link>https://www.vesselfinder.com/ports/PRSJU001</link>
+      <guid isPermaLink="false">845bd398e31ec27d74bafd36f52b3ed2878d277a</guid>
+      <pubDate>Sun, 09 Nov 2025 09:40:41 GMT</pubDate>
+      <description><![CDATA[San Juan, Puerto Rico Departure (UTC) Nov 7, 21:24 — ET: Nov 07, 04:24 PM EST | Local: Nov 07, 05:24 PM AST]]></description>
+    </item>
+    <item>
+      <title>Disney Magic Arrived at San Juan, Puerto Rico at Nov 07, 05:08 AM EST. The local time to the port is Nov 07, 06:08 AM AST</title>
+      <link>https://www.vesselfinder.com/ports/PRSJU001</link>
+      <guid isPermaLink="false">e800013174127dfefca34b161c742d1dcce09940</guid>
+      <pubDate>Sun, 09 Nov 2025 09:40:41 GMT</pubDate>
+      <description><![CDATA[San Juan, Puerto Rico Arrival (UTC) Nov 7, 10:08 — ET: Nov 07, 05:08 AM EST | Local: Nov 07, 06:08 AM AST]]></description>
     </item>
   </channel>
 </rss>
