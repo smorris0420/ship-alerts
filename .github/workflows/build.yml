@@ -43,6 +43,7 @@ jobs:
         run: |
           git config user.name "rss-bot"
           git config user.email "rss-bot@users.noreply.github.com"
+          git pull --rebase --strategy-option ours || true
           git add -A
           git commit -m "update feeds" || echo "No changes"
           git push
