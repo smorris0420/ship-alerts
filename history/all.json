@@ -1,5 +1,16 @@
 [
   {
+    "title": "Disney Magic Departed from Willemstad, Curacao at Nov 10, 05:06 PM EST. The local time to the port is Nov 10, 06:06 PM AST",
+    "description": "Willemstad, Curacao Departure (UTC) Nov 10, 22:06 — ET: Nov 10, 05:06 PM EST | Local: Nov 10, 06:06 PM AST",
+    "link": "https://www.vesselfinder.com/ports/CWWIL002",
+    "guid": "a5bd973e1fbf41bb670288dcc9abb49db7919abb",
+    "pubDate": "Mon, 10 Nov 2025 22:25:23 GMT",
+    "eventUtc": "2025-11-10T22:06:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Arrived at Hobart, Australia at Nov 10, 03:26 PM EST. The local time to the port is Nov 11, 07:26 AM AEDT",
     "description": "Hobart, Australia Arrival (UTC) Nov 10, 20:26 — ET: Nov 10, 03:26 PM EST | Local: Nov 11, 07:26 AM AEDT",
     "link": "https://www.vesselfinder.com/ports/AUHBA001",
