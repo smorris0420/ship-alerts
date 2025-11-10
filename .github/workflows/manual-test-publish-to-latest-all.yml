@@ -60,13 +60,17 @@ jobs:
           fetch-depth: 0
 
       - name: Configure Git
+        shell: bash
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name  "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # Mark workspace as safe to avoid safety checks that can block commits
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
 
       # ---------- Publish ----------
       - name: Validate inputs (Publish mode)
         if: ${{ inputs.mode == 'Publish' }}
+        shell: bash
         run: |
           set -e
           if [ -z "${{ inputs.ship }}" ] || [ -z "${{ inputs.event }}" ] || [ -z "${{ inputs.port }}" ] || [ -z "${{ inputs.est }}" ]; then
@@ -82,6 +86,7 @@ jobs:
 
       - name: Run publisher (Publish mode)
         if: ${{ inputs.mode == 'Publish' }}
+        shell: bash
         env:
           TARGET_FILE: docs/${{ inputs.filename }}
         run: |
@@ -102,30 +107,55 @@ jobs:
           sed -n '1,80p' "$TARGET_FILE" || true
           echo "----------------------------------"
 
-      - name: Commit publish
+      - name: Commit publish (only if changed)
         if: ${{ inputs.mode == 'Publish' }}
+        shell: bash
         env:
           TARGET_FILE: docs/${{ inputs.filename }}
           ALSO_UNDERSCORE: ${{ inputs.also_underscore }}
         run: |
           set -euo pipefail
-          git status --porcelain
-          if git diff --quiet -- "$TARGET_FILE"; then
-            echo "::error ::No changes detected in $TARGET_FILE after publisher ran."
-            exit 1
+
+          # Make sure we're up-to-date and avoid non-fast-forward
+          git fetch --all
+          # $GITHUB_REF_NAME is available on GH-hosted runners
+          CURRENT_BRANCH="${GITHUB_REF_NAME:-$(git rev-parse --abbrev-ref HEAD)}"
+          git checkout "$CURRENT_BRANCH"
+          git pull --rebase origin "$CURRENT_BRANCH" || true
+
+          # Prime diff for new files as well
+          git add -N "$TARGET_FILE" 2>/dev/null || true
+          if [ "${ALSO_UNDERSCORE}" = "true" ]; then
+            git add -N docs/latest_all.xml 2>/dev/null || true
+          fi
+
+          CHANGES=0
+          if ! git diff --quiet -- "$TARGET_FILE"; then
+            CHANGES=1
+          fi
+          if [ "${ALSO_UNDERSCORE}" = "true" ] && [ -f docs/latest_all.xml ]; then
+            if ! git diff --quiet -- "docs/latest_all.xml"; then
+              CHANGES=1
+            fi
+          fi
+
+          if [ "$CHANGES" -eq 0 ]; then
+            echo "::notice ::No changes detected; skipping commit."
+            exit 0
           fi
 
           git add "$TARGET_FILE"
-          if [ "$ALSO_UNDERSCORE" = "true" ]; then
-            git add docs/latest_all.xml || true
+          if [ "${ALSO_UNDERSCORE}" = "true" ] && [ -f docs/latest_all.xml ]; then
+            git add docs/latest_all.xml
           fi
 
           git commit -m "manual publish: ${{ inputs.ship }} ${{ inputs.event }} at ${{ inputs.port }}"
-          git push
+          git push origin "$CURRENT_BRANCH"
           echo "Publish committed & pushed."
 
       - name: Notify Power Automate (Publish mode)
         if: ${{ inputs.mode == 'Publish' }}
+        shell: bash
         env:
           FLOW_URL: ${{ secrets.FLOW_URL }}
           FLOW_SECRET: ${{ secrets.FLOW_SECRET }}
@@ -133,90 +163,4 @@ jobs:
           EVENT: ${{ inputs.event }}
           PORT: ${{ inputs.port }}
           EST: ${{ inputs.est }}
-          LOCAL: ${{ inputs.local }}
-          LINK: ${{ inputs.link }}
-        run: |
-          set -euo pipefail
-
-          if [ -z "${FLOW_URL:-}" ] || [ -z "${FLOW_SECRET:-}" ]; then
-            echo "::warning ::FLOW_URL or FLOW_SECRET not set; skipping webhook notify."
-            exit 0
-          fi
-
-          if [ "${EVENT}" = "Arrived" ]; then
-            VERB_PHRASE="Arrived at"
-          else
-            VERB_PHRASE="Departed from"
-          fi
-
-          TITLE="${SHIP} ${VERB_PHRASE} ${PORT} at ${EST}"
-          if [ -n "${LOCAL}" ]; then
-            TITLE="${TITLE}. The local time to the port is ${LOCAL}"
-          fi
-          export TITLE
-
-          GUID=$(python - <<'PY'
-import hashlib, os
-ship=os.environ['SHIP']; event=os.environ['EVENT']; port=os.environ['PORT']; est=os.environ['EST']
-key=f"manual|{ship}|{event}|{port}|{est}"
-print(hashlib.sha1(key.encode()).hexdigest())
-PY
-)
-          export GUID
-
-          PUB=$(date -u -R)
-          export PUB
-
-          python - <<'PY'
-import json, os
-payload = {
-  "ShipName":   os.environ["SHIP"],
-  "EventType":  os.environ["EVENT"],
-  "PortName":   os.environ["PORT"],
-  "ESTLabel":   os.environ["EST"],
-  "LocalLabel": os.environ.get("LOCAL",""),
-  "Link":       os.environ.get("LINK","#"),
-  "Title":      os.environ.get("TITLE",""),
-  "GuidKey":    os.environ["GUID"],
-  "PubDate":    os.environ["PUB"],
-  "Description": ""
-}
-with open("payload.json","w", encoding="utf-8") as f:
-  json.dump(payload, f, ensure_ascii=False)
-PY
-
-          curl -sS -X POST "$FLOW_URL" \
-            -H "Content-Type: application/json" \
-            -H "x-shipalerts-secret: $FLOW_SECRET" \
-            --data @payload.json
-
-      # ---------- Restore (copy latest.xml -> latest-all.xml) ----------
-      - name: Restore from latest.xml (RestorePrevious mode)
-        if: ${{ inputs.mode == 'RestorePrevious' }}
-        env:
-          DEST_FILE: docs/${{ inputs.filename }}
-          SRC_FILE: docs/latest.xml
-          ALSO_UNDERSCORE: ${{ inputs.also_underscore }}
-        run: |
-          set -e
-          echo "Source:  $SRC_FILE"
-          echo "Dest:    $DEST_FILE"
-
-          if [ ! -f "$SRC_FILE" ]; then
-            echo "ERROR: $SRC_FILE not found. Cannot restore."
-            exit 1
-          fi
-
-          mkdir -p "$(dirname "$DEST_FILE")"
-          cp "$SRC_FILE" "$DEST_FILE"
-
-          if [ "$ALSO_UNDERSCORE" = "true" ]; then
-            cp "$SRC_FILE" docs/latest_all.xml
-            git add docs/latest_all.xml
-            echo "Also restored docs/latest_all.xml from latest.xml."
-          fi
-
-          git add "$DEST_FILE"
-          git commit -m "restore: copy latest.xml -> $DEST_FILE" || echo "No changes to commit"
-          git push || echo "No changes pushed"
-          echo "Restore complete."
+          LOCAL: ${{
