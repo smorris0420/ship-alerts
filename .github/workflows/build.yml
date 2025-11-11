@@ -38,11 +38,15 @@ jobs:
         run: |
           python -m playwright install --with-deps chromium
 
-      # Webhook secrets are provided to the scraper here
-      - name: Run scraper (with webhook support)
+      # ✅ Email-based alert delivery
+      - name: Run scraper (email mode)
         env:
-          FLOW_URL: ${{ secrets.FLOW_URL }}
-          FLOW_SECRET: ${{ secrets.FLOW_SECRET }}
+          SMTP_HOST:   ${{ secrets.SMTP_HOST }}
+          SMTP_PORT:   ${{ secrets.SMTP_PORT }}     # typically 587
+          SMTP_USER:   ${{ secrets.SMTP_USER }}
+          SMTP_PASS:   ${{ secrets.SMTP_PASS }}
+          ALERT_INBOX: ${{ secrets.ALERT_INBOX }}   # shared mailbox address
+          ALERT_FROM:  ${{ secrets.ALERT_FROM }}    # optional
         run: |
           python playwright_scrape.py
 
