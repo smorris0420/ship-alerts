@@ -55,6 +55,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: manual-publish-${{ github.ref_name }}
+  cancel-in-progress: false
+
 jobs:
   publish-or-restore:
     runs-on: ubuntu-latest
@@ -63,6 +67,8 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          persist-credentials: true
+          ref: ${{ github.ref_name }}  # ensure we're on the triggering branch
 
       - name: Configure Git
         run: |
@@ -104,16 +110,23 @@ jobs:
           sed -n '1,80p' "docs/${{ inputs.filename }}" || true
           echo "--------------------------------"
 
-      - name: Commit publish
+      - name: Commit publish (robust)
         if: ${{ inputs.mode == 'Publish' }}
         env:
           TARGET_FILE: docs/${{ inputs.filename }}
           ALSO_UNDERSCORE: ${{ inputs.also_underscore }}
         run: |
           set -euo pipefail
+
+          # Be on the triggering branch and rebase first
+          git checkout "${GITHUB_REF_NAME}"
+          git fetch --all
+          git pull --rebase || true
+
+          # If the publisher didn't actually change anything, don't fail the job
           if ! git status --porcelain | grep -q "$TARGET_FILE"; then
-            echo "::error ::No changes detected in $TARGET_FILE after publisher ran."
-            exit 1
+            echo "No detected changes to $TARGET_FILE; skipping commit."
+            exit 0
           fi
 
           git add "$TARGET_FILE"
@@ -121,9 +134,18 @@ jobs:
             git add docs/latest_all.xml || true
           fi
 
-          git commit -m "manual publish: ${{ inputs.ship }} ${{ inputs.event }} at ${{ inputs.port }}"
-          git pull --rebase || true
-          git push
+          git commit -m "manual publish: ${{ inputs.ship }} ${{ inputs.event }} at ${{ inputs.port }}" || {
+            echo "Nothing to commit."; exit 0;
+          }
+
+          if ! git push; then
+            echo "First push failed; fetching & rebasing then retrying..."
+            git fetch --all
+            git pull --rebase || true
+            git push
+          fi
+
+          echo "Publish committed & pushed."
 
       # ---------- Restore (copy latest.xml -> latest-all.xml) ----------
       - name: Restore from latest.xml (RestorePrevious)
@@ -147,15 +169,38 @@ jobs:
 
           if [ "$ALSO_UNDERSCORE" = "true" ]; then
             cp "$SRC_FILE" docs/latest_all.xml
-            git add docs/latest_all.xml
             echo "Also restored docs/latest_all.xml from latest.xml."
           fi
 
-          git add "$DEST_FILE"
-          git commit -m "restore: copy latest.xml -> $DEST_FILE" || echo "No changes to commit"
+      - name: Commit restore (robust)
+        if: ${{ inputs.mode == 'RestorePrevious' }}
+        env:
+          DEST_FILE: docs/${{ inputs.filename }}
+          ALSO_UNDERSCORE: ${{ inputs.also_underscore }}
+        run: |
+          set -euo pipefail
+
+          git checkout "${GITHUB_REF_NAME}"
+          git fetch --all
           git pull --rebase || true
-          git push || echo "No changes pushed"
-          echo "Restore complete."
+
+          git add "$DEST_FILE"
+          if [ "$ALSO_UNDERSCORE" = "true" ]; then
+            git add docs/latest_all.xml || true
+          fi
+
+          git commit -m "restore: copy latest.xml -> $DEST_FILE" || {
+            echo "No changes to commit."; exit 0;
+          }
+
+          if ! git push; then
+            echo "First push failed; fetching & rebasing then retrying..."
+            git fetch --all
+            git pull --rebase || true
+            git push
+          fi
+
+          echo "Restore committed & pushed."
 
       # ---------- Email notification (Publish only) ----------
       - name: Send email (Publish)
