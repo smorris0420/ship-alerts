@@ -18,9 +18,10 @@ except Exception:
 from urllib.parse import urljoin, urlparse, urlunparse, parse_qs, urlencode
 from playwright.sync_api import sync_playwright, TimeoutError as PWTimeout
 from bs4 import BeautifulSoup, Tag, NavigableString
-import urllib.request  # kept (no longer used, but harmless)
+import urllib.request
 import smtplib, ssl
 from email.message import EmailMessage
+from functools import lru_cache
 
 REPO_ROOT  = os.path.dirname(__file__)
 DOCS_DIR   = os.path.join(REPO_ROOT, "docs")
@@ -211,14 +212,15 @@ GLOBAL_FALLBACK_PORTS = [
 
 # ---------- Utilities ----------
 
-def _sleep_jitter(min_s=0.8, max_s=1.6):
+def _sleep_jitter(min_s=0.6, max_s=1.2):
     time.sleep(random.uniform(min_s, max_s))
 
 def _looks_blocked(html: str) -> bool:
     if not html: return True
     low = html.lower()
-    return ("captcha" in low) or ("access denied" in low) or ("cf-") in low and ("turnstile" in low)
+    return ("captcha" in low) or ("access denied" in low) or (("cf-" in low) and ("turnstile" in low))
 
+@lru_cache(maxsize=256)
 def zinfo(tz_name: str):
     """Safe ZoneInfo constructor with fallback to America/New_York."""
     try:
@@ -247,6 +249,21 @@ def save_json(path, data):
             json.dump(data, f, indent=2, ensure_ascii=False)
     except Exception as e:
         print(f"[error] Failed to save {path}: {e}", file=sys.stderr)
+
+def _write_if_changed(path: str, text: str) -> bool:
+    """Write only if content changed. Returns True if written."""
+    try:
+        os.makedirs(os.path.dirname(path), exist_ok=True)
+        if os.path.exists(path):
+            with open(path, "r", encoding="utf-8") as rf:
+                if rf.read() == text:
+                    return False
+        with open(path, "w", encoding="utf-8") as wf:
+            wf.write(text)
+        return True
+    except Exception as e:
+        print(f"[error] write failed for {path}: {e}", file=sys.stderr)
+        return False
 
 def load_history(slug: str):
     os.makedirs(HIST_DIR, exist_ok=True)
@@ -304,6 +321,7 @@ def _is_tba(item: dict) -> bool:
 
 # ---- Canonical de-dupe (Option C)
 
+@lru_cache(maxsize=512)
 def _normalize_port_name(name: str) -> str:
     s = (name or "").lower()
     s = re.sub(r"[^a-z0-9]+", " ", s).strip()
@@ -322,11 +340,13 @@ def _canonical_guid(slug: str, verb: str, port: str, event_iso: str) -> str:
     return make_id(key)
 
 # ---- XML formatting knobs ----
-PRETTY_XML = True
+PRETTY_XML = os.getenv("PRETTY_XML", "1") == "1"
 USE_CDATA  = True
 STYLESHEET_NAME = "rss-dcl.xsl"   # written to docs/
 
 def _pretty_xml(xml_str: str) -> str:
+    if not PRETTY_XML:
+        return xml_str
     try:
         from xml.dom import minidom
         dom = minidom.parseString(xml_str.encode("utf-8"))
@@ -449,8 +469,7 @@ def _ensure_stylesheet_dcl():
   </xsl:template>
 </xsl:stylesheet>
 """
-        with open(xsl_path, "w", encoding="utf-8") as f:
-            f.write(xsl)
+        _write_if_changed(xsl_path, xsl)
     except Exception as e:
         print(f"[warn] Could not write stylesheet: {e}", file=sys.stderr)
 
@@ -589,7 +608,64 @@ def format_times_for_notification(port_name: str, port_link: str, when_raw: str)
 
     return est_str, local_str, dt_utc.isoformat()
 
-# ---------- VesselFinder ship-page scraping ----------
+# ---------- Browser pooling ----------
+
+class BrowserPool:
+    """Reuse one headless Chromium with two contexts (desktop + mobile)."""
+    def __init__(self, p):
+        self.browser = p.chromium.launch(headless=True)
+        self.ctx_desktop = self.browser.new_context(
+            user_agent=("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                        "(KHTML, like Gecko) Chrome/120 Safari/537.36"),
+            viewport={"width": 1366, "height": 2000}
+        )
+        self.ctx_mobile = self.browser.new_context(
+            user_agent=("Mozilla/5.0 (Linux; Android 12; Pixel 5) AppleWebKit/537.36 "
+                        "(KHTML, like Gecko) Chrome/120 Mobile Safari/537.36"),
+            viewport={"width": 412, "height": 1800},
+            device_scale_factor=2
+        )
+        self.page_desktop = self.ctx_desktop.new_page()
+        self.page_mobile  = self.ctx_mobile.new_page()
+
+    def close(self):
+        try:
+            self.ctx_desktop.close()
+        finally:
+            try:
+                self.ctx_mobile.close()
+            finally:
+                self.browser.close()
+
+def _rendered_html(url: str, pool: "BrowserPool", mobile: bool, wait_selector: str = None, wait_text: str = None):
+    page = pool.page_mobile if mobile else pool.page_desktop
+    html = ""
+    try:
+        page.goto(url, timeout=30000, wait_until="domcontentloaded")
+        if wait_text:
+            try: page.wait_for_selector(f"text={wait_text}", timeout=6000)
+            except PWTimeout: pass
+        if wait_selector:
+            try: page.wait_for_selector(wait_selector, timeout=6000)
+            except PWTimeout: pass
+        try: page.wait_for_load_state("networkidle", timeout=4000)
+        except PWTimeout: pass
+        html = page.content()
+        if not html:
+            # one soft retry
+            _sleep_jitter()
+            html = page.content()
+    except Exception:
+        html = ""
+    if _looks_blocked(html) and not mobile:
+        _sleep_jitter()
+        parsed = urlparse(url)
+        mobile_url = urlunparse(parsed._replace(netloc="www.vesselfinder.com"))
+        return _rendered_html(mobile_url, pool, mobile=True, wait_selector=wait_selector, wait_text=wait_text)
+    _sleep_jitter()
+    return html
+
+# ---------- VF ship-page scraping ----------
 
 def _find_root(soup: BeautifulSoup):
     for tag in soup.find_all(lambda t: isinstance(t, Tag) and t.name in ("h1","h2","h3","h4","div")):
@@ -676,69 +752,27 @@ def _parse_vf(html: str):
 
     return results
 
-def _rendered_html(url: str, p, mobile: bool, wait_selector: str = None, wait_text: str = None):
-    ua = ("Mozilla/5.0 (Linux; Android 12; Pixel 5) AppleWebKit/537.36 "
-          "(KHTML, like Gecko) Chrome/120 Mobile Safari/537.36") if mobile else \
-         ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-          "(KHTML, like Gecko) Chrome/120 Safari/537.36")
-    browser = p.chromium.launch(headless=True)
-    ctx = browser.new_context(user_agent=ua, viewport={"width": 1280, "height": 2200})
-    page = ctx.new_page()
-    try:
-        page.goto(url, timeout=45000, wait_until="domcontentloaded")
-
-        # Optional waits for dynamic content
-        if wait_text:
-            try:
-                page.wait_for_selector(f"text={wait_text}", timeout=10000)
-            except PWTimeout:
-                pass
-        if wait_selector:
-            try:
-                page.wait_for_selector(wait_selector, timeout=12000)
-            except PWTimeout:
-                pass
-
-        # Allow background XHRs to settle
-        try:
-            page.wait_for_load_state("networkidle", timeout=8000)
-        except PWTimeout:
-            pass
-
-        page.evaluate("window.scrollTo(0, document.body.scrollHeight * 0.6);")
-        html = page.content()
-    finally:
-        ctx.close(); browser.close()
-
-    if _looks_blocked(html) and not mobile:
-        _sleep_jitter()
-        parsed = urlparse(url)
-        mobile_url = urlunparse(parsed._replace(netloc="www.vesselfinder.com"))
-        return _rendered_html(mobile_url, p, mobile=True, wait_selector=wait_selector, wait_text=wait_text)
-    _sleep_jitter()
-    return html
-
-def _vf_events_for_ship(p, ship):
+def _vf_events_for_ship(pool: "BrowserPool", ship):
     base_url = ship["url"]
-    # Desktop
+    # Desktop first
     try:
-        html = _rendered_html(base_url, p, mobile=False, wait_text="Recent Port Calls")
+        html = _rendered_html(base_url, pool, mobile=False, wait_text="Recent Port Calls")
         rows = _parse_vf(html)
         if rows: return rows, base_url
     except Exception as e:
         print(f"[warn] desktop VF render failed for {ship['name']}: {e}", file=sys.stderr)
-    # Mobile
+    # Mobile fallback
     try:
         parsed = urlparse(base_url)
         mobile_url = urlunparse(parsed._replace(netloc="www.vesselfinder.com"))
-        html = _rendered_html(mobile_url, p, mobile=True, wait_text="Recent Port Calls")
+        html = _rendered_html(mobile_url, pool, mobile=True, wait_text="Recent Port Calls")
         rows = _parse_vf(html)
         if rows: return rows, mobile_url
     except Exception as e:
         print(f"[warn] mobile VF render failed for {ship['name']}: {e}", file=sys.stderr)
     return [], base_url
 
-# ---------- CruiseMapper coordinate scrape ----------
+# ---------- CruiseMapper coordinate scrape (HTTP, no Playwright) ----------
 
 COORD_RE = re.compile(
     r'([+-]?\d+(?:\.\d+)?)\s*[°]?\s*([NS])?\s*[,/ ]\s*([+-]?\d+(?:\.\d+)?)\s*[°]?\s*([EW])?',
@@ -757,21 +791,22 @@ def _parse_coords(text: str):
     if ew and ew.upper() == "W": lon = -abs(lon)
     return (lat, lon)
 
-def _cm_fetch_coords(p, cm_url: str):
-    ua = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-          "(KHTML, like Gecko) Chrome/120 Safari/537.36")
-    browser = p.chromium.launch(headless=True)
-    ctx = browser.new_context(user_agent=ua, viewport={"width": 1280, "height": 1600})
-    page = ctx.new_page()
+def _cm_fetch_coords_http(cm_url: str, timeout=20):
     try:
-        page.goto(cm_url, timeout=45000, wait_until="domcontentloaded")
-        html = page.content()
-    finally:
-        ctx.close(); browser.close()
-    soup = BeautifulSoup(html, "html.parser")
-    txt = soup.get_text(" ", strip=True)
-    coords = _parse_coords(txt)
-    return coords  # (lat, lon) or None
+        req = urllib.request.Request(
+            cm_url,
+            headers={"User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                                    "AppleWebKit/537.36 (KHTML, like Gecko) "
+                                    "Chrome/120 Safari/537.36")}
+        )
+        with urllib.request.urlopen(req, timeout=timeout) as resp:
+            html = resp.read().decode("utf-8", errors="ignore")
+        soup = BeautifulSoup(html, "html.parser")
+        txt = soup.get_text(" ", strip=True)
+        return _parse_coords(txt)
+    except Exception as e:
+        print(f"[warn] CruiseMapper HTTP failed: {e}", file=sys.stderr)
+        return None
 
 def haversine_km(a, b):
     R = 6371.0
@@ -933,7 +968,7 @@ def _parse_port_table_for_ship(html: str, ship_name: str, port_url: str, tab_kin
         })
     return rows
 
-def _fetch_port_fallback_events(p, ship_name: str, candidate_links_with_labels: list):
+def _fetch_port_fallback_events(pool: "BrowserPool", ship_name: str, candidate_links_with_labels: list):
     """
     Try multiple port links (and both tabs). Each candidate is (port_url, port_label).
     Returns aggregated rows for the ship across all tried pages.
@@ -944,26 +979,33 @@ def _fetch_port_fallback_events(p, ship_name: str, candidate_links_with_labels: 
         for tab in ("departures", "arrivals"):
             try:
                 url = _ensure_tab(urljoin("https://www.vesselfinder.com", port_url), tab)
-                # Desktop with robust waits
-                html = _rendered_html(url, p, mobile=False, wait_selector="table")
+                html = _rendered_html(url, pool, mobile=False, wait_selector="table")
                 rows = _parse_port_table_for_ship(html, ship_name, port_url, tab, label or port_url)
-
-                # If nothing, try mobile (often more stable)
                 if not rows:
                     parsed = urlparse(url)
                     mobile_url = urlunparse(parsed._replace(netloc="www.vesselfinder.com"))
-                    html_m = _rendered_html(mobile_url, p, mobile=True, wait_selector="table")
+                    html_m = _rendered_html(mobile_url, pool, mobile=True, wait_selector="table")
                     rows = _parse_port_table_for_ship(html_m, ship_name, port_url, tab, label or port_url)
 
                 for r in rows:
                     key = (r["event"], r["port"], r["_iso"])
                     if key in seen:
                         continue
-                    out.append(r)
-                    seen.add(key)
+                    out.append(r); seen.add(key)
             except Exception as e:
                 print(f"[warn] Port fallback {label or port_url} ({tab}) failed: {e}", file=sys.stderr)
     return out
+
+# ---------- Helpers for fallback gating ----------
+
+def _most_recent_event_iso(items):
+    try:
+        return max((
+            datetime.fromisoformat(i.get("eventUtc"))
+            for i in items if i.get("eventUtc")
+        ), default=None)
+    except Exception:
+        return None
 
 # ---------- Main ----------
 
@@ -988,233 +1030,244 @@ def main():
     _ensure_stylesheet_dcl()
 
     with sync_playwright() as p:
-        for s in ships:
-            name = s.get("name"); slug = s.get("slug"); vf_url = s.get("url")
-            if not (name and slug and vf_url):
-                print(f"[warn] skipping malformed ship entry: {s}", file=sys.stderr)
-                continue
+        pool = BrowserPool(p)
+        try:
+            for s in ships:
+                name = s.get("name"); slug = s.get("slug"); vf_url = s.get("url")
+                if not (name and slug and vf_url):
+                    print(f"[warn] skipping malformed ship entry: {s}", file=sys.stderr)
+                    continue
 
-            print(f"[info] Fetching VF for {name}: {vf_url}")
+                print(f"[info] Fetching VF for {name}: {vf_url}")
 
-            # 1) VesselFinder port-calls (ship page)
-            try:
-                rows, used = _vf_events_for_ship(p, s)
-                print(f"[info] Parsed VF {name}: {len(rows)} events")
-            except Exception as e:
-                print(f"[error] VF parse failed for {name}: {e}\n{traceback.format_exc()}", file=sys.stderr)
-                rows = []
-                used = vf_url
-
-            ship_items_new = []
-
-            # 1a) Build items from ship page rows
-            for r in rows:
+                # 1) VesselFinder port-calls (ship page)
                 try:
-                    est_str, local_str, event_iso = format_times_for_notification(
-                        r.get("port",""), r.get("link",""), r.get("when_raw","")
-                    )
-                    verb = "Arrived" if r.get("event") == "Arrived" else "Departed"
-                    title_verb = "Arrived at" if verb == "Arrived" else "Departed from"
-
-                    if (not event_iso) and SKIP_TBA.get(verb, False):
-                        continue
-
-                    if est_str and local_str:
-                        title = f"{name} {title_verb} {r['port']} at {est_str}. The local time to the port is {local_str}"
-                    elif est_str:
-                        title = f"{name} {title_verb} {r['port']} at {est_str}"
-                    else:
-                        continue
-
-                    base_desc = r.get("detail","").replace(" (UTC) -", " (UTC) (time not yet posted)")
-                    if est_str and local_str:
-                        desc = f"{base_desc} — ET: {est_str} | Local: {local_str}"
-                    elif est_str:
-                        desc = f"{base_desc} — ET: {est_str}"
-                    else:
-                        desc = base_desc
-
-                    link = urljoin(vf_url, r.get("link","")) if r.get("link") else vf_url
-
-                    event_iso_final = event_iso
-                    if not event_iso_final:
-                        continue
-
-                    guid = _canonical_guid(slug, verb, r['port'], event_iso_final)
-                    if canon_seen.get(guid):
-                        continue
-
-                    item = {
-                        "title": title,
-                        "description": desc,
-                        "link": link,
-                        "guid": guid,
-                        "pubDate": to_rfc2822(datetime.utcnow()),
-                        "eventUtc": event_iso_final,
-                        "shipSlug": slug,
-                        "shipName": name,
-                        "source": "vf_ship"
-                    }
-                    ship_items_new.append(item)
-                    all_items_new.append(item)
-                    canon_seen[guid] = True
-
-                    # ---- email notify (JSON attachment)
-                    post_flow_webhook({
-                        "ShipName":   name,
-                        "EventType":  verb,                 # Arrived | Departed
-                        "PortName":   r["port"],
-                        "ESTLabel":   est_str or "",
-                        "LocalLabel": local_str or "",
-                        "Link":       link or "",
-                        "Title":      title,
-                        "GuidKey":    guid,
-                        "PubDate":    item["pubDate"],
-                        "Description": desc
-                    })
-
+                    rows, used = _vf_events_for_ship(pool, s)
+                    print(f"[info] Parsed VF {name}: {len(rows)} events")
                 except Exception as e:
-                    print(f"[warn] VF item build failed for {name}: {e}", file=sys.stderr)
+                    print(f"[error] VF parse failed for {name}: {e}\n{traceback.format_exc()}", file=sys.stderr)
+                    rows = []
+                    used = vf_url
 
-            # 2) Port-page fallback
-            try:
-                candidate_links = []
-                if rows and rows[0].get("link"):
-                    candidate_links.append((rows[0]["link"], rows[0].get("port","")))
+                ship_items_new = []
 
-                for hp in s.get("home_ports", []):
-                    if isinstance(hp, str):
-                        candidate_links.append((hp, ""))
-                    elif isinstance(hp, dict):
-                        link = hp.get("link","")
-                        label = hp.get("label","")
-                        if link:
-                            candidate_links.append((link, label))
+                # 1a) Build items from ship page rows
+                for r in rows:
+                    try:
+                        est_str, local_str, event_iso = format_times_for_notification(
+                            r.get("port",""), r.get("link",""), r.get("when_raw","")
+                        )
+                        verb = "Arrived" if r.get("event") == "Arrived" else "Departed"
+                        title_verb = "Arrived at" if verb == "Arrived" else "Departed from"
 
-                dedup = {}
-                for u,lbl in candidate_links:
-                    if u and u not in dedup:
-                        dedup[u] = lbl
-                candidate_links = [(u, dedup[u]) for u in dedup.keys()]
-
-                if not candidate_links:
-                    dflt = DEFAULT_PORTS_BY_SHIP.get(name, [])
-                    if dflt:
-                        candidate_links = [(d["link"], d.get("label","")) for d in dflt if d.get("link")]
-                    else:
-                        candidate_links = [(d["link"], d.get("label","")) for d in GLOBAL_FALLBACK_PORTS]
-
-                if candidate_links:
-                    port_rows = _fetch_port_fallback_events(p, name, candidate_links)
-                    print(f"[info] Port fallback {name} using {len(candidate_links)} port(s): {len(port_rows)} rows")
-
-                    for r in port_rows:
-                        try:
-                            verb = r["event"]
-                            est_str, local_str, event_iso = r.get("_est"), r.get("_local"), r.get("_iso")
-                            title_verb = "Arrived at" if verb == "Arrived" else "Departed from"
-                            title = f"{name} {title_verb} {r['port']} at {est_str}. The local time to the port is {local_str}"
-
-                            base_desc = r.get("detail","")
-                            desc = f"{base_desc} — ET: {est_str} | Local: {local_str}"
-
-                            link = urljoin("https://www.vesselfinder.com", r.get("link",""))
-
-                            guid = _canonical_guid(slug, verb, r['port'], event_iso)
-                            if canon_seen.get(guid):
-                                continue
-
-                            item = {
-                                "title": title,
-                                "description": desc,
-                                "link": link,
-                                "guid": guid,
-                                "pubDate": to_rfc2822(datetime.utcnow()),
-                                "eventUtc": event_iso,
-                                "shipSlug": slug,
-                                "shipName": name,
-                                "source": "vf_port"
-                            }
-                            ship_items_new.append(item)
-                            all_items_new.append(item)
-                            canon_seen[guid] = True
-
-                            # ---- email notify (JSON attachment)
-                            post_flow_webhook({
-                                "ShipName":   name,
-                                "EventType":  verb,
-                                "PortName":   r["port"],
-                                "ESTLabel":   est_str or "",
-                                "LocalLabel": local_str or "",
-                                "Link":       link or "",
-                                "Title":      title,
-                                "GuidKey":    guid,
-                                "PubDate":    item["pubDate"],
-                                "Description": desc
-                            })
-
-                        except Exception as e:
-                            print(f"[warn] Port-fallback build failed for {name}: {e}", file=sys.stderr)
-            except Exception as e:
-                print(f"[warn] Port fallback failed for {name}: {e}", file=sys.stderr)
-
-            # 3) Geofence (CruiseMapper coords)
-            cm_url = s.get("cm_url") or f"https://www.cruisemapper.com/ships/{_cm_slug(name)}"
-            try:
-                coords = _cm_fetch_coords(p, cm_url)
-                if coords:
-                    geo_items = geofence_events_from_coords(name, slug, coords, state)
-                    for it in geo_items:
-                        if canon_seen.get(it["guid"]):
+                        if (not event_iso) and SKIP_TBA.get(verb, False):
                             continue
-                        ship_items_new.append(it)
-                        all_items_new.append(it)
-                        canon_seen[it["guid"]] = True
+
+                        if est_str and local_str:
+                            title = f"{name} {title_verb} {r['port']} at {est_str}. The local time to the port is {local_str}"
+                        elif est_str:
+                            title = f"{name} {title_verb} {r['port']} at {est_str}"
+                        else:
+                            continue
+
+                        base_desc = r.get("detail","").replace(" (UTC) -", " (UTC) (time not yet posted)")
+                        if est_str and local_str:
+                            desc = f"{base_desc} — ET: {est_str} | Local: {local_str}"
+                        elif est_str:
+                            desc = f"{base_desc} — ET: {est_str}"
+                        else:
+                            desc = base_desc
+
+                        link = urljoin(vf_url, r.get("link","")) if r.get("link") else vf_url
+
+                        event_iso_final = event_iso
+                        if not event_iso_final:
+                            continue
+
+                        guid = _canonical_guid(slug, verb, r['port'], event_iso_final)
+                        if canon_seen.get(guid):
+                            continue
+
+                        item = {
+                            "title": title,
+                            "description": desc,
+                            "link": link,
+                            "guid": guid,
+                            "pubDate": to_rfc2822(datetime.utcnow()),
+                            "eventUtc": event_iso_final,
+                            "shipSlug": slug,
+                            "shipName": name,
+                            "source": "vf_ship"
+                        }
+                        ship_items_new.append(item)
+                        all_items_new.append(item)
+                        canon_seen[guid] = True
 
                         # ---- email notify (JSON attachment)
                         post_flow_webhook({
-                            "ShipName":   it["shipName"],
-                            "EventType":  it.get("eventType",""),
-                            "PortName":   it.get("portName",""),
-                            "ESTLabel":   it.get("estLabel",""),
-                            "LocalLabel": it.get("localLabel",""),
-                            "Link":       it.get("link",""),
-                            "Title":      it.get("title",""),
-                            "GuidKey":    it.get("guid",""),
-                            "PubDate":    it.get("pubDate",""),
-                            "Description": it.get("description","")
+                            "ShipName":   name,
+                            "EventType":  verb,                 # Arrived | Departed
+                            "PortName":   r["port"],
+                            "ESTLabel":   est_str or "",
+                            "LocalLabel": local_str or "",
+                            "Link":       link or "",
+                            "Title":      title,
+                            "GuidKey":    guid,
+                            "PubDate":    item["pubDate"],
+                            "Description": desc
                         })
 
-                else:
-                    print(f"[warn] No coords from CruiseMapper for {name} ({cm_url})")
-            except Exception as e:
-                print(f"[warn] Geofence failed for {name}: {e}", file=sys.stderr)
+                    except Exception as e:
+                        print(f"[warn] VF item build failed for {name}: {e}", file=sys.stderr)
 
-            # ---- PER SHIP HISTORY (sorted by event time) ----
-            ship_hist = load_history(slug)
-            ship_hist = merge_items(ship_hist, ship_items_new, PER_SHIP_CAP)
-            save_history(slug, ship_hist)
+                # Decide whether to skip port fallback (recent event within X hours)
+                recent_iso = _most_recent_event_iso(ship_items_new)
+                now_utc = datetime.utcnow().replace(tzinfo=timezone.utc)
+                skip_fallback = bool(recent_iso and (now_utc - recent_iso) < timedelta(hours=18))
 
-            # DEBUG metrics
-            print(f"[debug] {name} new_items: ship_page={len([i for i in ship_items_new if i.get('source')=='vf_ship'])} "
-                  f"port_fallback={len([i for i in ship_items_new if i.get('source')=='vf_port'])} "
-                  f"geo={len([i for i in ship_items_new if i.get('source')=='geo'])} "
-                  f"total_added_this_run={len(ship_items_new)} "
-                  f"hist_after_merge={len(ship_hist)}")
+                # 2) Port-page fallback (limit candidates)
+                if not skip_fallback:
+                    try:
+                        candidate_links = []
+                        if rows and rows[0].get("link"):
+                            candidate_links.append((rows[0]["link"], rows[0].get("port","")))
 
-            # Write per-ship feeds (pretty + XSL PI)
-            try:
-                ship_xml = build_rss(f"{name} - Arrivals & Departures", vf_url, ship_hist)
-                if PRETTY_XML: ship_xml = _pretty_xml(ship_xml)
-                with open(os.path.join(DOCS_DIR, f"{slug}.xml"), "w", encoding="utf-8") as f:
-                    f.write(ship_xml)
+                        for hp in s.get("home_ports", []):
+                            if isinstance(hp, str):
+                                candidate_links.append((hp, ""))
+                            elif isinstance(hp, dict):
+                                link = hp.get("link","")
+                                label = hp.get("label","")
+                                if link:
+                                    candidate_links.append((link, label))
 
-                latest_xml = build_rss(f"{name} - Latest Arrival/Departure", vf_url, ship_hist[:1])
-                if PRETTY_XML: latest_xml = _pretty_xml(latest_xml)
-                with open(os.path.join(DOCS_DIR, f"{slug}-latest.xml"), "w", encoding="utf-8") as f:
-                    f.write(latest_xml)
-            except Exception as e:
-                print(f"[error] Writing ship feeds failed for {name}: {e}", file=sys.stderr)
+                        dedup = {}
+                        for u,lbl in candidate_links:
+                            if u and u not in dedup:
+                                dedup[u] = lbl
+                        candidate_links = [(u, dedup[u]) for u in dedup.keys()]
+
+                        if not candidate_links:
+                            dflt = DEFAULT_PORTS_BY_SHIP.get(name, [])
+                            if dflt:
+                                candidate_links = [(d["link"], d.get("label","")) for d in dflt if d.get("link")]
+                            else:
+                                candidate_links = [(d["link"], d.get("label","")) for d in GLOBAL_FALLBACK_PORTS]
+
+                        # keep it snappy
+                        candidate_links = candidate_links[:3]
+
+                        if candidate_links:
+                            port_rows = _fetch_port_fallback_events(pool, name, candidate_links)
+                            print(f"[info] Port fallback {name} using {len(candidate_links)} port(s): {len(port_rows)} rows")
+
+                            for r in port_rows:
+                                try:
+                                    verb = r["event"]
+                                    est_str, local_str, event_iso = r.get("_est"), r.get("_local"), r.get("_iso")
+                                    title_verb = "Arrived at" if verb == "Arrived" else "Departed from"
+                                    title = f"{name} {title_verb} {r['port']} at {est_str}. The local time to the port is {local_str}"
+
+                                    base_desc = r.get("detail","")
+                                    desc = f"{base_desc} — ET: {est_str} | Local: {local_str}"
+
+                                    link = urljoin("https://www.vesselfinder.com", r.get("link",""))
+
+                                    guid = _canonical_guid(slug, verb, r['port'], event_iso)
+                                    if canon_seen.get(guid):
+                                        continue
+
+                                    item = {
+                                        "title": title,
+                                        "description": desc,
+                                        "link": link,
+                                        "guid": guid,
+                                        "pubDate": to_rfc2822(datetime.utcnow()),
+                                        "eventUtc": event_iso,
+                                        "shipSlug": slug,
+                                        "shipName": name,
+                                        "source": "vf_port"
+                                    }
+                                    ship_items_new.append(item)
+                                    all_items_new.append(item)
+                                    canon_seen[guid] = True
+
+                                    # ---- email notify (JSON attachment)
+                                    post_flow_webhook({
+                                        "ShipName":   name,
+                                        "EventType":  verb,
+                                        "PortName":   r["port"],
+                                        "ESTLabel":   est_str or "",
+                                        "LocalLabel": local_str or "",
+                                        "Link":       link or "",
+                                        "Title":      title,
+                                        "GuidKey":    guid,
+                                        "PubDate":    item["pubDate"],
+                                        "Description": desc
+                                    })
+
+                                except Exception as e:
+                                    print(f"[warn] Port-fallback build failed for {name}: {e}", file=sys.stderr)
+                    except Exception as e:
+                        print(f"[warn] Port fallback failed for {name}: {e}", file=sys.stderr)
+
+                # 3) Geofence (CruiseMapper coords via HTTP)
+                cm_url = s.get("cm_url") or f"https://www.cruisemapper.com/ships/{_cm_slug(name)}"
+                try:
+                    coords = _cm_fetch_coords_http(cm_url)
+                    if coords:
+                        geo_items = geofence_events_from_coords(name, slug, coords, state)
+                        for it in geo_items:
+                            if canon_seen.get(it["guid"]):
+                                continue
+                            ship_items_new.append(it)
+                            all_items_new.append(it)
+                            canon_seen[it["guid"]] = True
+
+                            # ---- email notify (JSON attachment)
+                            post_flow_webhook({
+                                "ShipName":   it["shipName"],
+                                "EventType":  it.get("eventType",""),
+                                "PortName":   it.get("portName",""),
+                                "ESTLabel":   it.get("estLabel",""),
+                                "LocalLabel": it.get("localLabel",""),
+                                "Link":       it.get("link",""),
+                                "Title":      it.get("title",""),
+                                "GuidKey":    it.get("guid",""),
+                                "PubDate":    it.get("pubDate",""),
+                                "Description": it.get("description","")
+                            })
+
+                    else:
+                        print(f"[warn] No coords from CruiseMapper for {name} ({cm_url})")
+                except Exception as e:
+                    print(f"[warn] Geofence failed for {name}: {e}", file=sys.stderr)
+
+                # ---- PER SHIP HISTORY (sorted by event time) ----
+                ship_hist = load_history(slug)
+                ship_hist = merge_items(ship_hist, ship_items_new, PER_SHIP_CAP)
+                save_history(slug, ship_hist)
+
+                # DEBUG metrics
+                print(f"[debug] {name} new_items: ship_page={len([i for i in ship_items_new if i.get('source')=='vf_ship'])} "
+                      f"port_fallback={len([i for i in ship_items_new if i.get('source')=='vf_port'])} "
+                      f"geo={len([i for i in ship_items_new if i.get('source')=='geo'])} "
+                      f"total_added_this_run={len(ship_items_new)} "
+                      f"hist_after_merge={len(ship_hist)}")
+
+                # Write per-ship feeds (pretty + XSL PI)
+                try:
+                    ship_xml = build_rss(f"{name} - Arrivals & Departures", vf_url, ship_hist)
+                    ship_xml = _pretty_xml(ship_xml)
+                    _write_if_changed(os.path.join(DOCS_DIR, f"{slug}.xml"), ship_xml)
+
+                    latest_xml = build_rss(f"{name} - Latest Arrival/Departure", vf_url, ship_hist[:1])
+                    latest_xml = _pretty_xml(latest_xml)
+                    _write_if_changed(os.path.join(DOCS_DIR, f"{slug}-latest.xml"), latest_xml)
+                except Exception as e:
+                    print(f"[error] Writing ship feeds failed for {name}: {e}", file=sys.stderr)
+        finally:
+            pool.close()
 
     # ---- COMBINED HISTORY (sorted by event time) ----
     all_hist = load_history("all")
@@ -1223,9 +1276,8 @@ def main():
 
     try:
         all_xml = build_rss("DCL Ships - Arrivals & Departures (All)", "https://github.com/", all_hist)
-        if PRETTY_XML: all_xml = _pretty_xml(all_xml)
-        with open(os.path.join(DOCS_DIR, "all.xml"), "w", encoding="utf-8") as f:
-            f.write(all_xml)
+        all_xml = _pretty_xml(all_xml)
+        _write_if_changed(os.path.join(DOCS_DIR, "all.xml"), all_xml)
     except Exception as e:
         print(f"[error] Writing all.xml failed: {e}", file=sys.stderr)
 
@@ -1259,11 +1311,9 @@ def main():
 
     try:
         latest_all_xml = build_rss("DCL Ships - Latest (One per Ship)", "https://github.com/", latest_all)
-        if PRETTY_XML: latest_all_xml = _pretty_xml(latest_all_xml)
-        with open(os.path.join(DOCS_DIR, "latest-all.xml"), "w", encoding="utf-8") as f:
-            f.write(latest_all_xml)
-        with open(os.path.join(DOCS_DIR, "latest.xml"), "w", encoding="utf-8") as f:
-            f.write(latest_all_xml)
+        latest_all_xml = _pretty_xml(latest_all_xml)
+        _write_if_changed(os.path.join(DOCS_DIR, "latest-all.xml"), latest_all_xml)
+        _write_if_changed(os.path.join(DOCS_DIR, "latest.xml"), latest_all_xml)
     except Exception as e:
         print(f"[error] Writing latest-all.xml failed: {e}", file=sys.stderr)
 
