@@ -1,5 +1,27 @@
 [
   {
+    "title": "Disney Destiny Departed from Gorda Cay, Bahamas at Nov 12, 05:39 PM EST. The local time to the port is Nov 12, 05:39 PM EST",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Nov 12, 22:39 — ET: Nov 12, 05:39 PM EST | Local: Nov 12, 05:39 PM EST",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "da4f2874a16030bd635d8ba84f6022bfa41f4fb6",
+    "pubDate": "Thu, 13 Nov 2025 06:24:28 GMT",
+    "eventUtc": "2025-11-12T22:39:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Destiny Arrived at Gorda Cay, Bahamas at Nov 12, 10:59 AM EST. The local time to the port is Nov 12, 10:59 AM EST",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Nov 12, 15:59 — ET: Nov 12, 10:59 AM EST | Local: Nov 12, 10:59 AM EST",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "3ef9b25f3a3613b9d2cfcc7ec185c0a6a816ba74",
+    "pubDate": "Thu, 13 Nov 2025 06:24:27 GMT",
+    "eventUtc": "2025-11-12T15:59:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Departed from Cape Canaveral, United States (USA) at Nov 08, 12:30 PM EST. The local time to the port is Nov 08, 12:30 PM EST",
     "description": "Cape Canaveral, United States (USA) Departure (UTC) Nov 8, 17:30 — ET: Nov 08, 12:30 PM EST | Local: Nov 08, 12:30 PM EST",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
