@@ -5,7 +5,7 @@
   <title>DCL Ships - Latest (One per Ship)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Latest (One per Ship) - Auto-generated</description>
-  <lastBuildDate>Sun, 16 Nov 2025 07:56:11 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 16 Nov 2025 08:18:37 GMT</lastBuildDate>
   
   <item>
     <title>Disney Destiny Departed from Port Everglades, United States (USA) at Nov 16, 09:00 AM EST. The local time to the port is Nov 16, 09:00 AM EST</title>
@@ -36,6 +36,13 @@
     <description><![CDATA[Cape Canaveral, United States (USA) Departure (UTC) Nov 15, 22:18 — ET: Nov 15, 05:18 PM EST | Local: Nov 15, 05:18 PM EST]]></description>
   </item>
   <item>
+    <title>Disney Fantasy Departed from Gorda Cay, Bahamas at Nov 15, 04:29 PM EST. The local time to the port is Nov 15, 04:29 PM EST</title>
+    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
+    <guid isPermaLink="false">a8f841273da9dcd6e141616ae209b04ea08a9cbd</guid>
+    <pubDate>Sun, 16 Nov 2025 08:16:09 GMT</pubDate>
+    <description><![CDATA[Gorda Cay, Bahamas Departure (UTC) Nov 15, 21:29 — ET: Nov 15, 04:29 PM EST | Local: Nov 15, 04:29 PM EST]]></description>
+  </item>
+  <item>
     <title>Disney Dream Departed from Port Everglades, United States (USA) at Nov 14, 11:15 AM EST. The local time to the port is Nov 14, 11:15 AM EST</title>
     <link>https://www.vesselfinder.com/ports/USPEF001</link>
     <guid isPermaLink="false">28461925ada554b888ec19d49ebf926a4eea7faf</guid>
@@ -48,13 +55,6 @@
     <guid isPermaLink="false">1d34dc27a71118f96112cc7e67d6a98a9e8ea450</guid>
     <pubDate>Thu, 13 Nov 2025 20:42:31 GMT</pubDate>
     <description><![CDATA[Basseterre, St Kitts & Nevis Departure (UTC) Nov 13, 20:18 — ET: Nov 13, 03:18 PM EST | Local: Nov 13, 04:18 PM AST]]></description>
-  </item>
-  <item>
-    <title>Disney Fantasy Departed from Funchal, Madeira, Portugal at Nov 08, 01:34 PM EST. The local time to the port is Nov 08, 06:34 PM WET</title>
-    <link>https://www.vesselfinder.com/ports/PTFNC001</link>
-    <guid isPermaLink="false">a9df69233bc175a9e6cd3cf1187ded8d20702981</guid>
-    <pubDate>Sat, 08 Nov 2025 18:51:09 GMT</pubDate>
-    <description><![CDATA[Funchal, Madeira, Portugal Departure (UTC) Nov 8, 18:34 — ET: Nov 08, 01:34 PM EST | Local: Nov 08, 06:34 PM WET]]></description>
   </item>
 </channel>
 </rss>
