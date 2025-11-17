@@ -1,5 +1,16 @@
 [
   {
+    "title": "Disney Wonder Arrived at Hobart, Australia at Nov 17, 03:19 PM EST. The local time to the port is Nov 18, 07:19 AM AEDT",
+    "description": "Hobart, Australia Arrival (UTC) Nov 17, 20:19 — ET: Nov 17, 03:19 PM EST | Local: Nov 18, 07:19 AM AEDT",
+    "link": "https://www.vesselfinder.com/ports/AUHBA001",
+    "guid": "d7c55061ac5d957af0c4432b48b7f236382ca529",
+    "pubDate": "Mon, 17 Nov 2025 21:01:53 GMT",
+    "eventUtc": "2025-11-17T20:19:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Departed from Melbourne, Australia at Nov 16, 01:19 AM EST. The local time to the port is Nov 16, 05:19 PM AEDT",
     "description": "Melbourne, Australia Departure (UTC) Nov 16, 06:19 — ET: Nov 16, 01:19 AM EST | Local: Nov 16, 05:19 PM AEDT",
     "link": "https://www.vesselfinder.com/ports/AUMEL001",
