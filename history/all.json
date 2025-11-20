@@ -1,5 +1,27 @@
 [
   {
+    "title": "Disney Dream Arrived at Nassau, Bahamas at Nov 20, 07:31 AM EST. The local time to the port is Nov 20, 07:31 AM EST",
+    "description": "Nassau, Bahamas Arrival (UTC) Nov 20, 12:31 — ET: Nov 20, 07:31 AM EST | Local: Nov 20, 07:31 AM EST",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "fe5e995c4c93c6f679bcd77288a9ec4a487900a7",
+    "pubDate": "Thu, 20 Nov 2025 13:11:17 GMT",
+    "eventUtc": "2025-11-20T12:31:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Magic Arrived at Galveston, United States (USA) at Nov 20, 07:06 AM EST. The local time to the port is Nov 20, 07:06 AM EST",
+    "description": "Galveston, United States (USA) Arrival (UTC) Nov 20, 12:06 — ET: Nov 20, 07:06 AM EST | Local: Nov 20, 07:06 AM EST",
+    "link": "https://www.vesselfinder.com/ports/USGLS001",
+    "guid": "496470bc666f436ed4335d641a6a5d11bd2089d6",
+    "pubDate": "Thu, 20 Nov 2025 13:11:10 GMT",
+    "eventUtc": "2025-11-20T12:06:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Departed from Melbourne, Australia at Nov 20, 01:35 AM EST. The local time to the port is Nov 20, 05:35 PM AEDT",
     "description": "Melbourne, Australia Departure (UTC) Nov 20, 06:35 — ET: Nov 20, 01:35 AM EST | Local: Nov 20, 05:35 PM AEDT",
     "link": "https://www.vesselfinder.com/ports/AUMEL001",
@@ -8,6 +30,17 @@
     "eventUtc": "2025-11-20T06:35:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Wish Departed from Gorda Cay, Bahamas at Nov 19, 05:02 PM EST. The local time to the port is Nov 19, 05:02 PM EST",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Nov 19, 22:02 — ET: Nov 19, 05:02 PM EST | Local: Nov 19, 05:02 PM EST",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "3eb7cb2e6845fc3d5897a7a3e157134d8e1951c5",
+    "pubDate": "Thu, 20 Nov 2025 13:09:49 GMT",
+    "eventUtc": "2025-11-19T22:02:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
     "source": "vf_ship"
   },
   {
@@ -42,6 +75,17 @@
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
     "source": "vf_port"
+  },
+  {
+    "title": "Disney Wish Arrived at Gorda Cay, Bahamas at Nov 19, 07:45 AM EST. The local time to the port is Nov 19, 07:45 AM EST",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Nov 19, 12:45 — ET: Nov 19, 07:45 AM EST | Local: Nov 19, 07:45 AM EST",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "7dbebed9997731df6ec340cf10e82cda900b79e0",
+    "pubDate": "Thu, 20 Nov 2025 13:09:47 GMT",
+    "eventUtc": "2025-11-19T12:45:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
   },
   {
     "title": "Disney Destiny Arrived at Port Everglades, United States (USA) at Nov 19, 05:55 AM EST. The local time to the port is Nov 19, 05:55 AM EST",
