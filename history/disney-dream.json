@@ -1,5 +1,16 @@
 [
   {
+    "title": "Disney Dream Departed from Nassau, Bahamas at Nov 20, 06:20 PM EST. The local time to the port is Nov 20, 06:20 PM EST",
+    "description": "Nassau, Bahamas Departure (UTC) Nov 20, 23:20 — ET: Nov 20, 06:20 PM EST | Local: Nov 20, 06:20 PM EST",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "cb07e4daf2031371d21d7b12582e65d6dc0f3a7a",
+    "pubDate": "Fri, 21 Nov 2025 01:18:54 GMT",
+    "eventUtc": "2025-11-20T23:20:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Arrived at Nassau, Bahamas at Nov 20, 07:31 AM EST. The local time to the port is Nov 20, 07:31 AM EST",
     "description": "Nassau, Bahamas Arrival (UTC) Nov 20, 12:31 — ET: Nov 20, 07:31 AM EST | Local: Nov 20, 07:31 AM EST",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
