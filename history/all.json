@@ -44,6 +44,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Fantasy Departed from Nassau, Bahamas at Nov 26, 06:11 PM EST. The local time to the port is Nov 26, 06:11 PM EST",
+    "description": "Nassau, Bahamas Departure (UTC) Nov 26, 23:11 — ET: Nov 26, 06:11 PM EST | Local: Nov 26, 06:11 PM EST",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "30e7fc8b049e386742cefb47b3eb9ba0e4af058a",
+    "pubDate": "Thu, 27 Nov 2025 03:01:53 GMT",
+    "eventUtc": "2025-11-26T23:11:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Departed from Gorda Cay, Bahamas at Nov 26, 05:08 PM EST. The local time to the port is Nov 26, 05:08 PM EST",
     "description": "Gorda Cay, Bahamas Departure (UTC) Nov 26, 22:08 — ET: Nov 26, 05:08 PM EST | Local: Nov 26, 05:08 PM EST",
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
@@ -85,6 +96,17 @@
     "eventUtc": "2025-11-26T19:04:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Fantasy Arrived at Nassau, Bahamas at Nov 26, 08:36 AM EST. The local time to the port is Nov 26, 08:36 AM EST",
+    "description": "Nassau, Bahamas Arrival (UTC) Nov 26, 13:36 — ET: Nov 26, 08:36 AM EST | Local: Nov 26, 08:36 AM EST",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "0360d439449d7971da71378b223e46df0a8e42a3",
+    "pubDate": "Thu, 27 Nov 2025 03:01:52 GMT",
+    "eventUtc": "2025-11-26T13:36:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
     "source": "vf_ship"
   },
   {
