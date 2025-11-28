@@ -44,6 +44,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Wish Arrived at Cape Canaveral, United States (USA) at Nov 28, 05:50 AM EST. The local time to the port is Nov 28, 05:50 AM EST",
+    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Nov 28, 10:50 — ET: Nov 28, 05:50 AM EST | Local: Nov 28, 05:50 AM EST",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "56db825ccdf0b2a67565df140a52402cc93e612b",
+    "pubDate": "Fri, 28 Nov 2025 11:44:15 GMT",
+    "eventUtc": "2025-11-28T10:50:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Arrived at Port Everglades, United States (USA) at Nov 28, 05:44 AM EST. The local time to the port is Nov 28, 05:44 AM EST",
     "description": "Port Everglades, United States (USA) Arrival (UTC) Nov 28, 10:44 — ET: Nov 28, 05:44 AM EST | Local: Nov 28, 05:44 AM EST",
     "link": "https://www.vesselfinder.com/ports/USPEF001",
