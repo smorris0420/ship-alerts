@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Departed from Gorda Cay, Bahamas at Nov 28, 04:51 PM EST. The local time to the port is Nov 28, 04:51 PM EST",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Nov 28, 21:51 — ET: Nov 28, 04:51 PM EST | Local: Nov 28, 04:51 PM EST",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "9528307fdefcc352a162c3d4dba0be4529fa69a0",
+    "pubDate": "Sat, 29 Nov 2025 07:31:18 GMT",
+    "eventUtc": "2025-11-28T21:51:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Departed from Port Everglades, United States (USA) at Nov 28, 04:30 PM EST. The local time to the port is Nov 28, 04:30 PM EST",
     "description": "Port Everglades, United States (USA) Departure (UTC) Nov 28, 21:30 — ET: Nov 28, 04:30 PM EST | Local: Nov 28, 04:30 PM EST",
     "link": "https://www.vesselfinder.com/ports/USPEF001",
@@ -75,6 +86,17 @@
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
     "source": "vf_port"
+  },
+  {
+    "title": "Disney Treasure Arrived at Gorda Cay, Bahamas at Nov 28, 10:05 AM EST. The local time to the port is Nov 28, 10:05 AM EST",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Nov 28, 15:05 — ET: Nov 28, 10:05 AM EST | Local: Nov 28, 10:05 AM EST",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "51b7ca47cfa8201cafa340f6723e5d34545eb4a0",
+    "pubDate": "Sat, 29 Nov 2025 07:31:17 GMT",
+    "eventUtc": "2025-11-28T15:05:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
   },
   {
     "title": "Disney Magic Arrived at Galveston, United States (USA) at Nov 28, 08:03 AM EST. The local time to the port is Nov 28, 08:03 AM EST",
