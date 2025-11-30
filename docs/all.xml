@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Sun, 30 Nov 2025 08:46:40 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 30 Nov 2025 08:57:51 GMT</lastBuildDate>
   
   <item>
     <title>Disney Wonder Departed from Auckland, New Zealand at Nov 30, 03:01 AM EST. The local time to the port is Nov 30, 09:01 PM NZDT</title>
@@ -22,11 +22,25 @@
     <description><![CDATA[Cape Canaveral, United States (USA) Departure (UTC) Nov 29, 22:16 — ET: Nov 29, 05:16 PM EST | Local: Nov 29, 05:16 PM EST]]></description>
   </item>
   <item>
+    <title>Disney Fantasy Departed from Gorda Cay, Bahamas at Nov 29, 04:47 PM EST. The local time to the port is Nov 29, 04:47 PM EST</title>
+    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
+    <guid isPermaLink="false">c71dcc72077a434578a4b738b4f4f14bb48464b0</guid>
+    <pubDate>Sun, 30 Nov 2025 08:54:20 GMT</pubDate>
+    <description><![CDATA[Gorda Cay, Bahamas Departure (UTC) Nov 29, 21:47 — ET: Nov 29, 04:47 PM EST | Local: Nov 29, 04:47 PM EST]]></description>
+  </item>
+  <item>
     <title>Disney Wonder Arrived at Auckland, New Zealand at Nov 29, 04:21 PM EST. The local time to the port is Nov 30, 10:21 AM NZDT</title>
     <link>https://www.vesselfinder.com/ports/NZAKL001</link>
     <guid isPermaLink="false">32debf016c88882d092059629c0a66fd742cf31e</guid>
     <pubDate>Sat, 29 Nov 2025 22:04:22 GMT</pubDate>
     <description><![CDATA[Auckland, New Zealand Arrival (UTC) Nov 29, 21:21 — ET: Nov 29, 04:21 PM EST | Local: Nov 30, 10:21 AM NZDT]]></description>
+  </item>
+  <item>
+    <title>Disney Fantasy Arrived at Gorda Cay, Bahamas at Nov 29, 07:18 AM EST. The local time to the port is Nov 29, 07:18 AM EST</title>
+    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
+    <guid isPermaLink="false">f1b0b1fcef02ef160a09975c2241ca885486c834</guid>
+    <pubDate>Sun, 30 Nov 2025 08:54:18 GMT</pubDate>
+    <description><![CDATA[Gorda Cay, Bahamas Arrival (UTC) Nov 29, 12:18 — ET: Nov 29, 07:18 AM EST | Local: Nov 29, 07:18 AM EST]]></description>
   </item>
   <item>
     <title>Disney Treasure Arrived at Cape Canaveral, United States (USA) at Nov 29, 06:00 AM EST. The local time to the port is Nov 29, 06:00 AM EST</title>
