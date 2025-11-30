@@ -22,6 +22,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Magic Departed from Cozumel, Mexico at Nov 30, 06:20 PM EST. The local time to the port is Nov 30, 06:20 PM EST",
+    "description": "Cozumel, Mexico Departure (UTC) Nov 30, 23:20 — ET: Nov 30, 06:20 PM EST | Local: Nov 30, 06:20 PM EST",
+    "link": "https://www.vesselfinder.com/ports/MXCZM001",
+    "guid": "63b98f27b41398b1604d069257c42b9fc9019f3d",
+    "pubDate": "Sun, 30 Nov 2025 23:28:19 GMT",
+    "eventUtc": "2025-11-30T23:20:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Departed from Gorda Cay, Bahamas at Nov 30, 04:53 PM EST. The local time to the port is Nov 30, 04:53 PM EST",
     "description": "Gorda Cay, Bahamas Departure (UTC) Nov 30, 21:53 — ET: Nov 30, 04:53 PM EST | Local: Nov 30, 04:53 PM EST",
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
