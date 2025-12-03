@@ -1,5 +1,16 @@
 [
   {
+    "title": "Disney Wonder Arrived at Auckland, New Zealand at Dec 03, 12:23 PM EST. The local time to the port is Dec 04, 06:23 AM NZDT",
+    "description": "Auckland, New Zealand Arrival (UTC) Dec 3, 17:23 — ET: Dec 03, 12:23 PM EST | Local: Dec 04, 06:23 AM NZDT",
+    "link": "https://www.vesselfinder.com/ports/NZAKL001",
+    "guid": "fde09f2abb3d6a1b684bb3ede4bfee2368390117",
+    "pubDate": "Wed, 03 Dec 2025 17:56:34 GMT",
+    "eventUtc": "2025-12-03T17:23:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Departed from Port Everglades, United States (USA) at Dec 03, 09:30 AM EST. The local time to the port is Dec 03, 09:30 AM EST",
     "description": "Port Everglades, United States (USA) Departure (UTC) Dec 03, 14:30 — ET: Dec 03, 09:30 AM EST | Local: Dec 03, 09:30 AM EST",
     "link": "https://www.vesselfinder.com/ports/USPEF001",
