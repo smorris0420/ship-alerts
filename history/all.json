@@ -22,6 +22,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Magic Arrived at Galveston, United States (USA) at Dec 03, 07:49 AM EST. The local time to the port is Dec 03, 07:49 AM EST",
+    "description": "Galveston, United States (USA) Arrival (UTC) Dec 3, 12:49 — ET: Dec 03, 07:49 AM EST | Local: Dec 03, 07:49 AM EST",
+    "link": "https://www.vesselfinder.com/ports/USGLS001",
+    "guid": "65a5caf7608a5cccc5bf868c272f542e28a846b4",
+    "pubDate": "Wed, 03 Dec 2025 13:54:00 GMT",
+    "eventUtc": "2025-12-03T12:49:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Arrived at Port Everglades, United States (USA) at Dec 03, 05:08 AM EST. The local time to the port is Dec 03, 05:08 AM EST",
     "description": "Port Everglades, United States (USA) Arrival (UTC) Dec 3, 10:08 — ET: Dec 03, 05:08 AM EST | Local: Dec 03, 05:08 AM EST",
     "link": "https://www.vesselfinder.com/ports/USPEF001",
