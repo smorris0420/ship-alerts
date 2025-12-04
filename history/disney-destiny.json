@@ -1,5 +1,16 @@
 [
   {
+    "title": "Disney Destiny Departed from Nassau, Bahamas at Dec 04, 05:55 PM EST. The local time to the port is Dec 04, 05:55 PM EST",
+    "description": "Nassau, Bahamas Departure (UTC) Dec 4, 22:55 — ET: Dec 04, 05:55 PM EST | Local: Dec 04, 05:55 PM EST",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "c9cc619ceff0ea86c94056dcc4ad23211f59fe6c",
+    "pubDate": "Thu, 04 Dec 2025 23:04:56 GMT",
+    "eventUtc": "2025-12-04T22:55:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Arrived at Nassau, Bahamas at Dec 04, 07:25 AM EST. The local time to the port is Dec 04, 07:25 AM EST",
     "description": "Nassau, Bahamas Arrival (UTC) Dec 4, 12:25 — ET: Dec 04, 07:25 AM EST | Local: Dec 04, 07:25 AM EST",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
