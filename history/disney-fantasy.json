@@ -11,11 +11,33 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Fantasy Departed from Unknown Port at Dec 04, 04:38 PM EST. The local time to the port is Dec 04, 04:38 PM EST",
+    "description": "Unknown Port Departure (UTC) Dec 4, 21:38 — ET: Dec 04, 04:38 PM EST | Local: Dec 04, 04:38 PM EST",
+    "link": "https://www.vesselfinder.com/vessels/details/9445590",
+    "guid": "6bfa886b1b4cc95300aefbb9378da0ee96daef6c",
+    "pubDate": "Fri, 05 Dec 2025 05:38:32 GMT",
+    "eventUtc": "2025-12-04T21:38:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Arrived at Cape Canaveral, United States (USA) at Dec 04, 06:05 AM EST. The local time to the port is Dec 04, 06:05 AM EST",
     "description": "Cape Canaveral, United States (USA) Arrival (UTC) Dec 4, 11:05 — ET: Dec 04, 06:05 AM EST | Local: Dec 04, 06:05 AM EST",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
     "guid": "b4f6b3653ff6a475a830503302e7f03aca58fc9c",
     "pubDate": "Thu, 04 Dec 2025 11:45:29 GMT",
+    "eventUtc": "2025-12-04T11:05:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Fantasy Arrived at Unknown Port at Dec 04, 06:05 AM EST. The local time to the port is Dec 04, 06:05 AM EST",
+    "description": "Unknown Port Arrival (UTC) Dec 4, 11:05 — ET: Dec 04, 06:05 AM EST | Local: Dec 04, 06:05 AM EST",
+    "link": "https://www.vesselfinder.com/vessels/details/9445590",
+    "guid": "55d0255d68dea8dbcb4e3fcdf316b93a8bc020a6",
+    "pubDate": "Fri, 05 Dec 2025 05:38:31 GMT",
     "eventUtc": "2025-12-04T11:05:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",

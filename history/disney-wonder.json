@@ -33,11 +33,33 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Departed from Unknown Port at Dec 04, 04:22 AM EST. The local time to the port is Dec 04, 04:22 AM EST",
+    "description": "Unknown Port Departure (UTC) Dec 4, 09:22 — ET: Dec 04, 04:22 AM EST | Local: Dec 04, 04:22 AM EST",
+    "link": "https://www.vesselfinder.com/vessels/details/9126819",
+    "guid": "e2009546de10362059921b72a655611e4e8a6d93",
+    "pubDate": "Fri, 05 Dec 2025 05:40:44 GMT",
+    "eventUtc": "2025-12-04T09:22:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Arrived at Auckland, New Zealand at Dec 03, 12:23 PM EST. The local time to the port is Dec 04, 06:23 AM NZDT",
     "description": "Auckland, New Zealand Arrival (UTC) Dec 3, 17:23 — ET: Dec 03, 12:23 PM EST | Local: Dec 04, 06:23 AM NZDT",
     "link": "https://www.vesselfinder.com/ports/NZAKL001",
     "guid": "fde09f2abb3d6a1b684bb3ede4bfee2368390117",
     "pubDate": "Wed, 03 Dec 2025 17:56:34 GMT",
+    "eventUtc": "2025-12-03T17:23:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Wonder Arrived at Unknown Port at Dec 03, 12:23 PM EST. The local time to the port is Dec 03, 12:23 PM EST",
+    "description": "Unknown Port Arrival (UTC) Dec 3, 17:23 — ET: Dec 03, 12:23 PM EST | Local: Dec 03, 12:23 PM EST",
+    "link": "https://www.vesselfinder.com/vessels/details/9126819",
+    "guid": "64f84d618c87d86027acbcb266cdeff5a0ebb64b",
+    "pubDate": "Fri, 05 Dec 2025 05:40:42 GMT",
     "eventUtc": "2025-12-03T17:23:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",

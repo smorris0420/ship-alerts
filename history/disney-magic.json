@@ -11,11 +11,33 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Unknown Port at Dec 03, 05:59 PM EST. The local time to the port is Dec 03, 05:59 PM EST",
+    "description": "Unknown Port Departure (UTC) Dec 3, 22:59 — ET: Dec 03, 05:59 PM EST | Local: Dec 03, 05:59 PM EST",
+    "link": "https://www.vesselfinder.com/vessels/details/9126807",
+    "guid": "0854450018779db3ca05c36f6c574316aefe268c",
+    "pubDate": "Fri, 05 Dec 2025 05:38:46 GMT",
+    "eventUtc": "2025-12-03T22:59:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Arrived at Galveston, United States (USA) at Dec 03, 07:49 AM EST. The local time to the port is Dec 03, 07:49 AM EST",
     "description": "Galveston, United States (USA) Arrival (UTC) Dec 3, 12:49 — ET: Dec 03, 07:49 AM EST | Local: Dec 03, 07:49 AM EST",
     "link": "https://www.vesselfinder.com/ports/USGLS001",
     "guid": "65a5caf7608a5cccc5bf868c272f542e28a846b4",
     "pubDate": "Wed, 03 Dec 2025 13:54:00 GMT",
+    "eventUtc": "2025-12-03T12:49:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Magic Arrived at Unknown Port at Dec 03, 07:49 AM EST. The local time to the port is Dec 03, 07:49 AM EST",
+    "description": "Unknown Port Arrival (UTC) Dec 3, 12:49 — ET: Dec 03, 07:49 AM EST | Local: Dec 03, 07:49 AM EST",
+    "link": "https://www.vesselfinder.com/vessels/details/9126807",
+    "guid": "1f4a3e61dfbc5eed08407bed4110d7ab02801d6b",
+    "pubDate": "Fri, 05 Dec 2025 05:38:45 GMT",
     "eventUtc": "2025-12-03T12:49:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",

@@ -11,11 +11,33 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Departed from Unknown Port at Dec 03, 04:51 PM EST. The local time to the port is Dec 03, 04:51 PM EST",
+    "description": "Unknown Port Departure (UTC) Dec 3, 21:51 — ET: Dec 03, 04:51 PM EST | Local: Dec 03, 04:51 PM EST",
+    "link": "https://www.vesselfinder.com/vessels/details/9834739",
+    "guid": "d6eee61c25b43e16beefebd11e4718d5cc642d3f",
+    "pubDate": "Fri, 05 Dec 2025 05:36:02 GMT",
+    "eventUtc": "2025-12-03T21:51:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Arrived at Gorda Cay, Bahamas at Dec 03, 07:37 AM EST. The local time to the port is Dec 03, 07:37 AM EST",
     "description": "Gorda Cay, Bahamas Arrival (UTC) Dec 3, 12:37 — ET: Dec 03, 07:37 AM EST | Local: Dec 03, 07:37 AM EST",
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
     "guid": "22284b6cc29e129e097d8782d002ef0b064aadc7",
     "pubDate": "Thu, 04 Dec 2025 03:36:43 GMT",
+    "eventUtc": "2025-12-03T12:37:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Wish Arrived at Unknown Port at Dec 03, 07:37 AM EST. The local time to the port is Dec 03, 07:37 AM EST",
+    "description": "Unknown Port Arrival (UTC) Dec 3, 12:37 — ET: Dec 03, 07:37 AM EST | Local: Dec 03, 07:37 AM EST",
+    "link": "https://www.vesselfinder.com/vessels/details/9834739",
+    "guid": "1ac4bce3bf255b572c354559865bf1a406bc34c7",
+    "pubDate": "Fri, 05 Dec 2025 05:36:01 GMT",
     "eventUtc": "2025-12-03T12:37:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
