@@ -99,6 +99,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Magic Departed from Progreso, Mexico at Dec 05, 07:00 PM EST. The local time to the port is Dec 05, 07:00 PM EST",
+    "description": "Progreso, Mexico Departure (UTC) Dec 6, 00:00 — ET: Dec 05, 07:00 PM EST | Local: Dec 05, 07:00 PM EST",
+    "link": "https://www.vesselfinder.com/ports/MXPGO001",
+    "guid": "4a49bbc35f1c135077902685748dec7970b5071b",
+    "pubDate": "Sat, 06 Dec 2025 21:44:26 GMT",
+    "eventUtc": "2025-12-06T00:00:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Departed from Gorda Cay, Bahamas at Dec 05, 04:49 PM EST. The local time to the port is Dec 05, 04:49 PM EST",
     "description": "Gorda Cay, Bahamas Departure (UTC) Dec 5, 21:49 — ET: Dec 05, 04:49 PM EST | Local: Dec 05, 04:49 PM EST",
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
@@ -129,6 +140,17 @@
     "eventUtc": "2025-12-05T21:34:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Magic Arrived at Progreso, Mexico at Dec 05, 08:05 AM EST. The local time to the port is Dec 05, 08:05 AM EST",
+    "description": "Progreso, Mexico Arrival (UTC) Dec 5, 13:05 — ET: Dec 05, 08:05 AM EST | Local: Dec 05, 08:05 AM EST",
+    "link": "https://www.vesselfinder.com/ports/MXPGO001",
+    "guid": "2aa99ab5a6470140adfd6239286170b40e840b83",
+    "pubDate": "Sat, 06 Dec 2025 21:44:25 GMT",
+    "eventUtc": "2025-12-05T13:05:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
     "source": "vf_ship"
   },
   {
