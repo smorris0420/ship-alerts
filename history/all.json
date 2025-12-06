@@ -1,5 +1,27 @@
 [
   {
+    "title": "Disney Magic Departed from Galveston, United States (USA) at Dec 07, 10:00 AM EST. The local time to the port is Dec 07, 10:00 AM EST",
+    "description": "Galveston, United States (USA) Departure (UTC) Dec 07, 15:00 — ET: Dec 07, 10:00 AM EST | Local: Dec 07, 10:00 AM EST",
+    "link": "https://www.vesselfinder.com/ports/USGLS001",
+    "guid": "c538632373165091f77ad37ca0cb5dc35cd9ff54",
+    "pubDate": "Sat, 06 Dec 2025 03:32:32 GMT",
+    "eventUtc": "2025-12-07T15:00:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_port"
+  },
+  {
+    "title": "Disney Magic Arrived at Galveston, United States (USA) at Dec 07, 10:00 AM EST. The local time to the port is Dec 07, 10:00 AM EST",
+    "description": "Galveston, United States (USA) Arrival (UTC) Dec 07, 15:00 — ET: Dec 07, 10:00 AM EST | Local: Dec 07, 10:00 AM EST",
+    "link": "https://www.vesselfinder.com/ports/USGLS001",
+    "guid": "3d15e769a01fe2241043e018d773f4f7efba787f",
+    "pubDate": "Sat, 06 Dec 2025 03:32:34 GMT",
+    "eventUtc": "2025-12-07T15:00:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_port"
+  },
+  {
     "title": "Disney Wonder Departed from Auckland, New Zealand at Dec 05, 10:00 PM EST. The local time to the port is Dec 06, 04:00 PM NZDT",
     "description": "Auckland, New Zealand Departure (UTC) Dec 06, 03:00 — ET: Dec 05, 10:00 PM EST | Local: Dec 06, 04:00 PM NZDT",
     "link": "https://www.vesselfinder.com/ports/NZAKL001",
