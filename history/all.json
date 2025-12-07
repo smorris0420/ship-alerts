@@ -66,6 +66,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Wish Arrived at Gorda Cay, Bahamas at Dec 07, 07:23 AM EST. The local time to the port is Dec 07, 07:23 AM EST",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Dec 7, 12:23 — ET: Dec 07, 07:23 AM EST | Local: Dec 07, 07:23 AM EST",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "e8413ef3977e3fdf3872847eba15e4fdf83ebd40",
+    "pubDate": "Sun, 07 Dec 2025 13:02:01 GMT",
+    "eventUtc": "2025-12-07T12:23:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Arrived at Galveston, United States (USA) at Dec 07, 05:37 AM EST. The local time to the port is Dec 07, 05:37 AM EST",
     "description": "Galveston, United States (USA) Arrival (UTC) Dec 7, 10:37 — ET: Dec 07, 05:37 AM EST | Local: Dec 07, 05:37 AM EST",
     "link": "https://www.vesselfinder.com/ports/USGLS001",
