@@ -1,5 +1,27 @@
 [
   {
+    "title": "Disney Wonder Departed from Auckland, New Zealand at Dec 08, 01:45 AM EST. The local time to the port is Dec 08, 07:45 PM NZDT",
+    "description": "Auckland, New Zealand Departure (UTC) Dec 08, 06:45 — ET: Dec 08, 01:45 AM EST | Local: Dec 08, 07:45 PM NZDT",
+    "link": "https://www.vesselfinder.com/ports/NZAKL001",
+    "guid": "49b85980c5298683c5eebf35e62a91728ad95300",
+    "pubDate": "Sun, 07 Dec 2025 02:30:00 GMT",
+    "eventUtc": "2025-12-08T06:45:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_port"
+  },
+  {
+    "title": "Disney Wonder Arrived at Auckland, New Zealand at Dec 08, 01:45 AM EST. The local time to the port is Dec 08, 07:45 PM NZDT",
+    "description": "Auckland, New Zealand Arrival (UTC) Dec 08, 06:45 — ET: Dec 08, 01:45 AM EST | Local: Dec 08, 07:45 PM NZDT",
+    "link": "https://www.vesselfinder.com/ports/NZAKL001",
+    "guid": "b6a664cf2b9c12c8a7206bbded81e80b8a7d71e8",
+    "pubDate": "Sun, 07 Dec 2025 02:30:01 GMT",
+    "eventUtc": "2025-12-08T06:45:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_port"
+  },
+  {
     "title": "Disney Magic Departed from Galveston, United States (USA) at Dec 07, 10:00 AM EST. The local time to the port is Dec 07, 10:00 AM EST",
     "description": "Galveston, United States (USA) Departure (UTC) Dec 07, 15:00 — ET: Dec 07, 10:00 AM EST | Local: Dec 07, 10:00 AM EST",
     "link": "https://www.vesselfinder.com/ports/USGLS001",
@@ -66,6 +88,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Fantasy Departed from Gorda Cay, Bahamas at Dec 06, 04:37 PM EST. The local time to the port is Dec 06, 04:37 PM EST",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Dec 6, 21:37 — ET: Dec 06, 04:37 PM EST | Local: Dec 06, 04:37 PM EST",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "f98d4d53130312dc57844f640d2c470d2f79381b",
+    "pubDate": "Sun, 07 Dec 2025 02:27:54 GMT",
+    "eventUtc": "2025-12-06T21:37:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Arrived at Auckland, New Zealand at Dec 06, 12:04 PM EST. The local time to the port is Dec 07, 06:04 AM NZDT",
     "description": "Auckland, New Zealand Arrival (UTC) Dec 6, 17:04 — ET: Dec 06, 12:04 PM EST | Local: Dec 07, 06:04 AM NZDT",
     "link": "https://www.vesselfinder.com/ports/NZAKL001",
@@ -85,6 +118,17 @@
     "eventUtc": "2025-12-06T13:55:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Fantasy Arrived at Gorda Cay, Bahamas at Dec 06, 07:39 AM EST. The local time to the port is Dec 06, 07:39 AM EST",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Dec 6, 12:39 — ET: Dec 06, 07:39 AM EST | Local: Dec 06, 07:39 AM EST",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "236f2b665f12ed94d23c30a44da8cbce7639cc1d",
+    "pubDate": "Sun, 07 Dec 2025 02:27:54 GMT",
+    "eventUtc": "2025-12-06T12:39:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
     "source": "vf_ship"
   },
   {
