@@ -1,5 +1,16 @@
 [
   {
+    "title": "Disney Wonder Departed from Wellington, New Zealand at Dec 09, 12:22 AM EST. The local time to the port is Dec 09, 06:22 PM NZDT",
+    "description": "Wellington, New Zealand Departure (UTC) Dec 9, 05:22 — ET: Dec 09, 12:22 AM EST | Local: Dec 09, 06:22 PM NZDT",
+    "link": "https://www.vesselfinder.com/ports/NZWLG001",
+    "guid": "be7a2d268fa9f032dbb05f71324279e76be1b02e",
+    "pubDate": "Tue, 09 Dec 2025 05:25:51 GMT",
+    "eventUtc": "2025-12-09T05:22:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Arrived at Wellington, New Zealand at Dec 08, 01:55 PM EST. The local time to the port is Dec 09, 07:55 AM NZDT",
     "description": "Wellington, New Zealand Arrival (UTC) Dec 8, 18:55 — ET: Dec 08, 01:55 PM EST | Local: Dec 09, 07:55 AM NZDT",
     "link": "https://www.vesselfinder.com/ports/NZWLG001",
