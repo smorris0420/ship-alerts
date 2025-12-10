@@ -33,6 +33,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Fantasy Departed from Gorda Cay, Bahamas at Dec 10, 04:56 PM EST. The local time to the port is Dec 10, 04:56 PM EST",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Dec 10, 21:56 — ET: Dec 10, 04:56 PM EST | Local: Dec 10, 04:56 PM EST",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "f162097f7b6b692a8918d7699e20e4c104a6de50",
+    "pubDate": "Wed, 10 Dec 2025 23:27:22 GMT",
+    "eventUtc": "2025-12-10T21:56:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Departed from Road Town, Tortola, British Virgin Islands at Dec 10, 02:05 PM EST. The local time to the port is Dec 10, 03:05 PM AST",
     "description": "Road Town, Tortola, British Virgin Islands Departure (UTC) Dec 10, 19:05 — ET: Dec 10, 02:05 PM EST | Local: Dec 10, 03:05 PM AST",
     "link": "https://www.vesselfinder.com/ports/VGRAD001",
@@ -52,6 +63,17 @@
     "eventUtc": "2025-12-10T17:12:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Fantasy Arrived at Gorda Cay, Bahamas at Dec 10, 08:03 AM EST. The local time to the port is Dec 10, 08:03 AM EST",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Dec 10, 13:03 — ET: Dec 10, 08:03 AM EST | Local: Dec 10, 08:03 AM EST",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "6f1171e2b85d5e38d831cf1caf6254f8419ae884",
+    "pubDate": "Wed, 10 Dec 2025 23:27:21 GMT",
+    "eventUtc": "2025-12-10T13:03:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
     "source": "vf_ship"
   },
   {
