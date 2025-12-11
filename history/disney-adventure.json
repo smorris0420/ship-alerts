@@ -1,5 +1,16 @@
 [
   {
+    "title": "Disney Adventure Arrived at Bremerhaven, Germany at Dec 11, 08:00 AM EST. The local time to the port is Dec 11, 02:00 PM CET",
+    "description": "Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET",
+    "link": "https://www.vesselfinder.com/ports/DEBRV001",
+    "guid": "c22e5239dab2e1da00793d3594b16e377947f0c8",
+    "pubDate": "Thu, 11 Dec 2025 13:50:24 GMT",
+    "eventUtc": "2025-12-11T13:00:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Departed from Unknown Port at Nov 24, 04:23 PM EST. The local time to the port is Nov 24, 04:23 PM EST",
     "description": "Unknown Port Departure (UTC) Nov 24, 21:23 — ET: Nov 24, 04:23 PM EST | Local: Nov 24, 04:23 PM EST",
     "link": "https://www.vesselfinder.com/vessels/details/9808986",
