@@ -1,5 +1,27 @@
 [
   {
+    "title": "Disney Treasure Departed from Cape Canaveral, United States (USA) at Dec 13, 05:08 PM EST. The local time to the port is Dec 13, 05:08 PM EST",
+    "description": "Cape Canaveral, United States (USA) Departure (UTC) Dec 13, 22:08 — ET: Dec 13, 05:08 PM EST | Local: Dec 13, 05:08 PM EST",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "838b63e594085ed486dede619c544d7f931975ec",
+    "pubDate": "Sat, 13 Dec 2025 22:27:49 GMT",
+    "eventUtc": "2025-12-13T22:08:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Destiny Departed from Gorda Cay, Bahamas at Dec 13, 05:05 PM EST. The local time to the port is Dec 13, 05:05 PM EST",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Dec 13, 22:05 — ET: Dec 13, 05:05 PM EST | Local: Dec 13, 05:05 PM EST",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "cf26d7c59d585f3cc17f637458e250e56437e682",
+    "pubDate": "Sat, 13 Dec 2025 22:30:30 GMT",
+    "eventUtc": "2025-12-13T22:05:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Arrived at Auckland, New Zealand at Dec 13, 12:13 PM EST. The local time to the port is Dec 14, 06:13 AM NZDT",
     "description": "Auckland, New Zealand Arrival (UTC) Dec 13, 17:13 — ET: Dec 13, 12:13 PM EST | Local: Dec 14, 06:13 AM NZDT",
     "link": "https://www.vesselfinder.com/ports/NZAKL001",
@@ -19,6 +41,17 @@
     "eventUtc": "2025-12-13T14:15:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Destiny Arrived at Gorda Cay, Bahamas at Dec 13, 07:46 AM EST. The local time to the port is Dec 13, 07:46 AM EST",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Dec 13, 12:46 — ET: Dec 13, 07:46 AM EST | Local: Dec 13, 07:46 AM EST",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "d27771ff56384c6eef127842da4ef7d98fb64b9f",
+    "pubDate": "Sat, 13 Dec 2025 22:30:29 GMT",
+    "eventUtc": "2025-12-13T12:46:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
     "source": "vf_ship"
   },
   {
