@@ -1,5 +1,16 @@
 [
   {
+    "title": "Disney Treasure Departed from Cozumel, Mexico at Dec 15, 05:16 PM EST. The local time to the port is Dec 15, 05:16 PM EST",
+    "description": "Cozumel, Mexico Departure (UTC) Dec 15, 22:16 — ET: Dec 15, 05:16 PM EST | Local: Dec 15, 05:16 PM EST",
+    "link": "https://www.vesselfinder.com/ports/MXCZM001",
+    "guid": "b898cf179c980f2a4329b48827cf18c55810f5db",
+    "pubDate": "Mon, 15 Dec 2025 22:22:49 GMT",
+    "eventUtc": "2025-12-15T22:16:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Port Everglades, United States (USA) at Dec 15, 04:33 PM EST. The local time to the port is Dec 15, 04:33 PM EST",
     "description": "Port Everglades, United States (USA) Departure (UTC) Dec 15, 21:33 — ET: Dec 15, 04:33 PM EST | Local: Dec 15, 04:33 PM EST",
     "link": "https://www.vesselfinder.com/ports/USPEF001",
