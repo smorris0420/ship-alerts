@@ -5,7 +5,7 @@
   <title>DCL Ships - Latest (One per Ship)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Latest (One per Ship) - Auto-generated</description>
-  <lastBuildDate>Thu, 18 Dec 2025 12:43:25 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 18 Dec 2025 13:28:34 GMT</lastBuildDate>
   
   <item>
     <title>Disney Magic Departed from Galveston, United States (USA) at Dec 19, 11:00 AM EST. The local time to the port is Dec 19, 11:00 AM EST</title>
@@ -15,18 +15,25 @@
     <description><![CDATA[Galveston, United States (USA) Departure (UTC) Dec 19, 16:00 — ET: Dec 19, 11:00 AM EST | Local: Dec 19, 11:00 AM EST]]></description>
   </item>
   <item>
+    <title>Disney Fantasy Arrived at Nassau, Bahamas at Dec 18, 07:43 AM EST. The local time to the port is Dec 18, 07:43 AM EST</title>
+    <link>https://www.vesselfinder.com/ports/BSNAS001</link>
+    <guid isPermaLink="false">fa8f0719b784221afe3dfd5de2e658a3f8c2d9ca</guid>
+    <pubDate>Thu, 18 Dec 2025 13:24:42 GMT</pubDate>
+    <description><![CDATA[Nassau, Bahamas Arrival (UTC) Dec 18, 12:43 — ET: Dec 18, 07:43 AM EST | Local: Dec 18, 07:43 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Wish Arrived at Gorda Cay, Bahamas at Dec 18, 07:26 AM EST. The local time to the port is Dec 18, 07:26 AM EST</title>
+    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
+    <guid isPermaLink="false">6fab52faa04e7bffceeb4b88df6f85da9f4cd03c</guid>
+    <pubDate>Thu, 18 Dec 2025 13:23:41 GMT</pubDate>
+    <description><![CDATA[Gorda Cay, Bahamas Arrival (UTC) Dec 18, 12:26 — ET: Dec 18, 07:26 AM EST | Local: Dec 18, 07:26 AM EST]]></description>
+  </item>
+  <item>
     <title>Disney Dream Departed from Gorda Cay, Bahamas at Dec 17, 05:09 PM EST. The local time to the port is Dec 17, 05:09 PM EST</title>
     <link>https://www.vesselfinder.com/ports/BSGOC001</link>
     <guid isPermaLink="false">b0c7c6e64f0fcde5912fbb238d763044d73638c3</guid>
     <pubDate>Wed, 17 Dec 2025 22:23:25 GMT</pubDate>
     <description><![CDATA[Gorda Cay, Bahamas Departure (UTC) Dec 17, 22:09 — ET: Dec 17, 05:09 PM EST | Local: Dec 17, 05:09 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Fantasy Departed from Cape Canaveral, United States (USA) at Dec 17, 04:35 PM EST. The local time to the port is Dec 17, 04:35 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/USPCV001</link>
-    <guid isPermaLink="false">ff3d7fc87d27fa77e4c5858ae8d823fc02af629b</guid>
-    <pubDate>Wed, 17 Dec 2025 21:46:09 GMT</pubDate>
-    <description><![CDATA[Cape Canaveral, United States (USA) Departure (UTC) Dec 17, 21:35 — ET: Dec 17, 04:35 PM EST | Local: Dec 17, 04:35 PM EST]]></description>
   </item>
   <item>
     <title>Disney Destiny Departed from Port Everglades, United States (USA) at Dec 16, 04:26 PM EST. The local time to the port is Dec 16, 04:26 PM EST</title>
@@ -48,13 +55,6 @@
     <guid isPermaLink="false">b898cf179c980f2a4329b48827cf18c55810f5db</guid>
     <pubDate>Mon, 15 Dec 2025 22:22:49 GMT</pubDate>
     <description><![CDATA[Cozumel, Mexico Departure (UTC) Dec 15, 22:16 — ET: Dec 15, 05:16 PM EST | Local: Dec 15, 05:16 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Wish Departed from Cape Canaveral, United States (USA) at Dec 15, 04:28 PM EST. The local time to the port is Dec 15, 04:28 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/USPCV001</link>
-    <guid isPermaLink="false">2450601111e1fac7b0052c179121a1ced7c250b2</guid>
-    <pubDate>Mon, 15 Dec 2025 21:44:33 GMT</pubDate>
-    <description><![CDATA[Cape Canaveral, United States (USA) Departure (UTC) Dec 15, 21:28 — ET: Dec 15, 04:28 PM EST | Local: Dec 15, 04:28 PM EST]]></description>
   </item>
   <item>
     <title>Disney Adventure Arrived at Bremerhaven, Germany at Dec 11, 08:00 AM EST. The local time to the port is Dec 11, 02:00 PM CET</title>
