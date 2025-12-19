@@ -22,6 +22,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Wonder Departed from Auckland, New Zealand at Dec 18, 11:43 PM EST. The local time to the port is Dec 19, 05:43 PM NZDT",
+    "description": "Auckland, New Zealand Departure (UTC) Dec 19, 04:43 — ET: Dec 18, 11:43 PM EST | Local: Dec 19, 05:43 PM NZDT",
+    "link": "https://www.vesselfinder.com/ports/NZAKL001",
+    "guid": "b9e9b249bfbf362e0204125d50d80382f17f5c5c",
+    "pubDate": "Fri, 19 Dec 2025 04:55:43 GMT",
+    "eventUtc": "2025-12-19T04:43:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Departed from Nassau, Bahamas at Dec 18, 06:20 PM EST. The local time to the port is Dec 18, 06:20 PM EST",
     "description": "Nassau, Bahamas Departure (UTC) Dec 18, 23:20 — ET: Dec 18, 06:20 PM EST | Local: Dec 18, 06:20 PM EST",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -77,6 +88,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Progreso, Mexico at Dec 17, 07:08 PM EST. The local time to the port is Dec 17, 07:08 PM EST",
+    "description": "Progreso, Mexico Departure (UTC) Dec 18, 00:08 — ET: Dec 17, 07:08 PM EST | Local: Dec 17, 07:08 PM EST",
+    "link": "https://www.vesselfinder.com/ports/MXPGO001",
+    "guid": "8f3b946d70cc668eebac0916a51b6ea12b1628a3",
+    "pubDate": "Fri, 19 Dec 2025 04:54:09 GMT",
+    "eventUtc": "2025-12-18T00:08:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Gorda Cay, Bahamas at Dec 17, 05:09 PM EST. The local time to the port is Dec 17, 05:09 PM EST",
     "description": "Gorda Cay, Bahamas Departure (UTC) Dec 17, 22:09 — ET: Dec 17, 05:09 PM EST | Local: Dec 17, 05:09 PM EST",
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
@@ -96,6 +118,17 @@
     "eventUtc": "2025-12-17T21:35:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Magic Arrived at Progreso, Mexico at Dec 17, 07:53 AM EST. The local time to the port is Dec 17, 07:53 AM EST",
+    "description": "Progreso, Mexico Arrival (UTC) Dec 17, 12:53 — ET: Dec 17, 07:53 AM EST | Local: Dec 17, 07:53 AM EST",
+    "link": "https://www.vesselfinder.com/ports/MXPGO001",
+    "guid": "fb85d3d4bdfee30ff7aa3939b67c9fd01eb63234",
+    "pubDate": "Fri, 19 Dec 2025 04:54:08 GMT",
+    "eventUtc": "2025-12-17T12:53:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
     "source": "vf_ship"
   },
   {
