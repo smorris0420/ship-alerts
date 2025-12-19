@@ -1,5 +1,27 @@
 [
   {
+    "title": "Disney Treasure Departed from Gorda Cay, Bahamas at Dec 19, 04:58 PM EST. The local time to the port is Dec 19, 04:58 PM EST",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Dec 19, 21:58 — ET: Dec 19, 04:58 PM EST | Local: Dec 19, 04:58 PM EST",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "cd2560b3a1a3848c1b9acfefcd2ae95797b60281",
+    "pubDate": "Fri, 19 Dec 2025 22:15:36 GMT",
+    "eventUtc": "2025-12-19T21:58:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Dream Departed from Port Everglades, United States (USA) at Dec 19, 04:56 PM EST. The local time to the port is Dec 19, 04:56 PM EST",
+    "description": "Port Everglades, United States (USA) Departure (UTC) Dec 19, 21:56 — ET: Dec 19, 04:56 PM EST | Local: Dec 19, 04:56 PM EST",
+    "link": "https://www.vesselfinder.com/ports/USPEF001",
+    "guid": "bfca129b25be88c0a7c328f6c69600cddd21c1a7",
+    "pubDate": "Fri, 19 Dec 2025 22:17:08 GMT",
+    "eventUtc": "2025-12-19T21:56:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Arrived at Tauranga, New Zealand at Dec 19, 02:21 PM EST. The local time to the port is Dec 20, 08:21 AM NZDT",
     "description": "Tauranga, New Zealand Arrival (UTC) Dec 19, 19:21 — ET: Dec 19, 02:21 PM EST | Local: Dec 20, 08:21 AM NZDT",
     "link": "https://www.vesselfinder.com/ports/NZTRG001",
