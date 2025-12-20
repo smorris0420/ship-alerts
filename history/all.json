@@ -1,5 +1,16 @@
 [
   {
+    "title": "Disney Wonder Departed from Tauranga, New Zealand at Dec 20, 02:08 AM EST. The local time to the port is Dec 20, 08:08 PM NZDT",
+    "description": "Tauranga, New Zealand Departure (UTC) Dec 20, 07:08 — ET: Dec 20, 02:08 AM EST | Local: Dec 20, 08:08 PM NZDT",
+    "link": "https://www.vesselfinder.com/ports/NZTRG001",
+    "guid": "2869cd9574b088e7adb4c9bff0ec4c6e2a28a299",
+    "pubDate": "Sat, 20 Dec 2025 07:26:12 GMT",
+    "eventUtc": "2025-12-20T07:08:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Departed from Galveston, United States (USA) at Dec 19, 06:02 PM EST. The local time to the port is Dec 19, 06:02 PM EST",
     "description": "Galveston, United States (USA) Departure (UTC) Dec 19, 23:02 — ET: Dec 19, 06:02 PM EST | Local: Dec 19, 06:02 PM EST",
     "link": "https://www.vesselfinder.com/ports/USGLS001",
