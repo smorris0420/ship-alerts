@@ -5,21 +5,28 @@
   <title>DCL Ships - Latest (One per Ship)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Latest (One per Ship) - Auto-generated</description>
-  <lastBuildDate>Sat, 20 Dec 2025 23:04:22 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 20 Dec 2025 23:30:04 GMT</lastBuildDate>
   
+  <item>
+    <title>Disney Adventure Departed from Bremerhaven, Germany at Dec 20, 06:09 PM EST. The local time to the port is Dec 21, 12:09 AM CET</title>
+    <link>https://www.vesselfinder.com/ports/DEBRV001</link>
+    <guid isPermaLink="false">5486bf198ba1240e48745edee68a798b4abbbe87</guid>
+    <pubDate>Sat, 20 Dec 2025 23:29:23 GMT</pubDate>
+    <description><![CDATA[Bremerhaven, Germany Departure (UTC) Dec 20, 23:09 — ET: Dec 20, 06:09 PM EST | Local: Dec 21, 12:09 AM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Wish Departed from Nassau, Bahamas at Dec 20, 06:06 PM EST. The local time to the port is Dec 20, 06:06 PM EST</title>
+    <link>https://www.vesselfinder.com/ports/BSNAS001</link>
+    <guid isPermaLink="false">bf579a6fb757d5737c1fd87549dab0af4d21f170</guid>
+    <pubDate>Sat, 20 Dec 2025 23:25:50 GMT</pubDate>
+    <description><![CDATA[Nassau, Bahamas Departure (UTC) Dec 20, 23:06 — ET: Dec 20, 06:06 PM EST | Local: Dec 20, 06:06 PM EST]]></description>
+  </item>
   <item>
     <title>Disney Destiny Departed from Gorda Cay, Bahamas at Dec 20, 05:03 PM EST. The local time to the port is Dec 20, 05:03 PM EST</title>
     <link>https://www.vesselfinder.com/ports/BSGOC001</link>
     <guid isPermaLink="false">d80d00c02fec62c3494dfeac8ad7ce2220e4d35a</guid>
     <pubDate>Sat, 20 Dec 2025 22:20:10 GMT</pubDate>
     <description><![CDATA[Gorda Cay, Bahamas Departure (UTC) Dec 20, 22:03 — ET: Dec 20, 05:03 PM EST | Local: Dec 20, 05:03 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Wish Arrived at Nassau, Bahamas at Dec 20, 09:01 AM EST. The local time to the port is Dec 20, 09:01 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/BSNAS001</link>
-    <guid isPermaLink="false">9a21ac7f6d7fe2973c8097e47e2f61bc3cfb9634</guid>
-    <pubDate>Sat, 20 Dec 2025 14:42:06 GMT</pubDate>
-    <description><![CDATA[Nassau, Bahamas Arrival (UTC) Dec 20, 14:01 — ET: Dec 20, 09:01 AM EST | Local: Dec 20, 09:01 AM EST]]></description>
   </item>
   <item>
     <title>Disney Treasure Arrived at Cape Canaveral, United States (USA) at Dec 20, 06:01 AM EST. The local time to the port is Dec 20, 06:01 AM EST</title>
@@ -55,13 +62,6 @@
     <guid isPermaLink="false">09e17fa4ab1b0e4401d972b9da7b3b15bb27962f</guid>
     <pubDate>Thu, 18 Dec 2025 23:37:38 GMT</pubDate>
     <description><![CDATA[Nassau, Bahamas Departure (UTC) Dec 18, 23:20 — ET: Dec 18, 06:20 PM EST | Local: Dec 18, 06:20 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Adventure Arrived at Bremerhaven, Germany at Dec 11, 08:00 AM EST. The local time to the port is Dec 11, 02:00 PM CET</title>
-    <link>https://www.vesselfinder.com/ports/DEBRV001</link>
-    <guid isPermaLink="false">c22e5239dab2e1da00793d3594b16e377947f0c8</guid>
-    <pubDate>Thu, 11 Dec 2025 13:50:24 GMT</pubDate>
-    <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
   </item>
 </channel>
 </rss>
