@@ -1,5 +1,16 @@
 [
   {
+    "title": "Disney Treasure Departed from Cape Canaveral, United States (USA) at Dec 20, 07:07 PM EST. The local time to the port is Dec 20, 07:07 PM EST",
+    "description": "Cape Canaveral, United States (USA) Departure (UTC) Dec 21, 00:07 — ET: Dec 20, 07:07 PM EST | Local: Dec 20, 07:07 PM EST",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "17d9771aa4e47d8d29ebad27d2023f82b3f9e032",
+    "pubDate": "Sun, 21 Dec 2025 00:54:58 GMT",
+    "eventUtc": "2025-12-21T00:07:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Departed from Bremerhaven, Germany at Dec 20, 06:09 PM EST. The local time to the port is Dec 21, 12:09 AM CET",
     "description": "Bremerhaven, Germany Departure (UTC) Dec 20, 23:09 — ET: Dec 20, 06:09 PM EST | Local: Dec 21, 12:09 AM CET",
     "link": "https://www.vesselfinder.com/ports/DEBRV001",
