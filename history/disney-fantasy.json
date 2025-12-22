@@ -1,5 +1,16 @@
 [
   {
+    "title": "Disney Fantasy Arrived at Nassau, Bahamas at Dec 22, 08:06 AM EST. The local time to the port is Dec 22, 08:06 AM EST",
+    "description": "Nassau, Bahamas Arrival (UTC) Dec 22, 13:06 — ET: Dec 22, 08:06 AM EST | Local: Dec 22, 08:06 AM EST",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "786de7854aa6f6f8ac72c0f25a43e8e20137961e",
+    "pubDate": "Mon, 22 Dec 2025 13:57:50 GMT",
+    "eventUtc": "2025-12-22T13:06:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Departed from Cape Canaveral, United States (USA) at Dec 21, 04:27 PM EST. The local time to the port is Dec 21, 04:27 PM EST",
     "description": "Cape Canaveral, United States (USA) Departure (UTC) Dec 21, 21:27 — ET: Dec 21, 04:27 PM EST | Local: Dec 21, 04:27 PM EST",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
