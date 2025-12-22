@@ -1,5 +1,16 @@
 [
   {
+    "title": "Disney Wonder Arrived at Wellington, New Zealand at Dec 22, 02:31 PM EST. The local time to the port is Dec 23, 08:31 AM NZDT",
+    "description": "Wellington, New Zealand Arrival (UTC) Dec 22, 19:31 — ET: Dec 22, 02:31 PM EST | Local: Dec 23, 08:31 AM NZDT",
+    "link": "https://www.vesselfinder.com/ports/NZWLG001",
+    "guid": "1d5014127438167b0f51339d253c1ba800fa9a65",
+    "pubDate": "Mon, 22 Dec 2025 20:15:28 GMT",
+    "eventUtc": "2025-12-22T19:31:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Arrived at Nassau, Bahamas at Dec 22, 08:06 AM EST. The local time to the port is Dec 22, 08:06 AM EST",
     "description": "Nassau, Bahamas Arrival (UTC) Dec 22, 13:06 — ET: Dec 22, 08:06 AM EST | Local: Dec 22, 08:06 AM EST",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
