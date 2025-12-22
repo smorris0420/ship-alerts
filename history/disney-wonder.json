@@ -1,5 +1,27 @@
 [
   {
+    "title": "Disney Wonder Departed from Napier, New Zealand at Dec 21, 11:34 PM EST. The local time to the port is Dec 22, 05:34 PM NZDT",
+    "description": "Napier, New Zealand Departure (UTC) Dec 22, 04:34 — ET: Dec 21, 11:34 PM EST | Local: Dec 22, 05:34 PM NZDT",
+    "link": "https://www.vesselfinder.com/ports/NZNPE001",
+    "guid": "48c44907a1a260af010ab6a3b9e10f905ce0713f",
+    "pubDate": "Mon, 22 Dec 2025 15:49:21 GMT",
+    "eventUtc": "2025-12-22T04:34:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Wonder Arrived at Napier, New Zealand at Dec 21, 01:59 PM EST. The local time to the port is Dec 22, 07:59 AM NZDT",
+    "description": "Napier, New Zealand Arrival (UTC) Dec 21, 18:59 — ET: Dec 21, 01:59 PM EST | Local: Dec 22, 07:59 AM NZDT",
+    "link": "https://www.vesselfinder.com/ports/NZNPE001",
+    "guid": "b5e775ddfaad274f2969fe9b77273694543c37a0",
+    "pubDate": "Mon, 22 Dec 2025 15:49:20 GMT",
+    "eventUtc": "2025-12-21T18:59:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Departed from Tauranga, New Zealand at Dec 20, 02:08 AM EST. The local time to the port is Dec 20, 08:08 PM NZDT",
     "description": "Tauranga, New Zealand Departure (UTC) Dec 20, 07:08 — ET: Dec 20, 02:08 AM EST | Local: Dec 20, 08:08 PM NZDT",
     "link": "https://www.vesselfinder.com/ports/NZTRG001",
