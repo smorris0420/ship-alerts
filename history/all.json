@@ -1,5 +1,27 @@
 [
   {
+    "title": "Disney Dream Arrived at Nassau, Bahamas at Dec 24, 07:30 AM EST. The local time to the port is Dec 24, 07:30 AM EST",
+    "description": "Nassau, Bahamas Arrival (UTC) Dec 24, 12:30 — ET: Dec 24, 07:30 AM EST | Local: Dec 24, 07:30 AM EST",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "ebc90520d15db7efb3947bce2a844ea03c9285df",
+    "pubDate": "Wed, 24 Dec 2025 13:21:33 GMT",
+    "eventUtc": "2025-12-24T12:30:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Magic Arrived at Galveston, United States (USA) at Dec 24, 07:25 AM EST. The local time to the port is Dec 24, 07:25 AM EST",
+    "description": "Galveston, United States (USA) Arrival (UTC) Dec 24, 12:25 — ET: Dec 24, 07:25 AM EST | Local: Dec 24, 07:25 AM EST",
+    "link": "https://www.vesselfinder.com/ports/USGLS001",
+    "guid": "10228814d23b34577edec86f1c0e32981aa81d44",
+    "pubDate": "Wed, 24 Dec 2025 13:21:26 GMT",
+    "eventUtc": "2025-12-24T12:25:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Arrived at Road Town, Tortola, British Virgin Islands at Dec 24, 06:10 AM EST. The local time to the port is Dec 24, 07:10 AM AST",
     "description": "Road Town, Tortola, British Virgin Islands Arrival (UTC) Dec 24, 11:10 — ET: Dec 24, 06:10 AM EST | Local: Dec 24, 07:10 AM AST",
     "link": "https://www.vesselfinder.com/ports/VGRAD001",
