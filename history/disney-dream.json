@@ -1,5 +1,16 @@
 [
   {
+    "title": "Disney Dream Arrived at Gorda Cay, Bahamas at Dec 25, 07:34 AM EST. The local time to the port is Dec 25, 07:34 AM EST",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Dec 25, 12:34 — ET: Dec 25, 07:34 AM EST | Local: Dec 25, 07:34 AM EST",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "1ff50ad7403b38b4475c40c0830fb4b3b818548e",
+    "pubDate": "Thu, 25 Dec 2025 20:34:07 GMT",
+    "eventUtc": "2025-12-25T12:34:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Nassau, Bahamas at Dec 24, 06:06 PM EST. The local time to the port is Dec 24, 06:06 PM EST",
     "description": "Nassau, Bahamas Departure (UTC) Dec 24, 23:06 — ET: Dec 24, 06:06 PM EST | Local: Dec 24, 06:06 PM EST",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
