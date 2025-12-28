@@ -1,5 +1,16 @@
 [
   {
+    "title": "Disney Wonder Arrived at Sydney, Australia at Dec 28, 02:34 PM EST. The local time to the port is Dec 29, 06:34 AM AEDT",
+    "description": "Sydney, Australia Arrival (UTC) Dec 28, 19:34 — ET: Dec 28, 02:34 PM EST | Local: Dec 29, 06:34 AM AEDT",
+    "link": "https://www.vesselfinder.com/ports/AUSYD002",
+    "guid": "e353b6943129b9ceb5150d6f22aa8a706aaf82e3",
+    "pubDate": "Sun, 28 Dec 2025 20:22:14 GMT",
+    "eventUtc": "2025-12-28T19:34:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Departed from Lyttelton, New Zealand at Dec 24, 12:36 AM EST. The local time to the port is Dec 24, 06:36 PM NZDT",
     "description": "Lyttelton, New Zealand Departure (UTC) Dec 24, 05:36 — ET: Dec 24, 12:36 AM EST | Local: Dec 24, 06:36 PM NZDT",
     "link": "https://www.vesselfinder.com/ports/NZLYT001",
