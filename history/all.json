@@ -1,5 +1,16 @@
 [
   {
+    "title": "Disney Dream Departed from Nassau, Bahamas at Dec 28, 06:02 PM EST. The local time to the port is Dec 28, 06:02 PM EST",
+    "description": "Nassau, Bahamas Departure (UTC) Dec 28, 23:02 — ET: Dec 28, 06:02 PM EST | Local: Dec 28, 06:02 PM EST",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "ecd18896f07e1999248e7062ab6eed25d140fd29",
+    "pubDate": "Mon, 29 Dec 2025 02:32:16 GMT",
+    "eventUtc": "2025-12-28T23:02:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Departed from Galveston, United States (USA) at Dec 28, 05:48 PM EST. The local time to the port is Dec 28, 05:48 PM EST",
     "description": "Galveston, United States (USA) Departure (UTC) Dec 28, 22:48 — ET: Dec 28, 05:48 PM EST | Local: Dec 28, 05:48 PM EST",
     "link": "https://www.vesselfinder.com/ports/USGLS001",
