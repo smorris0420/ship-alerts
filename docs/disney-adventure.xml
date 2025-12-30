@@ -5,7 +5,7 @@
   <title>Disney Adventure - Arrivals &amp; Departures</title>
   <link>https://www.vesselfinder.com/vessels/details/9808986</link>
   <description>Disney Adventure - Arrivals &amp; Departures - Auto-generated</description>
-  <lastBuildDate>Tue, 30 Dec 2025 17:56:56 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 30 Dec 2025 18:23:03 GMT</lastBuildDate>
   
   <item>
     <title>Disney Adventure Departed from Bremerhaven, Germany at Dec 20, 06:09 PM EST. The local time to the port is Dec 21, 12:09 AM CET</title>
@@ -48,6 +48,20 @@
     <guid isPermaLink="false">6f1db333b1cba47f0928515ea6f7db681e50561b</guid>
     <pubDate>Mon, 24 Nov 2025 21:26:29 GMT</pubDate>
     <description><![CDATA[Skagen Anch., Denmark Arrival (UTC) Sep 9, 10:00 — ET: Sep 09, 06:00 AM EDT | Local: Sep 09, 12:00 PM CEST]]></description>
+  </item>
+  <item>
+    <title>Disney Adventure Departed from Bremerhaven, Germany at Dec 31, 06:45 PM EST. The local time to the port is Jan 01, 12:45 AM CET</title>
+    <link>https://www.vesselfinder.com/ports/DEBRV001</link>
+    <guid isPermaLink="false">3c55164aa8b9b770be43380e58415e2d7612ef02</guid>
+    <pubDate>Tue, 30 Dec 2025 18:23:00 GMT</pubDate>
+    <description><![CDATA[Bremerhaven, Germany Departure (UTC) Dec 31, 23:45 — ET: Dec 31, 06:45 PM EST | Local: Jan 01, 12:45 AM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Adventure Arrived at Bremerhaven, Germany at Dec 31, 06:45 PM EST. The local time to the port is Jan 01, 12:45 AM CET</title>
+    <link>https://www.vesselfinder.com/ports/DEBRV001</link>
+    <guid isPermaLink="false">80a0d425bb361ce85fe5913337ad0f907159c6bf</guid>
+    <pubDate>Tue, 30 Dec 2025 18:23:02 GMT</pubDate>
+    <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 31, 23:45 — ET: Dec 31, 06:45 PM EST | Local: Jan 01, 12:45 AM CET]]></description>
   </item>
 </channel>
 </rss>
