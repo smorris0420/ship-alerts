@@ -33,6 +33,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Departed from Georgetown, Grand Cayman Anch., Cayman Islands at Dec 29, 05:15 PM EST. The local time to the port is Dec 29, 05:15 PM EST",
+    "description": "Georgetown, Grand Cayman Anch., Cayman Islands Departure (UTC) Dec 29, 22:15 — ET: Dec 29, 05:15 PM EST | Local: Dec 29, 05:15 PM EST",
+    "link": "https://www.vesselfinder.com/ports/KYGEC001",
+    "guid": "5121a165347783cba38d0bb6d03175dc572f919f",
+    "pubDate": "Tue, 30 Dec 2025 15:38:54 GMT",
+    "eventUtc": "2025-12-29T22:15:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Port Everglades, United States (USA) at Dec 29, 04:49 PM EST. The local time to the port is Dec 29, 04:49 PM EST",
     "description": "Port Everglades, United States (USA) Departure (UTC) Dec 29, 21:49 — ET: Dec 29, 04:49 PM EST | Local: Dec 29, 04:49 PM EST",
     "link": "https://www.vesselfinder.com/ports/USPEF001",
@@ -71,6 +82,17 @@
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
     "guid": "7b8e717ec7e8d27e58edabd8ead14060ea60206b",
     "pubDate": "Mon, 29 Dec 2025 13:43:33 GMT",
+    "eventUtc": "2025-12-29T12:44:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Treasure Arrived at Georgetown, Grand Cayman Anch., Cayman Islands at Dec 29, 07:44 AM EST. The local time to the port is Dec 29, 07:44 AM EST",
+    "description": "Georgetown, Grand Cayman Anch., Cayman Islands Arrival (UTC) Dec 29, 12:44 — ET: Dec 29, 07:44 AM EST | Local: Dec 29, 07:44 AM EST",
+    "link": "https://www.vesselfinder.com/ports/KYGEC001",
+    "guid": "15fb6f134b69cea90c575a2edc86b7239a2120d5",
+    "pubDate": "Tue, 30 Dec 2025 15:38:53 GMT",
     "eventUtc": "2025-12-29T12:44:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
