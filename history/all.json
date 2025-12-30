@@ -1,5 +1,16 @@
 [
   {
+    "title": "Disney Magic Departed from Cozumel, Mexico at Dec 30, 06:38 PM EST. The local time to the port is Dec 30, 06:38 PM EST",
+    "description": "Cozumel, Mexico Departure (UTC) Dec 30, 23:38 — ET: Dec 30, 06:38 PM EST | Local: Dec 30, 06:38 PM EST",
+    "link": "https://www.vesselfinder.com/ports/MXCZM001",
+    "guid": "e62b68251d01b5e5aefa2df65846d885bbff1db3",
+    "pubDate": "Tue, 30 Dec 2025 23:45:05 GMT",
+    "eventUtc": "2025-12-30T23:38:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Departed from Port Everglades, United States (USA) at Dec 30, 04:22 PM EST. The local time to the port is Dec 30, 04:22 PM EST",
     "description": "Port Everglades, United States (USA) Departure (UTC) Dec 30, 21:22 — ET: Dec 30, 04:22 PM EST | Local: Dec 30, 04:22 PM EST",
     "link": "https://www.vesselfinder.com/ports/USPEF001",
