@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Thu, 01 Jan 2026 00:02:12 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 01 Jan 2026 02:40:12 GMT</lastBuildDate>
   
   <item>
     <title>Disney Fantasy Departed from Cape Canaveral, United States (USA) at Dec 31, 04:30 PM EST. The local time to the port is Dec 31, 04:30 PM EST</title>
@@ -118,6 +118,20 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Dream Departed from Port Everglades, United States (USA) at Jan 02, 10:00 AM EST. The local time to the port is Jan 02, 10:00 AM EST</title>
+    <link>https://www.vesselfinder.com/ports/USPEF001</link>
+    <guid isPermaLink="false">9ff47dd84c6b5510097308d8bff39f7a6b39084e</guid>
+    <pubDate>Thu, 01 Jan 2026 02:37:49 GMT</pubDate>
+    <description><![CDATA[Port Everglades, United States (USA) Departure (UTC) Jan 02, 15:00 — ET: Jan 02, 10:00 AM EST | Local: Jan 02, 10:00 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Dream Arrived at Port Everglades, United States (USA) at Jan 02, 10:00 AM EST. The local time to the port is Jan 02, 10:00 AM EST</title>
+    <link>https://www.vesselfinder.com/ports/USPEF001</link>
+    <guid isPermaLink="false">a01926113e964d299820417136a01b1f0d39b561</guid>
+    <pubDate>Thu, 01 Jan 2026 02:37:50 GMT</pubDate>
+    <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) Jan 02, 15:00 — ET: Jan 02, 10:00 AM EST | Local: Jan 02, 10:00 AM EST]]></description>
   </item>
   <item>
     <title>Disney Fantasy Departed from Cape Canaveral, United States (USA) at Dec 31, 04:30 PM EST. The local time to the port is Dec 31, 04:30 PM EST</title>
@@ -3492,20 +3506,6 @@
     <guid isPermaLink="false">e2e21828102af9a1f08c64b4bef9fec5968b4c28</guid>
     <pubDate>Sat, 08 Nov 2025 21:55:11 GMT</pubDate>
     <description><![CDATA[Port Everglades, United States (USA) Departure (UTC) Nov 8, 21:39 — ET: Nov 08, 04:39 PM EST | Local: Nov 08, 04:39 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Wonder Arrived at Melbourne, Australia at Nov 08, 01:57 PM EST. The local time to the port is Nov 09, 05:57 AM AEDT</title>
-    <link>https://www.vesselfinder.com/ports/AUMEL001</link>
-    <guid isPermaLink="false">faebcbe1f53c19dca1747b0e4c842003b519a3e7</guid>
-    <pubDate>Sat, 08 Nov 2025 19:44:08 GMT</pubDate>
-    <description><![CDATA[Melbourne, Australia Arrival (UTC) Nov 8, 18:57 — ET: Nov 08, 01:57 PM EST | Local: Nov 09, 05:57 AM AEDT]]></description>
-  </item>
-  <item>
-    <title>Disney Fantasy Departed from Funchal, Madeira, Portugal at Nov 08, 01:34 PM EST. The local time to the port is Nov 08, 06:34 PM WET</title>
-    <link>https://www.vesselfinder.com/ports/PTFNC001</link>
-    <guid isPermaLink="false">a9df69233bc175a9e6cd3cf1187ded8d20702981</guid>
-    <pubDate>Sat, 08 Nov 2025 18:51:09 GMT</pubDate>
-    <description><![CDATA[Funchal, Madeira, Portugal Departure (UTC) Nov 8, 18:34 — ET: Nov 08, 01:34 PM EST | Local: Nov 08, 06:34 PM WET]]></description>
   </item>
 </channel>
 </rss>

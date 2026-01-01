@@ -176,6 +176,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Port Everglades, United States (USA) at Jan 02, 10:00 AM EST. The local time to the port is Jan 02, 10:00 AM EST",
+    "description": "Port Everglades, United States (USA) Departure (UTC) Jan 02, 15:00 — ET: Jan 02, 10:00 AM EST | Local: Jan 02, 10:00 AM EST",
+    "link": "https://www.vesselfinder.com/ports/USPEF001",
+    "guid": "9ff47dd84c6b5510097308d8bff39f7a6b39084e",
+    "pubDate": "Thu, 01 Jan 2026 02:37:49 GMT",
+    "eventUtc": "2026-01-02T15:00:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_port"
+  },
+  {
+    "title": "Disney Dream Arrived at Port Everglades, United States (USA) at Jan 02, 10:00 AM EST. The local time to the port is Jan 02, 10:00 AM EST",
+    "description": "Port Everglades, United States (USA) Arrival (UTC) Jan 02, 15:00 — ET: Jan 02, 10:00 AM EST | Local: Jan 02, 10:00 AM EST",
+    "link": "https://www.vesselfinder.com/ports/USPEF001",
+    "guid": "a01926113e964d299820417136a01b1f0d39b561",
+    "pubDate": "Thu, 01 Jan 2026 02:37:50 GMT",
+    "eventUtc": "2026-01-02T15:00:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_port"
+  },
+  {
     "title": "Disney Fantasy Departed from Cape Canaveral, United States (USA) at Dec 31, 04:30 PM EST. The local time to the port is Dec 31, 04:30 PM EST",
     "description": "Cape Canaveral, United States (USA) Departure (UTC) Dec 31, 21:30 — ET: Dec 31, 04:30 PM EST | Local: Dec 31, 04:30 PM EST",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2025-11-08T21:39:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Arrived at Melbourne, Australia at Nov 08, 01:57 PM EST. The local time to the port is Nov 09, 05:57 AM AEDT",
-    "description": "Melbourne, Australia Arrival (UTC) Nov 8, 18:57 — ET: Nov 08, 01:57 PM EST | Local: Nov 09, 05:57 AM AEDT",
-    "link": "https://www.vesselfinder.com/ports/AUMEL001",
-    "guid": "faebcbe1f53c19dca1747b0e4c842003b519a3e7",
-    "pubDate": "Sat, 08 Nov 2025 19:44:08 GMT",
-    "eventUtc": "2025-11-08T18:57:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Departed from Funchal, Madeira, Portugal at Nov 08, 01:34 PM EST. The local time to the port is Nov 08, 06:34 PM WET",
-    "description": "Funchal, Madeira, Portugal Departure (UTC) Nov 8, 18:34 — ET: Nov 08, 01:34 PM EST | Local: Nov 08, 06:34 PM WET",
-    "link": "https://www.vesselfinder.com/ports/PTFNC001",
-    "guid": "a9df69233bc175a9e6cd3cf1187ded8d20702981",
-    "pubDate": "Sat, 08 Nov 2025 18:51:09 GMT",
-    "eventUtc": "2025-11-08T18:34:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
     "source": "vf_ship"
   }
 ]
