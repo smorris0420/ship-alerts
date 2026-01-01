@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Thu, 01 Jan 2026 12:03:33 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 01 Jan 2026 13:02:40 GMT</lastBuildDate>
   
   <item>
     <title>Disney Fantasy Departed from Cape Canaveral, United States (USA) at Dec 31, 04:30 PM EST. The local time to the port is Dec 31, 04:30 PM EST</title>
@@ -132,6 +132,13 @@
     <guid isPermaLink="false">a01926113e964d299820417136a01b1f0d39b561</guid>
     <pubDate>Thu, 01 Jan 2026 02:37:50 GMT</pubDate>
     <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) Jan 02, 15:00 — ET: Jan 02, 10:00 AM EST | Local: Jan 02, 10:00 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Destiny Arrived at Gorda Cay, Bahamas at Jan 01, 07:24 AM EST. The local time to the port is Jan 01, 07:24 AM EST</title>
+    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
+    <guid isPermaLink="false">fa4727b4c92428e8c065362946ff46ee0681081f</guid>
+    <pubDate>Thu, 01 Jan 2026 13:02:38 GMT</pubDate>
+    <description><![CDATA[Gorda Cay, Bahamas Arrival (UTC) Jan 1, 12:24 — ET: Jan 01, 07:24 AM EST | Local: Jan 01, 07:24 AM EST]]></description>
   </item>
   <item>
     <title>Disney Fantasy Departed from Cape Canaveral, United States (USA) at Dec 31, 04:30 PM EST. The local time to the port is Dec 31, 04:30 PM EST</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">c06182793ae9a3e0770d14918a828c2f2d5714e5</guid>
     <pubDate>Sat, 08 Nov 2025 23:38:15 GMT</pubDate>
     <description><![CDATA[Cape Canaveral, United States (USA) Departure (UTC) Nov 8, 22:34 — ET: Nov 08, 05:34 PM EST | Local: Nov 08, 05:34 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Dream Departed from Port Everglades, United States (USA) at Nov 08, 04:39 PM EST. The local time to the port is Nov 08, 04:39 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/USPEF001</link>
-    <guid isPermaLink="false">e2e21828102af9a1f08c64b4bef9fec5968b4c28</guid>
-    <pubDate>Sat, 08 Nov 2025 21:55:11 GMT</pubDate>
-    <description><![CDATA[Port Everglades, United States (USA) Departure (UTC) Nov 8, 21:39 — ET: Nov 08, 04:39 PM EST | Local: Nov 08, 04:39 PM EST]]></description>
   </item>
 </channel>
 </rss>
