@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Port Everglades, United States (USA) at Jan 02, 04:18 PM EST. The local time to the port is Jan 02, 04:18 PM EST",
+    "description": "Port Everglades, United States (USA) Departure (UTC) Jan 2, 21:18 — ET: Jan 02, 04:18 PM EST | Local: Jan 02, 04:18 PM EST",
+    "link": "https://www.vesselfinder.com/ports/USPEF001",
+    "guid": "5b2dc7e378c519aa0c96ac9ba032e8959405af1b",
+    "pubDate": "Fri, 02 Jan 2026 21:33:30 GMT",
+    "eventUtc": "2026-01-02T21:18:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Arrived at Sydney, Australia at Jan 02, 02:27 PM EST. The local time to the port is Jan 03, 06:27 AM AEDT",
     "description": "Sydney, Australia Arrival (UTC) Jan 2, 19:27 — ET: Jan 02, 02:27 PM EST | Local: Jan 03, 06:27 AM AEDT",
     "link": "https://www.vesselfinder.com/ports/AUSYD002",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2025-11-11T07:24:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Willemstad, Curacao at Nov 10, 05:06 PM EST. The local time to the port is Nov 10, 06:06 PM AST",
-    "description": "Willemstad, Curacao Departure (UTC) Nov 10, 22:06 — ET: Nov 10, 05:06 PM EST | Local: Nov 10, 06:06 PM AST",
-    "link": "https://www.vesselfinder.com/ports/CWWIL002",
-    "guid": "a5bd973e1fbf41bb670288dcc9abb49db7919abb",
-    "pubDate": "Mon, 10 Nov 2025 22:25:23 GMT",
-    "eventUtc": "2025-11-10T22:06:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]

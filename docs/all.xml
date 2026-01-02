@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Fri, 02 Jan 2026 21:21:34 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 02 Jan 2026 21:35:56 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,13 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Dream Departed from Port Everglades, United States (USA) at Jan 02, 04:18 PM EST. The local time to the port is Jan 02, 04:18 PM EST</title>
+    <link>https://www.vesselfinder.com/ports/USPEF001</link>
+    <guid isPermaLink="false">5b2dc7e378c519aa0c96ac9ba032e8959405af1b</guid>
+    <pubDate>Fri, 02 Jan 2026 21:33:30 GMT</pubDate>
+    <description><![CDATA[Port Everglades, United States (USA) Departure (UTC) Jan 2, 21:18 — ET: Jan 02, 04:18 PM EST | Local: Jan 02, 04:18 PM EST]]></description>
   </item>
   <item>
     <title>Disney Wonder Arrived at Sydney, Australia at Jan 02, 02:27 PM EST. The local time to the port is Jan 03, 06:27 AM AEDT</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">9856ee11070c98388d73ca3f3c496fe78606a231</guid>
     <pubDate>Tue, 11 Nov 2025 07:31:13 GMT</pubDate>
     <description><![CDATA[Hobart, Australia Departure (UTC) Nov 11, 07:24 — ET: Nov 11, 02:24 AM EST | Local: Nov 11, 06:24 PM AEDT]]></description>
-  </item>
-  <item>
-    <title>Disney Magic Departed from Willemstad, Curacao at Nov 10, 05:06 PM EST. The local time to the port is Nov 10, 06:06 PM AST</title>
-    <link>https://www.vesselfinder.com/ports/CWWIL002</link>
-    <guid isPermaLink="false">a5bd973e1fbf41bb670288dcc9abb49db7919abb</guid>
-    <pubDate>Mon, 10 Nov 2025 22:25:23 GMT</pubDate>
-    <description><![CDATA[Willemstad, Curacao Departure (UTC) Nov 10, 22:06 — ET: Nov 10, 05:06 PM EST | Local: Nov 10, 06:06 PM AST]]></description>
   </item>
 </channel>
 </rss>
