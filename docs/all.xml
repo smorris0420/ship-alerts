@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Fri, 02 Jan 2026 17:57:18 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 02 Jan 2026 18:22:22 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -153,6 +153,13 @@
     <guid isPermaLink="false">a01926113e964d299820417136a01b1f0d39b561</guid>
     <pubDate>Thu, 01 Jan 2026 02:37:50 GMT</pubDate>
     <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) Jan 02, 15:00 — ET: Jan 02, 10:00 AM EST | Local: Jan 02, 10:00 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Fantasy Arrived at Nassau, Bahamas at Jan 02, 07:37 AM EST. The local time to the port is Jan 02, 07:37 AM EST</title>
+    <link>https://www.vesselfinder.com/ports/BSNAS001</link>
+    <guid isPermaLink="false">ef2d4ee9f1a55294b742fd21ff06a101e3398d1b</guid>
+    <pubDate>Fri, 02 Jan 2026 18:18:27 GMT</pubDate>
+    <description><![CDATA[Nassau, Bahamas Arrival (UTC) Jan 2, 12:37 — ET: Jan 02, 07:37 AM EST | Local: Jan 02, 07:37 AM EST]]></description>
   </item>
   <item>
     <title>Disney Treasure Arrived at Gorda Cay, Bahamas at Jan 02, 07:27 AM EST. The local time to the port is Jan 02, 07:27 AM EST</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">ef72cd2d436ca3de08bf5abd0edc3245fef6dadd</guid>
     <pubDate>Mon, 10 Nov 2025 22:41:05 GMT</pubDate>
     <description><![CDATA[Cape Canaveral, United States (USA) Departure (UTC) Nov 10, 21:57 — ET: Nov 10, 04:57 PM EST | Local: Nov 10, 04:57 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Wonder Arrived at Hobart, Australia at Nov 10, 03:26 PM EST. The local time to the port is Nov 11, 07:26 AM AEDT</title>
-    <link>https://www.vesselfinder.com/ports/AUHBA001</link>
-    <guid isPermaLink="false">fc957cbc415fed0ee7582fd50f9cb72164a4280c</guid>
-    <pubDate>Mon, 10 Nov 2025 21:19:08 GMT</pubDate>
-    <description><![CDATA[Hobart, Australia Arrival (UTC) Nov 10, 20:26 — ET: Nov 10, 03:26 PM EST | Local: Nov 11, 07:26 AM AEDT]]></description>
   </item>
 </channel>
 </rss>

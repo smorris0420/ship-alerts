@@ -231,6 +231,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Fantasy Arrived at Nassau, Bahamas at Jan 02, 07:37 AM EST. The local time to the port is Jan 02, 07:37 AM EST",
+    "description": "Nassau, Bahamas Arrival (UTC) Jan 2, 12:37 — ET: Jan 02, 07:37 AM EST | Local: Jan 02, 07:37 AM EST",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "ef2d4ee9f1a55294b742fd21ff06a101e3398d1b",
+    "pubDate": "Fri, 02 Jan 2026 18:18:27 GMT",
+    "eventUtc": "2026-01-02T12:37:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Arrived at Gorda Cay, Bahamas at Jan 02, 07:27 AM EST. The local time to the port is Jan 02, 07:27 AM EST",
     "description": "Gorda Cay, Bahamas Arrival (UTC) Jan 2, 12:27 — ET: Jan 02, 07:27 AM EST | Local: Jan 02, 07:27 AM EST",
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2025-11-10T21:57:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Arrived at Hobart, Australia at Nov 10, 03:26 PM EST. The local time to the port is Nov 11, 07:26 AM AEDT",
-    "description": "Hobart, Australia Arrival (UTC) Nov 10, 20:26 — ET: Nov 10, 03:26 PM EST | Local: Nov 11, 07:26 AM AEDT",
-    "link": "https://www.vesselfinder.com/ports/AUHBA001",
-    "guid": "fc957cbc415fed0ee7582fd50f9cb72164a4280c",
-    "pubDate": "Mon, 10 Nov 2025 21:19:08 GMT",
-    "eventUtc": "2025-11-10T20:26:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
     "source": "vf_ship"
   }
 ]
