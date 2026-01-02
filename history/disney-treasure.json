@@ -44,6 +44,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Arrived at Gorda Cay, Bahamas at Jan 02, 07:27 AM EST. The local time to the port is Jan 02, 07:27 AM EST",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Jan 2, 12:27 — ET: Jan 02, 07:27 AM EST | Local: Jan 02, 07:27 AM EST",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "023ba77321f2b3dedd340893f916f888e7f5fe36",
+    "pubDate": "Fri, 02 Jan 2026 13:09:22 GMT",
+    "eventUtc": "2026-01-02T12:27:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Departed from Cozumel, Mexico at Dec 29, 05:15 PM EST. The local time to the port is Dec 29, 05:15 PM EST",
     "description": "Cozumel, Mexico Departure (UTC) Dec 29, 22:15 — ET: Dec 29, 05:15 PM EST | Local: Dec 29, 05:15 PM EST",
     "link": "https://www.vesselfinder.com/ports/MXCZM001",

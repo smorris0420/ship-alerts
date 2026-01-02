@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Fri, 02 Jan 2026 12:30:09 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 02 Jan 2026 13:12:47 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -153,6 +153,27 @@
     <guid isPermaLink="false">a01926113e964d299820417136a01b1f0d39b561</guid>
     <pubDate>Thu, 01 Jan 2026 02:37:50 GMT</pubDate>
     <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) Jan 02, 15:00 — ET: Jan 02, 10:00 AM EST | Local: Jan 02, 10:00 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Treasure Arrived at Gorda Cay, Bahamas at Jan 02, 07:27 AM EST. The local time to the port is Jan 02, 07:27 AM EST</title>
+    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
+    <guid isPermaLink="false">023ba77321f2b3dedd340893f916f888e7f5fe36</guid>
+    <pubDate>Fri, 02 Jan 2026 13:09:22 GMT</pubDate>
+    <description><![CDATA[Gorda Cay, Bahamas Arrival (UTC) Jan 2, 12:27 — ET: Jan 02, 07:27 AM EST | Local: Jan 02, 07:27 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Magic Arrived at Galveston, United States (USA) at Jan 02, 07:23 AM EST. The local time to the port is Jan 02, 07:23 AM EST</title>
+    <link>https://www.vesselfinder.com/ports/USGLS001</link>
+    <guid isPermaLink="false">90d0112f0448c9e44674935213b644d717c3b53b</guid>
+    <pubDate>Fri, 02 Jan 2026 13:10:11 GMT</pubDate>
+    <description><![CDATA[Galveston, United States (USA) Arrival (UTC) Jan 2, 12:23 — ET: Jan 02, 07:23 AM EST | Local: Jan 02, 07:23 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Wish Arrived at Cape Canaveral, United States (USA) at Jan 02, 06:27 AM EST. The local time to the port is Jan 02, 06:27 AM EST</title>
+    <link>https://www.vesselfinder.com/ports/USPCV001</link>
+    <guid isPermaLink="false">6c6788300ff3a7da473b7a66de359ae8a3b5f492</guid>
+    <pubDate>Fri, 02 Jan 2026 13:09:15 GMT</pubDate>
+    <description><![CDATA[Cape Canaveral, United States (USA) Arrival (UTC) Jan 2, 11:27 — ET: Jan 02, 06:27 AM EST | Local: Jan 02, 06:27 AM EST]]></description>
   </item>
   <item>
     <title>Disney Dream Arrived at Port Everglades, United States (USA) at Jan 02, 05:51 AM EST. The local time to the port is Jan 02, 05:51 AM EST</title>
@@ -3485,27 +3506,6 @@
     <guid isPermaLink="false">4c6c59a757b0ab5a2b01d89b97f44a212ab972c9</guid>
     <pubDate>Mon, 10 Nov 2025 12:43:14 GMT</pubDate>
     <description><![CDATA[Cape Canaveral, United States (USA) Arrival (UTC) Nov 10, 11:20 — ET: Nov 10, 06:20 AM EST | Local: Nov 10, 06:20 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Magic Departed from Oranjestad, Aruba at Nov 09, 08:55 PM EST. The local time to the port is Nov 09, 09:55 PM AST</title>
-    <link>https://www.vesselfinder.com/ports/AWORJ001</link>
-    <guid isPermaLink="false">ead0bad3d4adc81e9ec2474d5bfec9f712836fc5</guid>
-    <pubDate>Mon, 10 Nov 2025 02:59:05 GMT</pubDate>
-    <description><![CDATA[Oranjestad, Aruba Departure (UTC) Nov 10, 01:55 — ET: Nov 09, 08:55 PM EST | Local: Nov 09, 09:55 PM AST]]></description>
-  </item>
-  <item>
-    <title>Disney Dream Departed from Nassau, Bahamas at Nov 09, 07:16 PM EST. The local time to the port is Nov 09, 07:16 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/BSNAS001</link>
-    <guid isPermaLink="false">455f330ed12660e73f245f525ae81609fe5f02cb</guid>
-    <pubDate>Mon, 10 Nov 2025 04:50:08 GMT</pubDate>
-    <description><![CDATA[Nassau, Bahamas Departure (UTC) Nov 10, 00:16 — ET: Nov 09, 07:16 PM EST | Local: Nov 09, 07:16 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Wish Departed from Gorda Cay, Bahamas at Nov 09, 04:36 PM EST. The local time to the port is Nov 09, 04:36 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
-    <guid isPermaLink="false">1d79284a737f02b59d39be24df50fd3f0f7cc930</guid>
-    <pubDate>Sun, 09 Nov 2025 22:01:31 GMT</pubDate>
-    <description><![CDATA[Gorda Cay, Bahamas Departure (UTC) Nov 9, 21:36 — ET: Nov 09, 04:36 PM EST | Local: Nov 09, 04:36 PM EST]]></description>
   </item>
 </channel>
 </rss>
