@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Departed from Gorda Cay, Bahamas at Jan 02, 04:58 PM EST. The local time to the port is Jan 02, 04:58 PM EST",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Jan 2, 21:58 — ET: Jan 02, 04:58 PM EST | Local: Jan 02, 04:58 PM EST",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "e19ac076bf3f4f5604a81d831b741b9f5666c562",
+    "pubDate": "Fri, 02 Jan 2026 22:20:35 GMT",
+    "eventUtc": "2026-01-02T21:58:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Departed from Cape Canaveral, United States (USA) at Jan 02, 04:39 PM EST. The local time to the port is Jan 02, 04:39 PM EST",
     "description": "Cape Canaveral, United States (USA) Departure (UTC) Jan 2, 21:39 — ET: Jan 02, 04:39 PM EST | Local: Jan 02, 04:39 PM EST",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5484,17 +5495,6 @@
     "guid": "296e97fb94942515fbe178fb797b9e2a13ebfcb9",
     "pubDate": "Tue, 11 Nov 2025 22:29:17 GMT",
     "eventUtc": "2025-11-11T22:04:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Road Town, Tortola, British Virgin Islands at Nov 11, 06:02 AM EST. The local time to the port is Nov 11, 07:02 AM AST",
-    "description": "Road Town, Tortola, British Virgin Islands Arrival (UTC) Nov 11, 11:02 — ET: Nov 11, 06:02 AM EST | Local: Nov 11, 07:02 AM AST",
-    "link": "https://www.vesselfinder.com/ports/VGRAD001",
-    "guid": "7295234fb5fb9f2e0361b4a1921f3cf7fee1c21a",
-    "pubDate": "Tue, 11 Nov 2025 11:39:47 GMT",
-    "eventUtc": "2025-11-11T11:02:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
     "source": "vf_ship"
