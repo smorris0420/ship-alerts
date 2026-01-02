@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Fri, 02 Jan 2026 16:03:46 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 02 Jan 2026 16:40:51 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -183,11 +183,25 @@
     <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) Jan 2, 10:51 — ET: Jan 02, 05:51 AM EST | Local: Jan 02, 05:51 AM EST]]></description>
   </item>
   <item>
+    <title>Disney Wonder Departed from Eden, Australia at Jan 01, 10:27 PM EST. The local time to the port is Jan 02, 02:27 PM AEDT</title>
+    <link>https://www.vesselfinder.com/ports/AUQDN001</link>
+    <guid isPermaLink="false">68e2b2f76cbfa1c11923161e3698d0f2c602cfb3</guid>
+    <pubDate>Fri, 02 Jan 2026 16:39:22 GMT</pubDate>
+    <description><![CDATA[Eden, Australia Departure (UTC) Jan 2, 03:27 — ET: Jan 01, 10:27 PM EST | Local: Jan 02, 02:27 PM AEDT]]></description>
+  </item>
+  <item>
     <title>Disney Destiny Departed from Gorda Cay, Bahamas at Jan 01, 04:56 PM EST. The local time to the port is Jan 01, 04:56 PM EST</title>
     <link>https://www.vesselfinder.com/ports/BSGOC001</link>
     <guid isPermaLink="false">b4130a295f85f65c217545ff9fac1c94f25af935</guid>
     <pubDate>Thu, 01 Jan 2026 22:23:24 GMT</pubDate>
     <description><![CDATA[Gorda Cay, Bahamas Departure (UTC) Jan 1, 21:56 — ET: Jan 01, 04:56 PM EST | Local: Jan 01, 04:56 PM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Wonder Arrived at Eden, Australia at Jan 01, 11:49 AM EST. The local time to the port is Jan 02, 03:49 AM AEDT</title>
+    <link>https://www.vesselfinder.com/ports/AUQDN001</link>
+    <guid isPermaLink="false">3ade16439e18690dbdda810ca7eca0a5a45c055d</guid>
+    <pubDate>Fri, 02 Jan 2026 16:39:20 GMT</pubDate>
+    <description><![CDATA[Eden, Australia Arrival (UTC) Jan 1, 16:49 — ET: Jan 01, 11:49 AM EST | Local: Jan 02, 03:49 AM AEDT]]></description>
   </item>
   <item>
     <title>Disney Destiny Arrived at Gorda Cay, Bahamas at Jan 01, 07:24 AM EST. The local time to the port is Jan 01, 07:24 AM EST</title>
@@ -3492,20 +3506,6 @@
     <guid isPermaLink="false">fc957cbc415fed0ee7582fd50f9cb72164a4280c</guid>
     <pubDate>Mon, 10 Nov 2025 21:19:08 GMT</pubDate>
     <description><![CDATA[Hobart, Australia Arrival (UTC) Nov 10, 20:26 — ET: Nov 10, 03:26 PM EST | Local: Nov 11, 07:26 AM AEDT]]></description>
-  </item>
-  <item>
-    <title>Disney Magic Arrived at Willemstad, Curacao at Nov 10, 06:27 AM EST. The local time to the port is Nov 10, 07:27 AM AST</title>
-    <link>https://www.vesselfinder.com/ports/CWWIL002</link>
-    <guid isPermaLink="false">2d43025447df286d2dec564e44032adb5ef59060</guid>
-    <pubDate>Mon, 10 Nov 2025 12:45:00 GMT</pubDate>
-    <description><![CDATA[Willemstad, Curacao Arrival (UTC) Nov 10, 11:27 — ET: Nov 10, 06:27 AM EST | Local: Nov 10, 07:27 AM AST]]></description>
-  </item>
-  <item>
-    <title>Disney Wish Arrived at Cape Canaveral, United States (USA) at Nov 10, 06:20 AM EST. The local time to the port is Nov 10, 06:20 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/USPCV001</link>
-    <guid isPermaLink="false">4c6c59a757b0ab5a2b01d89b97f44a212ab972c9</guid>
-    <pubDate>Mon, 10 Nov 2025 12:43:14 GMT</pubDate>
-    <description><![CDATA[Cape Canaveral, United States (USA) Arrival (UTC) Nov 10, 11:20 — ET: Nov 10, 06:20 AM EST | Local: Nov 10, 06:20 AM EST]]></description>
   </item>
 </channel>
 </rss>
