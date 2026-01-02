@@ -11,6 +11,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Arrived at Progreso, Mexico at Dec 31, 10:27 AM EST. The local time to the port is Dec 31, 10:27 AM EST",
+    "description": "Progreso, Mexico Arrival (UTC) Dec 31, 15:27 — ET: Dec 31, 10:27 AM EST | Local: Dec 31, 10:27 AM EST",
+    "link": "https://www.vesselfinder.com/ports/MXPGO001",
+    "guid": "851a013ab7f99ecfc12afd80f13ba2e1327ef1b0",
+    "pubDate": "Fri, 02 Jan 2026 05:39:15 GMT",
+    "eventUtc": "2026-12-31T15:27:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Departed from Hobart, Australia at Dec 31, 08:48 AM EST. The local time to the port is Jan 01, 12:48 AM AEDT",
     "description": "Hobart, Australia Departure (UTC) Dec 31, 13:48 — ET: Dec 31, 08:48 AM EST | Local: Jan 01, 12:48 AM AEDT",
     "link": "https://www.vesselfinder.com/ports/AUHBA001",
@@ -217,6 +228,17 @@
     "eventUtc": "2026-01-01T12:24:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Magic Departed from Progreso, Mexico at Dec 31, 08:07 PM EST. The local time to the port is Dec 31, 08:07 PM EST",
+    "description": "Progreso, Mexico Departure (UTC) Jan 1, 01:07 — ET: Dec 31, 08:07 PM EST | Local: Dec 31, 08:07 PM EST",
+    "link": "https://www.vesselfinder.com/ports/MXPGO001",
+    "guid": "cc81bca3d52f133c95532eb3aad35b4b2fad119a",
+    "pubDate": "Fri, 02 Jan 2026 05:39:16 GMT",
+    "eventUtc": "2026-01-01T01:07:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
     "source": "vf_ship"
   },
   {
@@ -5475,28 +5497,6 @@
     "eventUtc": "2025-11-09T11:53:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Departed from Melbourne, Australia at Nov 09, 01:25 AM EST. The local time to the port is Nov 09, 05:25 PM AEDT",
-    "description": "Melbourne, Australia Departure (UTC) Nov 9, 06:25 — ET: Nov 09, 01:25 AM EST | Local: Nov 09, 05:25 PM AEDT",
-    "link": "https://www.vesselfinder.com/ports/AUMEL001",
-    "guid": "7aa37517993d438c7242d9ae8a94234cb8ad5415",
-    "pubDate": "Sun, 09 Nov 2025 06:42:02 GMT",
-    "eventUtc": "2025-11-09T06:25:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Departed from Nassau, Bahamas at Nov 08, 05:38 PM EST. The local time to the port is Nov 08, 05:38 PM EST",
-    "description": "Nassau, Bahamas Departure (UTC) Nov 8, 22:38 — ET: Nov 08, 05:38 PM EST | Local: Nov 08, 05:38 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "86cce5560d58a9a4a477288aad46b660270ac1e8",
-    "pubDate": "Sat, 08 Nov 2025 23:37:40 GMT",
-    "eventUtc": "2025-11-08T22:38:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
     "source": "vf_ship"
   }
 ]
