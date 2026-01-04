@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Sun, 04 Jan 2026 21:32:59 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 04 Jan 2026 21:47:16 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,13 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Fantasy Departed from Cape Canaveral, United States (USA) at Jan 04, 04:30 PM EST. The local time to the port is Jan 04, 04:30 PM EST</title>
+    <link>https://www.vesselfinder.com/ports/USPCV001</link>
+    <guid isPermaLink="false">cb5649d92d2058b8b76e1ae5e2391dde05f7666c</guid>
+    <pubDate>Sun, 04 Jan 2026 21:43:20 GMT</pubDate>
+    <description><![CDATA[Cape Canaveral, United States (USA) Departure (UTC) Jan 4, 21:30 — ET: Jan 04, 04:30 PM EST | Local: Jan 04, 04:30 PM EST]]></description>
   </item>
   <item>
     <title>Disney Magic Arrived at Cozumel, Mexico at Jan 04, 11:13 AM EST. The local time to the port is Jan 04, 11:13 AM EST</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">b99d0803caa64ce182ce513483e8b1e2ef79ce5f</guid>
     <pubDate>Thu, 13 Nov 2025 11:04:11 GMT</pubDate>
     <description><![CDATA[Basseterre, St Kitts & Nevis Arrival (UTC) Nov 13, 10:17 — ET: Nov 13, 05:17 AM EST | Local: Nov 13, 06:17 AM AST]]></description>
-  </item>
-  <item>
-    <title>Disney Destiny Arrived at Port Everglades, United States (USA) at Nov 13, 04:56 AM EST. The local time to the port is Nov 13, 04:56 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/USPEF001</link>
-    <guid isPermaLink="false">2b6e71013ba28edb250a71e5eb9c116c7991f0d2</guid>
-    <pubDate>Thu, 13 Nov 2025 10:37:17 GMT</pubDate>
-    <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) Nov 13, 09:56 — ET: Nov 13, 04:56 AM EST | Local: Nov 13, 04:56 AM EST]]></description>
   </item>
 </channel>
 </rss>
