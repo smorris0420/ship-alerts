@@ -220,6 +220,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Arrived at Hobart, Australia at Jan 04, 04:19 PM EST. The local time to the port is Jan 05, 08:19 AM AEDT",
+    "description": "Hobart, Australia Arrival (UTC) Jan 4, 21:19 — ET: Jan 04, 04:19 PM EST | Local: Jan 05, 08:19 AM AEDT",
+    "link": "https://www.vesselfinder.com/ports/AUHBA001",
+    "guid": "fb953b4dceae456b3e4b87f9e9fb330287181bc4",
+    "pubDate": "Sun, 04 Jan 2026 21:56:25 GMT",
+    "eventUtc": "2026-01-04T21:19:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Arrived at Cozumel, Mexico at Jan 04, 11:13 AM EST. The local time to the port is Jan 04, 11:13 AM EST",
     "description": "Cozumel, Mexico Arrival (UTC) Jan 4, 16:13 — ET: Jan 04, 11:13 AM EST | Local: Jan 04, 11:13 AM EST",
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2025-11-13T12:40:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Arrived at Basseterre, St Kitts & Nevis at Nov 13, 05:17 AM EST. The local time to the port is Nov 13, 06:17 AM AST",
-    "description": "Basseterre, St Kitts & Nevis Arrival (UTC) Nov 13, 10:17 — ET: Nov 13, 05:17 AM EST | Local: Nov 13, 06:17 AM AST",
-    "link": "https://www.vesselfinder.com/ports/KNBAS001",
-    "guid": "b99d0803caa64ce182ce513483e8b1e2ef79ce5f",
-    "pubDate": "Thu, 13 Nov 2025 11:04:11 GMT",
-    "eventUtc": "2025-11-13T10:17:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
