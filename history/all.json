@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Cozumel, Mexico at Jan 04, 06:23 PM EST. The local time to the port is Jan 04, 06:23 PM EST",
+    "description": "Cozumel, Mexico Departure (UTC) Jan 4, 23:23 — ET: Jan 04, 06:23 PM EST | Local: Jan 04, 06:23 PM EST",
+    "link": "https://www.vesselfinder.com/ports/MXCZM001",
+    "guid": "60203e8b0a73632a37ea37e19a80d5d1993dee63",
+    "pubDate": "Sun, 04 Jan 2026 23:35:25 GMT",
+    "eventUtc": "2026-01-04T23:23:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Nassau, Bahamas at Jan 04, 05:47 PM EST. The local time to the port is Jan 04, 05:47 PM EST",
     "description": "Nassau, Bahamas Departure (UTC) Jan 4, 22:47 — ET: Jan 04, 05:47 PM EST | Local: Jan 04, 05:47 PM EST",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2025-11-13T21:19:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Basseterre, St Kitts & Nevis at Nov 13, 03:18 PM EST. The local time to the port is Nov 13, 04:18 PM AST",
-    "description": "Basseterre, St Kitts & Nevis Departure (UTC) Nov 13, 20:18 — ET: Nov 13, 03:18 PM EST | Local: Nov 13, 04:18 PM AST",
-    "link": "https://www.vesselfinder.com/ports/KNBAS001",
-    "guid": "1d34dc27a71118f96112cc7e67d6a98a9e8ea450",
-    "pubDate": "Thu, 13 Nov 2025 20:42:31 GMT",
-    "eventUtc": "2025-11-13T20:18:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
