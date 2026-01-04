@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Arrived at Port Everglades, United States (USA) at Jan 04, 04:06 AM EST. The local time to the port is Jan 04, 04:06 AM EST",
+    "description": "Port Everglades, United States (USA) Arrival (UTC) Jan 4, 09:06 — ET: Jan 04, 04:06 AM EST | Local: Jan 04, 04:06 AM EST",
+    "link": "https://www.vesselfinder.com/ports/USPEF001",
+    "guid": "793fc0a45fd22f35ff770d1ee65c379440862561",
+    "pubDate": "Sun, 04 Jan 2026 09:52:00 GMT",
+    "eventUtc": "2026-01-04T09:06:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Departed from Nassau, Bahamas at Jan 03, 05:56 PM EST. The local time to the port is Jan 03, 05:56 PM EST",
     "description": "Nassau, Bahamas Departure (UTC) Jan 3, 22:56 — ET: Jan 03, 05:56 PM EST | Local: Jan 03, 05:56 PM EST",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2025-11-12T21:22:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Saint Thomas, US Virgin Islands at Nov 12, 03:21 PM EST. The local time to the port is Nov 12, 03:21 PM EST",
-    "description": "Saint Thomas, US Virgin Islands Departure (UTC) Nov 12, 20:21 — ET: Nov 12, 03:21 PM EST | Local: Nov 12, 03:21 PM EST",
-    "link": "https://www.vesselfinder.com/ports/VISTT001",
-    "guid": "a4a708c6c34cc74b8ec2da0fcf5b1d2d2f8929dc",
-    "pubDate": "Wed, 12 Nov 2025 20:31:50 GMT",
-    "eventUtc": "2025-11-12T20:21:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
