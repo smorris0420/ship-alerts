@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Departed from Hobart, Australia at Jan 05, 02:06 AM EST. The local time to the port is Jan 05, 06:06 PM AEDT",
+    "description": "Hobart, Australia Departure (UTC) Jan 5, 07:06 — ET: Jan 05, 02:06 AM EST | Local: Jan 05, 06:06 PM AEDT",
+    "link": "https://www.vesselfinder.com/ports/AUHBA001",
+    "guid": "d01c927fe3ff92efe42f371bfb2b48256df92766",
+    "pubDate": "Mon, 05 Jan 2026 07:40:36 GMT",
+    "eventUtc": "2026-01-05T07:06:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Departed from Cozumel, Mexico at Jan 04, 06:23 PM EST. The local time to the port is Jan 04, 06:23 PM EST",
     "description": "Cozumel, Mexico Departure (UTC) Jan 4, 23:23 — ET: Jan 04, 06:23 PM EST | Local: Jan 04, 06:23 PM EST",
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2025-11-14T10:15:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Departed from Gorda Cay, Bahamas at Nov 13, 04:53 PM EST. The local time to the port is Nov 13, 04:53 PM EST",
-    "description": "Gorda Cay, Bahamas Departure (UTC) Nov 13, 21:53 — ET: Nov 13, 04:53 PM EST | Local: Nov 13, 04:53 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "34a3d4b797f157e45fab4d2f044c2d808bcedc05",
-    "pubDate": "Fri, 14 Nov 2025 03:38:06 GMT",
-    "eventUtc": "2025-11-13T21:53:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
     "source": "vf_ship"
   }
 ]
