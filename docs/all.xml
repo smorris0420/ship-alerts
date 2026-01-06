@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Tue, 06 Jan 2026 11:39:11 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 06 Jan 2026 11:52:12 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -153,6 +153,13 @@
     <guid isPermaLink="false">11aa2ddc9f231008a114749777185a84a576df2d</guid>
     <pubDate>Mon, 05 Jan 2026 11:00:10 GMT</pubDate>
     <description><![CDATA[Nassau, Bahamas Arrival (UTC) Jan 07, 17:45 — ET: Jan 07, 12:45 PM EST | Local: Jan 07, 12:45 PM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Treasure Arrived at Road Town, Tortola, British Virgin Islands at Jan 06, 06:02 AM EST. The local time to the port is Jan 06, 07:02 AM AST</title>
+    <link>https://www.vesselfinder.com/ports/VGRAD001</link>
+    <guid isPermaLink="false">83716fef21c240371fcba0cbfb0a4094295186f9</guid>
+    <pubDate>Tue, 06 Jan 2026 11:47:30 GMT</pubDate>
+    <description><![CDATA[Road Town, Tortola, British Virgin Islands Arrival (UTC) Jan 6, 11:02 — ET: Jan 06, 06:02 AM EST | Local: Jan 06, 07:02 AM AST]]></description>
   </item>
   <item>
     <title>Disney Magic Departed from Progreso, Mexico at Jan 05, 08:07 PM EST. The local time to the port is Jan 05, 08:07 PM EST</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">0eb37e364dafa8d4e8181fa4e5a2a081eabaea77</guid>
     <pubDate>Fri, 14 Nov 2025 21:53:55 GMT</pubDate>
     <description><![CDATA[Cape Canaveral, United States (USA) Departure (UTC) Nov 14, 21:39 — ET: Nov 14, 04:39 PM EST | Local: Nov 14, 04:39 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Magic Departed from San Juan, Puerto Rico at Nov 14, 04:28 PM EST. The local time to the port is Nov 14, 05:28 PM AST</title>
-    <link>https://www.vesselfinder.com/ports/PRSJU001</link>
-    <guid isPermaLink="false">04a07cc0dc09d70abfcd47a16ab0e0035836388e</guid>
-    <pubDate>Mon, 17 Nov 2025 10:01:59 GMT</pubDate>
-    <description><![CDATA[San Juan, Puerto Rico Departure (UTC) Nov 14, 21:28 — ET: Nov 14, 04:28 PM EST | Local: Nov 14, 05:28 PM AST]]></description>
   </item>
 </channel>
 </rss>
