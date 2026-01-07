@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Fantasy Departed from Gorda Cay, Bahamas at Jan 09, 08:00 AM EST. The local time to the port is Jan 09, 08:00 AM EST",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Jan 09, 13:00 — ET: Jan 09, 08:00 AM EST | Local: Jan 09, 08:00 AM EST",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "a408bb5551050fc2908d29b8c540cfc14d2f2dbe",
+    "pubDate": "Wed, 07 Jan 2026 20:46:56 GMT",
+    "eventUtc": "2026-01-09T13:00:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_port"
+  },
+  {
+    "title": "Disney Fantasy Arrived at Gorda Cay, Bahamas at Jan 09, 08:00 AM EST. The local time to the port is Jan 09, 08:00 AM EST",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Jan 09, 13:00 — ET: Jan 09, 08:00 AM EST | Local: Jan 09, 08:00 AM EST",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "1bcb688bcdb76267262ff26ad032752d2fc851e9",
+    "pubDate": "Wed, 07 Jan 2026 20:46:57 GMT",
+    "eventUtc": "2026-01-09T13:00:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_port"
+  },
+  {
     "title": "Disney Treasure Departed from Saint Thomas, US Virgin Islands at Jan 07, 03:15 PM EST. The local time to the port is Jan 07, 03:15 PM EST",
     "description": "Saint Thomas, US Virgin Islands Departure (UTC) Jan 7, 20:15 — ET: Jan 07, 03:15 PM EST | Local: Jan 07, 03:15 PM EST",
     "link": "https://www.vesselfinder.com/ports/VISTT001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2025-11-16T12:38:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Arrived at Port Everglades, United States (USA) at Nov 16, 04:40 AM EST. The local time to the port is Nov 16, 04:40 AM EST",
-    "description": "Port Everglades, United States (USA) Arrival (UTC) Nov 16, 09:40 — ET: Nov 16, 04:40 AM EST | Local: Nov 16, 04:40 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "e0bb31a430553d33303aa254d98f1b2026f8825f",
-    "pubDate": "Sun, 16 Nov 2025 10:21:54 GMT",
-    "eventUtc": "2025-11-16T09:40:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Arrived at Cape Canaveral, United States (USA) at Nov 16, 04:16 AM EST. The local time to the port is Nov 16, 04:16 AM EST",
-    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Nov 16, 09:16 — ET: Nov 16, 04:16 AM EST | Local: Nov 16, 04:16 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "3a4a48e2a17f100da22f75d605e9fe95c9021b21",
-    "pubDate": "Sun, 16 Nov 2025 09:55:42 GMT",
-    "eventUtc": "2025-11-16T09:16:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
     "source": "vf_ship"
   }
 ]
