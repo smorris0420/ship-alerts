@@ -44,6 +44,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Departed from Saint Thomas, US Virgin Islands at Jan 07, 03:15 PM EST. The local time to the port is Jan 07, 03:15 PM EST",
+    "description": "Saint Thomas, US Virgin Islands Departure (UTC) Jan 7, 20:15 — ET: Jan 07, 03:15 PM EST | Local: Jan 07, 03:15 PM EST",
+    "link": "https://www.vesselfinder.com/ports/VISTT001",
+    "guid": "91bc07e3d69ffe31b0120f6dba4b50192251b8b6",
+    "pubDate": "Wed, 07 Jan 2026 20:21:20 GMT",
+    "eventUtc": "2026-01-07T20:15:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Arrived at Saint Thomas, US Virgin Islands at Jan 07, 06:11 AM EST. The local time to the port is Jan 07, 06:11 AM EST",
     "description": "Saint Thomas, US Virgin Islands Arrival (UTC) Jan 7, 11:11 — ET: Jan 07, 06:11 AM EST | Local: Jan 07, 06:11 AM EST",
     "link": "https://www.vesselfinder.com/ports/VISTT001",
