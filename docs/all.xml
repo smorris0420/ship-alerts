@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Wed, 07 Jan 2026 11:42:36 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 07 Jan 2026 11:56:00 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -153,6 +153,13 @@
     <guid isPermaLink="false">11aa2ddc9f231008a114749777185a84a576df2d</guid>
     <pubDate>Mon, 05 Jan 2026 11:00:10 GMT</pubDate>
     <description><![CDATA[Nassau, Bahamas Arrival (UTC) Jan 07, 17:45 — ET: Jan 07, 12:45 PM EST | Local: Jan 07, 12:45 PM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Treasure Arrived at Saint Thomas, US Virgin Islands at Jan 07, 06:11 AM EST. The local time to the port is Jan 07, 06:11 AM EST</title>
+    <link>https://www.vesselfinder.com/ports/VISTT001</link>
+    <guid isPermaLink="false">2b0c6dbd427cc9c1eea2b6763592b79409998b1c</guid>
+    <pubDate>Wed, 07 Jan 2026 11:51:10 GMT</pubDate>
+    <description><![CDATA[Saint Thomas, US Virgin Islands Arrival (UTC) Jan 7, 11:11 — ET: Jan 07, 06:11 AM EST | Local: Jan 07, 06:11 AM EST]]></description>
   </item>
   <item>
     <title>Disney Wonder Departed from Eden, Australia at Jan 07, 12:05 AM EST. The local time to the port is Jan 07, 04:05 PM AEDT</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">a8f841273da9dcd6e141616ae209b04ea08a9cbd</guid>
     <pubDate>Sun, 16 Nov 2025 08:16:09 GMT</pubDate>
     <description><![CDATA[Gorda Cay, Bahamas Departure (UTC) Nov 15, 21:29 — ET: Nov 15, 04:29 PM EST | Local: Nov 15, 04:29 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Wonder Arrived at Melbourne, Australia at Nov 15, 02:07 PM EST. The local time to the port is Nov 16, 06:07 AM AEDT</title>
-    <link>https://www.vesselfinder.com/ports/AUMEL001</link>
-    <guid isPermaLink="false">fe6b50c3ce32ab4e6dbbb50f0de2097015e74091</guid>
-    <pubDate>Sat, 15 Nov 2025 19:50:56 GMT</pubDate>
-    <description><![CDATA[Melbourne, Australia Arrival (UTC) Nov 15, 19:07 — ET: Nov 15, 02:07 PM EST | Local: Nov 16, 06:07 AM AEDT]]></description>
   </item>
 </channel>
 </rss>
