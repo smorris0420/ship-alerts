@@ -231,6 +231,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Wonder Departed from Sydney, Australia at Jan 08, 01:56 AM EST. The local time to the port is Jan 08, 05:56 PM AEDT",
+    "description": "Sydney, Australia Departure (UTC) Jan 8, 06:56 — ET: Jan 08, 01:56 AM EST | Local: Jan 08, 05:56 PM AEDT",
+    "link": "https://www.vesselfinder.com/ports/AUSYD002",
+    "guid": "abb72bd19aa999616b669275491610125a482553",
+    "pubDate": "Thu, 08 Jan 2026 07:17:31 GMT",
+    "eventUtc": "2026-01-08T06:56:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Departed from Galveston, United States (USA) at Jan 07, 05:50 PM EST. The local time to the port is Jan 07, 05:50 PM EST",
     "description": "Galveston, United States (USA) Departure (UTC) Jan 7, 22:50 — ET: Jan 07, 05:50 PM EST | Local: Jan 07, 05:50 PM EST",
     "link": "https://www.vesselfinder.com/ports/USGLS001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2025-11-16T22:18:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Departed from Gorda Cay, Bahamas at Nov 16, 04:47 PM EST. The local time to the port is Nov 16, 04:47 PM EST",
-    "description": "Gorda Cay, Bahamas Departure (UTC) Nov 16, 21:47 — ET: Nov 16, 04:47 PM EST | Local: Nov 16, 04:47 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "0e49df1160afe1736a8c6422e7b8d9b74a4ddcb4",
-    "pubDate": "Mon, 17 Nov 2025 01:45:44 GMT",
-    "eventUtc": "2025-11-16T21:47:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
     "source": "vf_ship"
   }
 ]
