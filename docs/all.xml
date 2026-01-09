@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Fri, 09 Jan 2026 22:30:51 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 09 Jan 2026 22:50:49 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -167,6 +167,13 @@
     <guid isPermaLink="false">6370d9189bc6f9a4170b36bf325715cfa3b8d972</guid>
     <pubDate>Fri, 09 Jan 2026 19:58:58 GMT</pubDate>
     <description><![CDATA[Cape Canaveral, United States (USA) Arrival (UTC) Jan 10, 18:15 — ET: Jan 10, 01:15 PM EST | Local: Jan 10, 01:15 PM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Dream Departed from Port Everglades, United States (USA) at Jan 09, 05:25 PM EST. The local time to the port is Jan 09, 05:25 PM EST</title>
+    <link>https://www.vesselfinder.com/ports/USPEF001</link>
+    <guid isPermaLink="false">18396f53279f7b89d0f6fd461f92744931baff87</guid>
+    <pubDate>Fri, 09 Jan 2026 22:48:29 GMT</pubDate>
+    <description><![CDATA[Port Everglades, United States (USA) Departure (UTC) Jan 9, 22:25 — ET: Jan 09, 05:25 PM EST | Local: Jan 09, 05:25 PM EST]]></description>
   </item>
   <item>
     <title>Disney Fantasy Departed from Cape Canaveral, United States (USA) at Jan 09, 05:12 PM EST. The local time to the port is Jan 09, 05:12 PM EST</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">93d4afc786532093452116a6a41e4369f0dec0a0</guid>
     <pubDate>Tue, 18 Nov 2025 23:01:45 GMT</pubDate>
     <description><![CDATA[Gorda Cay, Bahamas Departure (UTC) Nov 18, 22:02 — ET: Nov 18, 05:02 PM EST | Local: Nov 18, 05:02 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Wish Arrived at Nassau, Bahamas at Nov 18, 08:46 AM EST. The local time to the port is Nov 18, 08:46 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/BSNAS001</link>
-    <guid isPermaLink="false">fc4758334431762d4b770f7971425e200286cb00</guid>
-    <pubDate>Tue, 18 Nov 2025 14:49:10 GMT</pubDate>
-    <description><![CDATA[Nassau, Bahamas Arrival (UTC) Nov 18, 13:46 — ET: Nov 18, 08:46 AM EST | Local: Nov 18, 08:46 AM EST]]></description>
   </item>
 </channel>
 </rss>
