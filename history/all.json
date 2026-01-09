@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Arrived at Gorda Cay, Bahamas at Jan 09, 09:04 AM EST. The local time to the port is Jan 09, 09:04 AM EST",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Jan 9, 14:04 — ET: Jan 09, 09:04 AM EST | Local: Jan 09, 09:04 AM EST",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "6df3364c3ef2016e6bc2b2b052b6107363b67539",
+    "pubDate": "Fri, 09 Jan 2026 14:36:47 GMT",
+    "eventUtc": "2026-01-09T14:04:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Departed from Gorda Cay, Bahamas at Jan 09, 08:00 AM EST. The local time to the port is Jan 09, 08:00 AM EST",
     "description": "Gorda Cay, Bahamas Departure (UTC) Jan 09, 13:00 — ET: Jan 09, 08:00 AM EST | Local: Jan 09, 08:00 AM EST",
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2025-11-17T20:19:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Gorda Cay, Bahamas at Nov 17, 03:02 PM EST. The local time to the port is Nov 17, 03:02 PM EST",
-    "description": "Gorda Cay, Bahamas Departure (UTC) Nov 17, 20:02 — ET: Nov 17, 03:02 PM EST | Local: Nov 17, 03:02 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "9cb5963a9315d507acb1caef90ada27576793995",
-    "pubDate": "Mon, 17 Nov 2025 22:35:59 GMT",
-    "eventUtc": "2025-11-17T20:02:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
