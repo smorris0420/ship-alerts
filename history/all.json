@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Galveston, United States (USA) at Jan 11, 10:00 AM EST. The local time to the port is Jan 11, 10:00 AM EST",
+    "description": "Galveston, United States (USA) Departure (UTC) Jan 11, 15:00 — ET: Jan 11, 10:00 AM EST | Local: Jan 11, 10:00 AM EST",
+    "link": "https://www.vesselfinder.com/ports/USGLS001",
+    "guid": "c68386ca3170f854f644a2de3798401fb8200207",
+    "pubDate": "Fri, 09 Jan 2026 22:27:42 GMT",
+    "eventUtc": "2026-01-11T15:00:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_port"
+  },
+  {
+    "title": "Disney Magic Arrived at Galveston, United States (USA) at Jan 11, 10:00 AM EST. The local time to the port is Jan 11, 10:00 AM EST",
+    "description": "Galveston, United States (USA) Arrival (UTC) Jan 11, 15:00 — ET: Jan 11, 10:00 AM EST | Local: Jan 11, 10:00 AM EST",
+    "link": "https://www.vesselfinder.com/ports/USGLS001",
+    "guid": "016d69d4daec289722259ce147ca14b46e9b910e",
+    "pubDate": "Fri, 09 Jan 2026 22:27:43 GMT",
+    "eventUtc": "2026-01-11T15:00:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_port"
+  },
+  {
     "title": "Disney Fantasy Departed from Cape Canaveral, United States (USA) at Jan 10, 01:15 PM EST. The local time to the port is Jan 10, 01:15 PM EST",
     "description": "Cape Canaveral, United States (USA) Departure (UTC) Jan 10, 18:15 — ET: Jan 10, 01:15 PM EST | Local: Jan 10, 01:15 PM EST",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -229,6 +251,17 @@
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
     "source": "vf_port"
+  },
+  {
+    "title": "Disney Fantasy Departed from Cape Canaveral, United States (USA) at Jan 09, 05:12 PM EST. The local time to the port is Jan 09, 05:12 PM EST",
+    "description": "Cape Canaveral, United States (USA) Departure (UTC) Jan 9, 22:12 — ET: Jan 09, 05:12 PM EST | Local: Jan 09, 05:12 PM EST",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "a9d873f318832b5e7cd3b31fe22c1ffd92cc3ceb",
+    "pubDate": "Fri, 09 Jan 2026 22:27:06 GMT",
+    "eventUtc": "2026-01-09T22:12:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
   },
   {
     "title": "Disney Wish Departed from Cape Canaveral, United States (USA) at Jan 09, 04:38 PM EST. The local time to the port is Jan 09, 04:38 PM EST",
@@ -5464,39 +5497,6 @@
     "eventUtc": "2025-11-18T13:46:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Arrived at Gorda Cay, Bahamas at Nov 18, 07:48 AM EST. The local time to the port is Nov 18, 07:48 AM EST",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) Nov 18, 12:48 — ET: Nov 18, 07:48 AM EST | Local: Nov 18, 07:48 AM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "69a1d549083bb18cdf61155f73e6a1ae83e22547",
-    "pubDate": "Tue, 18 Nov 2025 13:52:45 GMT",
-    "eventUtc": "2025-11-18T12:48:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Departed from Hobart, Australia at Nov 18, 02:29 AM EST. The local time to the port is Nov 18, 06:29 PM AEDT",
-    "description": "Hobart, Australia Departure (UTC) Nov 18, 07:29 — ET: Nov 18, 02:29 AM EST | Local: Nov 18, 06:29 PM AEDT",
-    "link": "https://www.vesselfinder.com/ports/AUHBA001",
-    "guid": "01a0c200b6f36b09d813a4900a7f96f2de468556",
-    "pubDate": "Tue, 18 Nov 2025 07:38:55 GMT",
-    "eventUtc": "2025-11-18T07:29:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Port Everglades, United States (USA) at Nov 17, 05:30 PM EST. The local time to the port is Nov 17, 05:30 PM EST",
-    "description": "Port Everglades, United States (USA) Departure (UTC) Nov 17, 22:30 — ET: Nov 17, 05:30 PM EST | Local: Nov 17, 05:30 PM EST",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "74f9043cee2b9ad7ba34e994436be1fed756ab8d",
-    "pubDate": "Mon, 17 Nov 2025 22:36:12 GMT",
-    "eventUtc": "2025-11-17T22:30:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
     "source": "vf_ship"
   }
 ]
