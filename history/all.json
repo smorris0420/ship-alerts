@@ -253,6 +253,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Treasure Arrived at Cape Canaveral, United States (USA) at Jan 10, 06:06 AM EST. The local time to the port is Jan 10, 06:06 AM EST",
+    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Jan 10, 11:06 — ET: Jan 10, 06:06 AM EST | Local: Jan 10, 06:06 AM EST",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "6572b3b02dff79e34f1077a8368cedb73f15c70e",
+    "pubDate": "Sat, 10 Jan 2026 11:55:48 GMT",
+    "eventUtc": "2026-01-10T11:06:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Departed from Hobart, Australia at Jan 10, 01:14 AM EST. The local time to the port is Jan 10, 05:14 PM AEDT",
     "description": "Hobart, Australia Departure (UTC) Jan 10, 06:14 — ET: Jan 10, 01:14 AM EST | Local: Jan 10, 05:14 PM AEDT",
     "link": "https://www.vesselfinder.com/ports/AUHBA001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2025-11-19T12:45:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Arrived at Port Everglades, United States (USA) at Nov 19, 05:55 AM EST. The local time to the port is Nov 19, 05:55 AM EST",
-    "description": "Port Everglades, United States (USA) Arrival (UTC) Nov 19, 10:55 — ET: Nov 19, 05:55 AM EST | Local: Nov 19, 05:55 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "e61c925abd2f1f8af3295c8aca971cd4a982945c",
-    "pubDate": "Wed, 19 Nov 2025 11:35:31 GMT",
-    "eventUtc": "2025-11-19T10:55:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
     "source": "vf_ship"
   }
 ]
