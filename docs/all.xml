@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Sat, 10 Jan 2026 20:23:13 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 10 Jan 2026 20:45:05 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,20 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Destiny Departed from Port Everglades, United States (USA) at Jan 11, 10:45 AM EST. The local time to the port is Jan 11, 10:45 AM EST</title>
+    <link>https://www.vesselfinder.com/ports/USPEF001</link>
+    <guid isPermaLink="false">7d0b947862a993cafddd4c125783ea62284eb505</guid>
+    <pubDate>Sat, 10 Jan 2026 20:45:01 GMT</pubDate>
+    <description><![CDATA[Port Everglades, United States (USA) Departure (UTC) Jan 11, 15:45 — ET: Jan 11, 10:45 AM EST | Local: Jan 11, 10:45 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Destiny Arrived at Port Everglades, United States (USA) at Jan 11, 10:45 AM EST. The local time to the port is Jan 11, 10:45 AM EST</title>
+    <link>https://www.vesselfinder.com/ports/USPEF001</link>
+    <guid isPermaLink="false">3315d978170bc1b842ea478355f622602ecccb4a</guid>
+    <pubDate>Sat, 10 Jan 2026 20:45:02 GMT</pubDate>
+    <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) Jan 11, 15:45 — ET: Jan 11, 10:45 AM EST | Local: Jan 11, 10:45 AM EST]]></description>
   </item>
   <item>
     <title>Disney Magic Departed from Galveston, United States (USA) at Jan 11, 10:00 AM EST. The local time to the port is Jan 11, 10:00 AM EST</title>
@@ -3492,20 +3506,6 @@
     <guid isPermaLink="false">3eb7cb2e6845fc3d5897a7a3e157134d8e1951c5</guid>
     <pubDate>Thu, 20 Nov 2025 13:09:49 GMT</pubDate>
     <description><![CDATA[Gorda Cay, Bahamas Departure (UTC) Nov 19, 22:02 — ET: Nov 19, 05:02 PM EST | Local: Nov 19, 05:02 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Wonder Arrived at Melbourne, Australia at Nov 19, 01:56 PM EST. The local time to the port is Nov 20, 05:56 AM AEDT</title>
-    <link>https://www.vesselfinder.com/ports/AUMEL001</link>
-    <guid isPermaLink="false">6c145c4bb25761b68296ea12c25b231d282ebca9</guid>
-    <pubDate>Wed, 19 Nov 2025 19:39:58 GMT</pubDate>
-    <description><![CDATA[Melbourne, Australia Arrival (UTC) Nov 19, 18:56 — ET: Nov 19, 01:56 PM EST | Local: Nov 20, 05:56 AM AEDT]]></description>
-  </item>
-  <item>
-    <title>Disney Destiny Departed from Port Everglades, United States (USA) at Nov 19, 10:15 AM EST. The local time to the port is Nov 19, 10:15 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/USPEF001</link>
-    <guid isPermaLink="false">7540cca7bc860a8a573db09e9d3c5272283adde5</guid>
-    <pubDate>Tue, 18 Nov 2025 02:29:35 GMT</pubDate>
-    <description><![CDATA[Port Everglades, United States (USA) Departure (UTC) Nov 19, 15:15 — ET: Nov 19, 10:15 AM EST | Local: Nov 19, 10:15 AM EST]]></description>
   </item>
 </channel>
 </rss>
