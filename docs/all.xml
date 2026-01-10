@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Sat, 10 Jan 2026 21:37:21 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 10 Jan 2026 21:49:52 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,20 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Wish Departed from Nassau, Bahamas at Jan 11, 11:40 AM EST. The local time to the port is Jan 11, 11:40 AM EST</title>
+    <link>https://www.vesselfinder.com/ports/BSNAS001</link>
+    <guid isPermaLink="false">68f4255e5cbbc83aa6077009ea93c7ce4f4d2b25</guid>
+    <pubDate>Sat, 10 Jan 2026 21:44:51 GMT</pubDate>
+    <description><![CDATA[Nassau, Bahamas Departure (UTC) Jan 11, 16:40 — ET: Jan 11, 11:40 AM EST | Local: Jan 11, 11:40 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Wish Arrived at Nassau, Bahamas at Jan 11, 11:40 AM EST. The local time to the port is Jan 11, 11:40 AM EST</title>
+    <link>https://www.vesselfinder.com/ports/BSNAS001</link>
+    <guid isPermaLink="false">227f446730fc63a150d2d7b52cca4a1abbd8af2e</guid>
+    <pubDate>Sat, 10 Jan 2026 21:44:52 GMT</pubDate>
+    <description><![CDATA[Nassau, Bahamas Arrival (UTC) Jan 11, 16:40 — ET: Jan 11, 11:40 AM EST | Local: Jan 11, 11:40 AM EST]]></description>
   </item>
   <item>
     <title>Disney Destiny Departed from Port Everglades, United States (USA) at Jan 11, 10:45 AM EST. The local time to the port is Jan 11, 10:45 AM EST</title>
@@ -3492,20 +3506,6 @@
     <guid isPermaLink="false">496470bc666f436ed4335d641a6a5d11bd2089d6</guid>
     <pubDate>Thu, 20 Nov 2025 13:11:10 GMT</pubDate>
     <description><![CDATA[Galveston, United States (USA) Arrival (UTC) Nov 20, 12:06 — ET: Nov 20, 07:06 AM EST | Local: Nov 20, 07:06 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Wonder Departed from Melbourne, Australia at Nov 20, 01:35 AM EST. The local time to the port is Nov 20, 05:35 PM AEDT</title>
-    <link>https://www.vesselfinder.com/ports/AUMEL001</link>
-    <guid isPermaLink="false">4cd5a777e12d894cdd17c3ab89db7a33ca00b4e5</guid>
-    <pubDate>Thu, 20 Nov 2025 06:44:04 GMT</pubDate>
-    <description><![CDATA[Melbourne, Australia Departure (UTC) Nov 20, 06:35 — ET: Nov 20, 01:35 AM EST | Local: Nov 20, 05:35 PM AEDT]]></description>
-  </item>
-  <item>
-    <title>Disney Wish Departed from Gorda Cay, Bahamas at Nov 19, 05:02 PM EST. The local time to the port is Nov 19, 05:02 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
-    <guid isPermaLink="false">3eb7cb2e6845fc3d5897a7a3e157134d8e1951c5</guid>
-    <pubDate>Thu, 20 Nov 2025 13:09:49 GMT</pubDate>
-    <description><![CDATA[Gorda Cay, Bahamas Departure (UTC) Nov 19, 22:02 — ET: Nov 19, 05:02 PM EST | Local: Nov 19, 05:02 PM EST]]></description>
   </item>
 </channel>
 </rss>
