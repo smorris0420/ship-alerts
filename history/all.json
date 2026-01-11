@@ -297,6 +297,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Dream Arrived at Nassau, Bahamas at Jan 11, 07:32 AM EST. The local time to the port is Jan 11, 07:32 AM EST",
+    "description": "Nassau, Bahamas Arrival (UTC) Jan 11, 12:32 — ET: Jan 11, 07:32 AM EST | Local: Jan 11, 07:32 AM EST",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "3e5edb91c7fc58444ac2ff9ad34a4d90a29cd98c",
+    "pubDate": "Sun, 11 Jan 2026 13:38:40 GMT",
+    "eventUtc": "2026-01-11T12:32:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Arrived at Galveston, United States (USA) at Jan 11, 06:17 AM EST. The local time to the port is Jan 11, 06:17 AM EST",
     "description": "Galveston, United States (USA) Arrival (UTC) Jan 11, 11:17 — ET: Jan 11, 06:17 AM EST | Local: Jan 11, 06:17 AM EST",
     "link": "https://www.vesselfinder.com/ports/USGLS001",
@@ -5483,17 +5494,6 @@
     "link": "https://www.vesselfinder.com/ports/USPCV001",
     "guid": "22ed764d40d67627b19db910923eda0216c7bbf8",
     "pubDate": "Thu, 20 Nov 2025 23:30:57 GMT",
-    "eventUtc": "2025-11-21T13:45:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
-    "source": "vf_port"
-  },
-  {
-    "title": "Disney Fantasy Arrived at Cape Canaveral, United States (USA) at Nov 21, 08:45 AM EST. The local time to the port is Nov 21, 08:45 AM EST",
-    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Nov 21, 13:45 — ET: Nov 21, 08:45 AM EST | Local: Nov 21, 08:45 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "0f36fdce49cc5bb1bd446eb693ce5bad0a84b80c",
-    "pubDate": "Thu, 20 Nov 2025 23:30:59 GMT",
     "eventUtc": "2025-11-21T13:45:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
