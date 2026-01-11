@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Arrived at Sydney, Australia at Jan 11, 02:09 PM EST. The local time to the port is Jan 12, 06:09 AM AEDT",
+    "description": "Sydney, Australia Arrival (UTC) Jan 11, 19:09 — ET: Jan 11, 02:09 PM EST | Local: Jan 12, 06:09 AM AEDT",
+    "link": "https://www.vesselfinder.com/ports/AUSYD002",
+    "guid": "b0e42b06cb3a39a246fac7be212cfdea7ebc1162",
+    "pubDate": "Sun, 11 Jan 2026 19:40:39 GMT",
+    "eventUtc": "2026-01-11T19:09:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Departed from Nassau, Bahamas at Jan 11, 11:40 AM EST. The local time to the port is Jan 11, 11:40 AM EST",
     "description": "Nassau, Bahamas Departure (UTC) Jan 11, 16:40 — ET: Jan 11, 11:40 AM EST | Local: Jan 11, 11:40 AM EST",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -295,6 +306,17 @@
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
     "source": "vf_port"
+  },
+  {
+    "title": "Disney Wish Arrived at Gorda Cay, Bahamas at Jan 11, 08:10 AM EST. The local time to the port is Jan 11, 08:10 AM EST",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Jan 11, 13:10 — ET: Jan 11, 08:10 AM EST | Local: Jan 11, 08:10 AM EST",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "a6677f336083c5b02110bd231e080ecfd7686d0a",
+    "pubDate": "Sun, 11 Jan 2026 19:37:21 GMT",
+    "eventUtc": "2026-01-11T13:10:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
   },
   {
     "title": "Disney Dream Arrived at Nassau, Bahamas at Jan 11, 07:32 AM EST. The local time to the port is Jan 11, 07:32 AM EST",
@@ -5476,27 +5498,5 @@
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
     "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Gorda Cay, Bahamas at Nov 21, 04:49 PM EST. The local time to the port is Nov 21, 04:49 PM EST",
-    "description": "Gorda Cay, Bahamas Departure (UTC) Nov 21, 21:49 — ET: Nov 21, 04:49 PM EST | Local: Nov 21, 04:49 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "9884a2692a3c58c0d7a02760d097cc6a48f7810d",
-    "pubDate": "Fri, 21 Nov 2025 22:01:51 GMT",
-    "eventUtc": "2025-11-21T21:49:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Departed from Cape Canaveral, United States (USA) at Nov 21, 08:45 AM EST. The local time to the port is Nov 21, 08:45 AM EST",
-    "description": "Cape Canaveral, United States (USA) Departure (UTC) Nov 21, 13:45 — ET: Nov 21, 08:45 AM EST | Local: Nov 21, 08:45 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "22ed764d40d67627b19db910923eda0216c7bbf8",
-    "pubDate": "Thu, 20 Nov 2025 23:30:57 GMT",
-    "eventUtc": "2025-11-21T13:45:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
-    "source": "vf_port"
   }
 ]
