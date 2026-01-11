@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Sun, 11 Jan 2026 22:43:11 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 11 Jan 2026 22:56:17 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,13 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Magic Departed from Galveston, United States (USA) at Jan 11, 05:43 PM EST. The local time to the port is Jan 11, 05:43 PM EST</title>
+    <link>https://www.vesselfinder.com/ports/USGLS001</link>
+    <guid isPermaLink="false">5cfca2d9b46ea33b4bf05fbb4598d1f8cd983026</guid>
+    <pubDate>Sun, 11 Jan 2026 22:53:15 GMT</pubDate>
+    <description><![CDATA[Galveston, United States (USA) Departure (UTC) Jan 11, 22:43 — ET: Jan 11, 05:43 PM EST | Local: Jan 11, 05:43 PM EST]]></description>
   </item>
   <item>
     <title>Disney Wonder Arrived at Sydney, Australia at Jan 11, 02:09 PM EST. The local time to the port is Jan 12, 06:09 AM AEDT</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">ca7e3d13c388c23c4744c9349a50474196278b26</guid>
     <pubDate>Sat, 22 Nov 2025 01:21:17 GMT</pubDate>
     <description><![CDATA[Cape Canaveral, United States (USA) Departure (UTC) Nov 21, 23:41 — ET: Nov 21, 06:41 PM EST | Local: Nov 21, 06:41 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Fantasy Departed from Cape Canaveral, United States (USA) at Nov 21, 05:08 PM EST. The local time to the port is Nov 21, 05:08 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/USPCV001</link>
-    <guid isPermaLink="false">c5059cb7379956bdb478303f89438f742b37d149</guid>
-    <pubDate>Fri, 21 Nov 2025 23:18:44 GMT</pubDate>
-    <description><![CDATA[Cape Canaveral, United States (USA) Departure (UTC) Nov 21, 22:08 — ET: Nov 21, 05:08 PM EST | Local: Nov 21, 05:08 PM EST]]></description>
   </item>
 </channel>
 </rss>
