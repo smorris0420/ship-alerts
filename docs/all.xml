@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Mon, 12 Jan 2026 11:02:40 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 12 Jan 2026 11:30:10 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,13 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Dream Arrived at Port Everglades, United States (USA) at Jan 12, 05:36 AM EST. The local time to the port is Jan 12, 05:36 AM EST</title>
+    <link>https://www.vesselfinder.com/ports/USPEF001</link>
+    <guid isPermaLink="false">c2e29c1465ab068a5c47bd3fca46bbaa6dda6f3a</guid>
+    <pubDate>Mon, 12 Jan 2026 11:28:01 GMT</pubDate>
+    <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) Jan 12, 10:36 — ET: Jan 12, 05:36 AM EST | Local: Jan 12, 05:36 AM EST]]></description>
   </item>
   <item>
     <title>Disney Destiny Arrived at Port Everglades, United States (USA) at Jan 12, 04:32 AM EST. The local time to the port is Jan 12, 04:32 AM EST</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">73e3a56ca73c8c8fcbe7f0a87e6b95726b4b1ac5</guid>
     <pubDate>Sun, 23 Nov 2025 05:29:19 GMT</pubDate>
     <description><![CDATA[Nassau, Bahamas Arrival (UTC) Nov 22, 14:08 — ET: Nov 22, 09:08 AM EST | Local: Nov 22, 09:08 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Magic Arrived at Progreso, Mexico at Nov 22, 08:07 AM EST. The local time to the port is Nov 22, 08:07 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/MXPGO001</link>
-    <guid isPermaLink="false">d38d70617e6cc27c9c6219979af1ed2a639727f7</guid>
-    <pubDate>Sun, 23 Nov 2025 21:26:59 GMT</pubDate>
-    <description><![CDATA[Progreso, Mexico Arrival (UTC) Nov 22, 13:07 — ET: Nov 22, 08:07 AM EST | Local: Nov 22, 08:07 AM EST]]></description>
   </item>
 </channel>
 </rss>

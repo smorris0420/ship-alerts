@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Port Everglades, United States (USA) at Jan 12, 05:36 AM EST. The local time to the port is Jan 12, 05:36 AM EST",
+    "description": "Port Everglades, United States (USA) Arrival (UTC) Jan 12, 10:36 — ET: Jan 12, 05:36 AM EST | Local: Jan 12, 05:36 AM EST",
+    "link": "https://www.vesselfinder.com/ports/USPEF001",
+    "guid": "c2e29c1465ab068a5c47bd3fca46bbaa6dda6f3a",
+    "pubDate": "Mon, 12 Jan 2026 11:28:01 GMT",
+    "eventUtc": "2026-01-12T10:36:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Arrived at Port Everglades, United States (USA) at Jan 12, 04:32 AM EST. The local time to the port is Jan 12, 04:32 AM EST",
     "description": "Port Everglades, United States (USA) Arrival (UTC) Jan 12, 09:32 — ET: Jan 12, 04:32 AM EST | Local: Jan 12, 04:32 AM EST",
     "link": "https://www.vesselfinder.com/ports/USPEF001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2025-11-22T14:08:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Arrived at Progreso, Mexico at Nov 22, 08:07 AM EST. The local time to the port is Nov 22, 08:07 AM EST",
-    "description": "Progreso, Mexico Arrival (UTC) Nov 22, 13:07 — ET: Nov 22, 08:07 AM EST | Local: Nov 22, 08:07 AM EST",
-    "link": "https://www.vesselfinder.com/ports/MXPGO001",
-    "guid": "d38d70617e6cc27c9c6219979af1ed2a639727f7",
-    "pubDate": "Sun, 23 Nov 2025 21:26:59 GMT",
-    "eventUtc": "2025-11-22T13:07:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
