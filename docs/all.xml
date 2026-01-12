@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Mon, 12 Jan 2026 21:35:49 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 12 Jan 2026 21:52:52 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -146,6 +146,13 @@
     <guid isPermaLink="false">b698818c48a774947d3bd849b46545f9271c56f0</guid>
     <pubDate>Mon, 12 Jan 2026 21:35:47 GMT</pubDate>
     <description><![CDATA[Port Everglades, United States (USA) Departure (UTC) Jan 12, 21:24 — ET: Jan 12, 04:24 PM EST | Local: Jan 12, 04:24 PM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Wish Departed from Cape Canaveral, United States (USA) at Jan 12, 04:24 PM EST. The local time to the port is Jan 12, 04:24 PM EST</title>
+    <link>https://www.vesselfinder.com/ports/USPCV001</link>
+    <guid isPermaLink="false">abfcb19583748c862669313cab331660994cb13b</guid>
+    <pubDate>Mon, 12 Jan 2026 21:47:31 GMT</pubDate>
+    <description><![CDATA[Cape Canaveral, United States (USA) Departure (UTC) Jan 12, 21:24 — ET: Jan 12, 04:24 PM EST | Local: Jan 12, 04:24 PM EST]]></description>
   </item>
   <item>
     <title>Disney Treasure Arrived at Cozumel, Mexico at Jan 12, 07:45 AM EST. The local time to the port is Jan 12, 07:45 AM EST</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">c4b4e33ffaecac17189e2722d044eb80776da139</guid>
     <pubDate>Sun, 23 Nov 2025 05:29:20 GMT</pubDate>
     <description><![CDATA[Nassau, Bahamas Departure (UTC) Nov 22, 23:26 — ET: Nov 22, 06:26 PM EST | Local: Nov 22, 06:26 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Treasure Departed from Cape Canaveral, United States (USA) at Nov 22, 05:10 PM EST. The local time to the port is Nov 22, 05:10 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/USPCV001</link>
-    <guid isPermaLink="false">a62665b8faeea000e5f05ba9de5cfbe810763e03</guid>
-    <pubDate>Sat, 22 Nov 2025 22:35:13 GMT</pubDate>
-    <description><![CDATA[Cape Canaveral, United States (USA) Departure (UTC) Nov 22, 22:10 — ET: Nov 22, 05:10 PM EST | Local: Nov 22, 05:10 PM EST]]></description>
   </item>
 </channel>
 </rss>
