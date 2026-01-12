@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Arrived at Cape Canaveral, United States (USA) at Jan 12, 07:17 AM EST. The local time to the port is Jan 12, 07:17 AM EST",
+    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Jan 12, 12:17 — ET: Jan 12, 07:17 AM EST | Local: Jan 12, 07:17 AM EST",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "856185bde67dda32737bcecd9ed178be72069eba",
+    "pubDate": "Mon, 12 Jan 2026 13:30:24 GMT",
+    "eventUtc": "2026-01-12T12:17:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Departed from Gorda Cay, Bahamas at Jan 11, 04:55 PM EST. The local time to the port is Jan 11, 04:55 PM EST",
     "description": "Gorda Cay, Bahamas Departure (UTC) Jan 11, 21:55 — ET: Jan 11, 04:55 PM EST | Local: Jan 11, 04:55 PM EST",
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
