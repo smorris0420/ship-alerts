@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Arrived at Port Everglades, United States (USA) at Jan 12, 04:32 AM EST. The local time to the port is Jan 12, 04:32 AM EST",
+    "description": "Port Everglades, United States (USA) Arrival (UTC) Jan 12, 09:32 — ET: Jan 12, 04:32 AM EST | Local: Jan 12, 04:32 AM EST",
+    "link": "https://www.vesselfinder.com/ports/USPEF001",
+    "guid": "b2a9c52c28c08da57c76a6d9a407eb5c1a806b8a",
+    "pubDate": "Mon, 12 Jan 2026 10:42:33 GMT",
+    "eventUtc": "2026-01-12T09:32:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Departed from Sydney, Australia at Jan 12, 02:27 AM EST. The local time to the port is Jan 12, 06:27 PM AEDT",
     "description": "Sydney, Australia Departure (UTC) Jan 12, 07:27 — ET: Jan 12, 02:27 AM EST | Local: Jan 12, 06:27 PM AEDT",
     "link": "https://www.vesselfinder.com/ports/AUSYD002",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2025-11-22T13:07:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Arrived at Gorda Cay, Bahamas at Nov 22, 07:28 AM EST. The local time to the port is Nov 22, 07:28 AM EST",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) Nov 22, 12:28 — ET: Nov 22, 07:28 AM EST | Local: Nov 22, 07:28 AM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "6112d58abc2b86151452e23b912a93e726424eb7",
-    "pubDate": "Sat, 22 Nov 2025 14:43:18 GMT",
-    "eventUtc": "2025-11-22T12:28:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
     "source": "vf_ship"
   }
 ]
