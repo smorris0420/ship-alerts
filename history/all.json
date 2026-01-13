@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Arrived at Cozumel, Mexico at Jan 13, 11:19 AM EST. The local time to the port is Jan 13, 11:19 AM EST",
+    "description": "Cozumel, Mexico Arrival (UTC) Jan 13, 16:19 — ET: Jan 13, 11:19 AM EST | Local: Jan 13, 11:19 AM EST",
+    "link": "https://www.vesselfinder.com/ports/MXCZM001",
+    "guid": "f47df59957eec30a3a7c80ed3b71a01a532dfc5b",
+    "pubDate": "Tue, 13 Jan 2026 17:17:20 GMT",
+    "eventUtc": "2026-01-13T16:19:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Arrived at Nassau, Bahamas at Jan 13, 08:51 AM EST. The local time to the port is Jan 13, 08:51 AM EST",
     "description": "Nassau, Bahamas Arrival (UTC) Jan 13, 13:51 — ET: Jan 13, 08:51 AM EST | Local: Jan 13, 08:51 AM EST",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2025-11-24T10:29:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Nassau, Bahamas at Nov 23, 05:41 PM EST. The local time to the port is Nov 23, 05:41 PM EST",
-    "description": "Nassau, Bahamas Departure (UTC) Nov 23, 22:41 — ET: Nov 23, 05:41 PM EST | Local: Nov 23, 05:41 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "1a5b5d514cb96e07705d2c9084ca52e9661f3bda",
-    "pubDate": "Mon, 24 Nov 2025 13:53:50 GMT",
-    "eventUtc": "2025-11-23T22:41:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
     "source": "vf_ship"
   }
 ]
