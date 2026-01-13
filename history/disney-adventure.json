@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Adventure Arrived at Freeport, Bahamas at Jan 13, 04:44 PM EST. The local time to the port is Jan 13, 04:44 PM EST",
+    "description": "Freeport, Bahamas Arrival (UTC) Jan 13, 21:44 — ET: Jan 13, 04:44 PM EST | Local: Jan 13, 04:44 PM EST",
+    "link": "https://www.vesselfinder.com/ports/BSFPO001",
+    "guid": "4bbf1d2fc0980a46c6f47067891f2fbe4873551d",
+    "pubDate": "Tue, 13 Jan 2026 22:34:22 GMT",
+    "eventUtc": "2026-01-13T21:44:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Departed from Bremerhaven, Germany at Dec 20, 06:09 PM EST. The local time to the port is Dec 21, 12:09 AM CET",
     "description": "Bremerhaven, Germany Departure (UTC) Dec 20, 23:09 — ET: Dec 20, 06:09 PM EST | Local: Dec 21, 12:09 AM CET",
     "link": "https://www.vesselfinder.com/ports/DEBRV001",

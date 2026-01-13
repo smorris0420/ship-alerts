@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Gorda Cay, Bahamas at Jan 13, 05:03 PM EST. The local time to the port is Jan 13, 05:03 PM EST",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Jan 13, 22:03 — ET: Jan 13, 05:03 PM EST | Local: Jan 13, 05:03 PM EST",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "cab99887a6e6b0d971aa9d0f0d40685e00e16a93",
+    "pubDate": "Tue, 13 Jan 2026 22:33:21 GMT",
+    "eventUtc": "2026-01-13T22:03:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Adventure Arrived at Freeport, Bahamas at Jan 13, 04:44 PM EST. The local time to the port is Jan 13, 04:44 PM EST",
+    "description": "Freeport, Bahamas Arrival (UTC) Jan 13, 21:44 — ET: Jan 13, 04:44 PM EST | Local: Jan 13, 04:44 PM EST",
+    "link": "https://www.vesselfinder.com/ports/BSFPO001",
+    "guid": "4bbf1d2fc0980a46c6f47067891f2fbe4873551d",
+    "pubDate": "Tue, 13 Jan 2026 22:34:22 GMT",
+    "eventUtc": "2026-01-13T21:44:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Arrived at Hobart, Australia at Jan 13, 04:16 PM EST. The local time to the port is Jan 14, 08:16 AM AEDT",
     "description": "Hobart, Australia Arrival (UTC) Jan 13, 21:16 — ET: Jan 13, 04:16 PM EST | Local: Jan 14, 08:16 AM AEDT",
     "link": "https://www.vesselfinder.com/ports/AUHBA001",
@@ -5476,27 +5498,5 @@
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
     "source": "vf_port"
-  },
-  {
-    "title": "Disney Fantasy Arrived at Gorda Cay, Bahamas at Nov 24, 07:33 AM EST. The local time to the port is Nov 24, 07:33 AM EST",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) Nov 24, 12:33 — ET: Nov 24, 07:33 AM EST | Local: Nov 24, 07:33 AM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "e14ba6e679732b244b42f2d613d1b52c3bec821d",
-    "pubDate": "Mon, 24 Nov 2025 13:26:46 GMT",
-    "eventUtc": "2025-11-24T12:33:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Arrived at Galveston, United States (USA) at Nov 24, 07:01 AM EST. The local time to the port is Nov 24, 07:01 AM EST",
-    "description": "Galveston, United States (USA) Arrival (UTC) Nov 24, 12:01 — ET: Nov 24, 07:01 AM EST | Local: Nov 24, 07:01 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USGLS001",
-    "guid": "ac9de818e2b64946bd225c064881ebf9834ef8e9",
-    "pubDate": "Mon, 24 Nov 2025 12:50:43 GMT",
-    "eventUtc": "2025-11-24T12:01:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
-    "source": "vf_ship"
   }
 ]
