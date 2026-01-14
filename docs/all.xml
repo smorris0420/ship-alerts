@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Wed, 14 Jan 2026 06:00:39 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 14 Jan 2026 06:37:05 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,13 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Wonder Departed from Hobart, Australia at Jan 14, 01:17 AM EST. The local time to the port is Jan 14, 05:17 PM AEDT</title>
+    <link>https://www.vesselfinder.com/ports/AUHBA001</link>
+    <guid isPermaLink="false">ae37866d8898cc4d28d1c77faf06b974076081f3</guid>
+    <pubDate>Wed, 14 Jan 2026 06:35:39 GMT</pubDate>
+    <description><![CDATA[Hobart, Australia Departure (UTC) Jan 14, 06:17 — ET: Jan 14, 01:17 AM EST | Local: Jan 14, 05:17 PM AEDT]]></description>
   </item>
   <item>
     <title>Disney Magic Departed from Cozumel, Mexico at Jan 13, 06:23 PM EST. The local time to the port is Jan 13, 06:23 PM EST</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">e09f5e0035eff19a6dffeda8d10aaafb210769c9</guid>
     <pubDate>Mon, 24 Nov 2025 21:27:06 GMT</pubDate>
     <description><![CDATA[Port Everglades, United States (USA) Departure (UTC) Nov 24, 21:10 — ET: Nov 24, 04:10 PM EST | Local: Nov 24, 04:10 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Adventure Arrived at Unknown Port at Nov 24, 03:33 PM EST. The local time to the port is Nov 24, 03:33 PM EST</title>
-    <link>https://www.vesselfinder.com/vessels/details/9808986</link>
-    <guid isPermaLink="false">c464d4dc9721a6fb707cbafe9b24b0a72747e61e</guid>
-    <pubDate>Fri, 05 Dec 2025 05:42:41 GMT</pubDate>
-    <description><![CDATA[Unknown Port Arrival (UTC) Nov 24, 20:33 — ET: Nov 24, 03:33 PM EST | Local: Nov 24, 03:33 PM EST]]></description>
   </item>
 </channel>
 </rss>

@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Departed from Hobart, Australia at Jan 14, 01:17 AM EST. The local time to the port is Jan 14, 05:17 PM AEDT",
+    "description": "Hobart, Australia Departure (UTC) Jan 14, 06:17 — ET: Jan 14, 01:17 AM EST | Local: Jan 14, 05:17 PM AEDT",
+    "link": "https://www.vesselfinder.com/ports/AUHBA001",
+    "guid": "ae37866d8898cc4d28d1c77faf06b974076081f3",
+    "pubDate": "Wed, 14 Jan 2026 06:35:39 GMT",
+    "eventUtc": "2026-01-14T06:17:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Departed from Cozumel, Mexico at Jan 13, 06:23 PM EST. The local time to the port is Jan 13, 06:23 PM EST",
     "description": "Cozumel, Mexico Departure (UTC) Jan 13, 23:23 — ET: Jan 13, 06:23 PM EST | Local: Jan 13, 06:23 PM EST",
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2025-11-24T21:10:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Adventure Arrived at Unknown Port at Nov 24, 03:33 PM EST. The local time to the port is Nov 24, 03:33 PM EST",
-    "description": "Unknown Port Arrival (UTC) Nov 24, 20:33 — ET: Nov 24, 03:33 PM EST | Local: Nov 24, 03:33 PM EST",
-    "link": "https://www.vesselfinder.com/vessels/details/9808986",
-    "guid": "c464d4dc9721a6fb707cbafe9b24b0a72747e61e",
-    "pubDate": "Fri, 05 Dec 2025 05:42:41 GMT",
-    "eventUtc": "2025-11-24T20:33:00+00:00",
-    "shipSlug": "disney-adventure",
-    "shipName": "Disney Adventure",
     "source": "vf_ship"
   }
 ]
