@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Arrived at Sydney, Australia at Jan 15, 03:07 PM EST. The local time to the port is Jan 16, 07:07 AM AEDT",
+    "description": "Sydney, Australia Arrival (UTC) Jan 15, 20:07 — ET: Jan 15, 03:07 PM EST | Local: Jan 16, 07:07 AM AEDT",
+    "link": "https://www.vesselfinder.com/ports/AUSYD002",
+    "guid": "c7876bcf12dc9d7c4bf38b8a5ec92bcd1d21e2a3",
+    "pubDate": "Thu, 15 Jan 2026 21:03:28 GMT",
+    "eventUtc": "2026-01-15T20:07:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Arrived at Nassau, Bahamas at Jan 15, 09:02 AM EST. The local time to the port is Jan 15, 09:02 AM EST",
     "description": "Nassau, Bahamas Arrival (UTC) Jan 15, 14:02 — ET: Jan 15, 09:02 AM EST | Local: Jan 15, 09:02 AM EST",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -5484,17 +5495,6 @@
     "guid": "c827eb105139d750b73097d78c3e28d6d87a9578",
     "pubDate": "Tue, 25 Nov 2025 23:51:40 GMT",
     "eventUtc": "2025-11-25T21:59:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Arrived at Gorda Cay, Bahamas at Nov 25, 07:28 AM EST. The local time to the port is Nov 25, 07:28 AM EST",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) Nov 25, 12:28 — ET: Nov 25, 07:28 AM EST | Local: Nov 25, 07:28 AM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "739d210eafcce3cc40a751e50bc1415661fa946d",
-    "pubDate": "Tue, 25 Nov 2025 13:25:08 GMT",
-    "eventUtc": "2025-11-25T12:28:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
     "source": "vf_ship"
