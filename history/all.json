@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Fantasy Arrived at Nassau, Bahamas at Jan 15, 09:02 AM EST. The local time to the port is Jan 15, 09:02 AM EST",
+    "description": "Nassau, Bahamas Arrival (UTC) Jan 15, 14:02 — ET: Jan 15, 09:02 AM EST | Local: Jan 15, 09:02 AM EST",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "4209461d809d7b37f564696da537fab0b8bf3be0",
+    "pubDate": "Thu, 15 Jan 2026 14:46:52 GMT",
+    "eventUtc": "2026-01-15T14:02:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Arrived at Cape Canaveral, United States (USA) at Jan 15, 07:10 AM EST. The local time to the port is Jan 15, 07:10 AM EST",
     "description": "Cape Canaveral, United States (USA) Arrival (UTC) Jan 15, 12:10 — ET: Jan 15, 07:10 AM EST | Local: Jan 15, 07:10 AM EST",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2025-11-25T12:28:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Saint Thomas, US Virgin Islands at Nov 25, 05:57 AM EST. The local time to the port is Nov 25, 05:57 AM EST",
-    "description": "Saint Thomas, US Virgin Islands Arrival (UTC) Nov 25, 10:57 — ET: Nov 25, 05:57 AM EST | Local: Nov 25, 05:57 AM EST",
-    "link": "https://www.vesselfinder.com/ports/VISTT001",
-    "guid": "1116c0637ea21002ddc97b46cbbac39d7a6e332a",
-    "pubDate": "Tue, 25 Nov 2025 11:45:18 GMT",
-    "eventUtc": "2025-11-25T10:57:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
