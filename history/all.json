@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Fantasy Departed from Nassau, Bahamas at Jan 15, 05:50 PM EST. The local time to the port is Jan 15, 05:50 PM EST",
+    "description": "Nassau, Bahamas Departure (UTC) Jan 15, 22:50 — ET: Jan 15, 05:50 PM EST | Local: Jan 15, 05:50 PM EST",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "3c1c514c3efb3413d2a418eba18970b6e8c38a1a",
+    "pubDate": "Thu, 15 Jan 2026 23:11:33 GMT",
+    "eventUtc": "2026-01-15T22:50:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Arrived at Sydney, Australia at Jan 15, 03:07 PM EST. The local time to the port is Jan 16, 07:07 AM AEDT",
     "description": "Sydney, Australia Arrival (UTC) Jan 15, 20:07 — ET: Jan 15, 03:07 PM EST | Local: Jan 16, 07:07 AM AEDT",
     "link": "https://www.vesselfinder.com/ports/AUSYD002",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2025-11-26T11:00:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Saint Thomas, US Virgin Islands at Nov 25, 05:06 PM EST. The local time to the port is Nov 25, 05:06 PM EST",
-    "description": "Saint Thomas, US Virgin Islands Departure (UTC) Nov 25, 22:06 — ET: Nov 25, 05:06 PM EST | Local: Nov 25, 05:06 PM EST",
-    "link": "https://www.vesselfinder.com/ports/VISTT001",
-    "guid": "da202a5afccf5d2e282cf7e0251b3b4a0a4769a9",
-    "pubDate": "Tue, 25 Nov 2025 22:12:57 GMT",
-    "eventUtc": "2025-11-25T22:06:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
