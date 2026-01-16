@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Fri, 16 Jan 2026 12:58:46 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 16 Jan 2026 13:38:35 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,20 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Treasure Arrived at Gorda Cay, Bahamas at Jan 16, 07:43 AM EST. The local time to the port is Jan 16, 07:43 AM EST</title>
+    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
+    <guid isPermaLink="false">c81b94c937030e050764180f84e7a7fc2574bad1</guid>
+    <pubDate>Fri, 16 Jan 2026 13:34:50 GMT</pubDate>
+    <description><![CDATA[Gorda Cay, Bahamas Arrival (UTC) Jan 16, 12:43 — ET: Jan 16, 07:43 AM EST | Local: Jan 16, 07:43 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Magic Arrived at Galveston, United States (USA) at Jan 16, 07:20 AM EST. The local time to the port is Jan 16, 07:20 AM EST</title>
+    <link>https://www.vesselfinder.com/ports/USGLS001</link>
+    <guid isPermaLink="false">8ab44cc1e675da8349c9b98979bc8ca6ff8bb16a</guid>
+    <pubDate>Fri, 16 Jan 2026 13:35:48 GMT</pubDate>
+    <description><![CDATA[Galveston, United States (USA) Arrival (UTC) Jan 16, 12:20 — ET: Jan 16, 07:20 AM EST | Local: Jan 16, 07:20 AM EST]]></description>
   </item>
   <item>
     <title>Disney Wish Arrived at Cape Canaveral, United States (USA) at Jan 16, 05:55 AM EST. The local time to the port is Jan 16, 05:55 AM EST</title>
@@ -3492,20 +3506,6 @@
     <guid isPermaLink="false">c556fce2fb3372dc0a965cef2a5f13aadd0aa896</guid>
     <pubDate>Wed, 26 Nov 2025 22:02:36 GMT</pubDate>
     <description><![CDATA[Port Everglades, United States (USA) Departure (UTC) Nov 26, 21:49 — ET: Nov 26, 04:49 PM EST | Local: Nov 26, 04:49 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Treasure Departed from Road Town, Tortola, British Virgin Islands at Nov 26, 02:14 PM EST. The local time to the port is Nov 26, 03:14 PM AST</title>
-    <link>https://www.vesselfinder.com/ports/VGRAD001</link>
-    <guid isPermaLink="false">c9fc0ffde9cbfea517f2ba0d3299f20fa870ce0d</guid>
-    <pubDate>Wed, 26 Nov 2025 19:21:21 GMT</pubDate>
-    <description><![CDATA[Road Town, Tortola, British Virgin Islands Departure (UTC) Nov 26, 19:14 — ET: Nov 26, 02:14 PM EST | Local: Nov 26, 03:14 PM AST]]></description>
-  </item>
-  <item>
-    <title>Disney Wonder Arrived at Wellington, New Zealand at Nov 26, 02:04 PM EST. The local time to the port is Nov 27, 08:04 AM NZDT</title>
-    <link>https://www.vesselfinder.com/ports/NZWLG001</link>
-    <guid isPermaLink="false">4b6f4b3b8343341f0e290c1e04ee4f84bb2cab2f</guid>
-    <pubDate>Wed, 26 Nov 2025 19:45:46 GMT</pubDate>
-    <description><![CDATA[Wellington, New Zealand Arrival (UTC) Nov 26, 19:04 — ET: Nov 26, 02:04 PM EST | Local: Nov 27, 08:04 AM NZDT]]></description>
   </item>
 </channel>
 </rss>
