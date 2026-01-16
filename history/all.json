@@ -264,6 +264,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Progreso, Mexico at Jan 14, 08:09 PM EST. The local time to the port is Jan 14, 08:09 PM EST",
+    "description": "Progreso, Mexico Departure (UTC) Jan 15, 01:09 — ET: Jan 14, 08:09 PM EST | Local: Jan 14, 08:09 PM EST",
+    "link": "https://www.vesselfinder.com/ports/MXPGO001",
+    "guid": "f63a75a925996d740ee080b76046b7a85c009e42",
+    "pubDate": "Fri, 16 Jan 2026 03:52:42 GMT",
+    "eventUtc": "2026-01-15T01:09:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Departed from Nassau, Bahamas at Jan 14, 05:50 PM EST. The local time to the port is Jan 14, 05:50 PM EST",
     "description": "Nassau, Bahamas Departure (UTC) Jan 14, 22:50 — ET: Jan 14, 05:50 PM EST | Local: Jan 14, 05:50 PM EST",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -305,6 +316,17 @@
     "eventUtc": "2026-01-14T21:28:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Magic Arrived at Progreso, Mexico at Jan 14, 10:33 AM EST. The local time to the port is Jan 14, 10:33 AM EST",
+    "description": "Progreso, Mexico Arrival (UTC) Jan 14, 15:33 — ET: Jan 14, 10:33 AM EST | Local: Jan 14, 10:33 AM EST",
+    "link": "https://www.vesselfinder.com/ports/MXPGO001",
+    "guid": "6a9a2c9f59eef4ea636374760edee8c1a7335f19",
+    "pubDate": "Fri, 16 Jan 2026 03:52:40 GMT",
+    "eventUtc": "2026-01-14T15:33:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
     "source": "vf_ship"
   },
   {
@@ -5475,28 +5497,6 @@
     "eventUtc": "2025-11-26T12:52:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Road Town, Tortola, British Virgin Islands at Nov 26, 06:03 AM EST. The local time to the port is Nov 26, 07:03 AM AST",
-    "description": "Road Town, Tortola, British Virgin Islands Arrival (UTC) Nov 26, 11:03 — ET: Nov 26, 06:03 AM EST | Local: Nov 26, 07:03 AM AST",
-    "link": "https://www.vesselfinder.com/ports/VGRAD001",
-    "guid": "0a9c241e07d7066379df8f9779a54e80e0a6432b",
-    "pubDate": "Wed, 26 Nov 2025 11:44:28 GMT",
-    "eventUtc": "2025-11-26T11:03:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Arrived at Port Everglades, United States (USA) at Nov 26, 06:00 AM EST. The local time to the port is Nov 26, 06:00 AM EST",
-    "description": "Port Everglades, United States (USA) Arrival (UTC) Nov 26, 11:00 — ET: Nov 26, 06:00 AM EST | Local: Nov 26, 06:00 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "a8b88a9e3b0ed8609c2b9fc9fbb7200ce029a864",
-    "pubDate": "Wed, 26 Nov 2025 11:45:38 GMT",
-    "eventUtc": "2025-11-26T11:00:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
     "source": "vf_ship"
   }
 ]
