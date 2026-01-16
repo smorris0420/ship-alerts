@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Galveston, United States (USA) at Jan 16, 05:56 PM EST. The local time to the port is Jan 16, 05:56 PM EST",
+    "description": "Galveston, United States (USA) Departure (UTC) Jan 16, 22:56 — ET: Jan 16, 05:56 PM EST | Local: Jan 16, 05:56 PM EST",
+    "link": "https://www.vesselfinder.com/ports/USGLS001",
+    "guid": "ac453436c6cdaff7151159366ce86e60a886181d",
+    "pubDate": "Fri, 16 Jan 2026 23:20:04 GMT",
+    "eventUtc": "2026-01-16T22:56:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Departed from Cape Canaveral, United States (USA) at Jan 16, 04:35 PM EST. The local time to the port is Jan 16, 04:35 PM EST",
     "description": "Cape Canaveral, United States (USA) Departure (UTC) Jan 16, 21:35 — ET: Jan 16, 04:35 PM EST | Local: Jan 16, 04:35 PM EST",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2025-11-27T00:00:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Departed from Nassau, Bahamas at Nov 26, 06:11 PM EST. The local time to the port is Nov 26, 06:11 PM EST",
-    "description": "Nassau, Bahamas Departure (UTC) Nov 26, 23:11 — ET: Nov 26, 06:11 PM EST | Local: Nov 26, 06:11 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "30e7fc8b049e386742cefb47b3eb9ba0e4af058a",
-    "pubDate": "Thu, 27 Nov 2025 03:01:53 GMT",
-    "eventUtc": "2025-11-26T23:11:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
     "source": "vf_ship"
   }
 ]
