@@ -231,6 +231,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Wonder Arrived at Hobart, Australia at Jan 17, 03:31 PM EST. The local time to the port is Jan 18, 07:31 AM AEDT",
+    "description": "Hobart, Australia Arrival (UTC) Jan 17, 20:31 — ET: Jan 17, 03:31 PM EST | Local: Jan 18, 07:31 AM AEDT",
+    "link": "https://www.vesselfinder.com/ports/AUHBA001",
+    "guid": "73a4d775beada08f2a0504492564f8f92fd7467c",
+    "pubDate": "Sat, 17 Jan 2026 21:15:15 GMT",
+    "eventUtc": "2026-01-17T20:31:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Arrived at Nassau, Bahamas at Jan 17, 08:48 AM EST. The local time to the port is Jan 17, 08:48 AM EST",
     "description": "Nassau, Bahamas Arrival (UTC) Jan 17, 13:48 — ET: Jan 17, 08:48 AM EST | Local: Jan 17, 08:48 AM EST",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2025-11-28T12:13:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Arrived at Cape Canaveral, United States (USA) at Nov 28, 05:50 AM EST. The local time to the port is Nov 28, 05:50 AM EST",
-    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Nov 28, 10:50 — ET: Nov 28, 05:50 AM EST | Local: Nov 28, 05:50 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "56db825ccdf0b2a67565df140a52402cc93e612b",
-    "pubDate": "Fri, 28 Nov 2025 11:44:15 GMT",
-    "eventUtc": "2025-11-28T10:50:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
     "source": "vf_ship"
   }
 ]
