@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Fantasy Arrived at Cape Canaveral, United States (USA) at Jan 18, 04:18 AM EST. The local time to the port is Jan 18, 04:18 AM EST",
+    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Jan 18, 09:18 — ET: Jan 18, 04:18 AM EST | Local: Jan 18, 04:18 AM EST",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "63c67d2101e9b774b1c3731a16244a3c77a1ec85",
+    "pubDate": "Sun, 18 Jan 2026 10:01:16 GMT",
+    "eventUtc": "2026-01-18T09:18:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Departed from Hobart, Australia at Jan 18, 01:15 AM EST. The local time to the port is Jan 18, 05:15 PM AEDT",
     "description": "Hobart, Australia Departure (UTC) Jan 18, 06:15 — ET: Jan 18, 01:15 AM EST | Local: Jan 18, 05:15 PM AEDT",
     "link": "https://www.vesselfinder.com/ports/AUHBA001",
@@ -5483,17 +5494,6 @@
     "link": "https://www.vesselfinder.com/ports/USGLS001",
     "guid": "d75d968000a14b4c7951b50ff016d3f1819090ea",
     "pubDate": "Wed, 26 Nov 2025 22:31:28 GMT",
-    "eventUtc": "2025-11-28T16:30:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
-    "source": "vf_port"
-  },
-  {
-    "title": "Disney Magic Arrived at Galveston, United States (USA) at Nov 28, 11:30 AM EST. The local time to the port is Nov 28, 11:30 AM EST",
-    "description": "Galveston, United States (USA) Arrival (UTC) Nov 28, 16:30 — ET: Nov 28, 11:30 AM EST | Local: Nov 28, 11:30 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USGLS001",
-    "guid": "b618812909b5e5d276c985a83ece14d4a8f2c618",
-    "pubDate": "Wed, 26 Nov 2025 22:31:29 GMT",
     "eventUtc": "2025-11-28T16:30:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
