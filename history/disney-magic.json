@@ -33,6 +33,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Cozumel, Mexico at Jan 18, 06:22 PM EST. The local time to the port is Jan 18, 06:22 PM EST",
+    "description": "Cozumel, Mexico Departure (UTC) Jan 18, 23:22 — ET: Jan 18, 06:22 PM EST | Local: Jan 18, 06:22 PM EST",
+    "link": "https://www.vesselfinder.com/ports/MXCZM001",
+    "guid": "09b1d360b19afdd8ff2cdac999f085351fb846c4",
+    "pubDate": "Sun, 18 Jan 2026 23:36:26 GMT",
+    "eventUtc": "2026-01-18T23:22:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Arrived at Cozumel, Mexico at Jan 18, 10:49 AM EST. The local time to the port is Jan 18, 10:49 AM EST",
     "description": "Cozumel, Mexico Arrival (UTC) Jan 18, 15:49 — ET: Jan 18, 10:49 AM EST | Local: Jan 18, 10:49 AM EST",
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
