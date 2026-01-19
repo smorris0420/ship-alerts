@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Adventure Departed from Cape Canaveral, United States (USA) at Jan 20, 12:15 AM EST. The local time to the port is Jan 20, 12:15 AM EST",
+    "description": "Cape Canaveral, United States (USA) Departure (UTC) Jan 20, 05:15 — ET: Jan 20, 12:15 AM EST | Local: Jan 20, 12:15 AM EST",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "d9a5621521a8ff34e2254de1bd3d62a7c7a362fe",
+    "pubDate": "Mon, 19 Jan 2026 17:40:49 GMT",
+    "eventUtc": "2026-01-20T05:15:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_port"
+  },
+  {
+    "title": "Disney Adventure Arrived at Cape Canaveral, United States (USA) at Jan 20, 12:15 AM EST. The local time to the port is Jan 20, 12:15 AM EST",
+    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Jan 20, 05:15 — ET: Jan 20, 12:15 AM EST | Local: Jan 20, 12:15 AM EST",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "c9430047f0f34115956799c7c5de527d0411e31c",
+    "pubDate": "Mon, 19 Jan 2026 17:40:50 GMT",
+    "eventUtc": "2026-01-20T05:15:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_port"
+  },
+  {
     "title": "Disney Destiny Arrived at Cozumel, Mexico at Jan 19, 07:12 AM EST. The local time to the port is Jan 19, 07:12 AM EST",
     "description": "Cozumel, Mexico Arrival (UTC) Jan 19, 12:12 — ET: Jan 19, 07:12 AM EST | Local: Jan 19, 07:12 AM EST",
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2025-11-30T12:29:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Arrived at Cape Canaveral, United States (USA) at Nov 30, 05:47 AM EST. The local time to the port is Nov 30, 05:47 AM EST",
-    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Nov 30, 10:47 — ET: Nov 30, 05:47 AM EST | Local: Nov 30, 05:47 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "8dcd5a2ae81cba78f5c2276673e1fc7206cf3b13",
-    "pubDate": "Sun, 30 Nov 2025 11:24:22 GMT",
-    "eventUtc": "2025-11-30T10:47:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Departed from Auckland, New Zealand at Nov 30, 03:01 AM EST. The local time to the port is Nov 30, 09:01 PM NZDT",
-    "description": "Auckland, New Zealand Departure (UTC) Nov 30, 08:01 — ET: Nov 30, 03:01 AM EST | Local: Nov 30, 09:01 PM NZDT",
-    "link": "https://www.vesselfinder.com/ports/NZAKL001",
-    "guid": "29c4f63e8793b2f8a21eabb2170d75fb7fae1f54",
-    "pubDate": "Sun, 30 Nov 2025 08:22:44 GMT",
-    "eventUtc": "2025-11-30T08:01:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
     "source": "vf_ship"
   }
 ]
