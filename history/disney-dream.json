@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Port Everglades, United States (USA) at Jan 19, 05:50 AM EST. The local time to the port is Jan 19, 05:50 AM EST",
+    "description": "Port Everglades, United States (USA) Arrival (UTC) Jan 19, 10:50 — ET: Jan 19, 05:50 AM EST | Local: Jan 19, 05:50 AM EST",
+    "link": "https://www.vesselfinder.com/ports/USPEF001",
+    "guid": "0a0d3cb6cf37c2fa6c46ce24f067537c1376939a",
+    "pubDate": "Mon, 19 Jan 2026 11:33:12 GMT",
+    "eventUtc": "2026-01-19T10:50:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Nassau, Bahamas at Jan 18, 05:58 PM EST. The local time to the port is Jan 18, 05:58 PM EST",
     "description": "Nassau, Bahamas Departure (UTC) Jan 18, 22:58 — ET: Jan 18, 05:58 PM EST | Local: Jan 18, 05:58 PM EST",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",

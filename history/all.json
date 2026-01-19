@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Port Everglades, United States (USA) at Jan 19, 05:50 AM EST. The local time to the port is Jan 19, 05:50 AM EST",
+    "description": "Port Everglades, United States (USA) Arrival (UTC) Jan 19, 10:50 — ET: Jan 19, 05:50 AM EST | Local: Jan 19, 05:50 AM EST",
+    "link": "https://www.vesselfinder.com/ports/USPEF001",
+    "guid": "0a0d3cb6cf37c2fa6c46ce24f067537c1376939a",
+    "pubDate": "Mon, 19 Jan 2026 11:33:12 GMT",
+    "eventUtc": "2026-01-19T10:50:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Departed from Cape Canaveral, United States (USA) at Jan 18, 09:30 PM EST. The local time to the port is Jan 18, 09:30 PM EST",
     "description": "Cape Canaveral, United States (USA) Departure (UTC) Jan 19, 02:30 — ET: Jan 18, 09:30 PM EST | Local: Jan 18, 09:30 PM EST",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2025-11-29T21:47:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Arrived at Auckland, New Zealand at Nov 29, 04:21 PM EST. The local time to the port is Nov 30, 10:21 AM NZDT",
-    "description": "Auckland, New Zealand Arrival (UTC) Nov 29, 21:21 — ET: Nov 29, 04:21 PM EST | Local: Nov 30, 10:21 AM NZDT",
-    "link": "https://www.vesselfinder.com/ports/NZAKL001",
-    "guid": "32debf016c88882d092059629c0a66fd742cf31e",
-    "pubDate": "Sat, 29 Nov 2025 22:04:22 GMT",
-    "eventUtc": "2025-11-29T21:21:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
     "source": "vf_ship"
   }
 ]
