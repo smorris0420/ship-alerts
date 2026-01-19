@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Adventure Departed from Cape Canaveral, United States (USA) at Jan 18, 09:30 PM EST. The local time to the port is Jan 18, 09:30 PM EST",
+    "description": "Cape Canaveral, United States (USA) Departure (UTC) Jan 19, 02:30 — ET: Jan 18, 09:30 PM EST | Local: Jan 18, 09:30 PM EST",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "bde8a75f4f31020ab64fa0d543afe7a53171fda1",
+    "pubDate": "Mon, 19 Jan 2026 04:11:09 GMT",
+    "eventUtc": "2026-01-19T02:30:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Departed from Cozumel, Mexico at Jan 18, 06:22 PM EST. The local time to the port is Jan 18, 06:22 PM EST",
     "description": "Cozumel, Mexico Departure (UTC) Jan 18, 23:22 — ET: Jan 18, 06:22 PM EST | Local: Jan 18, 06:22 PM EST",
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2025-11-29T21:21:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Arrived at Gorda Cay, Bahamas at Nov 29, 07:18 AM EST. The local time to the port is Nov 29, 07:18 AM EST",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) Nov 29, 12:18 — ET: Nov 29, 07:18 AM EST | Local: Nov 29, 07:18 AM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "f1b0b1fcef02ef160a09975c2241ca885486c834",
-    "pubDate": "Sun, 30 Nov 2025 08:54:18 GMT",
-    "eventUtc": "2025-11-29T12:18:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
     "source": "vf_ship"
   }
 ]
