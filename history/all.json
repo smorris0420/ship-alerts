@@ -231,6 +231,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Dream Departed from Nassau, Bahamas at Jan 20, 05:54 PM EST. The local time to the port is Jan 20, 05:54 PM EST",
+    "description": "Nassau, Bahamas Departure (UTC) Jan 20, 22:54 — ET: Jan 20, 05:54 PM EST | Local: Jan 20, 05:54 PM EST",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "7220698a90a0e4954a16233010fb2127e5b94138",
+    "pubDate": "Tue, 20 Jan 2026 23:00:54 GMT",
+    "eventUtc": "2026-01-20T22:54:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Departed from Road Town, Tortola, British Virgin Islands at Jan 20, 05:18 PM EST. The local time to the port is Jan 20, 06:18 PM AST",
     "description": "Road Town, Tortola, British Virgin Islands Departure (UTC) Jan 20, 22:18 — ET: Jan 20, 05:18 PM EST | Local: Jan 20, 06:18 PM AST",
     "link": "https://www.vesselfinder.com/ports/VGRAD001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2025-12-01T21:41:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Arrived at Wellington, New Zealand at Dec 01, 01:49 PM EST. The local time to the port is Dec 02, 07:49 AM NZDT",
-    "description": "Wellington, New Zealand Arrival (UTC) Dec 1, 18:49 — ET: Dec 01, 01:49 PM EST | Local: Dec 02, 07:49 AM NZDT",
-    "link": "https://www.vesselfinder.com/ports/NZWLG001",
-    "guid": "7e604241c4a2e439a785c8b1db3c1a8ca87e7617",
-    "pubDate": "Mon, 01 Dec 2025 19:33:47 GMT",
-    "eventUtc": "2025-12-01T18:49:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
     "source": "vf_ship"
   }
 ]

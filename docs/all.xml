@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Tue, 20 Jan 2026 22:52:53 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 20 Jan 2026 23:02:49 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -153,6 +153,13 @@
     <guid isPermaLink="false">3a37203446333233a024b62079b788e7c1ef1280</guid>
     <pubDate>Tue, 20 Jan 2026 13:38:59 GMT</pubDate>
     <description><![CDATA[Sydney, Australia Arrival (UTC) Jan 22, 07:00 — ET: Jan 22, 02:00 AM EST | Local: Jan 22, 06:00 PM AEDT]]></description>
+  </item>
+  <item>
+    <title>Disney Dream Departed from Nassau, Bahamas at Jan 20, 05:54 PM EST. The local time to the port is Jan 20, 05:54 PM EST</title>
+    <link>https://www.vesselfinder.com/ports/BSNAS001</link>
+    <guid isPermaLink="false">7220698a90a0e4954a16233010fb2127e5b94138</guid>
+    <pubDate>Tue, 20 Jan 2026 23:00:54 GMT</pubDate>
+    <description><![CDATA[Nassau, Bahamas Departure (UTC) Jan 20, 22:54 — ET: Jan 20, 05:54 PM EST | Local: Jan 20, 05:54 PM EST]]></description>
   </item>
   <item>
     <title>Disney Treasure Departed from Road Town, Tortola, British Virgin Islands at Jan 20, 05:18 PM EST. The local time to the port is Jan 20, 06:18 PM AST</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">82a0cc24b6aa54838a84a7af71f22961d67d1790</guid>
     <pubDate>Mon, 01 Dec 2025 21:47:55 GMT</pubDate>
     <description><![CDATA[Cape Canaveral, United States (USA) Departure (UTC) Dec 1, 21:41 — ET: Dec 01, 04:41 PM EST | Local: Dec 01, 04:41 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Wonder Arrived at Wellington, New Zealand at Dec 01, 01:49 PM EST. The local time to the port is Dec 02, 07:49 AM NZDT</title>
-    <link>https://www.vesselfinder.com/ports/NZWLG001</link>
-    <guid isPermaLink="false">7e604241c4a2e439a785c8b1db3c1a8ca87e7617</guid>
-    <pubDate>Mon, 01 Dec 2025 19:33:47 GMT</pubDate>
-    <description><![CDATA[Wellington, New Zealand Arrival (UTC) Dec 1, 18:49 — ET: Dec 01, 01:49 PM EST | Local: Dec 02, 07:49 AM NZDT]]></description>
   </item>
 </channel>
 </rss>
