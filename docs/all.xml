@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Tue, 20 Jan 2026 11:44:55 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 20 Jan 2026 11:58:58 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,13 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Treasure Arrived at Road Town, Tortola, British Virgin Islands at Jan 20, 06:05 AM EST. The local time to the port is Jan 20, 07:05 AM AST</title>
+    <link>https://www.vesselfinder.com/ports/VGRAD001</link>
+    <guid isPermaLink="false">8966b5a727d1f4061de55efaeab85762983f0d49</guid>
+    <pubDate>Tue, 20 Jan 2026 11:54:32 GMT</pubDate>
+    <description><![CDATA[Road Town, Tortola, British Virgin Islands Arrival (UTC) Jan 20, 11:05 — ET: Jan 20, 06:05 AM EST | Local: Jan 20, 07:05 AM AST]]></description>
   </item>
   <item>
     <title>Disney Adventure Departed from Cape Canaveral, United States (USA) at Jan 20, 12:15 AM EST. The local time to the port is Jan 20, 12:15 AM EST</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">29d0880df9c6046860fbdebc072ac9dde3c6f8c1</guid>
     <pubDate>Mon, 01 Dec 2025 13:02:59 GMT</pubDate>
     <description><![CDATA[Cozumel, Mexico Arrival (UTC) Dec 1, 12:14 — ET: Dec 01, 07:14 AM EST | Local: Dec 01, 07:14 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Treasure Arrived at Georgetown, Grand Cayman Anch., Cayman Islands at Dec 01, 07:14 AM EST. The local time to the port is Dec 01, 07:14 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/KYGEC001</link>
-    <guid isPermaLink="false">aba97eda2d520ff4187a4990e7fd380863e8a74d</guid>
-    <pubDate>Tue, 02 Dec 2025 15:43:31 GMT</pubDate>
-    <description><![CDATA[Georgetown, Grand Cayman Anch., Cayman Islands Arrival (UTC) Dec 1, 12:14 — ET: Dec 01, 07:14 AM EST | Local: Dec 01, 07:14 AM EST]]></description>
   </item>
 </channel>
 </rss>
