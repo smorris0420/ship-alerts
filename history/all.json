@@ -253,6 +253,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Adventure Arrived at Cape Canaveral, United States (USA) at Jan 19, 06:39 PM EST. The local time to the port is Jan 19, 06:39 PM EST",
+    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Jan 19, 23:39 — ET: Jan 19, 06:39 PM EST | Local: Jan 19, 06:39 PM EST",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "badb6ff2385112b754f1fa35eed92787b8d827ec",
+    "pubDate": "Tue, 20 Jan 2026 02:12:40 GMT",
+    "eventUtc": "2026-01-19T23:39:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Departed from Cozumel, Mexico at Jan 19, 05:23 PM EST. The local time to the port is Jan 19, 05:23 PM EST",
     "description": "Cozumel, Mexico Departure (UTC) Jan 19, 22:23 — ET: Jan 19, 05:23 PM EST | Local: Jan 19, 05:23 PM EST",
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2025-12-01T12:14:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Arrived at Cape Canaveral, United States (USA) at Dec 01, 05:52 AM EST. The local time to the port is Dec 01, 05:52 AM EST",
-    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Dec 1, 10:52 — ET: Dec 01, 05:52 AM EST | Local: Dec 01, 05:52 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "6d7ad89bf5c2c6a5a9db6937f5332ccbff07ad75",
-    "pubDate": "Mon, 01 Dec 2025 11:39:39 GMT",
-    "eventUtc": "2025-12-01T10:52:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
     "source": "vf_ship"
   }
 ]

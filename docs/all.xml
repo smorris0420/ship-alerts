@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Tue, 20 Jan 2026 00:03:06 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 20 Jan 2026 02:13:31 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -167,6 +167,13 @@
     <guid isPermaLink="false">84765502d99e7b9ce061f727b4b3008245eee922</guid>
     <pubDate>Mon, 19 Jan 2026 18:30:41 GMT</pubDate>
     <description><![CDATA[Cape Canaveral, United States (USA) Arrival (UTC) Jan 20, 03:15 — ET: Jan 19, 10:15 PM EST | Local: Jan 19, 10:15 PM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Adventure Arrived at Cape Canaveral, United States (USA) at Jan 19, 06:39 PM EST. The local time to the port is Jan 19, 06:39 PM EST</title>
+    <link>https://www.vesselfinder.com/ports/USPCV001</link>
+    <guid isPermaLink="false">badb6ff2385112b754f1fa35eed92787b8d827ec</guid>
+    <pubDate>Tue, 20 Jan 2026 02:12:40 GMT</pubDate>
+    <description><![CDATA[Cape Canaveral, United States (USA) Arrival (UTC) Jan 19, 23:39 — ET: Jan 19, 06:39 PM EST | Local: Jan 19, 06:39 PM EST]]></description>
   </item>
   <item>
     <title>Disney Destiny Departed from Cozumel, Mexico at Jan 19, 05:23 PM EST. The local time to the port is Jan 19, 05:23 PM EST</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">aba97eda2d520ff4187a4990e7fd380863e8a74d</guid>
     <pubDate>Tue, 02 Dec 2025 15:43:31 GMT</pubDate>
     <description><![CDATA[Georgetown, Grand Cayman Anch., Cayman Islands Arrival (UTC) Dec 1, 12:14 — ET: Dec 01, 07:14 AM EST | Local: Dec 01, 07:14 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Wish Arrived at Cape Canaveral, United States (USA) at Dec 01, 05:52 AM EST. The local time to the port is Dec 01, 05:52 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/USPCV001</link>
-    <guid isPermaLink="false">6d7ad89bf5c2c6a5a9db6937f5332ccbff07ad75</guid>
-    <pubDate>Mon, 01 Dec 2025 11:39:39 GMT</pubDate>
-    <description><![CDATA[Cape Canaveral, United States (USA) Arrival (UTC) Dec 1, 10:52 — ET: Dec 01, 05:52 AM EST | Local: Dec 01, 05:52 AM EST]]></description>
   </item>
 </channel>
 </rss>
