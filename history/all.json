@@ -231,6 +231,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Magic Departed from Galveston, United States (USA) at Jan 21, 05:54 PM EST. The local time to the port is Jan 21, 05:54 PM EST",
+    "description": "Galveston, United States (USA) Departure (UTC) Jan 21, 22:54 — ET: Jan 21, 05:54 PM EST | Local: Jan 21, 05:54 PM EST",
+    "link": "https://www.vesselfinder.com/ports/USGLS001",
+    "guid": "9ad83ee5d68efa5e9d6528909618465c9a97ecae",
+    "pubDate": "Wed, 21 Jan 2026 23:30:59 GMT",
+    "eventUtc": "2026-01-21T22:54:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Departed from Saint Thomas, US Virgin Islands at Jan 21, 03:27 PM EST. The local time to the port is Jan 21, 03:27 PM EST",
     "description": "Saint Thomas, US Virgin Islands Departure (UTC) Jan 21, 20:27 — ET: Jan 21, 03:27 PM EST | Local: Jan 21, 03:27 PM EST",
     "link": "https://www.vesselfinder.com/ports/VISTT001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2025-12-02T21:59:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Unknown Port at Dec 02, 09:54 AM EST. The local time to the port is Dec 02, 09:54 AM EST",
-    "description": "Unknown Port Arrival (UTC) Dec 2, 14:54 — ET: Dec 02, 09:54 AM EST | Local: Dec 02, 09:54 AM EST",
-    "link": "https://www.vesselfinder.com/vessels/details/9834753",
-    "guid": "0776f2e55b3aa0d344886ca196c3fb506eaa7cbc",
-    "pubDate": "Fri, 05 Dec 2025 05:37:14 GMT",
-    "eventUtc": "2025-12-02T14:54:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
