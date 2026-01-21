@@ -231,6 +231,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Magic Arrived at Galveston, United States (USA) at Jan 21, 07:03 AM EST. The local time to the port is Jan 21, 07:03 AM EST",
+    "description": "Galveston, United States (USA) Arrival (UTC) Jan 21, 12:03 — ET: Jan 21, 07:03 AM EST | Local: Jan 21, 07:03 AM EST",
+    "link": "https://www.vesselfinder.com/ports/USGLS001",
+    "guid": "5979e4428cab5a3fd3c27d0dc093e23f90b3eb64",
+    "pubDate": "Wed, 21 Jan 2026 12:53:01 GMT",
+    "eventUtc": "2026-01-21T12:03:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Arrived at Saint Thomas, US Virgin Islands at Jan 21, 06:06 AM EST. The local time to the port is Jan 21, 06:06 AM EST",
     "description": "Saint Thomas, US Virgin Islands Arrival (UTC) Jan 21, 11:06 — ET: Jan 21, 06:06 AM EST | Local: Jan 21, 06:06 AM EST",
     "link": "https://www.vesselfinder.com/ports/VISTT001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2025-12-02T05:28:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Progreso, Mexico at Dec 01, 08:17 PM EST. The local time to the port is Dec 01, 08:17 PM EST",
-    "description": "Progreso, Mexico Departure (UTC) Dec 2, 01:17 — ET: Dec 01, 08:17 PM EST | Local: Dec 01, 08:17 PM EST",
-    "link": "https://www.vesselfinder.com/ports/MXPGO001",
-    "guid": "9cd7ad6a90f8c2257c3432d93668c5ec361e8b6f",
-    "pubDate": "Tue, 02 Dec 2025 19:57:56 GMT",
-    "eventUtc": "2025-12-02T01:17:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
