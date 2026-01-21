@@ -33,6 +33,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Progreso, Mexico at Jan 19, 08:21 PM EST. The local time to the port is Jan 19, 08:21 PM EST",
+    "description": "Progreso, Mexico Departure (UTC) Jan 20, 01:21 — ET: Jan 19, 08:21 PM EST | Local: Jan 19, 08:21 PM EST",
+    "link": "https://www.vesselfinder.com/ports/MXPGO001",
+    "guid": "c55724321db8a6ef6b9c4ad534fc3626fd6bf328",
+    "pubDate": "Wed, 21 Jan 2026 08:02:09 GMT",
+    "eventUtc": "2026-01-20T01:21:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Magic Arrived at Progreso, Mexico at Jan 19, 10:39 AM EST. The local time to the port is Jan 19, 10:39 AM EST",
+    "description": "Progreso, Mexico Arrival (UTC) Jan 19, 15:39 — ET: Jan 19, 10:39 AM EST | Local: Jan 19, 10:39 AM EST",
+    "link": "https://www.vesselfinder.com/ports/MXPGO001",
+    "guid": "462318c703cd52d469d7f763e5e9c448beb9ce51",
+    "pubDate": "Wed, 21 Jan 2026 08:02:08 GMT",
+    "eventUtc": "2026-01-19T15:39:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Departed from Cozumel, Mexico at Jan 18, 06:22 PM EST. The local time to the port is Jan 18, 06:22 PM EST",
     "description": "Cozumel, Mexico Departure (UTC) Jan 18, 23:22 — ET: Jan 18, 06:22 PM EST | Local: Jan 18, 06:22 PM EST",
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
