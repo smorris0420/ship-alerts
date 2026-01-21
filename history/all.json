@@ -231,6 +231,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Treasure Arrived at Saint Thomas, US Virgin Islands at Jan 21, 06:06 AM EST. The local time to the port is Jan 21, 06:06 AM EST",
+    "description": "Saint Thomas, US Virgin Islands Arrival (UTC) Jan 21, 11:06 — ET: Jan 21, 06:06 AM EST | Local: Jan 21, 06:06 AM EST",
+    "link": "https://www.vesselfinder.com/ports/VISTT001",
+    "guid": "a892b846f494cd39567fd6f49eadfb00bacb4573",
+    "pubDate": "Wed, 21 Jan 2026 11:41:32 GMT",
+    "eventUtc": "2026-01-21T11:06:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Nassau, Bahamas at Jan 20, 05:54 PM EST. The local time to the port is Jan 20, 05:54 PM EST",
     "description": "Nassau, Bahamas Departure (UTC) Jan 20, 22:54 — ET: Jan 20, 05:54 PM EST | Local: Jan 20, 05:54 PM EST",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2025-12-02T01:17:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Port Everglades, United States (USA) at Dec 01, 05:07 PM EST. The local time to the port is Dec 01, 05:07 PM EST",
-    "description": "Port Everglades, United States (USA) Departure (UTC) Dec 1, 22:07 — ET: Dec 01, 05:07 PM EST | Local: Dec 01, 05:07 PM EST",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "fed3b3195cfb37da0d948403e4b69a70a0db6a00",
-    "pubDate": "Mon, 01 Dec 2025 22:33:06 GMT",
-    "eventUtc": "2025-12-01T22:07:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
     "source": "vf_ship"
   }
 ]

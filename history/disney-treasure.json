@@ -44,6 +44,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Arrived at Saint Thomas, US Virgin Islands at Jan 21, 06:06 AM EST. The local time to the port is Jan 21, 06:06 AM EST",
+    "description": "Saint Thomas, US Virgin Islands Arrival (UTC) Jan 21, 11:06 — ET: Jan 21, 06:06 AM EST | Local: Jan 21, 06:06 AM EST",
+    "link": "https://www.vesselfinder.com/ports/VISTT001",
+    "guid": "a892b846f494cd39567fd6f49eadfb00bacb4573",
+    "pubDate": "Wed, 21 Jan 2026 11:41:32 GMT",
+    "eventUtc": "2026-01-21T11:06:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Departed from Road Town, Tortola, British Virgin Islands at Jan 20, 05:18 PM EST. The local time to the port is Jan 20, 06:18 PM AST",
     "description": "Road Town, Tortola, British Virgin Islands Departure (UTC) Jan 20, 22:18 — ET: Jan 20, 05:18 PM EST | Local: Jan 20, 06:18 PM AST",
     "link": "https://www.vesselfinder.com/ports/VGRAD001",
