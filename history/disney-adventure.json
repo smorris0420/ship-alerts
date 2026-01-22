@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Adventure Departed from Cape Canaveral, United States (USA) at Jan 21, 07:02 PM EST. The local time to the port is Jan 21, 07:02 PM EST",
+    "description": "Cape Canaveral, United States (USA) Departure (UTC) Jan 22, 00:02 — ET: Jan 21, 07:02 PM EST | Local: Jan 21, 07:02 PM EST",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "f3f3e89a867cffd37fe2edfc4209663a66fd151b",
+    "pubDate": "Thu, 22 Jan 2026 02:34:57 GMT",
+    "eventUtc": "2026-01-22T00:02:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Departed from Cape Canaveral, United States (USA) at Jan 20, 12:15 AM EST. The local time to the port is Jan 20, 12:15 AM EST",
     "description": "Cape Canaveral, United States (USA) Departure (UTC) Jan 20, 05:15 — ET: Jan 20, 12:15 AM EST | Local: Jan 20, 12:15 AM EST",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
