@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Departed from Port Everglades, United States (USA) at Jan 22, 05:17 PM EST. The local time to the port is Jan 22, 05:17 PM EST",
+    "description": "Port Everglades, United States (USA) Departure (UTC) Jan 22, 22:17 — ET: Jan 22, 05:17 PM EST | Local: Jan 22, 05:17 PM EST",
+    "link": "https://www.vesselfinder.com/ports/USPEF001",
+    "guid": "458aa81d4997ee6c3ccce420fbdf1f8be4569498",
+    "pubDate": "Thu, 22 Jan 2026 22:38:12 GMT",
+    "eventUtc": "2026-01-22T22:17:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Arrived at Sydney, Australia at Jan 22, 02:28 PM EST. The local time to the port is Jan 23, 06:28 AM AEDT",
     "description": "Sydney, Australia Arrival (UTC) Jan 22, 19:28 — ET: Jan 22, 02:28 PM EST | Local: Jan 23, 06:28 AM AEDT",
     "link": "https://www.vesselfinder.com/ports/AUSYD002",
@@ -5483,17 +5494,6 @@
     "link": "https://www.vesselfinder.com/ports/USGLS001",
     "guid": "65a5caf7608a5cccc5bf868c272f542e28a846b4",
     "pubDate": "Wed, 03 Dec 2025 13:54:00 GMT",
-    "eventUtc": "2025-12-03T12:49:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Arrived at Unknown Port at Dec 03, 07:49 AM EST. The local time to the port is Dec 03, 07:49 AM EST",
-    "description": "Unknown Port Arrival (UTC) Dec 3, 12:49 — ET: Dec 03, 07:49 AM EST | Local: Dec 03, 07:49 AM EST",
-    "link": "https://www.vesselfinder.com/vessels/details/9126807",
-    "guid": "1f4a3e61dfbc5eed08407bed4110d7ab02801d6b",
-    "pubDate": "Fri, 05 Dec 2025 05:38:45 GMT",
     "eventUtc": "2025-12-03T12:49:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
