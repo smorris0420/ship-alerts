@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Galveston, United States (USA) at Jan 25, 10:00 AM EST. The local time to the port is Jan 25, 10:00 AM EST",
+    "description": "Galveston, United States (USA) Departure (UTC) Jan 25, 15:00 — ET: Jan 25, 10:00 AM EST | Local: Jan 25, 10:00 AM EST",
+    "link": "https://www.vesselfinder.com/ports/USGLS001",
+    "guid": "731366ae69ecec16c9deca88588e256e91f32744",
+    "pubDate": "Fri, 23 Jan 2026 23:32:27 GMT",
+    "eventUtc": "2026-01-25T15:00:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_port"
+  },
+  {
+    "title": "Disney Magic Arrived at Galveston, United States (USA) at Jan 25, 10:00 AM EST. The local time to the port is Jan 25, 10:00 AM EST",
+    "description": "Galveston, United States (USA) Arrival (UTC) Jan 25, 15:00 — ET: Jan 25, 10:00 AM EST | Local: Jan 25, 10:00 AM EST",
+    "link": "https://www.vesselfinder.com/ports/USGLS001",
+    "guid": "0d3b976eca8e6769905a951340545576995c29e0",
+    "pubDate": "Fri, 23 Jan 2026 23:32:29 GMT",
+    "eventUtc": "2026-01-25T15:00:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_port"
+  },
+  {
     "title": "Disney Fantasy Departed from Cape Canaveral, United States (USA) at Jan 23, 05:47 PM EST. The local time to the port is Jan 23, 05:47 PM EST",
     "description": "Cape Canaveral, United States (USA) Departure (UTC) Jan 23, 22:47 — ET: Jan 23, 05:47 PM EST | Local: Jan 23, 05:47 PM EST",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2025-12-04T09:22:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Departed from Unknown Port at Dec 04, 04:22 AM EST. The local time to the port is Dec 04, 04:22 AM EST",
-    "description": "Unknown Port Departure (UTC) Dec 4, 09:22 — ET: Dec 04, 04:22 AM EST | Local: Dec 04, 04:22 AM EST",
-    "link": "https://www.vesselfinder.com/vessels/details/9126819",
-    "guid": "e2009546de10362059921b72a655611e4e8a6d93",
-    "pubDate": "Fri, 05 Dec 2025 05:40:44 GMT",
-    "eventUtc": "2025-12-04T09:22:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Galveston, United States (USA) at Dec 03, 05:59 PM EST. The local time to the port is Dec 03, 05:59 PM EST",
-    "description": "Galveston, United States (USA) Departure (UTC) Dec 3, 22:59 — ET: Dec 03, 05:59 PM EST | Local: Dec 03, 05:59 PM EST",
-    "link": "https://www.vesselfinder.com/ports/USGLS001",
-    "guid": "c78944718af1e474fb190387647276af262a3277",
-    "pubDate": "Wed, 03 Dec 2025 23:26:22 GMT",
-    "eventUtc": "2025-12-03T22:59:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
