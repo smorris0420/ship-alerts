@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Port Everglades, United States (USA) at Jan 23, 04:31 PM EST. The local time to the port is Jan 23, 04:31 PM EST",
+    "description": "Port Everglades, United States (USA) Departure (UTC) Jan 23, 21:31 — ET: Jan 23, 04:31 PM EST | Local: Jan 23, 04:31 PM EST",
+    "link": "https://www.vesselfinder.com/ports/USPEF001",
+    "guid": "575f4e078227081011acab2432f3b0f5a9ff5471",
+    "pubDate": "Fri, 23 Jan 2026 21:37:09 GMT",
+    "eventUtc": "2026-01-23T21:31:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Arrived at Freeport, Bahamas at Jan 23, 06:05 AM EST. The local time to the port is Jan 23, 06:05 AM EST",
     "description": "Freeport, Bahamas Arrival (UTC) Jan 23, 11:05 — ET: Jan 23, 06:05 AM EST | Local: Jan 23, 06:05 AM EST",
     "link": "https://www.vesselfinder.com/ports/BSFPO001",
@@ -5483,17 +5494,6 @@
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
     "guid": "71cc236f90a1a68343a3443399f088c9a519ad69",
     "pubDate": "Thu, 04 Dec 2025 03:36:44 GMT",
-    "eventUtc": "2025-12-03T21:51:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Departed from Unknown Port at Dec 03, 04:51 PM EST. The local time to the port is Dec 03, 04:51 PM EST",
-    "description": "Unknown Port Departure (UTC) Dec 3, 21:51 — ET: Dec 03, 04:51 PM EST | Local: Dec 03, 04:51 PM EST",
-    "link": "https://www.vesselfinder.com/vessels/details/9834739",
-    "guid": "d6eee61c25b43e16beefebd11e4718d5cc642d3f",
-    "pubDate": "Fri, 05 Dec 2025 05:36:02 GMT",
     "eventUtc": "2025-12-03T21:51:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
