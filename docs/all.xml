@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Fri, 23 Jan 2026 11:03:35 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 23 Jan 2026 11:33:16 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,13 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Dream Arrived at Port Everglades, United States (USA) at Jan 23, 05:43 AM EST. The local time to the port is Jan 23, 05:43 AM EST</title>
+    <link>https://www.vesselfinder.com/ports/USPEF001</link>
+    <guid isPermaLink="false">03b116cd7d627ddfc6d1ff5c16b016c4f5810c64</guid>
+    <pubDate>Fri, 23 Jan 2026 11:31:00 GMT</pubDate>
+    <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) Jan 23, 10:43 — ET: Jan 23, 05:43 AM EST | Local: Jan 23, 05:43 AM EST]]></description>
   </item>
   <item>
     <title>Disney Fantasy Arrived at Cape Canaveral, United States (USA) at Jan 23, 04:39 AM EST. The local time to the port is Jan 23, 04:39 AM EST</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">fde09f2abb3d6a1b684bb3ede4bfee2368390117</guid>
     <pubDate>Wed, 03 Dec 2025 17:56:34 GMT</pubDate>
     <description><![CDATA[Auckland, New Zealand Arrival (UTC) Dec 3, 17:23 — ET: Dec 03, 12:23 PM EST | Local: Dec 04, 06:23 AM NZDT]]></description>
-  </item>
-  <item>
-    <title>Disney Wonder Arrived at Unknown Port at Dec 03, 12:23 PM EST. The local time to the port is Dec 03, 12:23 PM EST</title>
-    <link>https://www.vesselfinder.com/vessels/details/9126819</link>
-    <guid isPermaLink="false">64f84d618c87d86027acbcb266cdeff5a0ebb64b</guid>
-    <pubDate>Fri, 05 Dec 2025 05:40:42 GMT</pubDate>
-    <description><![CDATA[Unknown Port Arrival (UTC) Dec 3, 17:23 — ET: Dec 03, 12:23 PM EST | Local: Dec 03, 12:23 PM EST]]></description>
   </item>
 </channel>
 </rss>
