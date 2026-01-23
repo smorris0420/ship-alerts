@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Fantasy Arrived at Cape Canaveral, United States (USA) at Jan 23, 04:39 AM EST. The local time to the port is Jan 23, 04:39 AM EST",
+    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Jan 23, 09:39 — ET: Jan 23, 04:39 AM EST | Local: Jan 23, 04:39 AM EST",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "2411aa2b3495cf7094cfa767689d918d9ce380e5",
+    "pubDate": "Fri, 23 Jan 2026 10:40:09 GMT",
+    "eventUtc": "2026-01-23T09:39:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Departed from Sydney, Australia at Jan 23, 02:35 AM EST. The local time to the port is Jan 23, 06:35 PM AEDT",
     "description": "Sydney, Australia Departure (UTC) Jan 23, 07:35 — ET: Jan 23, 02:35 AM EST | Local: Jan 23, 06:35 PM AEDT",
     "link": "https://www.vesselfinder.com/ports/AUSYD002",
@@ -5487,16 +5498,5 @@
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
     "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Departed from Port Everglades, United States (USA) at Dec 03, 09:30 AM EST. The local time to the port is Dec 03, 09:30 AM EST",
-    "description": "Port Everglades, United States (USA) Departure (UTC) Dec 03, 14:30 — ET: Dec 03, 09:30 AM EST | Local: Dec 03, 09:30 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "c785d0db257b08d1056a46a8b60609f44d8d5151",
-    "pubDate": "Tue, 02 Dec 2025 20:52:09 GMT",
-    "eventUtc": "2025-12-03T14:30:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
-    "source": "vf_port"
   }
 ]
