@@ -44,6 +44,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Wonder Arrived at Sydney, Australia at Jan 25, 01:45 AM EST. The local time to the port is Jan 25, 05:45 PM AEDT",
+    "description": "Sydney, Australia Arrival (UTC) Jan 25, 06:45 — ET: Jan 25, 01:45 AM EST | Local: Jan 25, 05:45 PM AEDT",
+    "link": "https://www.vesselfinder.com/ports/AUSYD002",
+    "guid": "c03da2b2f8ce9b459d33a68c956fdbbb9ac80ddf",
+    "pubDate": "Sat, 24 Jan 2026 21:26:32 GMT",
+    "eventUtc": "2026-01-25T06:45:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_port"
+  },
+  {
     "title": "Disney Wonder Departed from Sydney, Australia at Jan 23, 02:35 AM EST. The local time to the port is Jan 23, 06:35 PM AEDT",
     "description": "Sydney, Australia Departure (UTC) Jan 23, 07:35 — ET: Jan 23, 02:35 AM EST | Local: Jan 23, 06:35 PM AEDT",
     "link": "https://www.vesselfinder.com/ports/AUSYD002",

@@ -275,6 +275,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Wonder Arrived at Sydney, Australia at Jan 25, 01:45 AM EST. The local time to the port is Jan 25, 05:45 PM AEDT",
+    "description": "Sydney, Australia Arrival (UTC) Jan 25, 06:45 — ET: Jan 25, 01:45 AM EST | Local: Jan 25, 05:45 PM AEDT",
+    "link": "https://www.vesselfinder.com/ports/AUSYD002",
+    "guid": "c03da2b2f8ce9b459d33a68c956fdbbb9ac80ddf",
+    "pubDate": "Sat, 24 Jan 2026 21:26:32 GMT",
+    "eventUtc": "2026-01-25T06:45:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_port"
+  },
+  {
     "title": "Disney Wish Arrived at Nassau, Bahamas at Jan 24, 08:49 AM EST. The local time to the port is Jan 24, 08:49 AM EST",
     "description": "Nassau, Bahamas Arrival (UTC) Jan 24, 13:49 — ET: Jan 24, 08:49 AM EST | Local: Jan 24, 08:49 AM EST",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -5483,17 +5494,6 @@
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
     "guid": "c9cc619ceff0ea86c94056dcc4ad23211f59fe6c",
     "pubDate": "Thu, 04 Dec 2025 23:04:56 GMT",
-    "eventUtc": "2025-12-04T22:55:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Departed from Unknown Port at Dec 04, 05:55 PM EST. The local time to the port is Dec 04, 05:55 PM EST",
-    "description": "Unknown Port Departure (UTC) Dec 4, 22:55 — ET: Dec 04, 05:55 PM EST | Local: Dec 04, 05:55 PM EST",
-    "link": "https://www.vesselfinder.com/vessels/details/9834741",
-    "guid": "b8e89b8832077931cf2636313557bc56a87b6641",
-    "pubDate": "Fri, 05 Dec 2025 05:43:49 GMT",
     "eventUtc": "2025-12-04T22:55:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
