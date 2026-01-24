@@ -275,6 +275,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Adventure Departed from Freeport, Bahamas at Jan 23, 11:42 PM EST. The local time to the port is Jan 23, 11:42 PM EST",
+    "description": "Freeport, Bahamas Departure (UTC) Jan 24, 04:42 — ET: Jan 23, 11:42 PM EST | Local: Jan 23, 11:42 PM EST",
+    "link": "https://www.vesselfinder.com/ports/BSFPO001",
+    "guid": "176fedc6db0cd1e414150a210849ffb898cf5d36",
+    "pubDate": "Sat, 24 Jan 2026 04:56:46 GMT",
+    "eventUtc": "2026-01-24T04:42:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Departed from Cape Canaveral, United States (USA) at Jan 23, 05:47 PM EST. The local time to the port is Jan 23, 05:47 PM EST",
     "description": "Cape Canaveral, United States (USA) Departure (UTC) Jan 23, 22:47 — ET: Jan 23, 05:47 PM EST | Local: Jan 23, 05:47 PM EST",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2025-12-04T12:49:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Arrived at Nassau, Bahamas at Dec 04, 07:25 AM EST. The local time to the port is Dec 04, 07:25 AM EST",
-    "description": "Nassau, Bahamas Arrival (UTC) Dec 4, 12:25 — ET: Dec 04, 07:25 AM EST | Local: Dec 04, 07:25 AM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "5b983f039d8b4cbfaebbf0d0d1c7e7d5e15b0960",
-    "pubDate": "Thu, 04 Dec 2025 13:31:06 GMT",
-    "eventUtc": "2025-12-04T12:25:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
     "source": "vf_ship"
   }
 ]
