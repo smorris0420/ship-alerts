@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Sat, 24 Jan 2026 14:29:24 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 24 Jan 2026 14:47:51 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -181,6 +181,13 @@
     <guid isPermaLink="false">9680d61ef5b697fe7bcc0d6e54cfacd92043b689</guid>
     <pubDate>Sat, 24 Jan 2026 03:46:52 GMT</pubDate>
     <description><![CDATA[Sydney, Australia Arrival (UTC) Jan 25, 07:00 — ET: Jan 25, 02:00 AM EST | Local: Jan 25, 06:00 PM AEDT]]></description>
+  </item>
+  <item>
+    <title>Disney Wish Arrived at Nassau, Bahamas at Jan 24, 08:49 AM EST. The local time to the port is Jan 24, 08:49 AM EST</title>
+    <link>https://www.vesselfinder.com/ports/BSNAS001</link>
+    <guid isPermaLink="false">10e5657296b60c5f1f820f101f64d0a0ef9a1798</guid>
+    <pubDate>Sat, 24 Jan 2026 14:42:58 GMT</pubDate>
+    <description><![CDATA[Nassau, Bahamas Arrival (UTC) Jan 24, 13:49 — ET: Jan 24, 08:49 AM EST | Local: Jan 24, 08:49 AM EST]]></description>
   </item>
   <item>
     <title>Disney Treasure Arrived at Cape Canaveral, United States (USA) at Jan 24, 05:44 AM EST. The local time to the port is Jan 24, 05:44 AM EST</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">58c05b0e452493829e34bd73c0fc2cb4003a1734</guid>
     <pubDate>Fri, 05 Dec 2025 05:40:30 GMT</pubDate>
     <description><![CDATA[Unknown Port Departure (UTC) Dec 4, 22:13 — ET: Dec 04, 05:13 PM EST | Local: Dec 04, 05:13 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Fantasy Departed from Cape Canaveral, United States (USA) at Dec 04, 04:38 PM EST. The local time to the port is Dec 04, 04:38 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/USPCV001</link>
-    <guid isPermaLink="false">7cb654373991fbd034254e42874be8fb937ff28d</guid>
-    <pubDate>Thu, 04 Dec 2025 21:45:32 GMT</pubDate>
-    <description><![CDATA[Cape Canaveral, United States (USA) Departure (UTC) Dec 4, 21:38 — ET: Dec 04, 04:38 PM EST | Local: Dec 04, 04:38 PM EST]]></description>
   </item>
 </channel>
 </rss>
