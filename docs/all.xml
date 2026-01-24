@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Sat, 24 Jan 2026 11:17:41 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 24 Jan 2026 11:35:27 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -181,6 +181,13 @@
     <guid isPermaLink="false">9680d61ef5b697fe7bcc0d6e54cfacd92043b689</guid>
     <pubDate>Sat, 24 Jan 2026 03:46:52 GMT</pubDate>
     <description><![CDATA[Sydney, Australia Arrival (UTC) Jan 25, 07:00 — ET: Jan 25, 02:00 AM EST | Local: Jan 25, 06:00 PM AEDT]]></description>
+  </item>
+  <item>
+    <title>Disney Treasure Arrived at Cape Canaveral, United States (USA) at Jan 24, 05:44 AM EST. The local time to the port is Jan 24, 05:44 AM EST</title>
+    <link>https://www.vesselfinder.com/ports/USPCV001</link>
+    <guid isPermaLink="false">f0aca1544b9041be9e4f857f408ef5eac0e6bae4</guid>
+    <pubDate>Sat, 24 Jan 2026 11:31:23 GMT</pubDate>
+    <description><![CDATA[Cape Canaveral, United States (USA) Arrival (UTC) Jan 24, 10:44 — ET: Jan 24, 05:44 AM EST | Local: Jan 24, 05:44 AM EST]]></description>
   </item>
   <item>
     <title>Disney Adventure Departed from Freeport, Bahamas at Jan 23, 11:42 PM EST. The local time to the port is Jan 23, 11:42 PM EST</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">7cb654373991fbd034254e42874be8fb937ff28d</guid>
     <pubDate>Thu, 04 Dec 2025 21:45:32 GMT</pubDate>
     <description><![CDATA[Cape Canaveral, United States (USA) Departure (UTC) Dec 4, 21:38 — ET: Dec 04, 04:38 PM EST | Local: Dec 04, 04:38 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Fantasy Departed from Unknown Port at Dec 04, 04:38 PM EST. The local time to the port is Dec 04, 04:38 PM EST</title>
-    <link>https://www.vesselfinder.com/vessels/details/9445590</link>
-    <guid isPermaLink="false">6bfa886b1b4cc95300aefbb9378da0ee96daef6c</guid>
-    <pubDate>Fri, 05 Dec 2025 05:38:32 GMT</pubDate>
-    <description><![CDATA[Unknown Port Departure (UTC) Dec 4, 21:38 — ET: Dec 04, 04:38 PM EST | Local: Dec 04, 04:38 PM EST]]></description>
   </item>
 </channel>
 </rss>

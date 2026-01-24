@@ -275,6 +275,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Treasure Arrived at Cape Canaveral, United States (USA) at Jan 24, 05:44 AM EST. The local time to the port is Jan 24, 05:44 AM EST",
+    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Jan 24, 10:44 — ET: Jan 24, 05:44 AM EST | Local: Jan 24, 05:44 AM EST",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "f0aca1544b9041be9e4f857f408ef5eac0e6bae4",
+    "pubDate": "Sat, 24 Jan 2026 11:31:23 GMT",
+    "eventUtc": "2026-01-24T10:44:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Departed from Freeport, Bahamas at Jan 23, 11:42 PM EST. The local time to the port is Jan 23, 11:42 PM EST",
     "description": "Freeport, Bahamas Departure (UTC) Jan 24, 04:42 — ET: Jan 23, 11:42 PM EST | Local: Jan 23, 11:42 PM EST",
     "link": "https://www.vesselfinder.com/ports/BSFPO001",
@@ -5483,17 +5494,6 @@
     "link": "https://www.vesselfinder.com/ports/USPCV001",
     "guid": "7cb654373991fbd034254e42874be8fb937ff28d",
     "pubDate": "Thu, 04 Dec 2025 21:45:32 GMT",
-    "eventUtc": "2025-12-04T21:38:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Departed from Unknown Port at Dec 04, 04:38 PM EST. The local time to the port is Dec 04, 04:38 PM EST",
-    "description": "Unknown Port Departure (UTC) Dec 4, 21:38 — ET: Dec 04, 04:38 PM EST | Local: Dec 04, 04:38 PM EST",
-    "link": "https://www.vesselfinder.com/vessels/details/9445590",
-    "guid": "6bfa886b1b4cc95300aefbb9378da0ee96daef6c",
-    "pubDate": "Fri, 05 Dec 2025 05:38:32 GMT",
     "eventUtc": "2025-12-04T21:38:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
