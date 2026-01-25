@@ -275,6 +275,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Magic Arrived at Galveston, United States (USA) at Jan 25, 02:35 AM EST. The local time to the port is Jan 25, 02:35 AM EST",
+    "description": "Galveston, United States (USA) Arrival (UTC) Jan 25, 07:35 — ET: Jan 25, 02:35 AM EST | Local: Jan 25, 02:35 AM EST",
+    "link": "https://www.vesselfinder.com/ports/USGLS001",
+    "guid": "fb2f420200100b208612327566f8002828f6df29",
+    "pubDate": "Sun, 25 Jan 2026 08:34:43 GMT",
+    "eventUtc": "2026-01-25T07:35:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Departed from Sydney, Australia at Jan 25, 02:00 AM EST. The local time to the port is Jan 25, 06:00 PM AEDT",
     "description": "Sydney, Australia Departure (UTC) Jan 25, 07:00 — ET: Jan 25, 02:00 AM EST | Local: Jan 25, 06:00 PM AEDT",
     "link": "https://www.vesselfinder.com/ports/AUSYD002",
@@ -5483,17 +5494,6 @@
     "link": "https://www.vesselfinder.com/ports/NZAKL001",
     "guid": "5df41bc61be77300f9e56318e2906bd7d1848ec3",
     "pubDate": "Thu, 04 Dec 2025 07:47:43 GMT",
-    "eventUtc": "2025-12-06T03:00:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
-    "source": "vf_port"
-  },
-  {
-    "title": "Disney Wonder Arrived at Auckland, New Zealand at Dec 05, 10:00 PM EST. The local time to the port is Dec 06, 04:00 PM NZDT",
-    "description": "Auckland, New Zealand Arrival (UTC) Dec 06, 03:00 — ET: Dec 05, 10:00 PM EST | Local: Dec 06, 04:00 PM NZDT",
-    "link": "https://www.vesselfinder.com/ports/NZAKL001",
-    "guid": "ba374553edd24b5b74923213e8ac75830dc6a1e2",
-    "pubDate": "Thu, 04 Dec 2025 07:47:44 GMT",
     "eventUtc": "2025-12-06T03:00:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
