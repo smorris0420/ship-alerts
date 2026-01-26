@@ -231,6 +231,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Treasure Departed from Cozumel, Mexico at Jan 26, 05:35 PM EST. The local time to the port is Jan 26, 05:35 PM EST",
+    "description": "Cozumel, Mexico Departure (UTC) Jan 26, 22:35 — ET: Jan 26, 05:35 PM EST | Local: Jan 26, 05:35 PM EST",
+    "link": "https://www.vesselfinder.com/ports/MXCZM001",
+    "guid": "0dacb15f998e68d995b0294eedcb6628df8d6917",
+    "pubDate": "Mon, 26 Jan 2026 22:54:41 GMT",
+    "eventUtc": "2026-01-26T22:35:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Port Everglades, United States (USA) at Jan 26, 04:47 PM EST. The local time to the port is Jan 26, 04:47 PM EST",
     "description": "Port Everglades, United States (USA) Departure (UTC) Jan 26, 21:47 — ET: Jan 26, 04:47 PM EST | Local: Jan 26, 04:47 PM EST",
     "link": "https://www.vesselfinder.com/ports/USPEF001",
@@ -5487,16 +5498,5 @@
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
     "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Galveston, United States (USA) at Dec 07, 10:00 AM EST. The local time to the port is Dec 07, 10:00 AM EST",
-    "description": "Galveston, United States (USA) Departure (UTC) Dec 07, 15:00 — ET: Dec 07, 10:00 AM EST | Local: Dec 07, 10:00 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USGLS001",
-    "guid": "c538632373165091f77ad37ca0cb5dc35cd9ff54",
-    "pubDate": "Sat, 06 Dec 2025 03:32:32 GMT",
-    "eventUtc": "2025-12-07T15:00:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
-    "source": "vf_port"
   }
 ]
