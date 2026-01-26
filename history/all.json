@@ -231,6 +231,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Treasure Arrived at Cozumel, Mexico at Jan 26, 07:44 AM EST. The local time to the port is Jan 26, 07:44 AM EST",
+    "description": "Cozumel, Mexico Arrival (UTC) Jan 26, 12:44 — ET: Jan 26, 07:44 AM EST | Local: Jan 26, 07:44 AM EST",
+    "link": "https://www.vesselfinder.com/ports/MXCZM001",
+    "guid": "4fc673d386e74375da29b433cc6a17535c94dc93",
+    "pubDate": "Mon, 26 Jan 2026 13:51:59 GMT",
+    "eventUtc": "2026-01-26T12:44:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Arrived at Cape Canaveral, United States (USA) at Jan 26, 05:50 AM EST. The local time to the port is Jan 26, 05:50 AM EST",
     "description": "Cape Canaveral, United States (USA) Arrival (UTC) Jan 26, 10:50 — ET: Jan 26, 05:50 AM EST | Local: Jan 26, 05:50 AM EST",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2025-12-07T12:23:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Arrived at Galveston, United States (USA) at Dec 07, 05:37 AM EST. The local time to the port is Dec 07, 05:37 AM EST",
-    "description": "Galveston, United States (USA) Arrival (UTC) Dec 7, 10:37 — ET: Dec 07, 05:37 AM EST | Local: Dec 07, 05:37 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USGLS001",
-    "guid": "f99c3545e5399639cc0b296b9a903a6fcea4f276",
-    "pubDate": "Sun, 07 Dec 2025 11:21:08 GMT",
-    "eventUtc": "2025-12-07T10:37:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
