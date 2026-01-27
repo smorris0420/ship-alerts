@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Tue, 27 Jan 2026 22:37:52 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 27 Jan 2026 22:57:26 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,20 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Magic Departed from Galveston, United States (USA) at Jan 29, 10:30 AM EST. The local time to the port is Jan 29, 10:30 AM EST</title>
+    <link>https://www.vesselfinder.com/ports/USGLS001</link>
+    <guid isPermaLink="false">e833cf4a1ede6331106a8619d8e68a50545c2684</guid>
+    <pubDate>Tue, 27 Jan 2026 22:54:32 GMT</pubDate>
+    <description><![CDATA[Galveston, United States (USA) Departure (UTC) Jan 29, 15:30 — ET: Jan 29, 10:30 AM EST | Local: Jan 29, 10:30 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Magic Arrived at Galveston, United States (USA) at Jan 29, 10:30 AM EST. The local time to the port is Jan 29, 10:30 AM EST</title>
+    <link>https://www.vesselfinder.com/ports/USGLS001</link>
+    <guid isPermaLink="false">c4ce8c268fcbabba74b89f79e18b4db80d5442ff</guid>
+    <pubDate>Tue, 27 Jan 2026 22:54:34 GMT</pubDate>
+    <description><![CDATA[Galveston, United States (USA) Arrival (UTC) Jan 29, 15:30 — ET: Jan 29, 10:30 AM EST | Local: Jan 29, 10:30 AM EST]]></description>
   </item>
   <item>
     <title>Disney Fantasy Departed from Cape Canaveral, United States (USA) at Jan 28, 09:30 AM EST. The local time to the port is Jan 28, 09:30 AM EST</title>
@@ -3492,20 +3506,6 @@
     <guid isPermaLink="false">408741a62479646c67a4f47eb7a58d3b7c0c1edd</guid>
     <pubDate>Mon, 08 Dec 2025 14:45:42 GMT</pubDate>
     <description><![CDATA[Nassau, Bahamas Arrival (UTC) Dec 8, 13:50 — ET: Dec 08, 08:50 AM EST | Local: Dec 08, 08:50 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Destiny Arrived at Gorda Cay, Bahamas at Dec 08, 07:34 AM EST. The local time to the port is Dec 08, 07:34 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
-    <guid isPermaLink="false">886aae26999d481ed22cee5829e1c2e28d34e45b</guid>
-    <pubDate>Mon, 08 Dec 2025 13:37:12 GMT</pubDate>
-    <description><![CDATA[Gorda Cay, Bahamas Arrival (UTC) Dec 8, 12:34 — ET: Dec 08, 07:34 AM EST | Local: Dec 08, 07:34 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Dream Arrived at Port Everglades, United States (USA) at Dec 08, 05:48 AM EST. The local time to the port is Dec 08, 05:48 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/USPEF001</link>
-    <guid isPermaLink="false">b873da887e7b763bbe322a55ccc13d51dbca6cc9</guid>
-    <pubDate>Mon, 08 Dec 2025 11:34:48 GMT</pubDate>
-    <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) Dec 8, 10:48 — ET: Dec 08, 05:48 AM EST | Local: Dec 08, 05:48 AM EST]]></description>
   </item>
 </channel>
 </rss>
