@@ -253,6 +253,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Wonder Arrived at Hobart, Australia at Jan 27, 12:48 PM EST. The local time to the port is Jan 28, 04:48 AM AEDT",
+    "description": "Hobart, Australia Arrival (UTC) Jan 27, 17:48 — ET: Jan 27, 12:48 PM EST | Local: Jan 28, 04:48 AM AEDT",
+    "link": "https://www.vesselfinder.com/ports/AUHBA001",
+    "guid": "a9f2be275f1f95a16d944b961f3ae34d37b470a7",
+    "pubDate": "Tue, 27 Jan 2026 18:52:26 GMT",
+    "eventUtc": "2026-01-27T17:48:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Arrived at Nassau, Bahamas at Jan 27, 08:47 AM EST. The local time to the port is Jan 27, 08:47 AM EST",
     "description": "Nassau, Bahamas Arrival (UTC) Jan 27, 13:47 — ET: Jan 27, 08:47 AM EST | Local: Jan 27, 08:47 AM EST",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -5483,17 +5494,6 @@
     "link": "https://www.vesselfinder.com/ports/NZAKL001",
     "guid": "49b85980c5298683c5eebf35e62a91728ad95300",
     "pubDate": "Sun, 07 Dec 2025 02:30:00 GMT",
-    "eventUtc": "2025-12-08T06:45:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
-    "source": "vf_port"
-  },
-  {
-    "title": "Disney Wonder Arrived at Auckland, New Zealand at Dec 08, 01:45 AM EST. The local time to the port is Dec 08, 07:45 PM NZDT",
-    "description": "Auckland, New Zealand Arrival (UTC) Dec 08, 06:45 — ET: Dec 08, 01:45 AM EST | Local: Dec 08, 07:45 PM NZDT",
-    "link": "https://www.vesselfinder.com/ports/NZAKL001",
-    "guid": "b6a664cf2b9c12c8a7206bbded81e80b8a7d71e8",
-    "pubDate": "Sun, 07 Dec 2025 02:30:01 GMT",
     "eventUtc": "2025-12-08T06:45:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
