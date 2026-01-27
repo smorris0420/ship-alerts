@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Tue, 27 Jan 2026 18:53:46 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 27 Jan 2026 19:22:58 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -181,6 +181,20 @@
     <guid isPermaLink="false">719a4a93f04d8fa1d7c178bd5370f0cbd32ed79a</guid>
     <pubDate>Tue, 27 Jan 2026 14:54:57 GMT</pubDate>
     <description><![CDATA[Nassau, Bahamas Arrival (UTC) Jan 27, 13:47 — ET: Jan 27, 08:47 AM EST | Local: Jan 27, 08:47 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Wonder Departed from Hobart, Australia at Jan 27, 04:30 AM EST. The local time to the port is Jan 27, 08:30 PM AEDT</title>
+    <link>https://www.vesselfinder.com/ports/AUHBA001</link>
+    <guid isPermaLink="false">e7df5a67afb95f92e5f5fb8d8d34d898eece9414</guid>
+    <pubDate>Tue, 27 Jan 2026 19:21:34 GMT</pubDate>
+    <description><![CDATA[Hobart, Australia Departure (UTC) Jan 27, 09:30 — ET: Jan 27, 04:30 AM EST | Local: Jan 27, 08:30 PM AEDT]]></description>
+  </item>
+  <item>
+    <title>Disney Wonder Arrived at Hobart, Australia at Jan 27, 04:30 AM EST. The local time to the port is Jan 27, 08:30 PM AEDT</title>
+    <link>https://www.vesselfinder.com/ports/AUHBA001</link>
+    <guid isPermaLink="false">37ef73226a134edb66fb8aaf5b7ce952920657ec</guid>
+    <pubDate>Tue, 27 Jan 2026 19:21:36 GMT</pubDate>
+    <description><![CDATA[Hobart, Australia Arrival (UTC) Jan 27, 09:30 — ET: Jan 27, 04:30 AM EST | Local: Jan 27, 08:30 PM AEDT]]></description>
   </item>
   <item>
     <title>Disney Treasure Departed from Cozumel, Mexico at Jan 26, 05:35 PM EST. The local time to the port is Jan 26, 05:35 PM EST</title>
@@ -3492,20 +3506,6 @@
     <guid isPermaLink="false">b873da887e7b763bbe322a55ccc13d51dbca6cc9</guid>
     <pubDate>Mon, 08 Dec 2025 11:34:48 GMT</pubDate>
     <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) Dec 8, 10:48 — ET: Dec 08, 05:48 AM EST | Local: Dec 08, 05:48 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Wish Arrived at Cape Canaveral, United States (USA) at Dec 08, 05:39 AM EST. The local time to the port is Dec 08, 05:39 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/USPCV001</link>
-    <guid isPermaLink="false">3d9b49df2b768e07cd6a32d2812c252a2f33a45a</guid>
-    <pubDate>Mon, 08 Dec 2025 11:32:35 GMT</pubDate>
-    <description><![CDATA[Cape Canaveral, United States (USA) Arrival (UTC) Dec 8, 10:39 — ET: Dec 08, 05:39 AM EST | Local: Dec 08, 05:39 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Wonder Departed from Auckland, New Zealand at Dec 08, 01:45 AM EST. The local time to the port is Dec 08, 07:45 PM NZDT</title>
-    <link>https://www.vesselfinder.com/ports/NZAKL001</link>
-    <guid isPermaLink="false">49b85980c5298683c5eebf35e62a91728ad95300</guid>
-    <pubDate>Sun, 07 Dec 2025 02:30:00 GMT</pubDate>
-    <description><![CDATA[Auckland, New Zealand Departure (UTC) Dec 08, 06:45 — ET: Dec 08, 01:45 AM EST | Local: Dec 08, 07:45 PM NZDT]]></description>
   </item>
 </channel>
 </rss>
