@@ -231,6 +231,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Destiny Departed from Nassau, Bahamas at Jan 28, 05:43 PM EST. The local time to the port is Jan 28, 05:43 PM EST",
+    "description": "Nassau, Bahamas Departure (UTC) Jan 28, 22:43 — ET: Jan 28, 05:43 PM EST | Local: Jan 28, 05:43 PM EST",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "84d3f8710023573cf6f0128abcc77f37ecf9fd43",
+    "pubDate": "Wed, 28 Jan 2026 23:40:33 GMT",
+    "eventUtc": "2026-01-28T22:43:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Departed from Gorda Cay, Bahamas at Jan 28, 05:08 PM EST. The local time to the port is Jan 28, 05:08 PM EST",
     "description": "Gorda Cay, Bahamas Departure (UTC) Jan 28, 22:08 — ET: Jan 28, 05:08 PM EST | Local: Jan 28, 05:08 PM EST",
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2025-12-09T10:59:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Departed from Wellington, New Zealand at Dec 09, 12:22 AM EST. The local time to the port is Dec 09, 06:22 PM NZDT",
-    "description": "Wellington, New Zealand Departure (UTC) Dec 9, 05:22 — ET: Dec 09, 12:22 AM EST | Local: Dec 09, 06:22 PM NZDT",
-    "link": "https://www.vesselfinder.com/ports/NZWLG001",
-    "guid": "be7a2d268fa9f032dbb05f71324279e76be1b02e",
-    "pubDate": "Tue, 09 Dec 2025 05:25:51 GMT",
-    "eventUtc": "2025-12-09T05:22:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
     "source": "vf_ship"
   }
 ]
