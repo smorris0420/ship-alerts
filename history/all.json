@@ -231,6 +231,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Wonder Arrived at Sydney, Australia at Jan 29, 02:22 PM EST. The local time to the port is Jan 30, 06:22 AM AEDT",
+    "description": "Sydney, Australia Arrival (UTC) Jan 29, 19:22 — ET: Jan 29, 02:22 PM EST | Local: Jan 30, 06:22 AM AEDT",
+    "link": "https://www.vesselfinder.com/ports/AUSYD002",
+    "guid": "d043769a46d99c4be994112723caf6cd84f7230e",
+    "pubDate": "Thu, 29 Jan 2026 20:18:45 GMT",
+    "eventUtc": "2026-01-29T19:22:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Departed from Galveston, United States (USA) at Jan 29, 10:30 AM EST. The local time to the port is Jan 29, 10:30 AM EST",
     "description": "Galveston, United States (USA) Departure (UTC) Jan 29, 15:30 — ET: Jan 29, 10:30 AM EST | Local: Jan 29, 10:30 AM EST",
     "link": "https://www.vesselfinder.com/ports/USGLS001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2025-12-10T11:09:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Progreso, Mexico at Dec 09, 07:15 PM EST. The local time to the port is Dec 09, 07:15 PM EST",
-    "description": "Progreso, Mexico Departure (UTC) Dec 10, 00:15 — ET: Dec 09, 07:15 PM EST | Local: Dec 09, 07:15 PM EST",
-    "link": "https://www.vesselfinder.com/ports/MXPGO001",
-    "guid": "fee12d629dd79072f74afbd745ae169c31c5d10b",
-    "pubDate": "Wed, 10 Dec 2025 22:32:05 GMT",
-    "eventUtc": "2025-12-10T00:15:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]

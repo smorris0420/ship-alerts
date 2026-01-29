@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Thu, 29 Jan 2026 19:54:16 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 29 Jan 2026 20:20:12 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -153,6 +153,13 @@
     <guid isPermaLink="false">56daa6bc88936478f274f573166be01698b98b67</guid>
     <pubDate>Thu, 29 Jan 2026 19:24:17 GMT</pubDate>
     <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) Jan 30, 14:30 — ET: Jan 30, 09:30 AM EST | Local: Jan 30, 09:30 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Wonder Arrived at Sydney, Australia at Jan 29, 02:22 PM EST. The local time to the port is Jan 30, 06:22 AM AEDT</title>
+    <link>https://www.vesselfinder.com/ports/AUSYD002</link>
+    <guid isPermaLink="false">d043769a46d99c4be994112723caf6cd84f7230e</guid>
+    <pubDate>Thu, 29 Jan 2026 20:18:45 GMT</pubDate>
+    <description><![CDATA[Sydney, Australia Arrival (UTC) Jan 29, 19:22 — ET: Jan 29, 02:22 PM EST | Local: Jan 30, 06:22 AM AEDT]]></description>
   </item>
   <item>
     <title>Disney Magic Departed from Galveston, United States (USA) at Jan 29, 10:30 AM EST. The local time to the port is Jan 29, 10:30 AM EST</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">345b5380278e3eff0277aacf6c545d7af0693cd9</guid>
     <pubDate>Wed, 10 Dec 2025 11:43:01 GMT</pubDate>
     <description><![CDATA[Road Town, Tortola, British Virgin Islands Arrival (UTC) Dec 10, 11:09 — ET: Dec 10, 06:09 AM EST | Local: Dec 10, 07:09 AM AST]]></description>
-  </item>
-  <item>
-    <title>Disney Magic Departed from Progreso, Mexico at Dec 09, 07:15 PM EST. The local time to the port is Dec 09, 07:15 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/MXPGO001</link>
-    <guid isPermaLink="false">fee12d629dd79072f74afbd745ae169c31c5d10b</guid>
-    <pubDate>Wed, 10 Dec 2025 22:32:05 GMT</pubDate>
-    <description><![CDATA[Progreso, Mexico Departure (UTC) Dec 10, 00:15 — ET: Dec 09, 07:15 PM EST | Local: Dec 09, 07:15 PM EST]]></description>
   </item>
 </channel>
 </rss>
