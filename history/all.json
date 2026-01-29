@@ -341,6 +341,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Progreso, Mexico at Jan 27, 07:10 PM EST. The local time to the port is Jan 27, 07:10 PM EST",
+    "description": "Progreso, Mexico Departure (UTC) Jan 28, 00:10 — ET: Jan 27, 07:10 PM EST | Local: Jan 27, 07:10 PM EST",
+    "link": "https://www.vesselfinder.com/ports/MXPGO001",
+    "guid": "364c44701ad456d411fd8916151bcfbeb4f46824",
+    "pubDate": "Thu, 29 Jan 2026 04:12:57 GMT",
+    "eventUtc": "2026-01-28T00:10:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Departed from Nassau, Bahamas at Jan 27, 06:00 PM EST. The local time to the port is Jan 27, 06:00 PM EST",
     "description": "Nassau, Bahamas Departure (UTC) Jan 27, 23:00 — ET: Jan 27, 06:00 PM EST | Local: Jan 27, 06:00 PM EST",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -393,6 +404,17 @@
     "eventUtc": "2026-01-27T13:47:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Magic Arrived at Progreso, Mexico at Jan 27, 07:55 AM EST. The local time to the port is Jan 27, 07:55 AM EST",
+    "description": "Progreso, Mexico Arrival (UTC) Jan 27, 12:55 — ET: Jan 27, 07:55 AM EST | Local: Jan 27, 07:55 AM EST",
+    "link": "https://www.vesselfinder.com/ports/MXPGO001",
+    "guid": "5245973ea4444126e977667fd8a7b56e3d43b71a",
+    "pubDate": "Thu, 29 Jan 2026 04:12:55 GMT",
+    "eventUtc": "2026-01-27T12:55:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
     "source": "vf_ship"
   },
   {
@@ -5475,28 +5497,6 @@
     "eventUtc": "2025-12-09T13:12:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Arrived at Gorda Cay, Bahamas at Dec 09, 07:34 AM EST. The local time to the port is Dec 09, 07:34 AM EST",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) Dec 9, 12:34 — ET: Dec 09, 07:34 AM EST | Local: Dec 09, 07:34 AM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "76467e2d4363b568f535ea245710fc5119df19b7",
-    "pubDate": "Tue, 09 Dec 2025 13:48:31 GMT",
-    "eventUtc": "2025-12-09T12:34:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Saint Thomas, US Virgin Islands at Dec 09, 05:59 AM EST. The local time to the port is Dec 09, 05:59 AM EST",
-    "description": "Saint Thomas, US Virgin Islands Arrival (UTC) Dec 9, 10:59 — ET: Dec 09, 05:59 AM EST | Local: Dec 09, 05:59 AM EST",
-    "link": "https://www.vesselfinder.com/ports/VISTT001",
-    "guid": "0fb8fbf2e0444a57477a99d34de3a9ad4b0199e9",
-    "pubDate": "Tue, 09 Dec 2025 11:41:25 GMT",
-    "eventUtc": "2025-12-09T10:59:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
