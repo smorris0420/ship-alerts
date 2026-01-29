@@ -22,6 +22,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Port Everglades, United States (USA) at Jan 30, 09:30 AM EST. The local time to the port is Jan 30, 09:30 AM EST",
+    "description": "Port Everglades, United States (USA) Departure (UTC) Jan 30, 14:30 — ET: Jan 30, 09:30 AM EST | Local: Jan 30, 09:30 AM EST",
+    "link": "https://www.vesselfinder.com/ports/USPEF001",
+    "guid": "97e7cc9e12395110eac772e20fd3ca0e177ceed8",
+    "pubDate": "Thu, 29 Jan 2026 19:24:16 GMT",
+    "eventUtc": "2026-01-30T14:30:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_port"
+  },
+  {
+    "title": "Disney Dream Arrived at Port Everglades, United States (USA) at Jan 30, 09:30 AM EST. The local time to the port is Jan 30, 09:30 AM EST",
+    "description": "Port Everglades, United States (USA) Arrival (UTC) Jan 30, 14:30 — ET: Jan 30, 09:30 AM EST | Local: Jan 30, 09:30 AM EST",
+    "link": "https://www.vesselfinder.com/ports/USPEF001",
+    "guid": "56daa6bc88936478f274f573166be01698b98b67",
+    "pubDate": "Thu, 29 Jan 2026 19:24:17 GMT",
+    "eventUtc": "2026-01-30T14:30:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_port"
+  },
+  {
     "title": "Disney Dream Departed from Port Everglades, United States (USA) at Jan 26, 04:47 PM EST. The local time to the port is Jan 26, 04:47 PM EST",
     "description": "Port Everglades, United States (USA) Departure (UTC) Jan 26, 21:47 — ET: Jan 26, 04:47 PM EST | Local: Jan 26, 04:47 PM EST",
     "link": "https://www.vesselfinder.com/ports/USPEF001",
