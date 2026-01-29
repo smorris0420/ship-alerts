@@ -231,6 +231,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Magic Departed from Galveston, United States (USA) at Jan 29, 05:45 PM EST. The local time to the port is Jan 29, 05:45 PM EST",
+    "description": "Galveston, United States (USA) Departure (UTC) Jan 29, 22:45 — ET: Jan 29, 05:45 PM EST | Local: Jan 29, 05:45 PM EST",
+    "link": "https://www.vesselfinder.com/ports/USGLS001",
+    "guid": "880881991a5483c25cdf9e14ff7a05330c679914",
+    "pubDate": "Thu, 29 Jan 2026 23:03:32 GMT",
+    "eventUtc": "2026-01-29T22:45:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Arrived at Sydney, Australia at Jan 29, 02:22 PM EST. The local time to the port is Jan 30, 06:22 AM AEDT",
     "description": "Sydney, Australia Arrival (UTC) Jan 29, 19:22 — ET: Jan 29, 02:22 PM EST | Local: Jan 30, 06:22 AM AEDT",
     "link": "https://www.vesselfinder.com/ports/AUSYD002",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2025-12-10T12:32:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Road Town, Tortola, British Virgin Islands at Dec 10, 06:09 AM EST. The local time to the port is Dec 10, 07:09 AM AST",
-    "description": "Road Town, Tortola, British Virgin Islands Arrival (UTC) Dec 10, 11:09 — ET: Dec 10, 06:09 AM EST | Local: Dec 10, 07:09 AM AST",
-    "link": "https://www.vesselfinder.com/ports/VGRAD001",
-    "guid": "345b5380278e3eff0277aacf6c545d7af0693cd9",
-    "pubDate": "Wed, 10 Dec 2025 11:43:01 GMT",
-    "eventUtc": "2025-12-10T11:09:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
