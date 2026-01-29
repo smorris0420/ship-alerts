@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Thu, 29 Jan 2026 11:55:32 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 29 Jan 2026 12:30:51 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -153,6 +153,13 @@
     <guid isPermaLink="false">c4ce8c268fcbabba74b89f79e18b4db80d5442ff</guid>
     <pubDate>Tue, 27 Jan 2026 22:54:34 GMT</pubDate>
     <description><![CDATA[Galveston, United States (USA) Arrival (UTC) Jan 29, 15:30 — ET: Jan 29, 10:30 AM EST | Local: Jan 29, 10:30 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Magic Arrived at Galveston, United States (USA) at Jan 29, 06:42 AM EST. The local time to the port is Jan 29, 06:42 AM EST</title>
+    <link>https://www.vesselfinder.com/ports/USGLS001</link>
+    <guid isPermaLink="false">e166e6dab6a344119140562c2da780529e15611e</guid>
+    <pubDate>Thu, 29 Jan 2026 12:27:44 GMT</pubDate>
+    <description><![CDATA[Galveston, United States (USA) Arrival (UTC) Jan 29, 11:42 — ET: Jan 29, 06:42 AM EST | Local: Jan 29, 06:42 AM EST]]></description>
   </item>
   <item>
     <title>Disney Destiny Departed from Nassau, Bahamas at Jan 28, 05:43 PM EST. The local time to the port is Jan 28, 05:43 PM EST</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">a4753d74bb1654af72d776184cf8c6c7bfc84786</guid>
     <pubDate>Tue, 09 Dec 2025 21:53:42 GMT</pubDate>
     <description><![CDATA[Saint Thomas, US Virgin Islands Departure (UTC) Dec 9, 21:43 — ET: Dec 09, 04:43 PM EST | Local: Dec 09, 04:43 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Magic Arrived at Progreso, Mexico at Dec 09, 08:12 AM EST. The local time to the port is Dec 09, 08:12 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/MXPGO001</link>
-    <guid isPermaLink="false">18d5a084ed8bd531022eee73dc6aa838a5888dcb</guid>
-    <pubDate>Wed, 10 Dec 2025 22:32:04 GMT</pubDate>
-    <description><![CDATA[Progreso, Mexico Arrival (UTC) Dec 9, 13:12 — ET: Dec 09, 08:12 AM EST | Local: Dec 09, 08:12 AM EST]]></description>
   </item>
 </channel>
 </rss>
