@@ -44,6 +44,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Dream Arrived at Port Everglades, United States (USA) at Jan 30, 05:20 AM EST. The local time to the port is Jan 30, 05:20 AM EST",
+    "description": "Port Everglades, United States (USA) Arrival (UTC) Jan 30, 10:20 — ET: Jan 30, 05:20 AM EST | Local: Jan 30, 05:20 AM EST",
+    "link": "https://www.vesselfinder.com/ports/USPEF001",
+    "guid": "23cb06f9d3a8ccf6ed6f3e940e1848a6ce48ae83",
+    "pubDate": "Fri, 30 Jan 2026 11:08:36 GMT",
+    "eventUtc": "2026-01-30T10:20:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Gorda Cay, Bahamas at Jan 29, 05:04 PM EST. The local time to the port is Jan 29, 05:04 PM EST",
     "description": "Gorda Cay, Bahamas Departure (UTC) Jan 29, 22:04 — ET: Jan 29, 05:04 PM EST | Local: Jan 29, 05:04 PM EST",
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
