@@ -231,6 +231,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Fantasy Departed from Nassau, Bahamas at Jan 29, 05:59 PM EST. The local time to the port is Jan 29, 05:59 PM EST",
+    "description": "Nassau, Bahamas Departure (UTC) Jan 29, 22:59 — ET: Jan 29, 05:59 PM EST | Local: Jan 29, 05:59 PM EST",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "a5609c2ac58e6379931b6d1c01f2e02462a51e79",
+    "pubDate": "Fri, 30 Jan 2026 02:13:30 GMT",
+    "eventUtc": "2026-01-29T22:59:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Departed from Galveston, United States (USA) at Jan 29, 05:45 PM EST. The local time to the port is Jan 29, 05:45 PM EST",
     "description": "Galveston, United States (USA) Departure (UTC) Jan 29, 22:45 — ET: Jan 29, 05:45 PM EST | Local: Jan 29, 05:45 PM EST",
     "link": "https://www.vesselfinder.com/ports/USGLS001",
@@ -273,6 +284,17 @@
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
     "source": "vf_port"
+  },
+  {
+    "title": "Disney Fantasy Arrived at Nassau, Bahamas at Jan 29, 08:55 AM EST. The local time to the port is Jan 29, 08:55 AM EST",
+    "description": "Nassau, Bahamas Arrival (UTC) Jan 29, 13:55 — ET: Jan 29, 08:55 AM EST | Local: Jan 29, 08:55 AM EST",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "5b442691d694027aab18cc4c229e83edfb156b9c",
+    "pubDate": "Fri, 30 Jan 2026 02:13:28 GMT",
+    "eventUtc": "2026-01-29T13:55:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
   },
   {
     "title": "Disney Magic Arrived at Galveston, United States (USA) at Jan 29, 06:42 AM EST. The local time to the port is Jan 29, 06:42 AM EST",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2025-12-10T17:12:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Arrived at Gorda Cay, Bahamas at Dec 10, 08:03 AM EST. The local time to the port is Dec 10, 08:03 AM EST",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) Dec 10, 13:03 — ET: Dec 10, 08:03 AM EST | Local: Dec 10, 08:03 AM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "6f1171e2b85d5e38d831cf1caf6254f8419ae884",
-    "pubDate": "Wed, 10 Dec 2025 23:27:21 GMT",
-    "eventUtc": "2025-12-10T13:03:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Arrived at Nassau, Bahamas at Dec 10, 07:32 AM EST. The local time to the port is Dec 10, 07:32 AM EST",
-    "description": "Nassau, Bahamas Arrival (UTC) Dec 10, 12:32 — ET: Dec 10, 07:32 AM EST | Local: Dec 10, 07:32 AM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "15daffb2dd5eee71538c1c82d2d3672b4df99e78",
-    "pubDate": "Wed, 10 Dec 2025 13:25:21 GMT",
-    "eventUtc": "2025-12-10T12:32:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
     "source": "vf_ship"
   }
 ]
