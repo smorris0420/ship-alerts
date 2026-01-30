@@ -253,6 +253,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Gorda Cay, Bahamas at Jan 29, 05:04 PM EST. The local time to the port is Jan 29, 05:04 PM EST",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Jan 29, 22:04 — ET: Jan 29, 05:04 PM EST | Local: Jan 29, 05:04 PM EST",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "ace30948b61c60d15bd0b5db98847400eb0511dd",
+    "pubDate": "Fri, 30 Jan 2026 06:11:23 GMT",
+    "eventUtc": "2026-01-29T22:04:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Arrived at Sydney, Australia at Jan 29, 02:22 PM EST. The local time to the port is Jan 30, 06:22 AM AEDT",
     "description": "Sydney, Australia Arrival (UTC) Jan 29, 19:22 — ET: Jan 29, 02:22 PM EST | Local: Jan 30, 06:22 AM AEDT",
     "link": "https://www.vesselfinder.com/ports/AUSYD002",
@@ -286,6 +297,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Dream Arrived at Gorda Cay, Bahamas at Jan 29, 10:03 AM EST. The local time to the port is Jan 29, 10:03 AM EST",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Jan 29, 15:03 — ET: Jan 29, 10:03 AM EST | Local: Jan 29, 10:03 AM EST",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "6b0b6e22c44b3ced6a4ff7c92db0367550127245",
+    "pubDate": "Fri, 30 Jan 2026 06:11:21 GMT",
+    "eventUtc": "2026-01-29T15:03:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Arrived at Nassau, Bahamas at Jan 29, 08:55 AM EST. The local time to the port is Jan 29, 08:55 AM EST",
     "description": "Nassau, Bahamas Arrival (UTC) Jan 29, 13:55 — ET: Jan 29, 08:55 AM EST | Local: Jan 29, 08:55 AM EST",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -316,6 +338,17 @@
     "eventUtc": "2026-01-28T22:43:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Treasure Departed from Falmouth, Jamaica at Jan 28, 05:11 PM EST. The local time to the port is Jan 28, 05:11 PM EST",
+    "description": "Falmouth, Jamaica Departure (UTC) Jan 28, 22:11 — ET: Jan 28, 05:11 PM EST | Local: Jan 28, 05:11 PM EST",
+    "link": "https://www.vesselfinder.com/ports/JMFMH001",
+    "guid": "dd83e774d48a77140905331d2d5e07b7c264e422",
+    "pubDate": "Fri, 30 Jan 2026 06:09:11 GMT",
+    "eventUtc": "2026-01-28T22:11:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
     "source": "vf_ship"
   },
   {
@@ -382,6 +415,17 @@
     "eventUtc": "2026-01-28T12:30:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Treasure Arrived at Falmouth, Jamaica at Jan 28, 06:57 AM EST. The local time to the port is Jan 28, 06:57 AM EST",
+    "description": "Falmouth, Jamaica Arrival (UTC) Jan 28, 11:57 — ET: Jan 28, 06:57 AM EST | Local: Jan 28, 06:57 AM EST",
+    "link": "https://www.vesselfinder.com/ports/JMFMH001",
+    "guid": "1a4b35ae18c272e108987c198148db3a8113848c",
+    "pubDate": "Fri, 30 Jan 2026 06:09:10 GMT",
+    "eventUtc": "2026-01-28T11:57:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
     "source": "vf_ship"
   },
   {
@@ -5453,50 +5497,6 @@
     "eventUtc": "2025-12-11T10:56:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Nassau, Bahamas at Dec 10, 05:49 PM EST. The local time to the port is Dec 10, 05:49 PM EST",
-    "description": "Nassau, Bahamas Departure (UTC) Dec 10, 22:49 — ET: Dec 10, 05:49 PM EST | Local: Dec 10, 05:49 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "3b378e6954cb766ab7792fa95f6c7cf47e95007c",
-    "pubDate": "Wed, 10 Dec 2025 23:01:02 GMT",
-    "eventUtc": "2025-12-10T22:49:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Departed from Gorda Cay, Bahamas at Dec 10, 04:56 PM EST. The local time to the port is Dec 10, 04:56 PM EST",
-    "description": "Gorda Cay, Bahamas Departure (UTC) Dec 10, 21:56 — ET: Dec 10, 04:56 PM EST | Local: Dec 10, 04:56 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "f162097f7b6b692a8918d7699e20e4c104a6de50",
-    "pubDate": "Wed, 10 Dec 2025 23:27:22 GMT",
-    "eventUtc": "2025-12-10T21:56:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Road Town, Tortola, British Virgin Islands at Dec 10, 02:05 PM EST. The local time to the port is Dec 10, 03:05 PM AST",
-    "description": "Road Town, Tortola, British Virgin Islands Departure (UTC) Dec 10, 19:05 — ET: Dec 10, 02:05 PM EST | Local: Dec 10, 03:05 PM AST",
-    "link": "https://www.vesselfinder.com/ports/VGRAD001",
-    "guid": "c066173dac6ebe85e477cb579c8c443cf14fdcf7",
-    "pubDate": "Wed, 10 Dec 2025 19:20:10 GMT",
-    "eventUtc": "2025-12-10T19:05:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Arrived at Auckland, New Zealand at Dec 10, 12:12 PM EST. The local time to the port is Dec 11, 06:12 AM NZDT",
-    "description": "Auckland, New Zealand Arrival (UTC) Dec 10, 17:12 — ET: Dec 10, 12:12 PM EST | Local: Dec 11, 06:12 AM NZDT",
-    "link": "https://www.vesselfinder.com/ports/NZAKL001",
-    "guid": "0b9c1eb9a19f52757b48d839c06a102eab1b757f",
-    "pubDate": "Wed, 10 Dec 2025 17:58:01 GMT",
-    "eventUtc": "2025-12-10T17:12:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
     "source": "vf_ship"
   }
 ]
