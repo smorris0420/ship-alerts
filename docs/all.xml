@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Fri, 30 Jan 2026 21:43:36 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 30 Jan 2026 21:59:31 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,13 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Dream Departed from Port Everglades, United States (USA) at Jan 30, 04:39 PM EST. The local time to the port is Jan 30, 04:39 PM EST</title>
+    <link>https://www.vesselfinder.com/ports/USPEF001</link>
+    <guid isPermaLink="false">c53d9ca6001ba3f4ba02faa5a27f3d8c0851f288</guid>
+    <pubDate>Fri, 30 Jan 2026 21:57:14 GMT</pubDate>
+    <description><![CDATA[Port Everglades, United States (USA) Departure (UTC) Jan 30, 21:39 — ET: Jan 30, 04:39 PM EST | Local: Jan 30, 04:39 PM EST]]></description>
   </item>
   <item>
     <title>Disney Wonder Departed from Sydney, Australia at Jan 30, 11:01 AM EST. The local time to the port is Jan 31, 03:01 AM AEDT</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">652576c26c10e6f56d242e38d352f036fbfabeee</guid>
     <pubDate>Thu, 11 Dec 2025 13:50:11 GMT</pubDate>
     <description><![CDATA[Auckland, New Zealand Departure (UTC) Dec 11, 13:12 — ET: Dec 11, 08:12 AM EST | Local: Dec 12, 02:12 AM NZDT]]></description>
-  </item>
-  <item>
-    <title>Disney Adventure Arrived at Bremerhaven, Germany at Dec 11, 08:00 AM EST. The local time to the port is Dec 11, 02:00 PM CET</title>
-    <link>https://www.vesselfinder.com/ports/DEBRV001</link>
-    <guid isPermaLink="false">c22e5239dab2e1da00793d3594b16e377947f0c8</guid>
-    <pubDate>Thu, 11 Dec 2025 13:50:24 GMT</pubDate>
-    <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
   </item>
 </channel>
 </rss>

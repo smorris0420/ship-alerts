@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Port Everglades, United States (USA) at Jan 30, 04:39 PM EST. The local time to the port is Jan 30, 04:39 PM EST",
+    "description": "Port Everglades, United States (USA) Departure (UTC) Jan 30, 21:39 — ET: Jan 30, 04:39 PM EST | Local: Jan 30, 04:39 PM EST",
+    "link": "https://www.vesselfinder.com/ports/USPEF001",
+    "guid": "c53d9ca6001ba3f4ba02faa5a27f3d8c0851f288",
+    "pubDate": "Fri, 30 Jan 2026 21:57:14 GMT",
+    "eventUtc": "2026-01-30T21:39:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Departed from Sydney, Australia at Jan 30, 11:01 AM EST. The local time to the port is Jan 31, 03:01 AM AEDT",
     "description": "Sydney, Australia Departure (UTC) Jan 30, 16:01 — ET: Jan 30, 11:01 AM EST | Local: Jan 31, 03:01 AM AEDT",
     "link": "https://www.vesselfinder.com/ports/AUSYD002",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2025-12-11T13:12:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Adventure Arrived at Bremerhaven, Germany at Dec 11, 08:00 AM EST. The local time to the port is Dec 11, 02:00 PM CET",
-    "description": "Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET",
-    "link": "https://www.vesselfinder.com/ports/DEBRV001",
-    "guid": "c22e5239dab2e1da00793d3594b16e377947f0c8",
-    "pubDate": "Thu, 11 Dec 2025 13:50:24 GMT",
-    "eventUtc": "2025-12-11T13:00:00+00:00",
-    "shipSlug": "disney-adventure",
-    "shipName": "Disney Adventure",
     "source": "vf_ship"
   }
 ]
