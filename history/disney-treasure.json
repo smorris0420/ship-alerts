@@ -44,6 +44,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Arrived at Cape Canaveral, United States (USA) at Jan 31, 06:02 AM EST. The local time to the port is Jan 31, 06:02 AM EST",
+    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Jan 31, 11:02 — ET: Jan 31, 06:02 AM EST | Local: Jan 31, 06:02 AM EST",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "b2e77ceb8278a827436c663f4e730694e50571f1",
+    "pubDate": "Sat, 31 Jan 2026 11:53:09 GMT",
+    "eventUtc": "2026-01-31T11:02:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Departed from Gorda Cay, Bahamas at Jan 30, 05:10 PM EST. The local time to the port is Jan 30, 05:10 PM EST",
     "description": "Gorda Cay, Bahamas Departure (UTC) Jan 30, 22:10 — ET: Jan 30, 05:10 PM EST | Local: Jan 30, 05:10 PM EST",
     "link": "https://www.vesselfinder.com/ports/BSGOC001",

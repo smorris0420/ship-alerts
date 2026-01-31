@@ -231,6 +231,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Treasure Arrived at Cape Canaveral, United States (USA) at Jan 31, 06:02 AM EST. The local time to the port is Jan 31, 06:02 AM EST",
+    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Jan 31, 11:02 — ET: Jan 31, 06:02 AM EST | Local: Jan 31, 06:02 AM EST",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "b2e77ceb8278a827436c663f4e730694e50571f1",
+    "pubDate": "Sat, 31 Jan 2026 11:53:09 GMT",
+    "eventUtc": "2026-01-31T11:02:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Arrived at Port Everglades, United States (USA) at Jan 31, 04:32 AM EST. The local time to the port is Jan 31, 04:32 AM EST",
     "description": "Port Everglades, United States (USA) Arrival (UTC) Jan 31, 09:32 — ET: Jan 31, 04:32 AM EST | Local: Jan 31, 04:32 AM EST",
     "link": "https://www.vesselfinder.com/ports/USPEF001",
@@ -5487,16 +5498,5 @@
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
     "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Departed from Auckland, New Zealand at Dec 11, 10:00 PM EST. The local time to the port is Dec 12, 04:00 PM NZDT",
-    "description": "Auckland, New Zealand Departure (UTC) Dec 12, 03:00 — ET: Dec 11, 10:00 PM EST | Local: Dec 12, 04:00 PM NZDT",
-    "link": "https://www.vesselfinder.com/ports/NZAKL001",
-    "guid": "a3a2d6679657c4f6780333d301913383ba7b9c94",
-    "pubDate": "Thu, 11 Dec 2025 09:17:58 GMT",
-    "eventUtc": "2025-12-12T03:00:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
-    "source": "vf_port"
   }
 ]
