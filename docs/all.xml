@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Sat, 31 Jan 2026 00:05:46 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 31 Jan 2026 02:47:09 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,27 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Wonder Departed from Sydney, Australia at Feb 01, 01:45 AM EST. The local time to the port is Feb 01, 05:45 PM AEDT</title>
+    <link>https://www.vesselfinder.com/ports/AUSYD002</link>
+    <guid isPermaLink="false">c5082590a182e8e77b4a0a5817853ff5aac0657b</guid>
+    <pubDate>Sat, 31 Jan 2026 02:46:13 GMT</pubDate>
+    <description><![CDATA[Sydney, Australia Departure (UTC) Feb 01, 06:45 — ET: Feb 01, 01:45 AM EST | Local: Feb 01, 05:45 PM AEDT]]></description>
+  </item>
+  <item>
+    <title>Disney Wonder Arrived at Sydney, Australia at Feb 01, 01:45 AM EST. The local time to the port is Feb 01, 05:45 PM AEDT</title>
+    <link>https://www.vesselfinder.com/ports/AUSYD002</link>
+    <guid isPermaLink="false">ff9e8ace28fd407570f755d872d117529974920f</guid>
+    <pubDate>Sat, 31 Jan 2026 02:46:14 GMT</pubDate>
+    <description><![CDATA[Sydney, Australia Arrival (UTC) Feb 01, 06:45 — ET: Feb 01, 01:45 AM EST | Local: Feb 01, 05:45 PM AEDT]]></description>
+  </item>
+  <item>
+    <title>Disney Adventure Arrived at Willemstad, Curacao at Jan 30, 07:06 PM EST. The local time to the port is Jan 30, 08:06 PM AST</title>
+    <link>https://www.vesselfinder.com/ports/CWWIL002</link>
+    <guid isPermaLink="false">9b8475e290688de6840419679df0cf4a516860ea</guid>
+    <pubDate>Sat, 31 Jan 2026 02:46:26 GMT</pubDate>
+    <description><![CDATA[Willemstad, Curacao Arrival (UTC) Jan 31, 00:06 — ET: Jan 30, 07:06 PM EST | Local: Jan 30, 08:06 PM AST]]></description>
   </item>
   <item>
     <title>Disney Wish Departed from Cape Canaveral, United States (USA) at Jan 30, 05:09 PM EST. The local time to the port is Jan 30, 05:09 PM EST</title>
@@ -3485,27 +3506,6 @@
     <guid isPermaLink="false">d46223f40b4668a58a5e5f04234e3838ed829e99</guid>
     <pubDate>Fri, 12 Dec 2025 03:20:26 GMT</pubDate>
     <description><![CDATA[Gorda Cay, Bahamas Departure (UTC) Dec 11, 21:56 — ET: Dec 11, 04:56 PM EST | Local: Dec 11, 04:56 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Destiny Departed from Port Everglades, United States (USA) at Dec 11, 04:36 PM EST. The local time to the port is Dec 11, 04:36 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/USPEF001</link>
-    <guid isPermaLink="false">42aca9e249949ac21dacf9f04364cbf3c23f5ac7</guid>
-    <pubDate>Thu, 11 Dec 2025 21:55:47 GMT</pubDate>
-    <description><![CDATA[Port Everglades, United States (USA) Departure (UTC) Dec 11, 21:36 — ET: Dec 11, 04:36 PM EST | Local: Dec 11, 04:36 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Magic Departed from Galveston, United States (USA) at Dec 11, 11:00 AM EST. The local time to the port is Dec 11, 11:00 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/USGLS001</link>
-    <guid isPermaLink="false">b7986e60d5eb067e95af09b985ea80b666a8f9f8</guid>
-    <pubDate>Tue, 09 Dec 2025 18:48:49 GMT</pubDate>
-    <description><![CDATA[Galveston, United States (USA) Departure (UTC) Dec 11, 16:00 — ET: Dec 11, 11:00 AM EST | Local: Dec 11, 11:00 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Magic Arrived at Galveston, United States (USA) at Dec 11, 11:00 AM EST. The local time to the port is Dec 11, 11:00 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/USGLS001</link>
-    <guid isPermaLink="false">e4dfa5630a31774bfe90fe5655b4c804ea57c804</guid>
-    <pubDate>Tue, 09 Dec 2025 18:48:51 GMT</pubDate>
-    <description><![CDATA[Galveston, United States (USA) Arrival (UTC) Dec 11, 16:00 — ET: Dec 11, 11:00 AM EST | Local: Dec 11, 11:00 AM EST]]></description>
   </item>
 </channel>
 </rss>
