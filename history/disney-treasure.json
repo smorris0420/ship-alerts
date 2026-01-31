@@ -44,6 +44,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Departed from Gorda Cay, Bahamas at Jan 30, 05:10 PM EST. The local time to the port is Jan 30, 05:10 PM EST",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Jan 30, 22:10 — ET: Jan 30, 05:10 PM EST | Local: Jan 30, 05:10 PM EST",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "6fb1640b47635925f1c1aa52563155201ecbc9db",
+    "pubDate": "Sat, 31 Jan 2026 05:55:45 GMT",
+    "eventUtc": "2026-01-30T22:10:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Treasure Arrived at Gorda Cay, Bahamas at Jan 30, 07:58 AM EST. The local time to the port is Jan 30, 07:58 AM EST",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Jan 30, 12:58 — ET: Jan 30, 07:58 AM EST | Local: Jan 30, 07:58 AM EST",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "b7e80526d4eb167affc2641b3544567ee0022680",
+    "pubDate": "Sat, 31 Jan 2026 05:55:44 GMT",
+    "eventUtc": "2026-01-30T12:58:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Departed from Falmouth, Jamaica at Jan 28, 05:11 PM EST. The local time to the port is Jan 28, 05:11 PM EST",
     "description": "Falmouth, Jamaica Departure (UTC) Jan 28, 22:11 — ET: Jan 28, 05:11 PM EST | Local: Jan 28, 05:11 PM EST",
     "link": "https://www.vesselfinder.com/ports/JMFMH001",
