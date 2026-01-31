@@ -44,6 +44,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Departed from Cape Canaveral, United States (USA) at Jan 31, 04:40 PM EST. The local time to the port is Jan 31, 04:40 PM EST",
+    "description": "Cape Canaveral, United States (USA) Departure (UTC) Jan 31, 21:40 — ET: Jan 31, 04:40 PM EST | Local: Jan 31, 04:40 PM EST",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "72ec20de68d16381cf74f8863a3da97f5e587179",
+    "pubDate": "Sat, 31 Jan 2026 21:50:50 GMT",
+    "eventUtc": "2026-01-31T21:40:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Arrived at Cape Canaveral, United States (USA) at Jan 31, 06:02 AM EST. The local time to the port is Jan 31, 06:02 AM EST",
     "description": "Cape Canaveral, United States (USA) Arrival (UTC) Jan 31, 11:02 — ET: Jan 31, 06:02 AM EST | Local: Jan 31, 06:02 AM EST",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
