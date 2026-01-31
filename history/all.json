@@ -231,6 +231,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Magic Departed from Cozumel, Mexico at Jan 31, 04:52 PM EST. The local time to the port is Jan 31, 04:52 PM EST",
+    "description": "Cozumel, Mexico Departure (UTC) Jan 31, 21:52 — ET: Jan 31, 04:52 PM EST | Local: Jan 31, 04:52 PM EST",
+    "link": "https://www.vesselfinder.com/ports/MXCZM001",
+    "guid": "9d226ba2cc9ee8911f863069c3ba98e5eb6904d8",
+    "pubDate": "Sat, 31 Jan 2026 22:02:45 GMT",
+    "eventUtc": "2026-01-31T21:52:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Departed from Cape Canaveral, United States (USA) at Jan 31, 04:40 PM EST. The local time to the port is Jan 31, 04:40 PM EST",
     "description": "Cape Canaveral, United States (USA) Departure (UTC) Jan 31, 21:40 — ET: Jan 31, 04:40 PM EST | Local: Jan 31, 04:40 PM EST",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2025-12-12T22:01:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Departed from Cape Canaveral, United States (USA) at Dec 12, 04:39 PM EST. The local time to the port is Dec 12, 04:39 PM EST",
-    "description": "Cape Canaveral, United States (USA) Departure (UTC) Dec 12, 21:39 — ET: Dec 12, 04:39 PM EST | Local: Dec 12, 04:39 PM EST",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "281c3a64f618388fd9d21dc4767188d9e9ff6233",
-    "pubDate": "Fri, 12 Dec 2025 21:51:45 GMT",
-    "eventUtc": "2025-12-12T21:39:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
     "source": "vf_ship"
   }
 ]
