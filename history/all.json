@@ -231,6 +231,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Fantasy Departed from Cape Canaveral, United States (USA) at Feb 01, 04:31 PM EST. The local time to the port is Feb 01, 04:31 PM EST",
+    "description": "Cape Canaveral, United States (USA) Departure (UTC) Feb 1, 21:31 — ET: Feb 01, 04:31 PM EST | Local: Feb 01, 04:31 PM EST",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "6f0be9a84123d337f83a815e9b89ddce85e70029",
+    "pubDate": "Sun, 01 Feb 2026 21:36:02 GMT",
+    "eventUtc": "2026-02-01T21:31:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Departed from Nassau, Bahamas at Feb 01, 02:39 PM EST. The local time to the port is Feb 01, 02:39 PM EST",
     "description": "Nassau, Bahamas Departure (UTC) Feb 1, 19:39 — ET: Feb 01, 02:39 PM EST | Local: Feb 01, 02:39 PM EST",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2025-12-13T13:12:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Arrived at Gorda Cay, Bahamas at Dec 13, 07:46 AM EST. The local time to the port is Dec 13, 07:46 AM EST",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) Dec 13, 12:46 — ET: Dec 13, 07:46 AM EST | Local: Dec 13, 07:46 AM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "d27771ff56384c6eef127842da4ef7d98fb64b9f",
-    "pubDate": "Sat, 13 Dec 2025 22:30:29 GMT",
-    "eventUtc": "2025-12-13T12:46:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
     "source": "vf_ship"
   }
 ]
