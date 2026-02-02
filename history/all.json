@@ -396,6 +396,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Adventure Departed from Unknown Port at Jan 31, 12:12 PM EST. The local time to the port is Jan 31, 12:12 PM EST",
+    "description": "Unknown Port Departure (UTC) Jan 31, 17:12 — ET: Jan 31, 12:12 PM EST | Local: Jan 31, 12:12 PM EST",
+    "link": "https://www.vesselfinder.com/vessels/details/9808986",
+    "guid": "62f9ff12fe883e48ac4fb5dce70497454cd49343",
+    "pubDate": "Mon, 02 Feb 2026 18:03:09 GMT",
+    "eventUtc": "2026-01-31T17:12:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Arrived at Cozumel, Mexico at Jan 31, 09:05 AM EST. The local time to the port is Jan 31, 09:05 AM EST",
     "description": "Cozumel, Mexico Arrival (UTC) Jan 31, 14:05 — ET: Jan 31, 09:05 AM EST | Local: Jan 31, 09:05 AM EST",
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
@@ -456,6 +467,17 @@
     "link": "https://www.vesselfinder.com/ports/PAPCN006",
     "guid": "70b2920c97c67d7856a514474f68ea47a50d21c5",
     "pubDate": "Mon, 02 Feb 2026 09:13:10 GMT",
+    "eventUtc": "2026-01-31T00:06:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Adventure Arrived at Unknown Port at Jan 30, 07:06 PM EST. The local time to the port is Jan 30, 07:06 PM EST",
+    "description": "Unknown Port Arrival (UTC) Jan 31, 00:06 — ET: Jan 30, 07:06 PM EST | Local: Jan 30, 07:06 PM EST",
+    "link": "https://www.vesselfinder.com/vessels/details/9808986",
+    "guid": "f4c5688735fb6d1e69ad399460d1ea60e99bfd3d",
+    "pubDate": "Mon, 02 Feb 2026 18:03:07 GMT",
     "eventUtc": "2026-01-31T00:06:00+00:00",
     "shipSlug": "disney-adventure",
     "shipName": "Disney Adventure",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2025-12-14T12:09:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Departed from Auckland, New Zealand at Dec 14, 01:26 AM EST. The local time to the port is Dec 14, 07:26 PM NZDT",
-    "description": "Auckland, New Zealand Departure (UTC) Dec 14, 06:26 — ET: Dec 14, 01:26 AM EST | Local: Dec 14, 07:26 PM NZDT",
-    "link": "https://www.vesselfinder.com/ports/NZAKL001",
-    "guid": "248dc9cc66262c2f1224cd0b67794e440231f4db",
-    "pubDate": "Sun, 14 Dec 2025 06:40:57 GMT",
-    "eventUtc": "2025-12-14T06:26:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Progreso, Mexico at Dec 13, 07:00 PM EST. The local time to the port is Dec 13, 07:00 PM EST",
-    "description": "Progreso, Mexico Departure (UTC) Dec 14, 00:00 — ET: Dec 13, 07:00 PM EST | Local: Dec 13, 07:00 PM EST",
-    "link": "https://www.vesselfinder.com/ports/MXPGO001",
-    "guid": "871b82c09cc620d92981dee75e56cd47354e751f",
-    "pubDate": "Mon, 15 Dec 2025 02:25:18 GMT",
-    "eventUtc": "2025-12-14T00:00:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
