@@ -33,11 +33,33 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Adventure Departed from Panama Canal Anch. Atlantic, Panama at Jan 31, 12:12 PM EST. The local time to the port is Jan 31, 12:12 PM EST",
+    "description": "Panama Canal Anch. Atlantic, Panama Departure (UTC) Jan 31, 17:12 — ET: Jan 31, 12:12 PM EST | Local: Jan 31, 12:12 PM EST",
+    "link": "https://www.vesselfinder.com/ports/PAPCN006",
+    "guid": "304d05b88647cd5be56af4d961a29229c475c4a1",
+    "pubDate": "Mon, 02 Feb 2026 09:13:11 GMT",
+    "eventUtc": "2026-01-31T17:12:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Arrived at Willemstad, Curacao at Jan 30, 07:06 PM EST. The local time to the port is Jan 30, 08:06 PM AST",
     "description": "Willemstad, Curacao Arrival (UTC) Jan 31, 00:06 — ET: Jan 30, 07:06 PM EST | Local: Jan 30, 08:06 PM AST",
     "link": "https://www.vesselfinder.com/ports/CWWIL002",
     "guid": "9b8475e290688de6840419679df0cf4a516860ea",
     "pubDate": "Sat, 31 Jan 2026 02:46:26 GMT",
+    "eventUtc": "2026-01-31T00:06:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Adventure Arrived at Panama Canal Anch. Atlantic, Panama at Jan 30, 07:06 PM EST. The local time to the port is Jan 30, 07:06 PM EST",
+    "description": "Panama Canal Anch. Atlantic, Panama Arrival (UTC) Jan 31, 00:06 — ET: Jan 30, 07:06 PM EST | Local: Jan 30, 07:06 PM EST",
+    "link": "https://www.vesselfinder.com/ports/PAPCN006",
+    "guid": "70b2920c97c67d7856a514474f68ea47a50d21c5",
+    "pubDate": "Mon, 02 Feb 2026 09:13:10 GMT",
     "eventUtc": "2026-01-31T00:06:00+00:00",
     "shipSlug": "disney-adventure",
     "shipName": "Disney Adventure",
