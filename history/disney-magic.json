@@ -33,6 +33,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Galveston, United States (USA) at Feb 02, 06:19 PM EST. The local time to the port is Feb 02, 06:19 PM EST",
+    "description": "Galveston, United States (USA) Departure (UTC) Feb 2, 23:19 — ET: Feb 02, 06:19 PM EST | Local: Feb 02, 06:19 PM EST",
+    "link": "https://www.vesselfinder.com/ports/USGLS001",
+    "guid": "ac8915e7be126eff5e7cbcf75dd694b1fc66fde2",
+    "pubDate": "Mon, 02 Feb 2026 23:35:52 GMT",
+    "eventUtc": "2026-02-02T23:19:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Arrived at Galveston, United States (USA) at Feb 02, 10:13 AM EST. The local time to the port is Feb 02, 10:13 AM EST",
     "description": "Galveston, United States (USA) Arrival (UTC) Feb 2, 15:13 — ET: Feb 02, 10:13 AM EST | Local: Feb 02, 10:13 AM EST",
     "link": "https://www.vesselfinder.com/ports/USGLS001",
