@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Tue, 03 Feb 2026 12:31:59 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 03 Feb 2026 13:48:13 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,13 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Dream Arrived at Nassau, Bahamas at Feb 03, 07:23 AM EST. The local time to the port is Feb 03, 07:23 AM EST</title>
+    <link>https://www.vesselfinder.com/ports/BSNAS001</link>
+    <guid isPermaLink="false">070882e5861bb05f850c7a7db0a797051e922ae6</guid>
+    <pubDate>Tue, 03 Feb 2026 13:46:23 GMT</pubDate>
+    <description><![CDATA[Nassau, Bahamas Arrival (UTC) Feb 3, 12:23 — ET: Feb 03, 07:23 AM EST | Local: Feb 03, 07:23 AM EST]]></description>
   </item>
   <item>
     <title>Disney Treasure Departed from San Juan, Puerto Rico at Feb 03, 04:22 AM EST. The local time to the port is Feb 03, 05:22 AM AST</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">db03fbb9d3b9247aaa52320011ba57ae115a4f81</guid>
     <pubDate>Mon, 15 Dec 2025 10:41:47 GMT</pubDate>
     <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) Dec 15, 09:42 — ET: Dec 15, 04:42 AM EST | Local: Dec 15, 04:42 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Fantasy Departed from Nassau, Bahamas at Dec 14, 06:10 PM EST. The local time to the port is Dec 14, 06:10 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/BSNAS001</link>
-    <guid isPermaLink="false">5391c94d2a86538679058cb6166984309b8a182d</guid>
-    <pubDate>Sun, 14 Dec 2025 23:59:41 GMT</pubDate>
-    <description><![CDATA[Nassau, Bahamas Departure (UTC) Dec 14, 23:10 — ET: Dec 14, 06:10 PM EST | Local: Dec 14, 06:10 PM EST]]></description>
   </item>
 </channel>
 </rss>

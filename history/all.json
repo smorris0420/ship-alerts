@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Nassau, Bahamas at Feb 03, 07:23 AM EST. The local time to the port is Feb 03, 07:23 AM EST",
+    "description": "Nassau, Bahamas Arrival (UTC) Feb 3, 12:23 — ET: Feb 03, 07:23 AM EST | Local: Feb 03, 07:23 AM EST",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "070882e5861bb05f850c7a7db0a797051e922ae6",
+    "pubDate": "Tue, 03 Feb 2026 13:46:23 GMT",
+    "eventUtc": "2026-02-03T12:23:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Departed from San Juan, Puerto Rico at Feb 03, 04:22 AM EST. The local time to the port is Feb 03, 05:22 AM AST",
     "description": "San Juan, Puerto Rico Departure (UTC) Feb 3, 09:22 — ET: Feb 03, 04:22 AM EST | Local: Feb 03, 05:22 AM AST",
     "link": "https://www.vesselfinder.com/ports/PRSJU001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2025-12-15T09:42:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Departed from Nassau, Bahamas at Dec 14, 06:10 PM EST. The local time to the port is Dec 14, 06:10 PM EST",
-    "description": "Nassau, Bahamas Departure (UTC) Dec 14, 23:10 — ET: Dec 14, 06:10 PM EST | Local: Dec 14, 06:10 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "5391c94d2a86538679058cb6166984309b8a182d",
-    "pubDate": "Sun, 14 Dec 2025 23:59:41 GMT",
-    "eventUtc": "2025-12-14T23:10:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
     "source": "vf_ship"
   }
 ]
