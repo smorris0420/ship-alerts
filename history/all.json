@@ -220,6 +220,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Arrived at Gorda Cay, Bahamas at Feb 03, 07:11 AM EST. The local time to the port is Feb 03, 07:11 AM EST",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Feb 3, 12:11 — ET: Feb 03, 07:11 AM EST | Local: Feb 03, 07:11 AM EST",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "ce24476c6801fe494ae6fc62b687b0835e245042",
+    "pubDate": "Tue, 03 Feb 2026 18:30:36 GMT",
+    "eventUtc": "2026-02-03T12:11:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Departed from San Juan, Puerto Rico at Feb 03, 04:22 AM EST. The local time to the port is Feb 03, 05:22 AM AST",
     "description": "San Juan, Puerto Rico Departure (UTC) Feb 3, 09:22 — ET: Feb 03, 04:22 AM EST | Local: Feb 03, 05:22 AM AST",
     "link": "https://www.vesselfinder.com/ports/PRSJU001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2025-12-15T10:56:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Arrived at Port Everglades, United States (USA) at Dec 15, 04:42 AM EST. The local time to the port is Dec 15, 04:42 AM EST",
-    "description": "Port Everglades, United States (USA) Arrival (UTC) Dec 15, 09:42 — ET: Dec 15, 04:42 AM EST | Local: Dec 15, 04:42 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "db03fbb9d3b9247aaa52320011ba57ae115a4f81",
-    "pubDate": "Mon, 15 Dec 2025 10:41:47 GMT",
-    "eventUtc": "2025-12-15T09:42:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
     "source": "vf_ship"
   }
 ]
