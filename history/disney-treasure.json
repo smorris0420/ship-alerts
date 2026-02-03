@@ -44,6 +44,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Departed from San Juan, Puerto Rico at Feb 03, 04:22 AM EST. The local time to the port is Feb 03, 05:22 AM AST",
+    "description": "San Juan, Puerto Rico Departure (UTC) Feb 3, 09:22 — ET: Feb 03, 04:22 AM EST | Local: Feb 03, 05:22 AM AST",
+    "link": "https://www.vesselfinder.com/ports/PRSJU001",
+    "guid": "64817fd31d9e7a823e1977dfa2a4a207e581f23f",
+    "pubDate": "Tue, 03 Feb 2026 10:25:06 GMT",
+    "eventUtc": "2026-02-03T09:22:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Treasure Arrived at San Juan, Puerto Rico at Feb 03, 03:28 AM EST. The local time to the port is Feb 03, 04:28 AM AST",
+    "description": "San Juan, Puerto Rico Arrival (UTC) Feb 3, 08:28 — ET: Feb 03, 03:28 AM EST | Local: Feb 03, 04:28 AM AST",
+    "link": "https://www.vesselfinder.com/ports/PRSJU001",
+    "guid": "839ee1dd455c3ffaf2d61246b5b4bbd4a9bea0ea",
+    "pubDate": "Tue, 03 Feb 2026 10:25:04 GMT",
+    "eventUtc": "2026-02-03T08:28:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Departed from Cape Canaveral, United States (USA) at Jan 31, 04:40 PM EST. The local time to the port is Jan 31, 04:40 PM EST",
     "description": "Cape Canaveral, United States (USA) Departure (UTC) Jan 31, 21:40 — ET: Jan 31, 04:40 PM EST | Local: Jan 31, 04:40 PM EST",
     "link": "https://www.vesselfinder.com/ports/USPCV001",

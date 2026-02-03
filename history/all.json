@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Departed from San Juan, Puerto Rico at Feb 03, 04:22 AM EST. The local time to the port is Feb 03, 05:22 AM AST",
+    "description": "San Juan, Puerto Rico Departure (UTC) Feb 3, 09:22 — ET: Feb 03, 04:22 AM EST | Local: Feb 03, 05:22 AM AST",
+    "link": "https://www.vesselfinder.com/ports/PRSJU001",
+    "guid": "64817fd31d9e7a823e1977dfa2a4a207e581f23f",
+    "pubDate": "Tue, 03 Feb 2026 10:25:06 GMT",
+    "eventUtc": "2026-02-03T09:22:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Treasure Arrived at San Juan, Puerto Rico at Feb 03, 03:28 AM EST. The local time to the port is Feb 03, 04:28 AM AST",
+    "description": "San Juan, Puerto Rico Arrival (UTC) Feb 3, 08:28 — ET: Feb 03, 03:28 AM EST | Local: Feb 03, 04:28 AM AST",
+    "link": "https://www.vesselfinder.com/ports/PRSJU001",
+    "guid": "839ee1dd455c3ffaf2d61246b5b4bbd4a9bea0ea",
+    "pubDate": "Tue, 03 Feb 2026 10:25:04 GMT",
+    "eventUtc": "2026-02-03T08:28:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Departed from Galveston, United States (USA) at Feb 02, 06:19 PM EST. The local time to the port is Feb 02, 06:19 PM EST",
     "description": "Galveston, United States (USA) Departure (UTC) Feb 2, 23:19 — ET: Feb 02, 06:19 PM EST | Local: Feb 02, 06:19 PM EST",
     "link": "https://www.vesselfinder.com/ports/USGLS001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2025-12-14T23:10:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Nassau, Bahamas at Dec 14, 05:43 PM EST. The local time to the port is Dec 14, 05:43 PM EST",
-    "description": "Nassau, Bahamas Departure (UTC) Dec 14, 22:43 — ET: Dec 14, 05:43 PM EST | Local: Dec 14, 05:43 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "56e22ec2183344ccf3a4d670c7d46d774879a3b2",
-    "pubDate": "Mon, 15 Dec 2025 02:25:59 GMT",
-    "eventUtc": "2025-12-14T22:43:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Departed from Gorda Cay, Bahamas at Dec 14, 05:00 PM EST. The local time to the port is Dec 14, 05:00 PM EST",
-    "description": "Gorda Cay, Bahamas Departure (UTC) Dec 14, 22:00 — ET: Dec 14, 05:00 PM EST | Local: Dec 14, 05:00 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "9f5f7d0463e1d287437cd4262ed7d1ea552342c7",
-    "pubDate": "Sun, 14 Dec 2025 22:32:43 GMT",
-    "eventUtc": "2025-12-14T22:00:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
     "source": "vf_ship"
   }
 ]
