@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Arrived at Noumea, New Caledonia at Feb 04, 02:42 PM EST. The local time to the port is Feb 05, 06:42 AM +11",
+    "description": "Noumea, New Caledonia Arrival (UTC) Feb 4, 19:42 — ET: Feb 04, 02:42 PM EST | Local: Feb 05, 06:42 AM +11",
+    "link": "https://www.vesselfinder.com/ports/NCNOU001",
+    "guid": "4ebe19774f43cb509a4f885689b5bbaf46a590d8",
+    "pubDate": "Wed, 04 Feb 2026 20:21:47 GMT",
+    "eventUtc": "2026-02-04T19:42:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Departed from Road Town, Tortola, British Virgin Islands at Feb 04, 02:19 PM EST. The local time to the port is Feb 04, 03:19 PM AST",
     "description": "Road Town, Tortola, British Virgin Islands Departure (UTC) Feb 4, 19:19 — ET: Feb 04, 02:19 PM EST | Local: Feb 04, 03:19 PM AST",
     "link": "https://www.vesselfinder.com/ports/VGRAD001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2025-12-15T21:28:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Arrived at Wellington, New Zealand at Dec 15, 01:10 PM EST. The local time to the port is Dec 16, 07:10 AM NZDT",
-    "description": "Wellington, New Zealand Arrival (UTC) Dec 15, 18:10 — ET: Dec 15, 01:10 PM EST | Local: Dec 16, 07:10 AM NZDT",
-    "link": "https://www.vesselfinder.com/ports/NZWLG001",
-    "guid": "5a3a4a144b6201d9714080bf5e4ba48808265758",
-    "pubDate": "Mon, 15 Dec 2025 18:49:45 GMT",
-    "eventUtc": "2025-12-15T18:10:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
     "source": "vf_ship"
   }
 ]
