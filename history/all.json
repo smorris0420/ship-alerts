@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Arrived at Road Town, Tortola, British Virgin Islands at Feb 04, 06:38 AM EST. The local time to the port is Feb 04, 07:38 AM AST",
+    "description": "Road Town, Tortola, British Virgin Islands Arrival (UTC) Feb 4, 11:38 — ET: Feb 04, 06:38 AM EST | Local: Feb 04, 07:38 AM AST",
+    "link": "https://www.vesselfinder.com/ports/VGRAD001",
+    "guid": "224a91ea49d49b1772005d041b20c7557ca896e1",
+    "pubDate": "Wed, 04 Feb 2026 12:26:31 GMT",
+    "eventUtc": "2026-02-04T11:38:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Nassau, Bahamas at Feb 03, 06:33 PM EST. The local time to the port is Feb 03, 06:33 PM EST",
     "description": "Nassau, Bahamas Departure (UTC) Feb 3, 23:33 — ET: Feb 03, 06:33 PM EST | Local: Feb 03, 06:33 PM EST",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -5483,17 +5494,6 @@
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
     "guid": "0083a39a9e801063d2c8c7d0c4b22d62374bf04d",
     "pubDate": "Mon, 15 Dec 2025 13:28:02 GMT",
-    "eventUtc": "2025-12-15T12:40:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Georgetown, Grand Cayman Anch., Cayman Islands at Dec 15, 07:40 AM EST. The local time to the port is Dec 15, 07:40 AM EST",
-    "description": "Georgetown, Grand Cayman Anch., Cayman Islands Arrival (UTC) Dec 15, 12:40 — ET: Dec 15, 07:40 AM EST | Local: Dec 15, 07:40 AM EST",
-    "link": "https://www.vesselfinder.com/ports/KYGEC001",
-    "guid": "1159a8e92a3d5e543e2cf9c73d8384bba07993d7",
-    "pubDate": "Tue, 16 Dec 2025 15:43:32 GMT",
     "eventUtc": "2025-12-15T12:40:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
