@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Departed from Road Town, Tortola, British Virgin Islands at Feb 04, 02:19 PM EST. The local time to the port is Feb 04, 03:19 PM AST",
+    "description": "Road Town, Tortola, British Virgin Islands Departure (UTC) Feb 4, 19:19 — ET: Feb 04, 02:19 PM EST | Local: Feb 04, 03:19 PM AST",
+    "link": "https://www.vesselfinder.com/ports/VGRAD001",
+    "guid": "c2ed1e79fec7678bd073faa6838b3e1c5f0a2dee",
+    "pubDate": "Wed, 04 Feb 2026 19:48:27 GMT",
+    "eventUtc": "2026-02-04T19:19:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Arrived at Gorda Cay, Bahamas at Feb 04, 07:34 AM EST. The local time to the port is Feb 04, 07:34 AM EST",
     "description": "Gorda Cay, Bahamas Arrival (UTC) Feb 4, 12:34 — ET: Feb 04, 07:34 AM EST | Local: Feb 04, 07:34 AM EST",
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
@@ -5487,16 +5498,5 @@
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
     "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Galveston, United States (USA) at Dec 15, 11:00 AM EST. The local time to the port is Dec 15, 11:00 AM EST",
-    "description": "Galveston, United States (USA) Departure (UTC) Dec 15, 16:00 — ET: Dec 15, 11:00 AM EST | Local: Dec 15, 11:00 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USGLS001",
-    "guid": "8dc638b625c7fdb11e5f6e3f9f10a724ece6e32c",
-    "pubDate": "Sun, 14 Dec 2025 01:48:51 GMT",
-    "eventUtc": "2025-12-15T16:00:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
-    "source": "vf_port"
   }
 ]
