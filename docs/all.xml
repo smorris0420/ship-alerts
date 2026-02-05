@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Thu, 05 Feb 2026 00:01:14 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 05 Feb 2026 02:11:55 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,27 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Magic Departed from Galveston, United States (USA) at Feb 06, 11:00 AM EST. The local time to the port is Feb 06, 11:00 AM EST</title>
+    <link>https://www.vesselfinder.com/ports/USGLS001</link>
+    <guid isPermaLink="false">d3f7de75d150cb722adc01798dd820645cd12115</guid>
+    <pubDate>Thu, 05 Feb 2026 02:08:46 GMT</pubDate>
+    <description><![CDATA[Galveston, United States (USA) Departure (UTC) Feb 06, 16:00 — ET: Feb 06, 11:00 AM EST | Local: Feb 06, 11:00 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Magic Arrived at Galveston, United States (USA) at Feb 06, 11:00 AM EST. The local time to the port is Feb 06, 11:00 AM EST</title>
+    <link>https://www.vesselfinder.com/ports/USGLS001</link>
+    <guid isPermaLink="false">6c8e9b737b0013ccb7927fc2ddfcc2c2ed14fed4</guid>
+    <pubDate>Thu, 05 Feb 2026 02:08:48 GMT</pubDate>
+    <description><![CDATA[Galveston, United States (USA) Arrival (UTC) Feb 06, 16:00 — ET: Feb 06, 11:00 AM EST | Local: Feb 06, 11:00 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Fantasy Departed from Nassau, Bahamas at Feb 04, 05:58 PM EST. The local time to the port is Feb 04, 05:58 PM EST</title>
+    <link>https://www.vesselfinder.com/ports/BSNAS001</link>
+    <guid isPermaLink="false">2b2f4c23b4d29137564e6593f76a33ff61f48d4f</guid>
+    <pubDate>Thu, 05 Feb 2026 02:08:09 GMT</pubDate>
+    <description><![CDATA[Nassau, Bahamas Departure (UTC) Feb 4, 22:58 — ET: Feb 04, 05:58 PM EST | Local: Feb 04, 05:58 PM EST]]></description>
   </item>
   <item>
     <title>Disney Wonder Arrived at Noumea, New Caledonia at Feb 04, 02:42 PM EST. The local time to the port is Feb 05, 06:42 AM +11</title>
@@ -3485,27 +3506,6 @@
     <guid isPermaLink="false">b898cf179c980f2a4329b48827cf18c55810f5db</guid>
     <pubDate>Mon, 15 Dec 2025 22:22:49 GMT</pubDate>
     <description><![CDATA[Cozumel, Mexico Departure (UTC) Dec 15, 22:16 — ET: Dec 15, 05:16 PM EST | Local: Dec 15, 05:16 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Treasure Departed from Georgetown, Grand Cayman Anch., Cayman Islands at Dec 15, 05:16 PM EST. The local time to the port is Dec 15, 05:16 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/KYGEC001</link>
-    <guid isPermaLink="false">86856714ab362415d8cc6633572e004a07667a62</guid>
-    <pubDate>Tue, 16 Dec 2025 15:43:34 GMT</pubDate>
-    <description><![CDATA[Georgetown, Grand Cayman Anch., Cayman Islands Departure (UTC) Dec 15, 22:16 — ET: Dec 15, 05:16 PM EST | Local: Dec 15, 05:16 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Dream Departed from Port Everglades, United States (USA) at Dec 15, 04:33 PM EST. The local time to the port is Dec 15, 04:33 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/USPEF001</link>
-    <guid isPermaLink="false">0d5c807060f09e92916cc94285fd5670fb004c30</guid>
-    <pubDate>Mon, 15 Dec 2025 21:47:00 GMT</pubDate>
-    <description><![CDATA[Port Everglades, United States (USA) Departure (UTC) Dec 15, 21:33 — ET: Dec 15, 04:33 PM EST | Local: Dec 15, 04:33 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Wish Departed from Cape Canaveral, United States (USA) at Dec 15, 04:28 PM EST. The local time to the port is Dec 15, 04:28 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/USPCV001</link>
-    <guid isPermaLink="false">2450601111e1fac7b0052c179121a1ced7c250b2</guid>
-    <pubDate>Mon, 15 Dec 2025 21:44:33 GMT</pubDate>
-    <description><![CDATA[Cape Canaveral, United States (USA) Departure (UTC) Dec 15, 21:28 — ET: Dec 15, 04:28 PM EST | Local: Dec 15, 04:28 PM EST]]></description>
   </item>
 </channel>
 </rss>
