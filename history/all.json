@@ -231,6 +231,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Wonder Departed from Noumea, New Caledonia at Feb 04, 11:31 PM EST. The local time to the port is Feb 05, 03:31 PM +11",
+    "description": "Noumea, New Caledonia Departure (UTC) Feb 5, 04:31 — ET: Feb 04, 11:31 PM EST | Local: Feb 05, 03:31 PM +11",
+    "link": "https://www.vesselfinder.com/ports/NCNOU001",
+    "guid": "40feb0c8ed72119485892d428906c7ac0257d744",
+    "pubDate": "Thu, 05 Feb 2026 05:39:55 GMT",
+    "eventUtc": "2026-02-05T04:31:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Departed from Nassau, Bahamas at Feb 04, 05:58 PM EST. The local time to the port is Feb 04, 05:58 PM EST",
     "description": "Nassau, Bahamas Departure (UTC) Feb 4, 22:58 — ET: Feb 04, 05:58 PM EST | Local: Feb 04, 05:58 PM EST",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2025-12-15T23:02:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Cozumel, Mexico at Dec 15, 05:16 PM EST. The local time to the port is Dec 15, 05:16 PM EST",
-    "description": "Cozumel, Mexico Departure (UTC) Dec 15, 22:16 — ET: Dec 15, 05:16 PM EST | Local: Dec 15, 05:16 PM EST",
-    "link": "https://www.vesselfinder.com/ports/MXCZM001",
-    "guid": "b898cf179c980f2a4329b48827cf18c55810f5db",
-    "pubDate": "Mon, 15 Dec 2025 22:22:49 GMT",
-    "eventUtc": "2025-12-15T22:16:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
