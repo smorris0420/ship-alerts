@@ -231,6 +231,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Destiny Arrived at Port Everglades, United States (USA) at Feb 05, 05:07 AM EST. The local time to the port is Feb 05, 05:07 AM EST",
+    "description": "Port Everglades, United States (USA) Arrival (UTC) Feb 5, 10:07 — ET: Feb 05, 05:07 AM EST | Local: Feb 05, 05:07 AM EST",
+    "link": "https://www.vesselfinder.com/ports/USPEF001",
+    "guid": "01a5979a4904392d98c60dbd8ed4fa2e3ff961b5",
+    "pubDate": "Thu, 05 Feb 2026 10:58:02 GMT",
+    "eventUtc": "2026-02-05T10:07:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Departed from Noumea, New Caledonia at Feb 04, 11:31 PM EST. The local time to the port is Feb 05, 03:31 PM +11",
     "description": "Noumea, New Caledonia Departure (UTC) Feb 5, 04:31 — ET: Feb 04, 11:31 PM EST | Local: Feb 05, 03:31 PM +11",
     "link": "https://www.vesselfinder.com/ports/NCNOU001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2025-12-16T10:51:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Departed from Wellington, New Zealand at Dec 16, 12:25 AM EST. The local time to the port is Dec 16, 06:25 PM NZDT",
-    "description": "Wellington, New Zealand Departure (UTC) Dec 16, 05:25 — ET: Dec 16, 12:25 AM EST | Local: Dec 16, 06:25 PM NZDT",
-    "link": "https://www.vesselfinder.com/ports/NZWLG001",
-    "guid": "5a6856eb6bad5dc99bbf072fa6d20cdbe368c33b",
-    "pubDate": "Tue, 16 Dec 2025 05:46:44 GMT",
-    "eventUtc": "2025-12-16T05:25:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
     "source": "vf_ship"
   }
 ]

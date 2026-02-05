@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Thu, 05 Feb 2026 10:03:36 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 05 Feb 2026 10:58:04 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -153,6 +153,13 @@
     <guid isPermaLink="false">6c8e9b737b0013ccb7927fc2ddfcc2c2ed14fed4</guid>
     <pubDate>Thu, 05 Feb 2026 02:08:48 GMT</pubDate>
     <description><![CDATA[Galveston, United States (USA) Arrival (UTC) Feb 06, 16:00 — ET: Feb 06, 11:00 AM EST | Local: Feb 06, 11:00 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Destiny Arrived at Port Everglades, United States (USA) at Feb 05, 05:07 AM EST. The local time to the port is Feb 05, 05:07 AM EST</title>
+    <link>https://www.vesselfinder.com/ports/USPEF001</link>
+    <guid isPermaLink="false">01a5979a4904392d98c60dbd8ed4fa2e3ff961b5</guid>
+    <pubDate>Thu, 05 Feb 2026 10:58:02 GMT</pubDate>
+    <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) Feb 5, 10:07 — ET: Feb 05, 05:07 AM EST | Local: Feb 05, 05:07 AM EST]]></description>
   </item>
   <item>
     <title>Disney Wonder Departed from Noumea, New Caledonia at Feb 04, 11:31 PM EST. The local time to the port is Feb 05, 03:31 PM +11</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">bf1db5be074d71e29704c29ca4a3bc97c3237ddc</guid>
     <pubDate>Tue, 16 Dec 2025 11:34:06 GMT</pubDate>
     <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) Dec 16, 10:51 — ET: Dec 16, 05:51 AM EST | Local: Dec 16, 05:51 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Wonder Departed from Wellington, New Zealand at Dec 16, 12:25 AM EST. The local time to the port is Dec 16, 06:25 PM NZDT</title>
-    <link>https://www.vesselfinder.com/ports/NZWLG001</link>
-    <guid isPermaLink="false">5a6856eb6bad5dc99bbf072fa6d20cdbe368c33b</guid>
-    <pubDate>Tue, 16 Dec 2025 05:46:44 GMT</pubDate>
-    <description><![CDATA[Wellington, New Zealand Departure (UTC) Dec 16, 05:25 — ET: Dec 16, 12:25 AM EST | Local: Dec 16, 06:25 PM NZDT]]></description>
   </item>
 </channel>
 </rss>
