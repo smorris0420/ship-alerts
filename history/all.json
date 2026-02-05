@@ -253,6 +253,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Departed from Gorda Cay, Bahamas at Feb 04, 04:59 PM EST. The local time to the port is Feb 04, 04:59 PM EST",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Feb 4, 21:59 — ET: Feb 04, 04:59 PM EST | Local: Feb 04, 04:59 PM EST",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "ce7190c9037e9169d2bee17e4b964bee3c806526",
+    "pubDate": "Thu, 05 Feb 2026 06:41:27 GMT",
+    "eventUtc": "2026-02-04T21:59:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Arrived at Noumea, New Caledonia at Feb 04, 02:42 PM EST. The local time to the port is Feb 05, 06:42 AM +11",
     "description": "Noumea, New Caledonia Arrival (UTC) Feb 4, 19:42 — ET: Feb 04, 02:42 PM EST | Local: Feb 05, 06:42 AM +11",
     "link": "https://www.vesselfinder.com/ports/NCNOU001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2025-12-16T05:25:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Galveston, United States (USA) at Dec 15, 06:02 PM EST. The local time to the port is Dec 15, 06:02 PM EST",
-    "description": "Galveston, United States (USA) Departure (UTC) Dec 15, 23:02 — ET: Dec 15, 06:02 PM EST | Local: Dec 15, 06:02 PM EST",
-    "link": "https://www.vesselfinder.com/ports/USGLS001",
-    "guid": "cf12d8e8990d5e8cd89b5a59723e83468795a2f4",
-    "pubDate": "Mon, 15 Dec 2025 23:21:10 GMT",
-    "eventUtc": "2025-12-15T23:02:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
