@@ -22,6 +22,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Adventure Departed from Los Angeles at Feb 09, 12:00 PM EST. The local time to the port is Feb 09, 12:00 PM EST",
+    "description": "Los Angeles Departure (UTC) Feb 09, 17:00 — ET: Feb 09, 12:00 PM EST | Local: Feb 09, 12:00 PM EST",
+    "link": "https://www.vesselfinder.com/ports/USLAX?name=Los-Angeles",
+    "guid": "0ae3d7f36b83da8de2f37bda5c0357e982400993",
+    "pubDate": "Fri, 06 Feb 2026 23:37:41 GMT",
+    "eventUtc": "2026-02-09T17:00:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_port"
+  },
+  {
+    "title": "Disney Adventure Arrived at Los Angeles at Feb 09, 12:00 PM EST. The local time to the port is Feb 09, 12:00 PM EST",
+    "description": "Los Angeles Arrival (UTC) Feb 09, 17:00 — ET: Feb 09, 12:00 PM EST | Local: Feb 09, 12:00 PM EST",
+    "link": "https://www.vesselfinder.com/ports/USLAX?name=Los-Angeles",
+    "guid": "a10d2961fa3fa0c85c167e74636fca33390d7059",
+    "pubDate": "Fri, 06 Feb 2026 23:37:42 GMT",
+    "eventUtc": "2026-02-09T17:00:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_port"
+  },
+  {
     "title": "Disney Adventure Departed from Willemstad, Curacao at Jan 31, 12:12 PM EST. The local time to the port is Jan 31, 01:12 PM AST",
     "description": "Willemstad, Curacao Departure (UTC) Jan 31, 17:12 — ET: Jan 31, 12:12 PM EST | Local: Jan 31, 01:12 PM AST",
     "link": "https://www.vesselfinder.com/ports/CWWIL002",
