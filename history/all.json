@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Fantasy Departed from Cape Canaveral, United States (USA) at Feb 06, 05:01 PM EST. The local time to the port is Feb 06, 05:01 PM EST",
+    "description": "Cape Canaveral, United States (USA) Departure (UTC) Feb 6, 22:01 — ET: Feb 06, 05:01 PM EST | Local: Feb 06, 05:01 PM EST",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "ce66fa5428645d0dd4c35e191a464dd98afbe4da",
+    "pubDate": "Fri, 06 Feb 2026 22:39:25 GMT",
+    "eventUtc": "2026-02-06T22:01:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Departed from Cape Canaveral, United States (USA) at Feb 06, 04:46 PM EST. The local time to the port is Feb 06, 04:46 PM EST",
     "description": "Cape Canaveral, United States (USA) Departure (UTC) Feb 6, 21:46 — ET: Feb 06, 04:46 PM EST | Local: Feb 06, 04:46 PM EST",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2025-12-18T17:07:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Arrived at Nassau, Bahamas at Dec 18, 07:43 AM EST. The local time to the port is Dec 18, 07:43 AM EST",
-    "description": "Nassau, Bahamas Arrival (UTC) Dec 18, 12:43 — ET: Dec 18, 07:43 AM EST | Local: Dec 18, 07:43 AM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "fa8f0719b784221afe3dfd5de2e658a3f8c2d9ca",
-    "pubDate": "Thu, 18 Dec 2025 13:24:42 GMT",
-    "eventUtc": "2025-12-18T12:43:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
     "source": "vf_ship"
   }
 ]
