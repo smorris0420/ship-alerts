@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Fantasy Departed from Cape Canaveral, United States (USA) at Feb 06, 06:19 AM EST. The local time to the port is Feb 06, 06:19 AM EST",
+    "description": "Cape Canaveral, United States (USA) Departure (UTC) Feb 6, 11:19 — ET: Feb 06, 06:19 AM EST | Local: Feb 06, 06:19 AM EST",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "87fcc36b767af5ec58d2086e8713e1455fe0a94a",
+    "pubDate": "Fri, 06 Feb 2026 11:53:40 GMT",
+    "eventUtc": "2026-02-06T11:19:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Arrived at Cape Canaveral, United States (USA) at Feb 06, 04:37 AM EST. The local time to the port is Feb 06, 04:37 AM EST",
     "description": "Cape Canaveral, United States (USA) Arrival (UTC) Feb 6, 09:37 — ET: Feb 06, 04:37 AM EST | Local: Feb 06, 04:37 AM EST",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
