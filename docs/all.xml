@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Fri, 06 Feb 2026 10:01:17 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 06 Feb 2026 10:46:36 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -153,6 +153,13 @@
     <guid isPermaLink="false">6c8e9b737b0013ccb7927fc2ddfcc2c2ed14fed4</guid>
     <pubDate>Thu, 05 Feb 2026 02:08:48 GMT</pubDate>
     <description><![CDATA[Galveston, United States (USA) Arrival (UTC) Feb 06, 16:00 — ET: Feb 06, 11:00 AM EST | Local: Feb 06, 11:00 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Fantasy Arrived at Cape Canaveral, United States (USA) at Feb 06, 04:37 AM EST. The local time to the port is Feb 06, 04:37 AM EST</title>
+    <link>https://www.vesselfinder.com/ports/USPCV001</link>
+    <guid isPermaLink="false">c9f7693fe8bc112afb875090cdf8e6894a1fdbb5</guid>
+    <pubDate>Fri, 06 Feb 2026 10:42:41 GMT</pubDate>
+    <description><![CDATA[Cape Canaveral, United States (USA) Arrival (UTC) Feb 6, 09:37 — ET: Feb 06, 04:37 AM EST | Local: Feb 06, 04:37 AM EST]]></description>
   </item>
   <item>
     <title>Disney Destiny Departed from Port Everglades, United States (USA) at Feb 05, 04:13 PM EST. The local time to the port is Feb 05, 04:13 PM EST</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">c12eb32a5bf88d0e07d7855b58b6758110055f5d</guid>
     <pubDate>Wed, 17 Dec 2025 11:35:03 GMT</pubDate>
     <description><![CDATA[Cape Canaveral, United States (USA) Arrival (UTC) Dec 17, 10:39 — ET: Dec 17, 05:39 AM EST | Local: Dec 17, 05:39 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Fantasy Departed from Gorda Cay, Bahamas at Dec 16, 04:40 PM EST. The local time to the port is Dec 16, 04:40 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
-    <guid isPermaLink="false">4e5d2bb5b9c51975b87fa871331677e56806fc60</guid>
-    <pubDate>Tue, 16 Dec 2025 21:57:10 GMT</pubDate>
-    <description><![CDATA[Gorda Cay, Bahamas Departure (UTC) Dec 16, 21:40 — ET: Dec 16, 04:40 PM EST | Local: Dec 16, 04:40 PM EST]]></description>
   </item>
 </channel>
 </rss>
