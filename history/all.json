@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Port Everglades, United States (USA) at Feb 06, 04:09 PM EST. The local time to the port is Feb 06, 04:09 PM EST",
+    "description": "Port Everglades, United States (USA) Departure (UTC) Feb 6, 21:09 — ET: Feb 06, 04:09 PM EST | Local: Feb 06, 04:09 PM EST",
+    "link": "https://www.vesselfinder.com/ports/USPEF001",
+    "guid": "9fb9da7195e9ed128ad13e05e77392c206756a04",
+    "pubDate": "Fri, 06 Feb 2026 21:17:49 GMT",
+    "eventUtc": "2026-02-06T21:09:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Departed from Galveston, United States (USA) at Feb 06, 11:00 AM EST. The local time to the port is Feb 06, 11:00 AM EST",
     "description": "Galveston, United States (USA) Departure (UTC) Feb 06, 16:00 — ET: Feb 06, 11:00 AM EST | Local: Feb 06, 11:00 AM EST",
     "link": "https://www.vesselfinder.com/ports/USGLS001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2025-12-18T12:26:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Progreso, Mexico at Dec 17, 07:08 PM EST. The local time to the port is Dec 17, 07:08 PM EST",
-    "description": "Progreso, Mexico Departure (UTC) Dec 18, 00:08 — ET: Dec 17, 07:08 PM EST | Local: Dec 17, 07:08 PM EST",
-    "link": "https://www.vesselfinder.com/ports/MXPGO001",
-    "guid": "8f3b946d70cc668eebac0916a51b6ea12b1628a3",
-    "pubDate": "Fri, 19 Dec 2025 04:54:09 GMT",
-    "eventUtc": "2025-12-18T00:08:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
