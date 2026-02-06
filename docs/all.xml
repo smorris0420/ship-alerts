@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Fri, 06 Feb 2026 06:37:15 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 06 Feb 2026 07:37:00 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -176,6 +176,13 @@
     <description><![CDATA[Noumea, New Caledonia Departure (UTC) Feb 5, 04:31 — ET: Feb 04, 11:31 PM EST | Local: Feb 05, 03:31 PM +11]]></description>
   </item>
   <item>
+    <title>Disney Magic Departed from Progreso, Mexico at Feb 04, 07:08 PM EST. The local time to the port is Feb 04, 07:08 PM EST</title>
+    <link>https://www.vesselfinder.com/ports/MXPGO001</link>
+    <guid isPermaLink="false">3904c4a3ac3546b73db7eeadd322db1374fe56ca</guid>
+    <pubDate>Fri, 06 Feb 2026 07:33:50 GMT</pubDate>
+    <description><![CDATA[Progreso, Mexico Departure (UTC) Feb 5, 00:08 — ET: Feb 04, 07:08 PM EST | Local: Feb 04, 07:08 PM EST]]></description>
+  </item>
+  <item>
     <title>Disney Fantasy Departed from Nassau, Bahamas at Feb 04, 05:58 PM EST. The local time to the port is Feb 04, 05:58 PM EST</title>
     <link>https://www.vesselfinder.com/ports/BSNAS001</link>
     <guid isPermaLink="false">2b2f4c23b4d29137564e6593f76a33ff61f48d4f</guid>
@@ -202,6 +209,13 @@
     <guid isPermaLink="false">c2ed1e79fec7678bd073faa6838b3e1c5f0a2dee</guid>
     <pubDate>Wed, 04 Feb 2026 19:48:27 GMT</pubDate>
     <description><![CDATA[Road Town, Tortola, British Virgin Islands Departure (UTC) Feb 4, 19:19 — ET: Feb 04, 02:19 PM EST | Local: Feb 04, 03:19 PM AST]]></description>
+  </item>
+  <item>
+    <title>Disney Magic Arrived at Progreso, Mexico at Feb 04, 08:12 AM EST. The local time to the port is Feb 04, 08:12 AM EST</title>
+    <link>https://www.vesselfinder.com/ports/MXPGO001</link>
+    <guid isPermaLink="false">284d138ff0fced4875e2e3b6fb9174247cd38eba</guid>
+    <pubDate>Fri, 06 Feb 2026 07:33:49 GMT</pubDate>
+    <description><![CDATA[Progreso, Mexico Arrival (UTC) Feb 4, 13:12 — ET: Feb 04, 08:12 AM EST | Local: Feb 04, 08:12 AM EST]]></description>
   </item>
   <item>
     <title>Disney Destiny Arrived at Gorda Cay, Bahamas at Feb 04, 07:34 AM EST. The local time to the port is Feb 04, 07:34 AM EST</title>
@@ -3492,20 +3506,6 @@
     <guid isPermaLink="false">4e5d2bb5b9c51975b87fa871331677e56806fc60</guid>
     <pubDate>Tue, 16 Dec 2025 21:57:10 GMT</pubDate>
     <description><![CDATA[Gorda Cay, Bahamas Departure (UTC) Dec 16, 21:40 — ET: Dec 16, 04:40 PM EST | Local: Dec 16, 04:40 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Destiny Departed from Port Everglades, United States (USA) at Dec 16, 04:26 PM EST. The local time to the port is Dec 16, 04:26 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/USPEF001</link>
-    <guid isPermaLink="false">dced06ab9f9700609380d5eea49e28d81e9be439</guid>
-    <pubDate>Tue, 16 Dec 2025 21:34:14 GMT</pubDate>
-    <description><![CDATA[Port Everglades, United States (USA) Departure (UTC) Dec 16, 21:26 — ET: Dec 16, 04:26 PM EST | Local: Dec 16, 04:26 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Fantasy Arrived at Gorda Cay, Bahamas at Dec 16, 07:16 AM EST. The local time to the port is Dec 16, 07:16 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
-    <guid isPermaLink="false">edc92abca26b739c57f40661d0389597ced31308</guid>
-    <pubDate>Tue, 16 Dec 2025 13:31:51 GMT</pubDate>
-    <description><![CDATA[Gorda Cay, Bahamas Arrival (UTC) Dec 16, 12:16 — ET: Dec 16, 07:16 AM EST | Local: Dec 16, 07:16 AM EST]]></description>
   </item>
 </channel>
 </rss>
