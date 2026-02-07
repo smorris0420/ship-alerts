@@ -44,6 +44,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Arrived at Cape Canaveral, United States (USA) at Feb 07, 05:48 AM EST. The local time to the port is Feb 07, 05:48 AM EST",
+    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Feb 7, 10:48 — ET: Feb 07, 05:48 AM EST | Local: Feb 07, 05:48 AM EST",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "5d6d31db131d22ae206345988edf1d9810485140",
+    "pubDate": "Sat, 07 Feb 2026 11:28:54 GMT",
+    "eventUtc": "2026-02-07T10:48:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Departed from Road Town, Tortola, British Virgin Islands at Feb 04, 02:19 PM EST. The local time to the port is Feb 04, 03:19 PM AST",
     "description": "Road Town, Tortola, British Virgin Islands Departure (UTC) Feb 4, 19:19 — ET: Feb 04, 02:19 PM EST | Local: Feb 04, 03:19 PM AST",
     "link": "https://www.vesselfinder.com/ports/VGRAD001",
