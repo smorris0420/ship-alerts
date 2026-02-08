@@ -231,6 +231,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Magic Arrived at Cozumel, Mexico at Feb 08, 10:25 AM EST. The local time to the port is Feb 08, 10:25 AM EST",
+    "description": "Cozumel, Mexico Arrival (UTC) Feb 8, 15:25 — ET: Feb 08, 10:25 AM EST | Local: Feb 08, 10:25 AM EST",
+    "link": "https://www.vesselfinder.com/ports/MXCZM001",
+    "guid": "fc927a3a7aa94afb50b448172b68c1bc7330022c",
+    "pubDate": "Sun, 08 Feb 2026 16:49:01 GMT",
+    "eventUtc": "2026-02-08T15:25:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Arrived at Nassau, Bahamas at Feb 08, 07:42 AM EST. The local time to the port is Feb 08, 07:42 AM EST",
     "description": "Nassau, Bahamas Arrival (UTC) Feb 8, 12:42 — ET: Feb 08, 07:42 AM EST | Local: Feb 08, 07:42 AM EST",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -5487,16 +5498,5 @@
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
     "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Galveston, United States (USA) at Dec 19, 11:00 AM EST. The local time to the port is Dec 19, 11:00 AM EST",
-    "description": "Galveston, United States (USA) Departure (UTC) Dec 19, 16:00 — ET: Dec 19, 11:00 AM EST | Local: Dec 19, 11:00 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USGLS001",
-    "guid": "47e257a439a1ea35445f1eedc0f43f04b02e3ea8",
-    "pubDate": "Thu, 18 Dec 2025 04:22:01 GMT",
-    "eventUtc": "2025-12-19T16:00:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
-    "source": "vf_port"
   }
 ]
