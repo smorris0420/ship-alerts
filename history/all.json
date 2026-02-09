@@ -209,6 +209,39 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Departed from Port Everglades, United States (USA) at Feb 09, 04:30 PM EST. The local time to the port is Feb 09, 04:30 PM EST",
+    "description": "Port Everglades, United States (USA) Departure (UTC) Feb 9, 21:30 — ET: Feb 09, 04:30 PM EST | Local: Feb 09, 04:30 PM EST",
+    "link": "https://www.vesselfinder.com/ports/USPEF001",
+    "guid": "4ddab8d8bfd9902a65fc0924f1ccd03b50fec936",
+    "pubDate": "Mon, 09 Feb 2026 21:59:08 GMT",
+    "eventUtc": "2026-02-09T21:30:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Wish Departed from Cape Canaveral, United States (USA) at Feb 09, 04:29 PM EST. The local time to the port is Feb 09, 04:29 PM EST",
+    "description": "Cape Canaveral, United States (USA) Departure (UTC) Feb 9, 21:29 — ET: Feb 09, 04:29 PM EST | Local: Feb 09, 04:29 PM EST",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "9e4bbbbcd7f8800ce7d33aa6e405878c14cab6d1",
+    "pubDate": "Mon, 09 Feb 2026 21:55:00 GMT",
+    "eventUtc": "2026-02-09T21:29:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Dream Departed from Port Everglades, United States (USA) at Feb 09, 04:18 PM EST. The local time to the port is Feb 09, 04:18 PM EST",
+    "description": "Port Everglades, United States (USA) Departure (UTC) Feb 9, 21:18 — ET: Feb 09, 04:18 PM EST | Local: Feb 09, 04:18 PM EST",
+    "link": "https://www.vesselfinder.com/ports/USPEF001",
+    "guid": "827fe64a702ced443661d510cb3160b1c9df886b",
+    "pubDate": "Mon, 09 Feb 2026 21:57:23 GMT",
+    "eventUtc": "2026-02-09T21:18:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Departed from Los Angeles at Feb 09, 12:00 PM EST. The local time to the port is Feb 09, 12:00 PM EST",
     "description": "Los Angeles Departure (UTC) Feb 09, 17:00 — ET: Feb 09, 12:00 PM EST | Local: Feb 09, 12:00 PM EST",
     "link": "https://www.vesselfinder.com/ports/USLAX?name=Los-Angeles",
@@ -5464,39 +5497,6 @@
     "eventUtc": "2025-12-21T10:56:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Arrived at Port Everglades, United States (USA) at Dec 21, 04:35 AM EST. The local time to the port is Dec 21, 04:35 AM EST",
-    "description": "Port Everglades, United States (USA) Arrival (UTC) Dec 21, 09:35 — ET: Dec 21, 04:35 AM EST | Local: Dec 21, 04:35 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "ae9afc56dea763ad00f5c332e058677dbcf787fb",
-    "pubDate": "Sun, 21 Dec 2025 10:14:38 GMT",
-    "eventUtc": "2025-12-21T09:35:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Cape Canaveral, United States (USA) at Dec 20, 07:07 PM EST. The local time to the port is Dec 20, 07:07 PM EST",
-    "description": "Cape Canaveral, United States (USA) Departure (UTC) Dec 21, 00:07 — ET: Dec 20, 07:07 PM EST | Local: Dec 20, 07:07 PM EST",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "17d9771aa4e47d8d29ebad27d2023f82b3f9e032",
-    "pubDate": "Sun, 21 Dec 2025 00:54:58 GMT",
-    "eventUtc": "2025-12-21T00:07:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Adventure Departed from Bremerhaven, Germany at Dec 20, 06:09 PM EST. The local time to the port is Dec 21, 12:09 AM CET",
-    "description": "Bremerhaven, Germany Departure (UTC) Dec 20, 23:09 — ET: Dec 20, 06:09 PM EST | Local: Dec 21, 12:09 AM CET",
-    "link": "https://www.vesselfinder.com/ports/DEBRV001",
-    "guid": "5486bf198ba1240e48745edee68a798b4abbbe87",
-    "pubDate": "Sat, 20 Dec 2025 23:29:23 GMT",
-    "eventUtc": "2025-12-20T23:09:00+00:00",
-    "shipSlug": "disney-adventure",
-    "shipName": "Disney Adventure",
     "source": "vf_ship"
   }
 ]

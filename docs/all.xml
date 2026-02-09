@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Mon, 09 Feb 2026 21:13:50 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 09 Feb 2026 21:59:11 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,27 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Destiny Departed from Port Everglades, United States (USA) at Feb 09, 04:30 PM EST. The local time to the port is Feb 09, 04:30 PM EST</title>
+    <link>https://www.vesselfinder.com/ports/USPEF001</link>
+    <guid isPermaLink="false">4ddab8d8bfd9902a65fc0924f1ccd03b50fec936</guid>
+    <pubDate>Mon, 09 Feb 2026 21:59:08 GMT</pubDate>
+    <description><![CDATA[Port Everglades, United States (USA) Departure (UTC) Feb 9, 21:30 — ET: Feb 09, 04:30 PM EST | Local: Feb 09, 04:30 PM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Wish Departed from Cape Canaveral, United States (USA) at Feb 09, 04:29 PM EST. The local time to the port is Feb 09, 04:29 PM EST</title>
+    <link>https://www.vesselfinder.com/ports/USPCV001</link>
+    <guid isPermaLink="false">9e4bbbbcd7f8800ce7d33aa6e405878c14cab6d1</guid>
+    <pubDate>Mon, 09 Feb 2026 21:55:00 GMT</pubDate>
+    <description><![CDATA[Cape Canaveral, United States (USA) Departure (UTC) Feb 9, 21:29 — ET: Feb 09, 04:29 PM EST | Local: Feb 09, 04:29 PM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Dream Departed from Port Everglades, United States (USA) at Feb 09, 04:18 PM EST. The local time to the port is Feb 09, 04:18 PM EST</title>
+    <link>https://www.vesselfinder.com/ports/USPEF001</link>
+    <guid isPermaLink="false">827fe64a702ced443661d510cb3160b1c9df886b</guid>
+    <pubDate>Mon, 09 Feb 2026 21:57:23 GMT</pubDate>
+    <description><![CDATA[Port Everglades, United States (USA) Departure (UTC) Feb 9, 21:18 — ET: Feb 09, 04:18 PM EST | Local: Feb 09, 04:18 PM EST]]></description>
   </item>
   <item>
     <title>Disney Adventure Departed from Los Angeles at Feb 09, 12:00 PM EST. The local time to the port is Feb 09, 12:00 PM EST</title>
@@ -3485,27 +3506,6 @@
     <guid isPermaLink="false">238e5ab17a1871cf68f2a5be8711e2a7d767fde4</guid>
     <pubDate>Sun, 21 Dec 2025 11:39:08 GMT</pubDate>
     <description><![CDATA[Cape Canaveral, United States (USA) Arrival (UTC) Dec 21, 10:56 — ET: Dec 21, 05:56 AM EST | Local: Dec 21, 05:56 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Destiny Arrived at Port Everglades, United States (USA) at Dec 21, 04:35 AM EST. The local time to the port is Dec 21, 04:35 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/USPEF001</link>
-    <guid isPermaLink="false">ae9afc56dea763ad00f5c332e058677dbcf787fb</guid>
-    <pubDate>Sun, 21 Dec 2025 10:14:38 GMT</pubDate>
-    <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) Dec 21, 09:35 — ET: Dec 21, 04:35 AM EST | Local: Dec 21, 04:35 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Treasure Departed from Cape Canaveral, United States (USA) at Dec 20, 07:07 PM EST. The local time to the port is Dec 20, 07:07 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/USPCV001</link>
-    <guid isPermaLink="false">17d9771aa4e47d8d29ebad27d2023f82b3f9e032</guid>
-    <pubDate>Sun, 21 Dec 2025 00:54:58 GMT</pubDate>
-    <description><![CDATA[Cape Canaveral, United States (USA) Departure (UTC) Dec 21, 00:07 — ET: Dec 20, 07:07 PM EST | Local: Dec 20, 07:07 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Adventure Departed from Bremerhaven, Germany at Dec 20, 06:09 PM EST. The local time to the port is Dec 21, 12:09 AM CET</title>
-    <link>https://www.vesselfinder.com/ports/DEBRV001</link>
-    <guid isPermaLink="false">5486bf198ba1240e48745edee68a798b4abbbe87</guid>
-    <pubDate>Sat, 20 Dec 2025 23:29:23 GMT</pubDate>
-    <description><![CDATA[Bremerhaven, Germany Departure (UTC) Dec 20, 23:09 — ET: Dec 20, 06:09 PM EST | Local: Dec 21, 12:09 AM CET]]></description>
   </item>
 </channel>
 </rss>
