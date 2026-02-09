@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Mon, 09 Feb 2026 09:39:01 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 09 Feb 2026 10:43:43 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -153,6 +153,13 @@
     <guid isPermaLink="false">a10d2961fa3fa0c85c167e74636fca33390d7059</guid>
     <pubDate>Fri, 06 Feb 2026 23:37:42 GMT</pubDate>
     <description><![CDATA[Los Angeles Arrival (UTC) Feb 09, 17:00 — ET: Feb 09, 12:00 PM EST | Local: Feb 09, 12:00 PM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Destiny Arrived at Port Everglades, United States (USA) at Feb 09, 05:02 AM EST. The local time to the port is Feb 09, 05:02 AM EST</title>
+    <link>https://www.vesselfinder.com/ports/USPEF001</link>
+    <guid isPermaLink="false">94be77f8e3786b77d342f0bda1d57b3d37eba46d</guid>
+    <pubDate>Mon, 09 Feb 2026 10:43:41 GMT</pubDate>
+    <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) Feb 9, 10:02 — ET: Feb 09, 05:02 AM EST | Local: Feb 09, 05:02 AM EST]]></description>
   </item>
   <item>
     <title>Disney Magic Departed from Cozumel, Mexico at Feb 08, 06:17 PM EST. The local time to the port is Feb 08, 06:17 PM EST</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">7f944df1ea728e631d413a5f95b671ac7750cffc</guid>
     <pubDate>Sat, 20 Dec 2025 11:41:49 GMT</pubDate>
     <description><![CDATA[Cape Canaveral, United States (USA) Arrival (UTC) Dec 20, 11:01 — ET: Dec 20, 06:01 AM EST | Local: Dec 20, 06:01 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Wonder Departed from Tauranga, New Zealand at Dec 20, 02:08 AM EST. The local time to the port is Dec 20, 08:08 PM NZDT</title>
-    <link>https://www.vesselfinder.com/ports/NZTRG001</link>
-    <guid isPermaLink="false">2869cd9574b088e7adb4c9bff0ec4c6e2a28a299</guid>
-    <pubDate>Sat, 20 Dec 2025 07:26:12 GMT</pubDate>
-    <description><![CDATA[Tauranga, New Zealand Departure (UTC) Dec 20, 07:08 — ET: Dec 20, 02:08 AM EST | Local: Dec 20, 08:08 PM NZDT]]></description>
   </item>
 </channel>
 </rss>
