@@ -231,6 +231,39 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Adventure Arrived at Los Angeles, United States (USA) at Feb 09, 07:49 AM EST. The local time to the port is Feb 09, 07:49 AM EST",
+    "description": "Los Angeles, United States (USA) Arrival (UTC) Feb 9, 12:49 — ET: Feb 09, 07:49 AM EST | Local: Feb 09, 07:49 AM EST",
+    "link": "https://www.vesselfinder.com/ports/USLAX001",
+    "guid": "ad8768330cf5b2d5c5a24c87984402e93aea8afe",
+    "pubDate": "Mon, 09 Feb 2026 13:49:04 GMT",
+    "eventUtc": "2026-02-09T12:49:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Treasure Arrived at Cozumel, Mexico at Feb 09, 07:38 AM EST. The local time to the port is Feb 09, 07:38 AM EST",
+    "description": "Cozumel, Mexico Arrival (UTC) Feb 9, 12:38 — ET: Feb 09, 07:38 AM EST | Local: Feb 09, 07:38 AM EST",
+    "link": "https://www.vesselfinder.com/ports/MXCZM001",
+    "guid": "ce71729491691ffb96e6ae0e20beaf3530f13363",
+    "pubDate": "Mon, 09 Feb 2026 13:46:17 GMT",
+    "eventUtc": "2026-02-09T12:38:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Fantasy Arrived at Gorda Cay, Bahamas at Feb 09, 07:10 AM EST. The local time to the port is Feb 09, 07:10 AM EST",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Feb 9, 12:10 — ET: Feb 09, 07:10 AM EST | Local: Feb 09, 07:10 AM EST",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "e93c790f8ba3a43911384edfb98eaa47e408c180",
+    "pubDate": "Mon, 09 Feb 2026 13:46:31 GMT",
+    "eventUtc": "2026-02-09T12:10:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Arrived at Cape Canaveral, United States (USA) at Feb 09, 05:57 AM EST. The local time to the port is Feb 09, 05:57 AM EST",
     "description": "Cape Canaveral, United States (USA) Arrival (UTC) Feb 9, 10:57 — ET: Feb 09, 05:57 AM EST | Local: Feb 09, 05:57 AM EST",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5464,39 +5497,6 @@
     "eventUtc": "2025-12-20T23:09:00+00:00",
     "shipSlug": "disney-adventure",
     "shipName": "Disney Adventure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Departed from Nassau, Bahamas at Dec 20, 06:06 PM EST. The local time to the port is Dec 20, 06:06 PM EST",
-    "description": "Nassau, Bahamas Departure (UTC) Dec 20, 23:06 — ET: Dec 20, 06:06 PM EST | Local: Dec 20, 06:06 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "bf579a6fb757d5737c1fd87549dab0af4d21f170",
-    "pubDate": "Sat, 20 Dec 2025 23:25:50 GMT",
-    "eventUtc": "2025-12-20T23:06:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Departed from Gorda Cay, Bahamas at Dec 20, 05:03 PM EST. The local time to the port is Dec 20, 05:03 PM EST",
-    "description": "Gorda Cay, Bahamas Departure (UTC) Dec 20, 22:03 — ET: Dec 20, 05:03 PM EST | Local: Dec 20, 05:03 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "d80d00c02fec62c3494dfeac8ad7ce2220e4d35a",
-    "pubDate": "Sat, 20 Dec 2025 22:20:10 GMT",
-    "eventUtc": "2025-12-20T22:03:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Arrived at Nassau, Bahamas at Dec 20, 09:01 AM EST. The local time to the port is Dec 20, 09:01 AM EST",
-    "description": "Nassau, Bahamas Arrival (UTC) Dec 20, 14:01 — ET: Dec 20, 09:01 AM EST | Local: Dec 20, 09:01 AM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "9a21ac7f6d7fe2973c8097e47e2f61bc3cfb9634",
-    "pubDate": "Sat, 20 Dec 2025 14:42:06 GMT",
-    "eventUtc": "2025-12-20T14:01:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
     "source": "vf_ship"
   }
 ]
