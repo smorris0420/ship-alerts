@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Departed from Cape Canaveral, United States (USA) at Feb 10, 04:47 AM EST. The local time to the port is Feb 10, 04:47 AM EST",
+    "description": "Cape Canaveral, United States (USA) Departure (UTC) Feb 10, 09:47 — ET: Feb 10, 04:47 AM EST | Local: Feb 10, 04:47 AM EST",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "8a48a6bad54ca6a443b6f413a8c368ea4779cb62",
+    "pubDate": "Tue, 10 Feb 2026 10:12:43 GMT",
+    "eventUtc": "2026-02-10T09:47:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Departed from Los Angeles, United States (USA) at Feb 10, 03:02 AM EST. The local time to the port is Feb 10, 03:02 AM EST",
     "description": "Los Angeles, United States (USA) Departure (UTC) Feb 10, 08:02 — ET: Feb 10, 03:02 AM EST | Local: Feb 10, 03:02 AM EST",
     "link": "https://www.vesselfinder.com/ports/USLAX001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2025-12-21T21:25:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Arrived at Napier, New Zealand at Dec 21, 01:59 PM EST. The local time to the port is Dec 22, 07:59 AM NZDT",
-    "description": "Napier, New Zealand Arrival (UTC) Dec 21, 18:59 — ET: Dec 21, 01:59 PM EST | Local: Dec 22, 07:59 AM NZDT",
-    "link": "https://www.vesselfinder.com/ports/NZNPE001",
-    "guid": "b5e775ddfaad274f2969fe9b77273694543c37a0",
-    "pubDate": "Mon, 22 Dec 2025 15:49:20 GMT",
-    "eventUtc": "2025-12-21T18:59:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
     "source": "vf_ship"
   }
 ]
