@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Departed from Nassau, Bahamas at Feb 10, 05:58 PM EST. The local time to the port is Feb 10, 05:58 PM EST",
+    "description": "Nassau, Bahamas Departure (UTC) Feb 10, 22:58 — ET: Feb 10, 05:58 PM EST | Local: Feb 10, 05:58 PM EST",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "bba5af5b596f364443ca5cdc899f7bd3136e4ce8",
+    "pubDate": "Tue, 10 Feb 2026 23:23:53 GMT",
+    "eventUtc": "2026-02-10T22:58:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Arrived at Nassau, Bahamas at Feb 10, 09:00 AM EST. The local time to the port is Feb 10, 09:00 AM EST",
     "description": "Nassau, Bahamas Arrival (UTC) Feb 10, 14:00 — ET: Feb 10, 09:00 AM EST | Local: Feb 10, 09:00 AM EST",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2025-12-21T23:27:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Nassau, Bahamas at Dec 21, 05:54 PM EST. The local time to the port is Dec 21, 05:54 PM EST",
-    "description": "Nassau, Bahamas Departure (UTC) Dec 21, 22:54 — ET: Dec 21, 05:54 PM EST | Local: Dec 21, 05:54 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "1a9392daa126cd7d1cf9b41f229e74720b0e2a2b",
-    "pubDate": "Sun, 21 Dec 2025 23:01:21 GMT",
-    "eventUtc": "2025-12-21T22:54:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
     "source": "vf_ship"
   }
 ]
