@@ -55,11 +55,33 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Departed from Georgetown, Grand Cayman Anch., Cayman Islands at Feb 09, 05:18 PM EST. The local time to the port is Feb 09, 05:18 PM EST",
+    "description": "Georgetown, Grand Cayman Anch., Cayman Islands Departure (UTC) Feb 9, 22:18 — ET: Feb 09, 05:18 PM EST | Local: Feb 09, 05:18 PM EST",
+    "link": "https://www.vesselfinder.com/ports/KYGEC001",
+    "guid": "670bd2cc45a281785bc75edd0af6a9d42673cf86",
+    "pubDate": "Tue, 10 Feb 2026 15:53:28 GMT",
+    "eventUtc": "2026-02-09T22:18:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Arrived at Cozumel, Mexico at Feb 09, 07:38 AM EST. The local time to the port is Feb 09, 07:38 AM EST",
     "description": "Cozumel, Mexico Arrival (UTC) Feb 9, 12:38 — ET: Feb 09, 07:38 AM EST | Local: Feb 09, 07:38 AM EST",
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
     "guid": "ce71729491691ffb96e6ae0e20beaf3530f13363",
     "pubDate": "Mon, 09 Feb 2026 13:46:17 GMT",
+    "eventUtc": "2026-02-09T12:38:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Treasure Arrived at Georgetown, Grand Cayman Anch., Cayman Islands at Feb 09, 07:38 AM EST. The local time to the port is Feb 09, 07:38 AM EST",
+    "description": "Georgetown, Grand Cayman Anch., Cayman Islands Arrival (UTC) Feb 9, 12:38 — ET: Feb 09, 07:38 AM EST | Local: Feb 09, 07:38 AM EST",
+    "link": "https://www.vesselfinder.com/ports/KYGEC001",
+    "guid": "8b87b02bf19ee3c9fb46356f47ef073045fef894",
+    "pubDate": "Tue, 10 Feb 2026 15:53:27 GMT",
     "eventUtc": "2026-02-09T12:38:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
