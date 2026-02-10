@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Adventure Departed from Los Angeles, United States (USA) at Feb 10, 03:02 AM EST. The local time to the port is Feb 10, 03:02 AM EST",
+    "description": "Los Angeles, United States (USA) Departure (UTC) Feb 10, 08:02 — ET: Feb 10, 03:02 AM EST | Local: Feb 10, 03:02 AM EST",
+    "link": "https://www.vesselfinder.com/ports/USLAX001",
+    "guid": "016d811d15b91d182abcaa539d0f0fb18b9139df",
+    "pubDate": "Tue, 10 Feb 2026 08:12:18 GMT",
+    "eventUtc": "2026-02-10T08:02:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Departed from Los Angeles at Feb 09, 12:00 PM EST. The local time to the port is Feb 09, 12:00 PM EST",
     "description": "Los Angeles Departure (UTC) Feb 09, 17:00 — ET: Feb 09, 12:00 PM EST | Local: Feb 09, 12:00 PM EST",
     "link": "https://www.vesselfinder.com/ports/USLAX?name=Los-Angeles",
