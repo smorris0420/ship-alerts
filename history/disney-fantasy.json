@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Fantasy Arrived at Cape Canaveral, United States (USA) at Feb 11, 05:38 AM EST. The local time to the port is Feb 11, 05:38 AM EST",
+    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Feb 11, 10:38 — ET: Feb 11, 05:38 AM EST | Local: Feb 11, 05:38 AM EST",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "334d07ebdc4efb601097a81752a58eca2087a267",
+    "pubDate": "Wed, 11 Feb 2026 11:59:19 GMT",
+    "eventUtc": "2026-02-11T10:38:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Departed from Gorda Cay, Bahamas at Feb 09, 05:03 PM EST. The local time to the port is Feb 09, 05:03 PM EST",
     "description": "Gorda Cay, Bahamas Departure (UTC) Feb 9, 22:03 — ET: Feb 09, 05:03 PM EST | Local: Feb 09, 05:03 PM EST",
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
