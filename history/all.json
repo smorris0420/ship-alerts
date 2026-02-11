@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Fantasy Departed from Cape Canaveral, United States (USA) at Feb 11, 04:28 PM EST. The local time to the port is Feb 11, 04:28 PM EST",
+    "description": "Cape Canaveral, United States (USA) Departure (UTC) Feb 11, 21:28 — ET: Feb 11, 04:28 PM EST | Local: Feb 11, 04:28 PM EST",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "5218584f2acf7863d530687851aa6a1808ee66e7",
+    "pubDate": "Wed, 11 Feb 2026 21:46:03 GMT",
+    "eventUtc": "2026-02-11T21:28:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Arrived at Gorda Cay, Bahamas at Feb 11, 07:24 AM EST. The local time to the port is Feb 11, 07:24 AM EST",
     "description": "Gorda Cay, Bahamas Arrival (UTC) Feb 11, 12:24 — ET: Feb 11, 07:24 AM EST | Local: Feb 11, 07:24 AM EST",
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2025-12-22T19:31:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Arrived at Progreso, Mexico at Dec 22, 10:48 AM EST. The local time to the port is Dec 22, 10:48 AM EST",
-    "description": "Progreso, Mexico Arrival (UTC) Dec 22, 15:48 — ET: Dec 22, 10:48 AM EST | Local: Dec 22, 10:48 AM EST",
-    "link": "https://www.vesselfinder.com/ports/MXPGO001",
-    "guid": "50dbc681ab16e640c17a1a8e43e159b17e2a95ef",
-    "pubDate": "Wed, 24 Dec 2025 02:21:47 GMT",
-    "eventUtc": "2025-12-22T15:48:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
