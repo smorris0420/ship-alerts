@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Departed from Gorda Cay, Bahamas at Feb 11, 04:59 PM EST. The local time to the port is Feb 11, 04:59 PM EST",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Feb 11, 21:59 — ET: Feb 11, 04:59 PM EST | Local: Feb 11, 04:59 PM EST",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "295d0097b1e020fc9822e468eea284dfbcef539b",
+    "pubDate": "Wed, 11 Feb 2026 22:14:52 GMT",
+    "eventUtc": "2026-02-11T21:59:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Departed from Cape Canaveral, United States (USA) at Feb 11, 04:28 PM EST. The local time to the port is Feb 11, 04:28 PM EST",
     "description": "Cape Canaveral, United States (USA) Departure (UTC) Feb 11, 21:28 — ET: Feb 11, 04:28 PM EST | Local: Feb 11, 04:28 PM EST",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2025-12-22T21:33:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Arrived at Wellington, New Zealand at Dec 22, 02:31 PM EST. The local time to the port is Dec 23, 08:31 AM NZDT",
-    "description": "Wellington, New Zealand Arrival (UTC) Dec 22, 19:31 — ET: Dec 22, 02:31 PM EST | Local: Dec 23, 08:31 AM NZDT",
-    "link": "https://www.vesselfinder.com/ports/NZWLG001",
-    "guid": "1d5014127438167b0f51339d253c1ba800fa9a65",
-    "pubDate": "Mon, 22 Dec 2025 20:15:28 GMT",
-    "eventUtc": "2025-12-22T19:31:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
     "source": "vf_ship"
   }
 ]
