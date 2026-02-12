@@ -253,6 +253,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Dream Departed from Gorda Cay, Bahamas at Feb 12, 05:03 PM EST. The local time to the port is Feb 12, 05:03 PM EST",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Feb 12, 22:03 — ET: Feb 12, 05:03 PM EST | Local: Feb 12, 05:03 PM EST",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "348f5180321e24c581b25c7a5c370ba44a393c29",
+    "pubDate": "Thu, 12 Feb 2026 22:55:55 GMT",
+    "eventUtc": "2026-02-12T22:03:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Arrived at Nassau, Bahamas at Feb 12, 08:51 AM EST. The local time to the port is Feb 12, 08:51 AM EST",
     "description": "Nassau, Bahamas Arrival (UTC) Feb 12, 13:51 — ET: Feb 12, 08:51 AM EST | Local: Feb 12, 08:51 AM EST",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -261,6 +272,17 @@
     "eventUtc": "2026-02-12T13:51:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Dream Arrived at Gorda Cay, Bahamas at Feb 12, 08:08 AM EST. The local time to the port is Feb 12, 08:08 AM EST",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Feb 12, 13:08 — ET: Feb 12, 08:08 AM EST | Local: Feb 12, 08:08 AM EST",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "d844deecd3ba4acb278e52e962b72b6b58d12f0f",
+    "pubDate": "Thu, 12 Feb 2026 22:55:54 GMT",
+    "eventUtc": "2026-02-12T13:08:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
     "source": "vf_ship"
   },
   {
@@ -5475,28 +5497,6 @@
     "eventUtc": "2025-12-23T20:37:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Arrived at Port Everglades, United States (USA) at Dec 23, 02:23 PM EST. The local time to the port is Dec 23, 02:23 PM EST",
-    "description": "Port Everglades, United States (USA) Arrival (UTC) Dec 23, 19:23 — ET: Dec 23, 02:23 PM EST | Local: Dec 23, 02:23 PM EST",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "a1bd98b3ec69c1bfc5df85a9abe9638a84771489",
-    "pubDate": "Tue, 23 Dec 2025 20:00:29 GMT",
-    "eventUtc": "2025-12-23T19:23:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Arrived at Lyttelton, New Zealand at Dec 23, 01:25 PM EST. The local time to the port is Dec 24, 07:25 AM NZDT",
-    "description": "Lyttelton, New Zealand Arrival (UTC) Dec 23, 18:25 — ET: Dec 23, 01:25 PM EST | Local: Dec 24, 07:25 AM NZDT",
-    "link": "https://www.vesselfinder.com/ports/NZLYT001",
-    "guid": "99d65ec79751b19181cb6d27ac9a0e8a348d77ea",
-    "pubDate": "Tue, 23 Dec 2025 19:22:55 GMT",
-    "eventUtc": "2025-12-23T18:25:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
     "source": "vf_ship"
   }
 ]
