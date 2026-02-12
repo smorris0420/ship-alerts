@@ -242,6 +242,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Departed from Falmouth, Jamaica at Feb 11, 05:03 PM EST. The local time to the port is Feb 11, 05:03 PM EST",
+    "description": "Falmouth, Jamaica Departure (UTC) Feb 11, 22:03 — ET: Feb 11, 05:03 PM EST | Local: Feb 11, 05:03 PM EST",
+    "link": "https://www.vesselfinder.com/ports/JMFMH001",
+    "guid": "f19b4264a11183eae772fa8798f8d5e819d47c58",
+    "pubDate": "Thu, 12 Feb 2026 18:11:21 GMT",
+    "eventUtc": "2026-02-11T22:03:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Departed from Gorda Cay, Bahamas at Feb 11, 04:59 PM EST. The local time to the port is Feb 11, 04:59 PM EST",
     "description": "Gorda Cay, Bahamas Departure (UTC) Feb 11, 21:59 — ET: Feb 11, 04:59 PM EST | Local: Feb 11, 04:59 PM EST",
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
@@ -261,6 +272,17 @@
     "eventUtc": "2026-02-11T21:28:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Treasure Arrived at Falmouth, Jamaica at Feb 11, 09:23 AM EST. The local time to the port is Feb 11, 09:23 AM EST",
+    "description": "Falmouth, Jamaica Arrival (UTC) Feb 11, 14:23 — ET: Feb 11, 09:23 AM EST | Local: Feb 11, 09:23 AM EST",
+    "link": "https://www.vesselfinder.com/ports/JMFMH001",
+    "guid": "44434441a7b29eafd49241d521a27cf9e192e063",
+    "pubDate": "Thu, 12 Feb 2026 18:11:20 GMT",
+    "eventUtc": "2026-02-11T14:23:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
     "source": "vf_ship"
   },
   {
@@ -5475,28 +5497,6 @@
     "eventUtc": "2025-12-23T06:19:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Progreso, Mexico at Dec 22, 08:17 PM EST. The local time to the port is Dec 22, 08:17 PM EST",
-    "description": "Progreso, Mexico Departure (UTC) Dec 23, 01:17 — ET: Dec 22, 08:17 PM EST | Local: Dec 22, 08:17 PM EST",
-    "link": "https://www.vesselfinder.com/ports/MXPGO001",
-    "guid": "ec198f9504fc2a03beb59999d0766693d147ee7c",
-    "pubDate": "Wed, 24 Dec 2025 02:21:49 GMT",
-    "eventUtc": "2025-12-23T01:17:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Departed from Nassau, Bahamas at Dec 22, 05:47 PM EST. The local time to the port is Dec 22, 05:47 PM EST",
-    "description": "Nassau, Bahamas Departure (UTC) Dec 22, 22:47 — ET: Dec 22, 05:47 PM EST | Local: Dec 22, 05:47 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "cad374d933942e984fcbf201e25ce185f42d3f8b",
-    "pubDate": "Mon, 22 Dec 2025 22:55:55 GMT",
-    "eventUtc": "2025-12-22T22:47:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
     "source": "vf_ship"
   }
 ]
