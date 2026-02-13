@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Galveston, United States (USA) at Feb 15, 10:00 AM EST. The local time to the port is Feb 15, 10:00 AM EST",
+    "description": "Galveston, United States (USA) Departure (UTC) Feb 15, 15:00 — ET: Feb 15, 10:00 AM EST | Local: Feb 15, 10:00 AM EST",
+    "link": "https://www.vesselfinder.com/ports/USGLS001",
+    "guid": "6798ad5126332ee839e7a9f013217eb97743b811",
+    "pubDate": "Fri, 13 Feb 2026 22:50:20 GMT",
+    "eventUtc": "2026-02-15T15:00:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_port"
+  },
+  {
+    "title": "Disney Magic Arrived at Galveston, United States (USA) at Feb 15, 10:00 AM EST. The local time to the port is Feb 15, 10:00 AM EST",
+    "description": "Galveston, United States (USA) Arrival (UTC) Feb 15, 15:00 — ET: Feb 15, 10:00 AM EST | Local: Feb 15, 10:00 AM EST",
+    "link": "https://www.vesselfinder.com/ports/USGLS001",
+    "guid": "93031bfe8c3524cf6cddf867a71f91e250a80b91",
+    "pubDate": "Fri, 13 Feb 2026 22:50:21 GMT",
+    "eventUtc": "2026-02-15T15:00:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_port"
+  },
+  {
     "title": "Disney Wish Departed from Cape Canaveral, United States (USA) at Feb 13, 04:50 PM EST. The local time to the port is Feb 13, 04:50 PM EST",
     "description": "Cape Canaveral, United States (USA) Departure (UTC) Feb 13, 21:50 — ET: Feb 13, 04:50 PM EST | Local: Feb 13, 04:50 PM EST",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2025-12-24T12:40:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Arrived at Nassau, Bahamas at Dec 24, 07:30 AM EST. The local time to the port is Dec 24, 07:30 AM EST",
-    "description": "Nassau, Bahamas Arrival (UTC) Dec 24, 12:30 — ET: Dec 24, 07:30 AM EST | Local: Dec 24, 07:30 AM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "ebc90520d15db7efb3947bce2a844ea03c9285df",
-    "pubDate": "Wed, 24 Dec 2025 13:21:33 GMT",
-    "eventUtc": "2025-12-24T12:30:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Arrived at Galveston, United States (USA) at Dec 24, 07:25 AM EST. The local time to the port is Dec 24, 07:25 AM EST",
-    "description": "Galveston, United States (USA) Arrival (UTC) Dec 24, 12:25 — ET: Dec 24, 07:25 AM EST | Local: Dec 24, 07:25 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USGLS001",
-    "guid": "10228814d23b34577edec86f1c0e32981aa81d44",
-    "pubDate": "Wed, 24 Dec 2025 13:21:26 GMT",
-    "eventUtc": "2025-12-24T12:25:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
