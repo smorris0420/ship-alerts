@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Departed from Cape Canaveral, United States (USA) at Feb 13, 04:50 PM EST. The local time to the port is Feb 13, 04:50 PM EST",
+    "description": "Cape Canaveral, United States (USA) Departure (UTC) Feb 13, 21:50 — ET: Feb 13, 04:50 PM EST | Local: Feb 13, 04:50 PM EST",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "388bf7f47afeb5ae9c6a3dcebda2317a88e4d9ce",
+    "pubDate": "Fri, 13 Feb 2026 22:02:19 GMT",
+    "eventUtc": "2026-02-13T21:50:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Dream Departed from Port Everglades, United States (USA) at Feb 13, 04:42 PM EST. The local time to the port is Feb 13, 04:42 PM EST",
+    "description": "Port Everglades, United States (USA) Departure (UTC) Feb 13, 21:42 — ET: Feb 13, 04:42 PM EST | Local: Feb 13, 04:42 PM EST",
+    "link": "https://www.vesselfinder.com/ports/USPEF001",
+    "guid": "755e4d93a69fd529c3c7b31fbf678f8f80de6f03",
+    "pubDate": "Fri, 13 Feb 2026 22:04:15 GMT",
+    "eventUtc": "2026-02-13T21:42:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Port Everglades, United States (USA) at Feb 13, 10:00 AM EST. The local time to the port is Feb 13, 10:00 AM EST",
     "description": "Port Everglades, United States (USA) Departure (UTC) Feb 13, 15:00 — ET: Feb 13, 10:00 AM EST | Local: Feb 13, 10:00 AM EST",
     "link": "https://www.vesselfinder.com/ports/USPEF001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2025-12-24T12:25:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Road Town, Tortola, British Virgin Islands at Dec 24, 06:10 AM EST. The local time to the port is Dec 24, 07:10 AM AST",
-    "description": "Road Town, Tortola, British Virgin Islands Arrival (UTC) Dec 24, 11:10 — ET: Dec 24, 06:10 AM EST | Local: Dec 24, 07:10 AM AST",
-    "link": "https://www.vesselfinder.com/ports/VGRAD001",
-    "guid": "2dfe51bf260fe11fe015eb6e91e815a30ef05f15",
-    "pubDate": "Wed, 24 Dec 2025 11:54:13 GMT",
-    "eventUtc": "2025-12-24T11:10:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Departed from Lyttelton, New Zealand at Dec 24, 12:36 AM EST. The local time to the port is Dec 24, 06:36 PM NZDT",
-    "description": "Lyttelton, New Zealand Departure (UTC) Dec 24, 05:36 — ET: Dec 24, 12:36 AM EST | Local: Dec 24, 06:36 PM NZDT",
-    "link": "https://www.vesselfinder.com/ports/NZLYT001",
-    "guid": "ddf9248a9398a6c842938586f9110d0d7e50ed58",
-    "pubDate": "Wed, 24 Dec 2025 05:48:39 GMT",
-    "eventUtc": "2025-12-24T05:36:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
     "source": "vf_ship"
   }
 ]
