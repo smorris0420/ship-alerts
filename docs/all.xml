@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Sat, 14 Feb 2026 21:41:00 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 14 Feb 2026 21:59:18 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -153,6 +153,13 @@
     <guid isPermaLink="false">93031bfe8c3524cf6cddf867a71f91e250a80b91</guid>
     <pubDate>Fri, 13 Feb 2026 22:50:21 GMT</pubDate>
     <description><![CDATA[Galveston, United States (USA) Arrival (UTC) Feb 15, 15:00 — ET: Feb 15, 10:00 AM EST | Local: Feb 15, 10:00 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Destiny Departed from Port Everglades, United States (USA) at Feb 14, 04:49 PM EST. The local time to the port is Feb 14, 04:49 PM EST</title>
+    <link>https://www.vesselfinder.com/ports/USPEF001</link>
+    <guid isPermaLink="false">687b868884e4600fdcf79a0994378e94149dd51d</guid>
+    <pubDate>Sat, 14 Feb 2026 21:59:15 GMT</pubDate>
+    <description><![CDATA[Port Everglades, United States (USA) Departure (UTC) Feb 14, 21:49 — ET: Feb 14, 04:49 PM EST | Local: Feb 14, 04:49 PM EST]]></description>
   </item>
   <item>
     <title>Disney Wish Arrived at Nassau, Bahamas at Feb 14, 08:59 AM EST. The local time to the port is Feb 14, 08:59 AM EST</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">1ff50ad7403b38b4475c40c0830fb4b3b818548e</guid>
     <pubDate>Thu, 25 Dec 2025 20:34:07 GMT</pubDate>
     <description><![CDATA[Gorda Cay, Bahamas Arrival (UTC) Dec 25, 12:34 — ET: Dec 25, 07:34 AM EST | Local: Dec 25, 07:34 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Magic Departed from Galveston, United States (USA) at Dec 24, 06:08 PM EST. The local time to the port is Dec 24, 06:08 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/USGLS001</link>
-    <guid isPermaLink="false">8e338f945d603da259a3ce18442ad4ebbb6b3ae1</guid>
-    <pubDate>Wed, 24 Dec 2025 23:15:04 GMT</pubDate>
-    <description><![CDATA[Galveston, United States (USA) Departure (UTC) Dec 24, 23:08 — ET: Dec 24, 06:08 PM EST | Local: Dec 24, 06:08 PM EST]]></description>
   </item>
 </channel>
 </rss>
