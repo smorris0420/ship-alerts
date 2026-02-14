@@ -231,6 +231,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Treasure Departed from Gorda Cay, Bahamas at Feb 13, 05:04 PM EST. The local time to the port is Feb 13, 05:04 PM EST",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Feb 13, 22:04 — ET: Feb 13, 05:04 PM EST | Local: Feb 13, 05:04 PM EST",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "f4f91f14b373d0d9fd5aa867c1c917d758b3b56f",
+    "pubDate": "Sat, 14 Feb 2026 00:55:13 GMT",
+    "eventUtc": "2026-02-13T22:04:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Departed from Cape Canaveral, United States (USA) at Feb 13, 04:50 PM EST. The local time to the port is Feb 13, 04:50 PM EST",
     "description": "Cape Canaveral, United States (USA) Departure (UTC) Feb 13, 21:50 — ET: Feb 13, 04:50 PM EST | Local: Feb 13, 04:50 PM EST",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2025-12-24T19:14:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Arrived at Gorda Cay, Bahamas at Dec 24, 07:40 AM EST. The local time to the port is Dec 24, 07:40 AM EST",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) Dec 24, 12:40 — ET: Dec 24, 07:40 AM EST | Local: Dec 24, 07:40 AM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "f1188e6230ff495be813174eba4cd822f6f50e5e",
-    "pubDate": "Thu, 25 Dec 2025 10:23:19 GMT",
-    "eventUtc": "2025-12-24T12:40:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
     "source": "vf_ship"
   }
 ]
