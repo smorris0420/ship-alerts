@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Arrived at Honolulu, United States (USA) at Feb 15, 11:31 AM EST. The local time to the port is Feb 15, 11:31 AM EST",
+    "description": "Honolulu, United States (USA) Arrival (UTC) Feb 15, 16:31 — ET: Feb 15, 11:31 AM EST | Local: Feb 15, 11:31 AM EST",
+    "link": "https://www.vesselfinder.com/ports/USHNL001",
+    "guid": "301455795d2fc9c8f09c4eb693e3bffeb3c7c04c",
+    "pubDate": "Sun, 15 Feb 2026 17:15:50 GMT",
+    "eventUtc": "2026-02-15T16:31:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Departed from Galveston, United States (USA) at Feb 15, 10:00 AM EST. The local time to the port is Feb 15, 10:00 AM EST",
     "description": "Galveston, United States (USA) Departure (UTC) Feb 15, 15:00 — ET: Feb 15, 10:00 AM EST | Local: Feb 15, 10:00 AM EST",
     "link": "https://www.vesselfinder.com/ports/USGLS001",
@@ -5487,16 +5498,5 @@
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
     "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Departed from Port Everglades, United States (USA) at Dec 26, 10:00 AM EST. The local time to the port is Dec 26, 10:00 AM EST",
-    "description": "Port Everglades, United States (USA) Departure (UTC) Dec 26, 15:00 — ET: Dec 26, 10:00 AM EST | Local: Dec 26, 10:00 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "2fe4f6be490fab73055904ac8ebef4fc59de09e1",
-    "pubDate": "Fri, 26 Dec 2025 02:01:42 GMT",
-    "eventUtc": "2025-12-26T15:00:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
-    "source": "vf_port"
   }
 ]

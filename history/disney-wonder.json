@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Arrived at Honolulu, United States (USA) at Feb 15, 11:31 AM EST. The local time to the port is Feb 15, 11:31 AM EST",
+    "description": "Honolulu, United States (USA) Arrival (UTC) Feb 15, 16:31 — ET: Feb 15, 11:31 AM EST | Local: Feb 15, 11:31 AM EST",
+    "link": "https://www.vesselfinder.com/ports/USHNL001",
+    "guid": "301455795d2fc9c8f09c4eb693e3bffeb3c7c04c",
+    "pubDate": "Sun, 15 Feb 2026 17:15:50 GMT",
+    "eventUtc": "2026-02-15T16:31:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Departed from Pago Pago, American Samoa at Feb 09, 10:28 PM EST. The local time to the port is Feb 09, 04:28 PM SST",
     "description": "Pago Pago, American Samoa Departure (UTC) Feb 10, 03:28 — ET: Feb 09, 10:28 PM EST | Local: Feb 09, 04:28 PM SST",
     "link": "https://www.vesselfinder.com/ports/ASPPG001",
