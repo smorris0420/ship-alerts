@@ -231,6 +231,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Dream Arrived at Nassau, Bahamas at Feb 15, 07:28 AM EST. The local time to the port is Feb 15, 07:28 AM EST",
+    "description": "Nassau, Bahamas Arrival (UTC) Feb 15, 12:28 — ET: Feb 15, 07:28 AM EST | Local: Feb 15, 07:28 AM EST",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "21af00c93496256c317e8e899a159626928f8b52",
+    "pubDate": "Sun, 15 Feb 2026 13:14:05 GMT",
+    "eventUtc": "2026-02-15T12:28:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Arrived at Galveston, United States (USA) at Feb 15, 05:08 AM EST. The local time to the port is Feb 15, 05:08 AM EST",
     "description": "Galveston, United States (USA) Arrival (UTC) Feb 15, 10:08 — ET: Feb 15, 05:08 AM EST | Local: Feb 15, 05:08 AM EST",
     "link": "https://www.vesselfinder.com/ports/USGLS001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2025-12-26T14:18:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Arrived at Progreso, Mexico at Dec 26, 07:57 AM EST. The local time to the port is Dec 26, 07:57 AM EST",
-    "description": "Progreso, Mexico Arrival (UTC) Dec 26, 12:57 — ET: Dec 26, 07:57 AM EST | Local: Dec 26, 07:57 AM EST",
-    "link": "https://www.vesselfinder.com/ports/MXPGO001",
-    "guid": "10ce8fa831b7f07aa1c790fa0522aabbc08ba329",
-    "pubDate": "Sun, 28 Dec 2025 02:10:15 GMT",
-    "eventUtc": "2025-12-26T12:57:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
