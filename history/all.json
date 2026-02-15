@@ -671,6 +671,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Departed from Pago Pago, American Samoa at Feb 09, 10:28 PM EST. The local time to the port is Feb 09, 04:28 PM SST",
+    "description": "Pago Pago, American Samoa Departure (UTC) Feb 10, 03:28 — ET: Feb 09, 10:28 PM EST | Local: Feb 09, 04:28 PM SST",
+    "link": "https://www.vesselfinder.com/ports/ASPPG001",
+    "guid": "d2d7bca52e937a7017d11e295fc0ec76517659e7",
+    "pubDate": "Sun, 15 Feb 2026 14:57:55 GMT",
+    "eventUtc": "2026-02-10T03:28:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Departed from Progreso, Mexico at Feb 09, 08:10 PM EST. The local time to the port is Feb 09, 08:10 PM EST",
     "description": "Progreso, Mexico Departure (UTC) Feb 10, 01:10 — ET: Feb 09, 08:10 PM EST | Local: Feb 09, 08:10 PM EST",
     "link": "https://www.vesselfinder.com/ports/MXPGO001",
@@ -745,6 +756,17 @@
     "eventUtc": "2026-02-09T21:18:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Wonder Arrived at Pago Pago, American Samoa at Feb 09, 01:00 PM EST. The local time to the port is Feb 09, 07:00 AM SST",
+    "description": "Pago Pago, American Samoa Arrival (UTC) Feb 9, 18:00 — ET: Feb 09, 01:00 PM EST | Local: Feb 09, 07:00 AM SST",
+    "link": "https://www.vesselfinder.com/ports/ASPPG001",
+    "guid": "ad30600da7d434cfd1435d008bb8c06a6e32979e",
+    "pubDate": "Sun, 15 Feb 2026 14:57:55 GMT",
+    "eventUtc": "2026-02-09T18:00:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
     "source": "vf_ship"
   },
   {
@@ -5476,27 +5498,5 @@
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
     "source": "vf_port"
-  },
-  {
-    "title": "Disney Destiny Arrived at Port Everglades, United States (USA) at Dec 26, 10:00 AM EST. The local time to the port is Dec 26, 10:00 AM EST",
-    "description": "Port Everglades, United States (USA) Arrival (UTC) Dec 26, 15:00 — ET: Dec 26, 10:00 AM EST | Local: Dec 26, 10:00 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "88ac79bef8ca947cab11dc4516ce263e6f08493a",
-    "pubDate": "Fri, 26 Dec 2025 02:01:43 GMT",
-    "eventUtc": "2025-12-26T15:00:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
-    "source": "vf_port"
-  },
-  {
-    "title": "Disney Treasure Arrived at Gorda Cay, Bahamas at Dec 26, 09:18 AM EST. The local time to the port is Dec 26, 09:18 AM EST",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) Dec 26, 14:18 — ET: Dec 26, 09:18 AM EST | Local: Dec 26, 09:18 AM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "a0905dc231079c9262da27aea2434af20c67b024",
-    "pubDate": "Fri, 26 Dec 2025 14:56:51 GMT",
-    "eventUtc": "2025-12-26T14:18:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
   }
 ]

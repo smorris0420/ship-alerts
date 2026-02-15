@@ -22,6 +22,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Departed from Pago Pago, American Samoa at Feb 09, 10:28 PM EST. The local time to the port is Feb 09, 04:28 PM SST",
+    "description": "Pago Pago, American Samoa Departure (UTC) Feb 10, 03:28 — ET: Feb 09, 10:28 PM EST | Local: Feb 09, 04:28 PM SST",
+    "link": "https://www.vesselfinder.com/ports/ASPPG001",
+    "guid": "d2d7bca52e937a7017d11e295fc0ec76517659e7",
+    "pubDate": "Sun, 15 Feb 2026 14:57:55 GMT",
+    "eventUtc": "2026-02-10T03:28:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Wonder Arrived at Pago Pago, American Samoa at Feb 09, 01:00 PM EST. The local time to the port is Feb 09, 07:00 AM SST",
+    "description": "Pago Pago, American Samoa Arrival (UTC) Feb 9, 18:00 — ET: Feb 09, 01:00 PM EST | Local: Feb 09, 07:00 AM SST",
+    "link": "https://www.vesselfinder.com/ports/ASPPG001",
+    "guid": "ad30600da7d434cfd1435d008bb8c06a6e32979e",
+    "pubDate": "Sun, 15 Feb 2026 14:57:55 GMT",
+    "eventUtc": "2026-02-09T18:00:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Departed from Noumea, New Caledonia at Feb 04, 11:31 PM EST. The local time to the port is Feb 05, 03:31 PM +11",
     "description": "Noumea, New Caledonia Departure (UTC) Feb 5, 04:31 — ET: Feb 04, 11:31 PM EST | Local: Feb 05, 03:31 PM +11",
     "link": "https://www.vesselfinder.com/ports/NCNOU001",
