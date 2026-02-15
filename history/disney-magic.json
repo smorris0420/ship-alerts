@@ -55,6 +55,28 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Magic Departed from Progreso, Mexico at Feb 13, 07:02 PM EST. The local time to the port is Feb 13, 07:02 PM EST",
+    "description": "Progreso, Mexico Departure (UTC) Feb 14, 00:02 — ET: Feb 13, 07:02 PM EST | Local: Feb 13, 07:02 PM EST",
+    "link": "https://www.vesselfinder.com/ports/MXPGO001",
+    "guid": "d7d1807b43c645720d55943d69601b75f17974e0",
+    "pubDate": "Sun, 15 Feb 2026 05:43:51 GMT",
+    "eventUtc": "2026-02-14T00:02:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Magic Arrived at Progreso, Mexico at Feb 13, 08:32 AM EST. The local time to the port is Feb 13, 08:32 AM EST",
+    "description": "Progreso, Mexico Arrival (UTC) Feb 13, 13:32 — ET: Feb 13, 08:32 AM EST | Local: Feb 13, 08:32 AM EST",
+    "link": "https://www.vesselfinder.com/ports/MXPGO001",
+    "guid": "6ad71988a3f3b64e029d16f7f2f7e9180e77b9a7",
+    "pubDate": "Sun, 15 Feb 2026 05:43:50 GMT",
+    "eventUtc": "2026-02-13T13:32:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Departed from Galveston, United States (USA) at Feb 11, 05:42 PM EST. The local time to the port is Feb 11, 05:42 PM EST",
     "description": "Galveston, United States (USA) Departure (UTC) Feb 11, 22:42 — ET: Feb 11, 05:42 PM EST | Local: Feb 11, 05:42 PM EST",
     "link": "https://www.vesselfinder.com/ports/USGLS001",

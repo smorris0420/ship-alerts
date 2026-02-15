@@ -297,6 +297,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Progreso, Mexico at Feb 13, 07:02 PM EST. The local time to the port is Feb 13, 07:02 PM EST",
+    "description": "Progreso, Mexico Departure (UTC) Feb 14, 00:02 — ET: Feb 13, 07:02 PM EST | Local: Feb 13, 07:02 PM EST",
+    "link": "https://www.vesselfinder.com/ports/MXPGO001",
+    "guid": "d7d1807b43c645720d55943d69601b75f17974e0",
+    "pubDate": "Sun, 15 Feb 2026 05:43:51 GMT",
+    "eventUtc": "2026-02-14T00:02:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Departed from Gorda Cay, Bahamas at Feb 13, 05:04 PM EST. The local time to the port is Feb 13, 05:04 PM EST",
     "description": "Gorda Cay, Bahamas Departure (UTC) Feb 13, 22:04 — ET: Feb 13, 05:04 PM EST | Local: Feb 13, 05:04 PM EST",
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
@@ -350,6 +361,17 @@
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
     "source": "vf_port"
+  },
+  {
+    "title": "Disney Magic Arrived at Progreso, Mexico at Feb 13, 08:32 AM EST. The local time to the port is Feb 13, 08:32 AM EST",
+    "description": "Progreso, Mexico Arrival (UTC) Feb 13, 13:32 — ET: Feb 13, 08:32 AM EST | Local: Feb 13, 08:32 AM EST",
+    "link": "https://www.vesselfinder.com/ports/MXPGO001",
+    "guid": "6ad71988a3f3b64e029d16f7f2f7e9180e77b9a7",
+    "pubDate": "Sun, 15 Feb 2026 05:43:50 GMT",
+    "eventUtc": "2026-02-13T13:32:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
   },
   {
     "title": "Disney Treasure Arrived at Gorda Cay, Bahamas at Feb 13, 07:11 AM EST. The local time to the port is Feb 13, 07:11 AM EST",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2025-12-26T10:38:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Arrived at Port Everglades, United States (USA) at Dec 26, 05:33 AM EST. The local time to the port is Dec 26, 05:33 AM EST",
-    "description": "Port Everglades, United States (USA) Arrival (UTC) Dec 26, 10:33 — ET: Dec 26, 05:33 AM EST | Local: Dec 26, 05:33 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "35c1034cee7cc3136297b974ff8dee6605d3df79",
-    "pubDate": "Fri, 26 Dec 2025 11:29:58 GMT",
-    "eventUtc": "2025-12-26T10:33:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Arrived at Cape Canaveral, United States (USA) at Dec 26, 04:02 AM EST. The local time to the port is Dec 26, 04:02 AM EST",
-    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Dec 26, 09:02 — ET: Dec 26, 04:02 AM EST | Local: Dec 26, 04:02 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "18c5aaad0c501c68b9e71c7f2f9f5e8661d75362",
-    "pubDate": "Fri, 26 Dec 2025 09:47:06 GMT",
-    "eventUtc": "2025-12-26T09:02:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
     "source": "vf_ship"
   }
 ]
