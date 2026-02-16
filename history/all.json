@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Departed from Cozumel, Mexico at Feb 16, 05:06 PM EST. The local time to the port is Feb 16, 05:06 PM EST",
+    "description": "Cozumel, Mexico Departure (UTC) Feb 16, 22:06 — ET: Feb 16, 05:06 PM EST | Local: Feb 16, 05:06 PM EST",
+    "link": "https://www.vesselfinder.com/ports/MXCZM001",
+    "guid": "b9fa71b4d5115b38fc392fae4bc09a8d67db50ea",
+    "pubDate": "Mon, 16 Feb 2026 22:50:38 GMT",
+    "eventUtc": "2026-02-16T22:06:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Departed from Cape Canaveral, United States (USA) at Feb 16, 04:40 PM EST. The local time to the port is Feb 16, 04:40 PM EST",
     "description": "Cape Canaveral, United States (USA) Departure (UTC) Feb 16, 21:40 — ET: Feb 16, 04:40 PM EST | Local: Feb 16, 04:40 PM EST",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2025-12-27T23:03:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Departed from Nassau, Bahamas at Dec 27, 05:46 PM EST. The local time to the port is Dec 27, 05:46 PM EST",
-    "description": "Nassau, Bahamas Departure (UTC) Dec 27, 22:46 — ET: Dec 27, 05:46 PM EST | Local: Dec 27, 05:46 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "424144fbe90f6defbfa98274fbc05db5b5aade23",
-    "pubDate": "Sat, 27 Dec 2025 22:56:51 GMT",
-    "eventUtc": "2025-12-27T22:46:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
     "source": "vf_ship"
   }
 ]
