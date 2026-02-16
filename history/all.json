@@ -231,6 +231,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Wonder Departed from Honolulu, United States (USA) at Feb 15, 11:32 PM EST. The local time to the port is Feb 15, 11:32 PM EST",
+    "description": "Honolulu, United States (USA) Departure (UTC) Feb 16, 04:32 — ET: Feb 15, 11:32 PM EST | Local: Feb 15, 11:32 PM EST",
+    "link": "https://www.vesselfinder.com/ports/USHNL001",
+    "guid": "799da8ff887a62ae2d84a61ff8dd91aeffe39ccb",
+    "pubDate": "Mon, 16 Feb 2026 05:02:42 GMT",
+    "eventUtc": "2026-02-16T04:32:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Departed from Cape Canaveral, United States (USA) at Feb 15, 06:12 PM EST. The local time to the port is Feb 15, 06:12 PM EST",
     "description": "Cape Canaveral, United States (USA) Departure (UTC) Feb 15, 23:12 — ET: Feb 15, 06:12 PM EST | Local: Feb 15, 06:12 PM EST",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2025-12-27T11:00:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Progreso, Mexico at Dec 26, 07:15 PM EST. The local time to the port is Dec 26, 07:15 PM EST",
-    "description": "Progreso, Mexico Departure (UTC) Dec 27, 00:15 — ET: Dec 26, 07:15 PM EST | Local: Dec 26, 07:15 PM EST",
-    "link": "https://www.vesselfinder.com/ports/MXPGO001",
-    "guid": "85c70e083be8a9c1a490f4cf36ae86c3a7858298",
-    "pubDate": "Sun, 28 Dec 2025 02:10:16 GMT",
-    "eventUtc": "2025-12-27T00:15:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
