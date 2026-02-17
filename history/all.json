@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Nassau, Bahamas at Feb 17, 07:26 AM EST. The local time to the port is Feb 17, 07:26 AM EST",
+    "description": "Nassau, Bahamas Arrival (UTC) Feb 17, 12:26 — ET: Feb 17, 07:26 AM EST | Local: Feb 17, 07:26 AM EST",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "957afbe1f7d80c46c73e95d5282c9f7265d4c6f8",
+    "pubDate": "Tue, 17 Feb 2026 13:51:06 GMT",
+    "eventUtc": "2026-02-17T12:26:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Arrived at Saint Thomas, US Virgin Islands at Feb 17, 05:46 AM EST. The local time to the port is Feb 17, 05:46 AM EST",
     "description": "Saint Thomas, US Virgin Islands Arrival (UTC) Feb 17, 10:46 — ET: Feb 17, 05:46 AM EST | Local: Feb 17, 05:46 AM EST",
     "link": "https://www.vesselfinder.com/ports/VISTT001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2025-12-28T11:53:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Arrived at Galveston, United States (USA) at Dec 28, 05:34 AM EST. The local time to the port is Dec 28, 05:34 AM EST",
-    "description": "Galveston, United States (USA) Arrival (UTC) Dec 28, 10:34 — ET: Dec 28, 05:34 AM EST | Local: Dec 28, 05:34 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USGLS001",
-    "guid": "4a1a74842dda361abee74cfd3caf6d560ea376f8",
-    "pubDate": "Sun, 28 Dec 2025 11:31:01 GMT",
-    "eventUtc": "2025-12-28T10:34:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
