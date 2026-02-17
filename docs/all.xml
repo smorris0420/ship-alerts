@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Tue, 17 Feb 2026 15:40:58 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 17 Feb 2026 16:42:30 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,13 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Magic Arrived at Cozumel, Mexico at Feb 17, 10:53 AM EST. The local time to the port is Feb 17, 10:53 AM EST</title>
+    <link>https://www.vesselfinder.com/ports/MXCZM001</link>
+    <guid isPermaLink="false">02513190ef376d6d84c38b0bc1d9ee3a6f7f1337</guid>
+    <pubDate>Tue, 17 Feb 2026 16:39:28 GMT</pubDate>
+    <description><![CDATA[Cozumel, Mexico Arrival (UTC) Feb 17, 15:53 — ET: Feb 17, 10:53 AM EST | Local: Feb 17, 10:53 AM EST]]></description>
   </item>
   <item>
     <title>Disney Dream Arrived at Nassau, Bahamas at Feb 17, 07:26 AM EST. The local time to the port is Feb 17, 07:26 AM EST</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">e6dab632f7cbbbe4744ecc38885ccdd9490fd670</guid>
     <pubDate>Sun, 28 Dec 2025 13:11:05 GMT</pubDate>
     <description><![CDATA[Nassau, Bahamas Arrival (UTC) Dec 28, 12:01 — ET: Dec 28, 07:01 AM EST | Local: Dec 28, 07:01 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Wish Arrived at Gorda Cay, Bahamas at Dec 28, 06:53 AM EST. The local time to the port is Dec 28, 06:53 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
-    <guid isPermaLink="false">e513f4c57ef6215466663e8af1d3190a07a385f2</guid>
-    <pubDate>Sun, 28 Dec 2025 12:31:18 GMT</pubDate>
-    <description><![CDATA[Gorda Cay, Bahamas Arrival (UTC) Dec 28, 11:53 — ET: Dec 28, 06:53 AM EST | Local: Dec 28, 06:53 AM EST]]></description>
   </item>
 </channel>
 </rss>
