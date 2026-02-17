@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Nassau, Bahamas at Feb 17, 05:40 PM EST. The local time to the port is Feb 17, 05:40 PM EST",
+    "description": "Nassau, Bahamas Departure (UTC) Feb 17, 22:40 — ET: Feb 17, 05:40 PM EST | Local: Feb 17, 05:40 PM EST",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "7aa36acb2ba129c265fca73c544dcf30dd5404a6",
+    "pubDate": "Tue, 17 Feb 2026 23:06:00 GMT",
+    "eventUtc": "2026-02-17T22:40:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Departed from Saint Thomas, US Virgin Islands at Feb 17, 05:23 PM EST. The local time to the port is Feb 17, 05:23 PM EST",
     "description": "Saint Thomas, US Virgin Islands Departure (UTC) Feb 17, 22:23 — ET: Feb 17, 05:23 PM EST | Local: Feb 17, 05:23 PM EST",
     "link": "https://www.vesselfinder.com/ports/VISTT001",
@@ -5487,16 +5498,5 @@
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
     "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Galveston, United States (USA) at Dec 28, 10:00 AM EST. The local time to the port is Dec 28, 10:00 AM EST",
-    "description": "Galveston, United States (USA) Departure (UTC) Dec 28, 15:00 — ET: Dec 28, 10:00 AM EST | Local: Dec 28, 10:00 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USGLS001",
-    "guid": "f6b3ba1cc6abec07b4a02f7685ffb030c30f1df2",
-    "pubDate": "Sat, 27 Dec 2025 01:06:00 GMT",
-    "eventUtc": "2025-12-28T15:00:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
-    "source": "vf_port"
   }
 ]
