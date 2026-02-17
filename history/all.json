@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Arrived at Saint Thomas, US Virgin Islands at Feb 17, 05:46 AM EST. The local time to the port is Feb 17, 05:46 AM EST",
+    "description": "Saint Thomas, US Virgin Islands Arrival (UTC) Feb 17, 10:46 — ET: Feb 17, 05:46 AM EST | Local: Feb 17, 05:46 AM EST",
+    "link": "https://www.vesselfinder.com/ports/VISTT001",
+    "guid": "e3b6c53b53135c9a7d9ced8ae0a4b9425fe439a4",
+    "pubDate": "Tue, 17 Feb 2026 11:47:39 GMT",
+    "eventUtc": "2026-02-17T10:46:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Departed from Cozumel, Mexico at Feb 16, 05:06 PM EST. The local time to the port is Feb 16, 05:06 PM EST",
     "description": "Cozumel, Mexico Departure (UTC) Feb 16, 22:06 — ET: Feb 16, 05:06 PM EST | Local: Feb 16, 05:06 PM EST",
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2025-12-28T10:34:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Departed from Nassau, Bahamas at Dec 27, 06:03 PM EST. The local time to the port is Dec 27, 06:03 PM EST",
-    "description": "Nassau, Bahamas Departure (UTC) Dec 27, 23:03 — ET: Dec 27, 06:03 PM EST | Local: Dec 27, 06:03 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "4a0ecc6e41bec670f31766deb55b9614b7912204",
-    "pubDate": "Sat, 27 Dec 2025 23:12:24 GMT",
-    "eventUtc": "2025-12-27T23:03:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
     "source": "vf_ship"
   }
 ]
