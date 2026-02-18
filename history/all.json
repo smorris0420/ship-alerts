@@ -231,6 +231,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Departed from Gorda Cay, Bahamas at Feb 17, 04:56 PM EST. The local time to the port is Feb 17, 04:56 PM EST",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Feb 17, 21:56 — ET: Feb 17, 04:56 PM EST | Local: Feb 17, 04:56 PM EST",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "e3d174b2d06e078df5431a135fdfbfcdf380cc5e",
+    "pubDate": "Wed, 18 Feb 2026 02:56:05 GMT",
+    "eventUtc": "2026-02-17T21:56:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Magic Departed from Cozumel, Mexico at Feb 17, 03:49 PM EST. The local time to the port is Feb 17, 03:49 PM EST",
+    "description": "Cozumel, Mexico Departure (UTC) Feb 17, 20:49 — ET: Feb 17, 03:49 PM EST | Local: Feb 17, 03:49 PM EST",
+    "link": "https://www.vesselfinder.com/ports/MXCZM001",
+    "guid": "7165a07fb5a149e12b6ab19f40382ba47305928b",
+    "pubDate": "Wed, 18 Feb 2026 02:57:50 GMT",
+    "eventUtc": "2026-02-17T20:49:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Departed from Honolulu, United States (USA) at Feb 17, 01:22 PM EST. The local time to the port is Feb 17, 01:22 PM EST",
     "description": "Honolulu, United States (USA) Departure (UTC) Feb 17, 18:22 — ET: Feb 17, 01:22 PM EST | Local: Feb 17, 01:22 PM EST",
     "link": "https://www.vesselfinder.com/ports/USHNL001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2025-12-28T22:48:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Departed from Gorda Cay, Bahamas at Dec 28, 05:02 PM EST. The local time to the port is Dec 28, 05:02 PM EST",
-    "description": "Gorda Cay, Bahamas Departure (UTC) Dec 28, 22:02 — ET: Dec 28, 05:02 PM EST | Local: Dec 28, 05:02 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "de49a34b325245b732bd890fc7d6a907a664a363",
-    "pubDate": "Sun, 28 Dec 2025 22:22:25 GMT",
-    "eventUtc": "2025-12-28T22:02:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Arrived at Sydney, Australia at Dec 28, 02:34 PM EST. The local time to the port is Dec 29, 06:34 AM AEDT",
-    "description": "Sydney, Australia Arrival (UTC) Dec 28, 19:34 — ET: Dec 28, 02:34 PM EST | Local: Dec 29, 06:34 AM AEDT",
-    "link": "https://www.vesselfinder.com/ports/AUSYD002",
-    "guid": "e353b6943129b9ceb5150d6f22aa8a706aaf82e3",
-    "pubDate": "Sun, 28 Dec 2025 20:22:14 GMT",
-    "eventUtc": "2025-12-28T19:34:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
     "source": "vf_ship"
   }
 ]
