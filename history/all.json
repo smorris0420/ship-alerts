@@ -209,6 +209,39 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Arrived at Gorda Cay, Bahamas at Feb 18, 07:46 AM EST. The local time to the port is Feb 18, 07:46 AM EST",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Feb 18, 12:46 — ET: Feb 18, 07:46 AM EST | Local: Feb 18, 07:46 AM EST",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "d18a4412851d9ac523d23481a92c0f6dcbb866d8",
+    "pubDate": "Wed, 18 Feb 2026 13:52:35 GMT",
+    "eventUtc": "2026-02-18T12:46:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Fantasy Arrived at Nassau, Bahamas at Feb 18, 07:13 AM EST. The local time to the port is Feb 18, 07:13 AM EST",
+    "description": "Nassau, Bahamas Arrival (UTC) Feb 18, 12:13 — ET: Feb 18, 07:13 AM EST | Local: Feb 18, 07:13 AM EST",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "a71c522a2f5409d492e655d075656e9ab9cef4b2",
+    "pubDate": "Wed, 18 Feb 2026 13:49:34 GMT",
+    "eventUtc": "2026-02-18T12:13:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Treasure Arrived at Road Town, Tortola, British Virgin Islands at Feb 18, 06:39 AM EST. The local time to the port is Feb 18, 07:39 AM AST",
+    "description": "Road Town, Tortola, British Virgin Islands Arrival (UTC) Feb 18, 11:39 — ET: Feb 18, 06:39 AM EST | Local: Feb 18, 07:39 AM AST",
+    "link": "https://www.vesselfinder.com/ports/VGRAD001",
+    "guid": "492a59fd2b3e58f3e4ccb8596f70b88d089a81d1",
+    "pubDate": "Wed, 18 Feb 2026 13:49:19 GMT",
+    "eventUtc": "2026-02-18T11:39:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Nassau, Bahamas at Feb 17, 05:40 PM EST. The local time to the port is Feb 17, 05:40 PM EST",
     "description": "Nassau, Bahamas Departure (UTC) Feb 17, 22:40 — ET: Feb 17, 05:40 PM EST | Local: Feb 17, 05:40 PM EST",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -5464,39 +5497,6 @@
     "eventUtc": "2025-12-29T07:46:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Departed from Nassau, Bahamas at Dec 28, 06:12 PM EST. The local time to the port is Dec 28, 06:12 PM EST",
-    "description": "Nassau, Bahamas Departure (UTC) Dec 28, 23:12 — ET: Dec 28, 06:12 PM EST | Local: Dec 28, 06:12 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "09db1a410695c5ff56ef3f28613734013af55ee3",
-    "pubDate": "Mon, 29 Dec 2025 15:39:59 GMT",
-    "eventUtc": "2025-12-28T23:12:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Nassau, Bahamas at Dec 28, 06:02 PM EST. The local time to the port is Dec 28, 06:02 PM EST",
-    "description": "Nassau, Bahamas Departure (UTC) Dec 28, 23:02 — ET: Dec 28, 06:02 PM EST | Local: Dec 28, 06:02 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "ecd18896f07e1999248e7062ab6eed25d140fd29",
-    "pubDate": "Mon, 29 Dec 2025 02:32:16 GMT",
-    "eventUtc": "2025-12-28T23:02:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Galveston, United States (USA) at Dec 28, 05:48 PM EST. The local time to the port is Dec 28, 05:48 PM EST",
-    "description": "Galveston, United States (USA) Departure (UTC) Dec 28, 22:48 — ET: Dec 28, 05:48 PM EST | Local: Dec 28, 05:48 PM EST",
-    "link": "https://www.vesselfinder.com/ports/USGLS001",
-    "guid": "1cea02a94edfb6327657664bbab1d6c6b8fa4fca",
-    "pubDate": "Sun, 28 Dec 2025 22:55:38 GMT",
-    "eventUtc": "2025-12-28T22:48:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]

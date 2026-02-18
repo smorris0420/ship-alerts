@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Wed, 18 Feb 2026 12:33:04 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 18 Feb 2026 13:52:37 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,27 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Destiny Arrived at Gorda Cay, Bahamas at Feb 18, 07:46 AM EST. The local time to the port is Feb 18, 07:46 AM EST</title>
+    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
+    <guid isPermaLink="false">d18a4412851d9ac523d23481a92c0f6dcbb866d8</guid>
+    <pubDate>Wed, 18 Feb 2026 13:52:35 GMT</pubDate>
+    <description><![CDATA[Gorda Cay, Bahamas Arrival (UTC) Feb 18, 12:46 — ET: Feb 18, 07:46 AM EST | Local: Feb 18, 07:46 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Fantasy Arrived at Nassau, Bahamas at Feb 18, 07:13 AM EST. The local time to the port is Feb 18, 07:13 AM EST</title>
+    <link>https://www.vesselfinder.com/ports/BSNAS001</link>
+    <guid isPermaLink="false">a71c522a2f5409d492e655d075656e9ab9cef4b2</guid>
+    <pubDate>Wed, 18 Feb 2026 13:49:34 GMT</pubDate>
+    <description><![CDATA[Nassau, Bahamas Arrival (UTC) Feb 18, 12:13 — ET: Feb 18, 07:13 AM EST | Local: Feb 18, 07:13 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Treasure Arrived at Road Town, Tortola, British Virgin Islands at Feb 18, 06:39 AM EST. The local time to the port is Feb 18, 07:39 AM AST</title>
+    <link>https://www.vesselfinder.com/ports/VGRAD001</link>
+    <guid isPermaLink="false">492a59fd2b3e58f3e4ccb8596f70b88d089a81d1</guid>
+    <pubDate>Wed, 18 Feb 2026 13:49:19 GMT</pubDate>
+    <description><![CDATA[Road Town, Tortola, British Virgin Islands Arrival (UTC) Feb 18, 11:39 — ET: Feb 18, 06:39 AM EST | Local: Feb 18, 07:39 AM AST]]></description>
   </item>
   <item>
     <title>Disney Dream Departed from Nassau, Bahamas at Feb 17, 05:40 PM EST. The local time to the port is Feb 17, 05:40 PM EST</title>
@@ -3485,27 +3506,6 @@
     <guid isPermaLink="false">0393ffabe8d97196877bda94825adb6bbf7eba35</guid>
     <pubDate>Mon, 29 Dec 2025 07:54:14 GMT</pubDate>
     <description><![CDATA[Sydney, Australia Departure (UTC) Dec 29, 07:46 — ET: Dec 29, 02:46 AM EST | Local: Dec 29, 06:46 PM AEDT]]></description>
-  </item>
-  <item>
-    <title>Disney Fantasy Departed from Nassau, Bahamas at Dec 28, 06:12 PM EST. The local time to the port is Dec 28, 06:12 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/BSNAS001</link>
-    <guid isPermaLink="false">09db1a410695c5ff56ef3f28613734013af55ee3</guid>
-    <pubDate>Mon, 29 Dec 2025 15:39:59 GMT</pubDate>
-    <description><![CDATA[Nassau, Bahamas Departure (UTC) Dec 28, 23:12 — ET: Dec 28, 06:12 PM EST | Local: Dec 28, 06:12 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Dream Departed from Nassau, Bahamas at Dec 28, 06:02 PM EST. The local time to the port is Dec 28, 06:02 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/BSNAS001</link>
-    <guid isPermaLink="false">ecd18896f07e1999248e7062ab6eed25d140fd29</guid>
-    <pubDate>Mon, 29 Dec 2025 02:32:16 GMT</pubDate>
-    <description><![CDATA[Nassau, Bahamas Departure (UTC) Dec 28, 23:02 — ET: Dec 28, 06:02 PM EST | Local: Dec 28, 06:02 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Magic Departed from Galveston, United States (USA) at Dec 28, 05:48 PM EST. The local time to the port is Dec 28, 05:48 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/USGLS001</link>
-    <guid isPermaLink="false">1cea02a94edfb6327657664bbab1d6c6b8fa4fca</guid>
-    <pubDate>Sun, 28 Dec 2025 22:55:38 GMT</pubDate>
-    <description><![CDATA[Galveston, United States (USA) Departure (UTC) Dec 28, 22:48 — ET: Dec 28, 05:48 PM EST | Local: Dec 28, 05:48 PM EST]]></description>
   </item>
 </channel>
 </rss>
