@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Departed from Road Town, Tortola, British Virgin Islands at Feb 18, 02:12 PM EST. The local time to the port is Feb 18, 03:12 PM AST",
+    "description": "Road Town, Tortola, British Virgin Islands Departure (UTC) Feb 18, 19:12 — ET: Feb 18, 02:12 PM EST | Local: Feb 18, 03:12 PM AST",
+    "link": "https://www.vesselfinder.com/ports/VGRAD001",
+    "guid": "724e4ce468dea90c875a43b9925d1d33daecdb88",
+    "pubDate": "Wed, 18 Feb 2026 19:32:05 GMT",
+    "eventUtc": "2026-02-18T19:12:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Arrived at Gorda Cay, Bahamas at Feb 18, 07:46 AM EST. The local time to the port is Feb 18, 07:46 AM EST",
     "description": "Gorda Cay, Bahamas Arrival (UTC) Feb 18, 12:46 — ET: Feb 18, 07:46 AM EST | Local: Feb 18, 07:46 AM EST",
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2025-12-29T10:41:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Departed from Sydney, Australia at Dec 29, 02:46 AM EST. The local time to the port is Dec 29, 06:46 PM AEDT",
-    "description": "Sydney, Australia Departure (UTC) Dec 29, 07:46 — ET: Dec 29, 02:46 AM EST | Local: Dec 29, 06:46 PM AEDT",
-    "link": "https://www.vesselfinder.com/ports/AUSYD002",
-    "guid": "0393ffabe8d97196877bda94825adb6bbf7eba35",
-    "pubDate": "Mon, 29 Dec 2025 07:54:14 GMT",
-    "eventUtc": "2025-12-29T07:46:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
     "source": "vf_ship"
   }
 ]
