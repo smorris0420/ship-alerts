@@ -220,6 +220,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Progreso, Mexico at Feb 18, 07:58 PM EST. The local time to the port is Feb 18, 07:58 PM EST",
+    "description": "Progreso, Mexico Departure (UTC) Feb 19, 00:58 — ET: Feb 18, 07:58 PM EST | Local: Feb 18, 07:58 PM EST",
+    "link": "https://www.vesselfinder.com/ports/MXPGO001",
+    "guid": "6a1d6af408d8cbb1f4882eb2c3869721fbc77278",
+    "pubDate": "Thu, 19 Feb 2026 11:47:42 GMT",
+    "eventUtc": "2026-02-19T00:58:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Departed from Nassau, Bahamas at Feb 18, 06:15 PM EST. The local time to the port is Feb 18, 06:15 PM EST",
     "description": "Nassau, Bahamas Departure (UTC) Feb 18, 23:15 — ET: Feb 18, 06:15 PM EST | Local: Feb 18, 06:15 PM EST",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -250,6 +261,17 @@
     "eventUtc": "2026-02-18T19:12:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Magic Arrived at Progreso, Mexico at Feb 18, 10:31 AM EST. The local time to the port is Feb 18, 10:31 AM EST",
+    "description": "Progreso, Mexico Arrival (UTC) Feb 18, 15:31 — ET: Feb 18, 10:31 AM EST | Local: Feb 18, 10:31 AM EST",
+    "link": "https://www.vesselfinder.com/ports/MXPGO001",
+    "guid": "fc762b1eb30f283f83852b59c4f0f12d8673cbe6",
+    "pubDate": "Thu, 19 Feb 2026 11:47:41 GMT",
+    "eventUtc": "2026-02-18T15:31:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
     "source": "vf_ship"
   },
   {
@@ -5475,28 +5497,6 @@
     "eventUtc": "2025-12-29T13:34:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Cozumel, Mexico at Dec 29, 07:44 AM EST. The local time to the port is Dec 29, 07:44 AM EST",
-    "description": "Cozumel, Mexico Arrival (UTC) Dec 29, 12:44 — ET: Dec 29, 07:44 AM EST | Local: Dec 29, 07:44 AM EST",
-    "link": "https://www.vesselfinder.com/ports/MXCZM001",
-    "guid": "7b8e717ec7e8d27e58edabd8ead14060ea60206b",
-    "pubDate": "Mon, 29 Dec 2025 13:43:33 GMT",
-    "eventUtc": "2025-12-29T12:44:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Georgetown, Grand Cayman Anch., Cayman Islands at Dec 29, 07:44 AM EST. The local time to the port is Dec 29, 07:44 AM EST",
-    "description": "Georgetown, Grand Cayman Anch., Cayman Islands Arrival (UTC) Dec 29, 12:44 — ET: Dec 29, 07:44 AM EST | Local: Dec 29, 07:44 AM EST",
-    "link": "https://www.vesselfinder.com/ports/KYGEC001",
-    "guid": "15fb6f134b69cea90c575a2edc86b7239a2120d5",
-    "pubDate": "Tue, 30 Dec 2025 15:38:53 GMT",
-    "eventUtc": "2025-12-29T12:44:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
