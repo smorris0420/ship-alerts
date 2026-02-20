@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Arrived at Cape Canaveral, United States (USA) at Feb 20, 05:46 AM EST. The local time to the port is Feb 20, 05:46 AM EST",
+    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Feb 20, 10:46 — ET: Feb 20, 05:46 AM EST | Local: Feb 20, 05:46 AM EST",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "ce86473b6347ac7cd00cdf107835f88e2120746c",
+    "pubDate": "Fri, 20 Feb 2026 11:45:31 GMT",
+    "eventUtc": "2026-02-20T10:46:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Dream Arrived at Port Everglades, United States (USA) at Feb 20, 05:46 AM EST. The local time to the port is Feb 20, 05:46 AM EST",
+    "description": "Port Everglades, United States (USA) Arrival (UTC) Feb 20, 10:46 — ET: Feb 20, 05:46 AM EST | Local: Feb 20, 05:46 AM EST",
+    "link": "https://www.vesselfinder.com/ports/USPEF001",
+    "guid": "f6231b5f49e124d77d108a181925436fb8343165",
+    "pubDate": "Fri, 20 Feb 2026 11:47:47 GMT",
+    "eventUtc": "2026-02-20T10:46:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Arrived at Cape Canaveral, United States (USA) at Feb 20, 04:16 AM EST. The local time to the port is Feb 20, 04:16 AM EST",
     "description": "Cape Canaveral, United States (USA) Arrival (UTC) Feb 20, 09:16 — ET: Feb 20, 04:16 AM EST | Local: Feb 20, 04:16 AM EST",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2025-12-30T13:49:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Arrived at Port Everglades, United States (USA) at Dec 30, 05:47 AM EST. The local time to the port is Dec 30, 05:47 AM EST",
-    "description": "Port Everglades, United States (USA) Arrival (UTC) Dec 30, 10:47 — ET: Dec 30, 05:47 AM EST | Local: Dec 30, 05:47 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "10bbd147a24017a6445bb4c4d732d32da1b780ab",
-    "pubDate": "Tue, 30 Dec 2025 11:27:59 GMT",
-    "eventUtc": "2025-12-30T10:47:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Cozumel, Mexico at Dec 29, 05:15 PM EST. The local time to the port is Dec 29, 05:15 PM EST",
-    "description": "Cozumel, Mexico Departure (UTC) Dec 29, 22:15 — ET: Dec 29, 05:15 PM EST | Local: Dec 29, 05:15 PM EST",
-    "link": "https://www.vesselfinder.com/ports/MXCZM001",
-    "guid": "ff46c6a1ab3159b3ea85d8612542e219bebb6695",
-    "pubDate": "Mon, 29 Dec 2025 22:30:44 GMT",
-    "eventUtc": "2025-12-29T22:15:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
