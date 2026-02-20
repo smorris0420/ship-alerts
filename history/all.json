@@ -209,6 +209,39 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Departed from Gorda Cay, Bahamas at Feb 20, 05:15 PM EST. The local time to the port is Feb 20, 05:15 PM EST",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Feb 20, 22:15 — ET: Feb 20, 05:15 PM EST | Local: Feb 20, 05:15 PM EST",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "b0b52b465944bdad7b2dc79a802400c2d6729b2f",
+    "pubDate": "Fri, 20 Feb 2026 22:40:26 GMT",
+    "eventUtc": "2026-02-20T22:15:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Fantasy Departed from Cape Canaveral, United States (USA) at Feb 20, 05:12 PM EST. The local time to the port is Feb 20, 05:12 PM EST",
+    "description": "Cape Canaveral, United States (USA) Departure (UTC) Feb 20, 22:12 — ET: Feb 20, 05:12 PM EST | Local: Feb 20, 05:12 PM EST",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "d56cbdd9cdd68faead8e2564b18f5d61a72a899d",
+    "pubDate": "Fri, 20 Feb 2026 22:40:33 GMT",
+    "eventUtc": "2026-02-20T22:12:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Wish Departed from Cape Canaveral, United States (USA) at Feb 20, 05:01 PM EST. The local time to the port is Feb 20, 05:01 PM EST",
+    "description": "Cape Canaveral, United States (USA) Departure (UTC) Feb 20, 22:01 — ET: Feb 20, 05:01 PM EST | Local: Feb 20, 05:01 PM EST",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "05f31d9cf25d3c6880400c0cef1c89ebb009b28f",
+    "pubDate": "Fri, 20 Feb 2026 22:40:19 GMT",
+    "eventUtc": "2026-02-20T22:01:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Port Everglades, United States (USA) at Feb 20, 04:12 PM EST. The local time to the port is Feb 20, 04:12 PM EST",
     "description": "Port Everglades, United States (USA) Departure (UTC) Feb 20, 21:12 — ET: Feb 20, 04:12 PM EST | Local: Feb 20, 04:12 PM EST",
     "link": "https://www.vesselfinder.com/ports/USPEF001",
@@ -5464,39 +5497,6 @@
     "eventUtc": "2025-12-31T10:38:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Cozumel, Mexico at Dec 30, 06:38 PM EST. The local time to the port is Dec 30, 06:38 PM EST",
-    "description": "Cozumel, Mexico Departure (UTC) Dec 30, 23:38 — ET: Dec 30, 06:38 PM EST | Local: Dec 30, 06:38 PM EST",
-    "link": "https://www.vesselfinder.com/ports/MXCZM001",
-    "guid": "e62b68251d01b5e5aefa2df65846d885bbff1db3",
-    "pubDate": "Tue, 30 Dec 2025 23:45:05 GMT",
-    "eventUtc": "2025-12-30T23:38:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Departed from Nassau, Bahamas at Dec 30, 05:59 PM EST. The local time to the port is Dec 30, 05:59 PM EST",
-    "description": "Nassau, Bahamas Departure (UTC) Dec 30, 22:59 — ET: Dec 30, 05:59 PM EST | Local: Dec 30, 05:59 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "b234cf4c10d7da2ae7ce485639d1e178cea9842b",
-    "pubDate": "Wed, 31 Dec 2025 01:18:06 GMT",
-    "eventUtc": "2025-12-30T22:59:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Departed from Port Everglades, United States (USA) at Dec 30, 04:22 PM EST. The local time to the port is Dec 30, 04:22 PM EST",
-    "description": "Port Everglades, United States (USA) Departure (UTC) Dec 30, 21:22 — ET: Dec 30, 04:22 PM EST | Local: Dec 30, 04:22 PM EST",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "55bdf4329b0afe13320deb2a672ae7a751c3733f",
-    "pubDate": "Tue, 30 Dec 2025 21:42:06 GMT",
-    "eventUtc": "2025-12-30T21:22:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
     "source": "vf_ship"
   }
 ]
