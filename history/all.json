@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Arrived at Gorda Cay, Bahamas at Feb 20, 09:46 AM EST. The local time to the port is Feb 20, 09:46 AM EST",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Feb 20, 14:46 — ET: Feb 20, 09:46 AM EST | Local: Feb 20, 09:46 AM EST",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "77b07d12f75177eac489c94bf830831fc3f7925b",
+    "pubDate": "Fri, 20 Feb 2026 15:49:23 GMT",
+    "eventUtc": "2026-02-20T14:46:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Arrived at Galveston, United States (USA) at Feb 20, 07:21 AM EST. The local time to the port is Feb 20, 07:21 AM EST",
     "description": "Galveston, United States (USA) Arrival (UTC) Feb 20, 12:21 — ET: Feb 20, 07:21 AM EST | Local: Feb 20, 07:21 AM EST",
     "link": "https://www.vesselfinder.com/ports/USGLS001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2025-12-30T20:45:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Arrived at Cozumel, Mexico at Dec 30, 11:33 AM EST. The local time to the port is Dec 30, 11:33 AM EST",
-    "description": "Cozumel, Mexico Arrival (UTC) Dec 30, 16:33 — ET: Dec 30, 11:33 AM EST | Local: Dec 30, 11:33 AM EST",
-    "link": "https://www.vesselfinder.com/ports/MXCZM001",
-    "guid": "1eef973de3e65f28eab5069eed2f50d12d76d5f8",
-    "pubDate": "Tue, 30 Dec 2025 17:12:57 GMT",
-    "eventUtc": "2025-12-30T16:33:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
