@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Departed from Cape Canaveral, United States (USA) at Feb 21, 05:26 PM EST. The local time to the port is Feb 21, 05:26 PM EST",
+    "description": "Cape Canaveral, United States (USA) Departure (UTC) Feb 21, 22:26 — ET: Feb 21, 05:26 PM EST | Local: Feb 21, 05:26 PM EST",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "9a0972d5155c7bf13c8c412d5f6fe30f0c64f974",
+    "pubDate": "Sat, 21 Feb 2026 22:45:59 GMT",
+    "eventUtc": "2026-02-21T22:26:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Departed from Gorda Cay, Bahamas at Feb 21, 05:05 PM EST. The local time to the port is Feb 21, 05:05 PM EST",
     "description": "Gorda Cay, Bahamas Departure (UTC) Feb 21, 22:05 — ET: Feb 21, 05:05 PM EST | Local: Feb 21, 05:05 PM EST",
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-01-01T21:56:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Arrived at Eden, Australia at Jan 01, 11:49 AM EST. The local time to the port is Jan 02, 03:49 AM AEDT",
-    "description": "Eden, Australia Arrival (UTC) Jan 1, 16:49 — ET: Jan 01, 11:49 AM EST | Local: Jan 02, 03:49 AM AEDT",
-    "link": "https://www.vesselfinder.com/ports/AUQDN001",
-    "guid": "3ade16439e18690dbdda810ca7eca0a5a45c055d",
-    "pubDate": "Fri, 02 Jan 2026 16:39:20 GMT",
-    "eventUtc": "2026-01-01T16:49:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
     "source": "vf_ship"
   }
 ]
