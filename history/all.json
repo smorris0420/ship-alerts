@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Departed from Cape Canaveral, United States (USA) at Feb 22, 01:37 PM EST. The local time to the port is Feb 22, 01:37 PM EST",
+    "description": "Cape Canaveral, United States (USA) Departure (UTC) Feb 22, 18:37 — ET: Feb 22, 01:37 PM EST | Local: Feb 22, 01:37 PM EST",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "b09bfce7b34371d8af53bfd490cadecb9b03644f",
+    "pubDate": "Sun, 22 Feb 2026 18:42:14 GMT",
+    "eventUtc": "2026-02-22T18:37:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Arrived at Cape Canaveral, United States (USA) at Feb 22, 12:11 PM EST. The local time to the port is Feb 22, 12:11 PM EST",
     "description": "Cape Canaveral, United States (USA) Arrival (UTC) Feb 22, 17:11 — ET: Feb 22, 12:11 PM EST | Local: Feb 22, 12:11 PM EST",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5487,16 +5498,5 @@
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
     "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Port Everglades, United States (USA) at Jan 02, 10:00 AM EST. The local time to the port is Jan 02, 10:00 AM EST",
-    "description": "Port Everglades, United States (USA) Departure (UTC) Jan 02, 15:00 — ET: Jan 02, 10:00 AM EST | Local: Jan 02, 10:00 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "9ff47dd84c6b5510097308d8bff39f7a6b39084e",
-    "pubDate": "Thu, 01 Jan 2026 02:37:49 GMT",
-    "eventUtc": "2026-01-02T15:00:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_port"
   }
 ]
