@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Arrived at Cape Canaveral, United States (USA) at Feb 22, 12:11 PM EST. The local time to the port is Feb 22, 12:11 PM EST",
+    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Feb 22, 17:11 — ET: Feb 22, 12:11 PM EST | Local: Feb 22, 12:11 PM EST",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "e03bf18e274b97b9d77572811773b2080ffd804d",
+    "pubDate": "Sun, 22 Feb 2026 17:57:32 GMT",
+    "eventUtc": "2026-02-22T17:11:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Arrived at Nassau, Bahamas at Feb 22, 07:30 AM EST. The local time to the port is Feb 22, 07:30 AM EST",
     "description": "Nassau, Bahamas Arrival (UTC) Feb 22, 12:30 — ET: Feb 22, 07:30 AM EST | Local: Feb 22, 07:30 AM EST",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -5483,17 +5494,6 @@
     "link": "https://www.vesselfinder.com/ports/USPEF001",
     "guid": "9ff47dd84c6b5510097308d8bff39f7a6b39084e",
     "pubDate": "Thu, 01 Jan 2026 02:37:49 GMT",
-    "eventUtc": "2026-01-02T15:00:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_port"
-  },
-  {
-    "title": "Disney Dream Arrived at Port Everglades, United States (USA) at Jan 02, 10:00 AM EST. The local time to the port is Jan 02, 10:00 AM EST",
-    "description": "Port Everglades, United States (USA) Arrival (UTC) Jan 02, 15:00 — ET: Jan 02, 10:00 AM EST | Local: Jan 02, 10:00 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "a01926113e964d299820417136a01b1f0d39b561",
-    "pubDate": "Thu, 01 Jan 2026 02:37:50 GMT",
     "eventUtc": "2026-01-02T15:00:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
