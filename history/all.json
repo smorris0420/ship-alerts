@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Nassau, Bahamas at Feb 22, 07:30 AM EST. The local time to the port is Feb 22, 07:30 AM EST",
+    "description": "Nassau, Bahamas Arrival (UTC) Feb 22, 12:30 — ET: Feb 22, 07:30 AM EST | Local: Feb 22, 07:30 AM EST",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "855b10ce59b72931f9c5340232ee00226f3e9706",
+    "pubDate": "Sun, 22 Feb 2026 13:12:05 GMT",
+    "eventUtc": "2026-02-22T12:30:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Wish Arrived at Gorda Cay, Bahamas at Feb 22, 07:19 AM EST. The local time to the port is Feb 22, 07:19 AM EST",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Feb 22, 12:19 — ET: Feb 22, 07:19 AM EST | Local: Feb 22, 07:19 AM EST",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "539d3b081cf5ec57d06eaa36c7fb823682407ef1",
+    "pubDate": "Sun, 22 Feb 2026 13:09:57 GMT",
+    "eventUtc": "2026-02-22T12:19:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Departed from Cape Canaveral, United States (USA) at Feb 22, 02:44 AM EST. The local time to the port is Feb 22, 02:44 AM EST",
     "description": "Cape Canaveral, United States (USA) Departure (UTC) Feb 22, 07:44 — ET: Feb 22, 02:44 AM EST | Local: Feb 22, 02:44 AM EST",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5476,27 +5498,5 @@
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
     "source": "vf_port"
-  },
-  {
-    "title": "Disney Fantasy Arrived at Nassau, Bahamas at Jan 02, 07:37 AM EST. The local time to the port is Jan 02, 07:37 AM EST",
-    "description": "Nassau, Bahamas Arrival (UTC) Jan 2, 12:37 — ET: Jan 02, 07:37 AM EST | Local: Jan 02, 07:37 AM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "ef2d4ee9f1a55294b742fd21ff06a101e3398d1b",
-    "pubDate": "Fri, 02 Jan 2026 18:18:27 GMT",
-    "eventUtc": "2026-01-02T12:37:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Gorda Cay, Bahamas at Jan 02, 07:27 AM EST. The local time to the port is Jan 02, 07:27 AM EST",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) Jan 2, 12:27 — ET: Jan 02, 07:27 AM EST | Local: Jan 02, 07:27 AM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "023ba77321f2b3dedd340893f916f888e7f5fe36",
-    "pubDate": "Fri, 02 Jan 2026 13:09:22 GMT",
-    "eventUtc": "2026-01-02T12:27:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
   }
 ]
