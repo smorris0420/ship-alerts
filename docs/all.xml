@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Mon, 23 Feb 2026 22:08:21 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 23 Feb 2026 23:10:58 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,20 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Magic Departed from Cozumel, Mexico at Feb 23, 05:33 PM EST. The local time to the port is Feb 23, 05:33 PM EST</title>
+    <link>https://www.vesselfinder.com/ports/MXCZM001</link>
+    <guid isPermaLink="false">5394fe832ddb8bc82270a5258b19966de2be6d5c</guid>
+    <pubDate>Mon, 23 Feb 2026 23:08:01 GMT</pubDate>
+    <description><![CDATA[Cozumel, Mexico Departure (UTC) Feb 23, 22:33 — ET: Feb 23, 05:33 PM EST | Local: Feb 23, 05:33 PM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Treasure Departed from Cozumel, Mexico at Feb 23, 05:11 PM EST. The local time to the port is Feb 23, 05:11 PM EST</title>
+    <link>https://www.vesselfinder.com/ports/MXCZM001</link>
+    <guid isPermaLink="false">088aa6ef6e486c45cd28aca8d33bcc54ef6cd9fa</guid>
+    <pubDate>Mon, 23 Feb 2026 23:07:04 GMT</pubDate>
+    <description><![CDATA[Cozumel, Mexico Departure (UTC) Feb 23, 22:11 — ET: Feb 23, 05:11 PM EST | Local: Feb 23, 05:11 PM EST]]></description>
   </item>
   <item>
     <title>Disney Destiny Departed from Port Everglades, United States (USA) at Feb 23, 04:39 PM EST. The local time to the port is Feb 23, 04:39 PM EST</title>
@@ -3492,20 +3506,6 @@
     <guid isPermaLink="false">6af6fc63b8c46e02ed9e27c4303c1974e9ecf55a</guid>
     <pubDate>Sun, 04 Jan 2026 10:29:05 GMT</pubDate>
     <description><![CDATA[Cape Canaveral, United States (USA) Arrival (UTC) Jan 4, 09:20 — ET: Jan 04, 04:20 AM EST | Local: Jan 04, 04:20 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Destiny Arrived at Port Everglades, United States (USA) at Jan 04, 04:06 AM EST. The local time to the port is Jan 04, 04:06 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/USPEF001</link>
-    <guid isPermaLink="false">793fc0a45fd22f35ff770d1ee65c379440862561</guid>
-    <pubDate>Sun, 04 Jan 2026 09:52:00 GMT</pubDate>
-    <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) Jan 4, 09:06 — ET: Jan 04, 04:06 AM EST | Local: Jan 04, 04:06 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Wish Departed from Nassau, Bahamas at Jan 03, 05:56 PM EST. The local time to the port is Jan 03, 05:56 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/BSNAS001</link>
-    <guid isPermaLink="false">db5fc3755014d49de338478e44868dd619b90c24</guid>
-    <pubDate>Sat, 03 Jan 2026 23:13:36 GMT</pubDate>
-    <description><![CDATA[Nassau, Bahamas Departure (UTC) Jan 3, 22:56 — ET: Jan 03, 05:56 PM EST | Local: Jan 03, 05:56 PM EST]]></description>
   </item>
 </channel>
 </rss>

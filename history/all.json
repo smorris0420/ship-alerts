@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Cozumel, Mexico at Feb 23, 05:33 PM EST. The local time to the port is Feb 23, 05:33 PM EST",
+    "description": "Cozumel, Mexico Departure (UTC) Feb 23, 22:33 — ET: Feb 23, 05:33 PM EST | Local: Feb 23, 05:33 PM EST",
+    "link": "https://www.vesselfinder.com/ports/MXCZM001",
+    "guid": "5394fe832ddb8bc82270a5258b19966de2be6d5c",
+    "pubDate": "Mon, 23 Feb 2026 23:08:01 GMT",
+    "eventUtc": "2026-02-23T22:33:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Treasure Departed from Cozumel, Mexico at Feb 23, 05:11 PM EST. The local time to the port is Feb 23, 05:11 PM EST",
+    "description": "Cozumel, Mexico Departure (UTC) Feb 23, 22:11 — ET: Feb 23, 05:11 PM EST | Local: Feb 23, 05:11 PM EST",
+    "link": "https://www.vesselfinder.com/ports/MXCZM001",
+    "guid": "088aa6ef6e486c45cd28aca8d33bcc54ef6cd9fa",
+    "pubDate": "Mon, 23 Feb 2026 23:07:04 GMT",
+    "eventUtc": "2026-02-23T22:11:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Departed from Port Everglades, United States (USA) at Feb 23, 04:39 PM EST. The local time to the port is Feb 23, 04:39 PM EST",
     "description": "Port Everglades, United States (USA) Departure (UTC) Feb 23, 21:39 — ET: Feb 23, 04:39 PM EST | Local: Feb 23, 04:39 PM EST",
     "link": "https://www.vesselfinder.com/ports/USPEF001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-01-04T09:20:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Arrived at Port Everglades, United States (USA) at Jan 04, 04:06 AM EST. The local time to the port is Jan 04, 04:06 AM EST",
-    "description": "Port Everglades, United States (USA) Arrival (UTC) Jan 4, 09:06 — ET: Jan 04, 04:06 AM EST | Local: Jan 04, 04:06 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "793fc0a45fd22f35ff770d1ee65c379440862561",
-    "pubDate": "Sun, 04 Jan 2026 09:52:00 GMT",
-    "eventUtc": "2026-01-04T09:06:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Departed from Nassau, Bahamas at Jan 03, 05:56 PM EST. The local time to the port is Jan 03, 05:56 PM EST",
-    "description": "Nassau, Bahamas Departure (UTC) Jan 3, 22:56 — ET: Jan 03, 05:56 PM EST | Local: Jan 03, 05:56 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "db5fc3755014d49de338478e44868dd619b90c24",
-    "pubDate": "Sat, 03 Jan 2026 23:13:36 GMT",
-    "eventUtc": "2026-01-03T22:56:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
     "source": "vf_ship"
   }
 ]
