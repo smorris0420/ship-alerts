@@ -209,6 +209,39 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Fantasy Departed from Cape Canaveral, United States (USA) at Feb 25, 09:45 AM EST. The local time to the port is Feb 25, 09:45 AM EST",
+    "description": "Cape Canaveral, United States (USA) Departure (UTC) Feb 25, 14:45 — ET: Feb 25, 09:45 AM EST | Local: Feb 25, 09:45 AM EST",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "a32ccdeca8811d8d532071c7c723557eaf79565b",
+    "pubDate": "Tue, 24 Feb 2026 16:45:12 GMT",
+    "eventUtc": "2026-02-25T14:45:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_port"
+  },
+  {
+    "title": "Disney Fantasy Arrived at Cape Canaveral, United States (USA) at Feb 25, 09:45 AM EST. The local time to the port is Feb 25, 09:45 AM EST",
+    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Feb 25, 14:45 — ET: Feb 25, 09:45 AM EST | Local: Feb 25, 09:45 AM EST",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "ef9587f2ae66033a714d90555579deff27b241fb",
+    "pubDate": "Tue, 24 Feb 2026 16:45:13 GMT",
+    "eventUtc": "2026-02-25T14:45:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_port"
+  },
+  {
+    "title": "Disney Wish Departed from Cape Canaveral, United States (USA) at Feb 24, 11:11 AM EST. The local time to the port is Feb 24, 11:11 AM EST",
+    "description": "Cape Canaveral, United States (USA) Departure (UTC) Feb 24, 16:11 — ET: Feb 24, 11:11 AM EST | Local: Feb 24, 11:11 AM EST",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "b3a0ba94e833e26bf099436c625c83841f52ba8e",
+    "pubDate": "Tue, 24 Feb 2026 16:44:03 GMT",
+    "eventUtc": "2026-02-24T16:11:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Departed from Tokyo, Japan at Feb 24, 08:55 AM EST. The local time to the port is Feb 24, 08:55 AM EST",
     "description": "Tokyo, Japan Departure (UTC) Feb 24, 13:55 — ET: Feb 24, 08:55 AM EST | Local: Feb 24, 08:55 AM EST",
     "link": "https://www.vesselfinder.com/ports/JPTYO001",
@@ -5464,39 +5497,6 @@
     "eventUtc": "2026-01-04T22:16:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Departed from Gorda Cay, Bahamas at Jan 04, 04:59 PM EST. The local time to the port is Jan 04, 04:59 PM EST",
-    "description": "Gorda Cay, Bahamas Departure (UTC) Jan 4, 21:59 — ET: Jan 04, 04:59 PM EST | Local: Jan 04, 04:59 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "5352d5997b0f36d2d1aca281dd12bdd972cfaa47",
-    "pubDate": "Mon, 05 Jan 2026 02:32:12 GMT",
-    "eventUtc": "2026-01-04T21:59:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Departed from Cape Canaveral, United States (USA) at Jan 04, 04:30 PM EST. The local time to the port is Jan 04, 04:30 PM EST",
-    "description": "Cape Canaveral, United States (USA) Departure (UTC) Jan 4, 21:30 — ET: Jan 04, 04:30 PM EST | Local: Jan 04, 04:30 PM EST",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "cb5649d92d2058b8b76e1ae5e2391dde05f7666c",
-    "pubDate": "Sun, 04 Jan 2026 21:43:20 GMT",
-    "eventUtc": "2026-01-04T21:30:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Arrived at Hobart, Australia at Jan 04, 04:19 PM EST. The local time to the port is Jan 05, 08:19 AM AEDT",
-    "description": "Hobart, Australia Arrival (UTC) Jan 4, 21:19 — ET: Jan 04, 04:19 PM EST | Local: Jan 05, 08:19 AM AEDT",
-    "link": "https://www.vesselfinder.com/ports/AUHBA001",
-    "guid": "fb953b4dceae456b3e4b87f9e9fb330287181bc4",
-    "pubDate": "Sun, 04 Jan 2026 21:56:25 GMT",
-    "eventUtc": "2026-01-04T21:19:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
     "source": "vf_ship"
   }
 ]
