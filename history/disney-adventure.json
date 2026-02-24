@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Adventure Departed from Tokyo, Japan at Feb 24, 08:55 AM EST. The local time to the port is Feb 24, 08:55 AM EST",
+    "description": "Tokyo, Japan Departure (UTC) Feb 24, 13:55 — ET: Feb 24, 08:55 AM EST | Local: Feb 24, 08:55 AM EST",
+    "link": "https://www.vesselfinder.com/ports/JPTYO001",
+    "guid": "4337e5832e8215c8510666996870552d6d836410",
+    "pubDate": "Tue, 24 Feb 2026 14:41:17 GMT",
+    "eventUtc": "2026-02-24T13:55:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Arrived at Tokyo, Japan at Feb 23, 05:39 PM EST. The local time to the port is Feb 23, 05:39 PM EST",
     "description": "Tokyo, Japan Arrival (UTC) Feb 23, 22:39 — ET: Feb 23, 05:39 PM EST | Local: Feb 23, 05:39 PM EST",
     "link": "https://www.vesselfinder.com/ports/JPTYO001",
