@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Nassau, Bahamas at Feb 24, 07:29 AM EST. The local time to the port is Feb 24, 07:29 AM EST",
+    "description": "Nassau, Bahamas Arrival (UTC) Feb 24, 12:29 — ET: Feb 24, 07:29 AM EST | Local: Feb 24, 07:29 AM EST",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "99345e8174a1b6f6d729446d2f7def2dfa64f91a",
+    "pubDate": "Tue, 24 Feb 2026 13:51:23 GMT",
+    "eventUtc": "2026-02-24T12:29:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Arrived at Tokyo, Japan at Feb 23, 05:39 PM EST. The local time to the port is Feb 23, 05:39 PM EST",
     "description": "Tokyo, Japan Arrival (UTC) Feb 23, 22:39 — ET: Feb 23, 05:39 PM EST | Local: Feb 23, 05:39 PM EST",
     "link": "https://www.vesselfinder.com/ports/JPTYO001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-01-04T12:57:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Arrived at Nassau, Bahamas at Jan 04, 07:43 AM EST. The local time to the port is Jan 04, 07:43 AM EST",
-    "description": "Nassau, Bahamas Arrival (UTC) Jan 4, 12:43 — ET: Jan 04, 07:43 AM EST | Local: Jan 04, 07:43 AM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "259aa4e28ee7788d0aad513079848f95c81d679b",
-    "pubDate": "Sun, 04 Jan 2026 13:22:53 GMT",
-    "eventUtc": "2026-01-04T12:43:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
     "source": "vf_ship"
   }
 ]
