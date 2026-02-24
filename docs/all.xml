@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Tue, 24 Feb 2026 22:51:51 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 24 Feb 2026 23:22:48 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -153,6 +153,13 @@
     <guid isPermaLink="false">ef9587f2ae66033a714d90555579deff27b241fb</guid>
     <pubDate>Tue, 24 Feb 2026 16:45:13 GMT</pubDate>
     <description><![CDATA[Cape Canaveral, United States (USA) Arrival (UTC) Feb 25, 14:45 — ET: Feb 25, 09:45 AM EST | Local: Feb 25, 09:45 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Dream Departed from Nassau, Bahamas at Feb 24, 05:52 PM EST. The local time to the port is Feb 24, 05:52 PM EST</title>
+    <link>https://www.vesselfinder.com/ports/BSNAS001</link>
+    <guid isPermaLink="false">3fe4a6ca845653c6b86549ee583f59b9346fc7c0</guid>
+    <pubDate>Tue, 24 Feb 2026 23:20:34 GMT</pubDate>
+    <description><![CDATA[Nassau, Bahamas Departure (UTC) Feb 24, 22:52 — ET: Feb 24, 05:52 PM EST | Local: Feb 24, 05:52 PM EST]]></description>
   </item>
   <item>
     <title>Disney Wish Arrived at Nassau, Bahamas at Feb 24, 04:34 PM EST. The local time to the port is Feb 24, 04:34 PM EST</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">5518b845fbce278ccf5a4ba70542bbe0fce0584f</guid>
     <pubDate>Mon, 05 Jan 2026 11:40:53 GMT</pubDate>
     <description><![CDATA[Cape Canaveral, United States (USA) Arrival (UTC) Jan 5, 10:43 — ET: Jan 05, 05:43 AM EST | Local: Jan 05, 05:43 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Wonder Departed from Hobart, Australia at Jan 05, 02:06 AM EST. The local time to the port is Jan 05, 06:06 PM AEDT</title>
-    <link>https://www.vesselfinder.com/ports/AUHBA001</link>
-    <guid isPermaLink="false">d01c927fe3ff92efe42f371bfb2b48256df92766</guid>
-    <pubDate>Mon, 05 Jan 2026 07:40:36 GMT</pubDate>
-    <description><![CDATA[Hobart, Australia Departure (UTC) Jan 5, 07:06 — ET: Jan 05, 02:06 AM EST | Local: Jan 05, 06:06 PM AEDT]]></description>
   </item>
 </channel>
 </rss>
