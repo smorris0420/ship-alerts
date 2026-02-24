@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Tue, 24 Feb 2026 22:06:34 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 24 Feb 2026 22:51:51 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -153,6 +153,13 @@
     <guid isPermaLink="false">ef9587f2ae66033a714d90555579deff27b241fb</guid>
     <pubDate>Tue, 24 Feb 2026 16:45:13 GMT</pubDate>
     <description><![CDATA[Cape Canaveral, United States (USA) Arrival (UTC) Feb 25, 14:45 — ET: Feb 25, 09:45 AM EST | Local: Feb 25, 09:45 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Wish Arrived at Nassau, Bahamas at Feb 24, 04:34 PM EST. The local time to the port is Feb 24, 04:34 PM EST</title>
+    <link>https://www.vesselfinder.com/ports/BSNAS001</link>
+    <guid isPermaLink="false">657a98448d07059dfd76d9cd036239ab0812190a</guid>
+    <pubDate>Tue, 24 Feb 2026 22:46:59 GMT</pubDate>
+    <description><![CDATA[Nassau, Bahamas Arrival (UTC) Feb 24, 21:34 — ET: Feb 24, 04:34 PM EST | Local: Feb 24, 04:34 PM EST]]></description>
   </item>
   <item>
     <title>Disney Wish Departed from Nassau, Bahamas at Feb 24, 04:08 PM EST. The local time to the port is Feb 24, 04:08 PM EST</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">d01c927fe3ff92efe42f371bfb2b48256df92766</guid>
     <pubDate>Mon, 05 Jan 2026 07:40:36 GMT</pubDate>
     <description><![CDATA[Hobart, Australia Departure (UTC) Jan 5, 07:06 — ET: Jan 05, 02:06 AM EST | Local: Jan 05, 06:06 PM AEDT]]></description>
-  </item>
-  <item>
-    <title>Disney Magic Departed from Cozumel, Mexico at Jan 04, 06:23 PM EST. The local time to the port is Jan 04, 06:23 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/MXCZM001</link>
-    <guid isPermaLink="false">60203e8b0a73632a37ea37e19a80d5d1993dee63</guid>
-    <pubDate>Sun, 04 Jan 2026 23:35:25 GMT</pubDate>
-    <description><![CDATA[Cozumel, Mexico Departure (UTC) Jan 4, 23:23 — ET: Jan 04, 06:23 PM EST | Local: Jan 04, 06:23 PM EST]]></description>
   </item>
 </channel>
 </rss>
