@@ -22,6 +22,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Departed from Hilo, United States (USA) at Feb 20, 07:10 PM EST. The local time to the port is Feb 20, 07:10 PM EST",
+    "description": "Hilo, United States (USA) Departure (UTC) Feb 21, 00:10 — ET: Feb 20, 07:10 PM EST | Local: Feb 20, 07:10 PM EST",
+    "link": "https://www.vesselfinder.com/ports/USITO001",
+    "guid": "3d6f062fdb9b87cc4a0e1156d65fdc5b4c51f75c",
+    "pubDate": "Wed, 25 Feb 2026 21:03:57 GMT",
+    "eventUtc": "2026-02-21T00:10:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Wonder Arrived at Hilo, United States (USA) at Feb 20, 12:45 PM EST. The local time to the port is Feb 20, 12:45 PM EST",
+    "description": "Hilo, United States (USA) Arrival (UTC) Feb 20, 17:45 — ET: Feb 20, 12:45 PM EST | Local: Feb 20, 12:45 PM EST",
+    "link": "https://www.vesselfinder.com/ports/USITO001",
+    "guid": "45b19093c6341ca5273f5bec64789d60e7bfbc1a",
+    "pubDate": "Wed, 25 Feb 2026 21:03:55 GMT",
+    "eventUtc": "2026-02-20T17:45:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Departed from Honolulu, United States (USA) at Feb 17, 01:22 PM EST. The local time to the port is Feb 17, 01:22 PM EST",
     "description": "Honolulu, United States (USA) Departure (UTC) Feb 17, 18:22 — ET: Feb 17, 01:22 PM EST | Local: Feb 17, 01:22 PM EST",
     "link": "https://www.vesselfinder.com/ports/USHNL001",
