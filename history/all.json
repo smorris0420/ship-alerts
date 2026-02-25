@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Departed from Nassau, Bahamas at Feb 25, 05:56 PM EST. The local time to the port is Feb 25, 05:56 PM EST",
+    "description": "Nassau, Bahamas Departure (UTC) Feb 25, 22:56 — ET: Feb 25, 05:56 PM EST | Local: Feb 25, 05:56 PM EST",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "bfc42b68fe3d88e6e95bb3a4020be2b9ad4129a9",
+    "pubDate": "Wed, 25 Feb 2026 23:22:40 GMT",
+    "eventUtc": "2026-02-25T22:56:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Departed from Galveston, United States (USA) at Feb 25, 05:40 PM EST. The local time to the port is Feb 25, 05:40 PM EST",
     "description": "Galveston, United States (USA) Departure (UTC) Feb 25, 22:40 — ET: Feb 25, 05:40 PM EST | Local: Feb 25, 05:40 PM EST",
     "link": "https://www.vesselfinder.com/ports/USGLS001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-01-06T12:54:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Road Town, Tortola, British Virgin Islands at Jan 06, 06:02 AM EST. The local time to the port is Jan 06, 07:02 AM AST",
-    "description": "Road Town, Tortola, British Virgin Islands Arrival (UTC) Jan 6, 11:02 — ET: Jan 06, 06:02 AM EST | Local: Jan 06, 07:02 AM AST",
-    "link": "https://www.vesselfinder.com/ports/VGRAD001",
-    "guid": "83716fef21c240371fcba0cbfb0a4094295186f9",
-    "pubDate": "Tue, 06 Jan 2026 11:47:30 GMT",
-    "eventUtc": "2026-01-06T11:02:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
