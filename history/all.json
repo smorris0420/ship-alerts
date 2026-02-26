@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Arrived at Vancouver, Canada at Feb 26, 09:44 AM EST. The local time to the port is Feb 26, 06:44 AM PST",
+    "description": "Vancouver, Canada Arrival (UTC) Feb 26, 14:44 — ET: Feb 26, 09:44 AM EST | Local: Feb 26, 06:44 AM PST",
+    "link": "https://www.vesselfinder.com/ports/CAVAN001",
+    "guid": "407f5de528a374adcded52cbd9971807f29d684f",
+    "pubDate": "Thu, 26 Feb 2026 15:41:57 GMT",
+    "eventUtc": "2026-02-26T14:44:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Arrived at Nassau, Bahamas at Feb 26, 08:54 AM EST. The local time to the port is Feb 26, 08:54 AM EST",
     "description": "Nassau, Bahamas Arrival (UTC) Feb 26, 13:54 — ET: Feb 26, 08:54 AM EST | Local: Feb 26, 08:54 AM EST",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -239,6 +250,17 @@
     "eventUtc": "2026-02-25T22:40:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Wish Departed from Gorda Cay, Bahamas at Feb 25, 04:59 PM EST. The local time to the port is Feb 25, 04:59 PM EST",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Feb 25, 21:59 — ET: Feb 25, 04:59 PM EST | Local: Feb 25, 04:59 PM EST",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "a4d76d54452063244d3c82a0fe0c72477001e210",
+    "pubDate": "Thu, 26 Feb 2026 15:39:15 GMT",
+    "eventUtc": "2026-02-25T21:59:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
     "source": "vf_ship"
   },
   {
@@ -283,6 +305,17 @@
     "eventUtc": "2026-02-25T13:42:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Wish Arrived at Gorda Cay, Bahamas at Feb 25, 07:41 AM EST. The local time to the port is Feb 25, 07:41 AM EST",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Feb 25, 12:41 — ET: Feb 25, 07:41 AM EST | Local: Feb 25, 07:41 AM EST",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "ad771847db9e95a39c1036c8ec3233ff2d554948",
+    "pubDate": "Thu, 26 Feb 2026 15:39:13 GMT",
+    "eventUtc": "2026-02-25T12:41:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
     "source": "vf_ship"
   },
   {
@@ -5464,39 +5497,6 @@
     "eventUtc": "2026-01-06T22:22:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Arrived at Eden, Australia at Jan 06, 05:10 PM EST. The local time to the port is Jan 07, 09:10 AM AEDT",
-    "description": "Eden, Australia Arrival (UTC) Jan 6, 22:10 — ET: Jan 06, 05:10 PM EST | Local: Jan 07, 09:10 AM AEDT",
-    "link": "https://www.vesselfinder.com/ports/AUQDN001",
-    "guid": "793a3a4a89fbf219257bfa7592cc5a07a4561b27",
-    "pubDate": "Wed, 07 Jan 2026 05:47:55 GMT",
-    "eventUtc": "2026-01-06T22:10:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Departed from Gorda Cay, Bahamas at Jan 06, 05:06 PM EST. The local time to the port is Jan 06, 05:06 PM EST",
-    "description": "Gorda Cay, Bahamas Departure (UTC) Jan 6, 22:06 — ET: Jan 06, 05:06 PM EST | Local: Jan 06, 05:06 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "5f406d464b3214f34faee3bbba599a706e4d2cb7",
-    "pubDate": "Tue, 06 Jan 2026 22:19:16 GMT",
-    "eventUtc": "2026-01-06T22:06:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Arrived at Nassau, Bahamas at Jan 06, 08:48 AM EST. The local time to the port is Jan 06, 08:48 AM EST",
-    "description": "Nassau, Bahamas Arrival (UTC) Jan 6, 13:48 — ET: Jan 06, 08:48 AM EST | Local: Jan 06, 08:48 AM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "df3a73e40d9653b54bc043bbe74f1c306e64dbe2",
-    "pubDate": "Tue, 06 Jan 2026 14:33:45 GMT",
-    "eventUtc": "2026-01-06T13:48:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
     "source": "vf_ship"
   }
 ]
