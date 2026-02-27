@@ -231,6 +231,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Dream Departed from Port Everglades, United States (USA) at Feb 27, 04:11 PM EST. The local time to the port is Feb 27, 04:11 PM EST",
+    "description": "Port Everglades, United States (USA) Departure (UTC) Feb 27, 21:11 — ET: Feb 27, 04:11 PM EST | Local: Feb 27, 04:11 PM EST",
+    "link": "https://www.vesselfinder.com/ports/USPEF001",
+    "guid": "6f10c770287072e50f2f3d2d8aeb15788e466f0e",
+    "pubDate": "Fri, 27 Feb 2026 21:18:44 GMT",
+    "eventUtc": "2026-02-27T21:11:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Arrived at Gorda Cay, Bahamas at Feb 27, 08:03 AM EST. The local time to the port is Feb 27, 08:03 AM EST",
     "description": "Gorda Cay, Bahamas Arrival (UTC) Feb 27, 13:03 — ET: Feb 27, 08:03 AM EST | Local: Feb 27, 08:03 AM EST",
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-01-07T20:15:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Arrived at Sydney, Australia at Jan 07, 02:42 PM EST. The local time to the port is Jan 08, 06:42 AM AEDT",
-    "description": "Sydney, Australia Arrival (UTC) Jan 7, 19:42 — ET: Jan 07, 02:42 PM EST | Local: Jan 08, 06:42 AM AEDT",
-    "link": "https://www.vesselfinder.com/ports/AUSYD002",
-    "guid": "685faa42c3eee41e6a00ed409222f05ea055a22b",
-    "pubDate": "Wed, 07 Jan 2026 20:23:49 GMT",
-    "eventUtc": "2026-01-07T19:42:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
     "source": "vf_ship"
   }
 ]
