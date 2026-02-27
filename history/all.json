@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Arrived at Cape Canaveral, United States (USA) at Feb 27, 05:46 AM EST. The local time to the port is Feb 27, 05:46 AM EST",
+    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Feb 27, 10:46 — ET: Feb 27, 05:46 AM EST | Local: Feb 27, 05:46 AM EST",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "d917c92fae7658b3e4cb84be7c644e554730e39e",
+    "pubDate": "Fri, 27 Feb 2026 11:46:39 GMT",
+    "eventUtc": "2026-02-27T10:46:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Dream Arrived at Port Everglades, United States (USA) at Feb 27, 05:41 AM EST. The local time to the port is Feb 27, 05:41 AM EST",
+    "description": "Port Everglades, United States (USA) Arrival (UTC) Feb 27, 10:41 — ET: Feb 27, 05:41 AM EST | Local: Feb 27, 05:41 AM EST",
+    "link": "https://www.vesselfinder.com/ports/USPEF001",
+    "guid": "9a4d0b297bd472a53d706e99136832fd4d7a1b18",
+    "pubDate": "Fri, 27 Feb 2026 11:49:01 GMT",
+    "eventUtc": "2026-02-27T10:41:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Departed from Vancouver, Canada at Feb 26, 08:10 PM EST. The local time to the port is Feb 26, 05:10 PM PST",
     "description": "Vancouver, Canada Departure (UTC) Feb 27, 01:10 — ET: Feb 26, 08:10 PM EST | Local: Feb 26, 05:10 PM PST",
     "link": "https://www.vesselfinder.com/ports/CAVAN001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-01-07T12:41:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Arrived at Galveston, United States (USA) at Jan 07, 07:39 AM EST. The local time to the port is Jan 07, 07:39 AM EST",
-    "description": "Galveston, United States (USA) Arrival (UTC) Jan 7, 12:39 — ET: Jan 07, 07:39 AM EST | Local: Jan 07, 07:39 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USGLS001",
-    "guid": "4ebc395928afbca43bb57a85a397368a9811d8c0",
-    "pubDate": "Wed, 07 Jan 2026 13:51:40 GMT",
-    "eventUtc": "2026-01-07T12:39:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Arrived at Nassau, Bahamas at Jan 07, 07:39 AM EST. The local time to the port is Jan 07, 07:39 AM EST",
-    "description": "Nassau, Bahamas Arrival (UTC) Jan 7, 12:39 — ET: Jan 07, 07:39 AM EST | Local: Jan 07, 07:39 AM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "61cf4c3c77b364ead4303cf3a641a90c2e771fa4",
-    "pubDate": "Wed, 07 Jan 2026 13:51:53 GMT",
-    "eventUtc": "2026-01-07T12:39:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
     "source": "vf_ship"
   }
 ]
