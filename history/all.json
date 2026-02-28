@@ -253,6 +253,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Wish Departed from Nassau, Bahamas at Feb 28, 06:31 PM EST. The local time to the port is Feb 28, 06:31 PM EST",
+    "description": "Nassau, Bahamas Departure (UTC) Feb 28, 23:31 — ET: Feb 28, 06:31 PM EST | Local: Feb 28, 06:31 PM EST",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "030c54dde87a0e57097cef78a86d671d4b446d32",
+    "pubDate": "Sat, 28 Feb 2026 23:40:09 GMT",
+    "eventUtc": "2026-02-28T23:31:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Departed from Port Everglades, United States (USA) at Feb 28, 04:25 PM EST. The local time to the port is Feb 28, 04:25 PM EST",
     "description": "Port Everglades, United States (USA) Departure (UTC) Feb 28, 21:25 — ET: Feb 28, 04:25 PM EST | Local: Feb 28, 04:25 PM EST",
     "link": "https://www.vesselfinder.com/ports/USPEF001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-01-09T09:14:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Gorda Cay, Bahamas at Jan 08, 05:10 PM EST. The local time to the port is Jan 08, 05:10 PM EST",
-    "description": "Gorda Cay, Bahamas Departure (UTC) Jan 8, 22:10 — ET: Jan 08, 05:10 PM EST | Local: Jan 08, 05:10 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "f5ded6a07b0d74c18397f901520f361b7e82cb6a",
-    "pubDate": "Thu, 08 Jan 2026 22:25:31 GMT",
-    "eventUtc": "2026-01-08T22:10:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
     "source": "vf_ship"
   }
 ]
