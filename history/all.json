@@ -231,6 +231,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Wish Arrived at Nassau, Bahamas at Feb 28, 08:58 AM EST. The local time to the port is Feb 28, 08:58 AM EST",
+    "description": "Nassau, Bahamas Arrival (UTC) Feb 28, 13:58 — ET: Feb 28, 08:58 AM EST | Local: Feb 28, 08:58 AM EST",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "b0f0034da6c3ceec766a568e879ec2d2d3b981ec",
+    "pubDate": "Sat, 28 Feb 2026 14:45:00 GMT",
+    "eventUtc": "2026-02-28T13:58:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Arrived at Cape Canaveral, United States (USA) at Feb 28, 05:53 AM EST. The local time to the port is Feb 28, 05:53 AM EST",
     "description": "Cape Canaveral, United States (USA) Arrival (UTC) Feb 28, 10:53 — ET: Feb 28, 05:53 AM EST | Local: Feb 28, 05:53 AM EST",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-01-08T10:39:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Departed from Sydney, Australia at Jan 08, 01:56 AM EST. The local time to the port is Jan 08, 05:56 PM AEDT",
-    "description": "Sydney, Australia Departure (UTC) Jan 8, 06:56 — ET: Jan 08, 01:56 AM EST | Local: Jan 08, 05:56 PM AEDT",
-    "link": "https://www.vesselfinder.com/ports/AUSYD002",
-    "guid": "abb72bd19aa999616b669275491610125a482553",
-    "pubDate": "Thu, 08 Jan 2026 07:17:31 GMT",
-    "eventUtc": "2026-01-08T06:56:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
     "source": "vf_ship"
   }
 ]
