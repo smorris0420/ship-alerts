@@ -231,6 +231,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Destiny Arrived at Port Everglades, United States (USA) at Feb 28, 04:36 AM EST. The local time to the port is Feb 28, 04:36 AM EST",
+    "description": "Port Everglades, United States (USA) Arrival (UTC) Feb 28, 09:36 — ET: Feb 28, 04:36 AM EST | Local: Feb 28, 04:36 AM EST",
+    "link": "https://www.vesselfinder.com/ports/USPEF001",
+    "guid": "63552dd70e127fc43d940fb16babd2070c43b8b5",
+    "pubDate": "Sat, 28 Feb 2026 10:22:09 GMT",
+    "eventUtc": "2026-02-28T09:36:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Departed from Gorda Cay, Bahamas at Feb 27, 04:59 PM EST. The local time to the port is Feb 27, 04:59 PM EST",
     "description": "Gorda Cay, Bahamas Departure (UTC) Feb 27, 21:59 — ET: Feb 27, 04:59 PM EST | Local: Feb 27, 04:59 PM EST",
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-01-07T22:50:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Nassau, Bahamas at Jan 07, 05:46 PM EST. The local time to the port is Jan 07, 05:46 PM EST",
-    "description": "Nassau, Bahamas Departure (UTC) Jan 7, 22:46 — ET: Jan 07, 05:46 PM EST | Local: Jan 07, 05:46 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "6960e09756e558931017598a6e82a357fc5f0c5f",
-    "pubDate": "Thu, 08 Jan 2026 01:51:41 GMT",
-    "eventUtc": "2026-01-07T22:46:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
     "source": "vf_ship"
   }
 ]
