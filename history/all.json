@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Arrived at Cozumel, Mexico at Mar 02, 07:12 AM EST. The local time to the port is Mar 02, 07:12 AM EST",
+    "description": "Cozumel, Mexico Arrival (UTC) Mar 2, 12:12 — ET: Mar 02, 07:12 AM EST | Local: Mar 02, 07:12 AM EST",
+    "link": "https://www.vesselfinder.com/ports/MXCZM001",
+    "guid": "cc4567cb12b48831c948c7d341b16576497fa1e2",
+    "pubDate": "Mon, 02 Mar 2026 13:24:18 GMT",
+    "eventUtc": "2026-03-02T12:12:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Arrived at Cape Canaveral, United States (USA) at Mar 02, 05:49 AM EST. The local time to the port is Mar 02, 05:49 AM EST",
     "description": "Cape Canaveral, United States (USA) Arrival (UTC) Mar 2, 10:49 — ET: Mar 02, 05:49 AM EST | Local: Mar 02, 05:49 AM EST",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-01-10T11:06:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Departed from Hobart, Australia at Jan 10, 01:14 AM EST. The local time to the port is Jan 10, 05:14 PM AEDT",
-    "description": "Hobart, Australia Departure (UTC) Jan 10, 06:14 — ET: Jan 10, 01:14 AM EST | Local: Jan 10, 05:14 PM AEDT",
-    "link": "https://www.vesselfinder.com/ports/AUHBA001",
-    "guid": "c40337c368aef168eac89ffecb35f14d93e3a17f",
-    "pubDate": "Sat, 10 Jan 2026 06:45:06 GMT",
-    "eventUtc": "2026-01-10T06:14:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
     "source": "vf_ship"
   }
 ]
