@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Arrived at San Diego, United States (USA) at Mar 02, 09:26 AM EST. The local time to the port is Mar 02, 09:26 AM EST",
+    "description": "San Diego, United States (USA) Arrival (UTC) Mar 2, 14:26 — ET: Mar 02, 09:26 AM EST | Local: Mar 02, 09:26 AM EST",
+    "link": "https://www.vesselfinder.com/ports/USSAN001",
+    "guid": "c2112c7caf7534e82844465c0ffd11c20d14512e",
+    "pubDate": "Mon, 02 Mar 2026 15:03:39 GMT",
+    "eventUtc": "2026-03-02T14:26:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Arrived at Cozumel, Mexico at Mar 02, 07:12 AM EST. The local time to the port is Mar 02, 07:12 AM EST",
     "description": "Cozumel, Mexico Arrival (UTC) Mar 2, 12:12 — ET: Mar 02, 07:12 AM EST | Local: Mar 02, 07:12 AM EST",
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-01-10T12:56:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Cape Canaveral, United States (USA) at Jan 10, 06:06 AM EST. The local time to the port is Jan 10, 06:06 AM EST",
-    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Jan 10, 11:06 — ET: Jan 10, 06:06 AM EST | Local: Jan 10, 06:06 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "6572b3b02dff79e34f1077a8368cedb73f15c70e",
-    "pubDate": "Sat, 10 Jan 2026 11:55:48 GMT",
-    "eventUtc": "2026-01-10T11:06:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
