@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Arrived at Cozumel, Mexico at Mar 03, 11:30 AM EST. The local time to the port is Mar 03, 11:30 AM EST",
+    "description": "Cozumel, Mexico Arrival (UTC) Mar 3, 16:30 — ET: Mar 03, 11:30 AM EST | Local: Mar 03, 11:30 AM EST",
+    "link": "https://www.vesselfinder.com/ports/MXCZM001",
+    "guid": "2cf8d9201ff56160a0f93f41a25dcf33c1faf3bf",
+    "pubDate": "Tue, 03 Mar 2026 18:00:15 GMT",
+    "eventUtc": "2026-03-03T16:30:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Arrived at Nassau, Bahamas at Mar 03, 07:17 AM EST. The local time to the port is Mar 03, 07:17 AM EST",
     "description": "Nassau, Bahamas Arrival (UTC) Mar 3, 12:17 — ET: Mar 03, 07:17 AM EST | Local: Mar 03, 07:17 AM EST",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-01-11T12:32:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Arrived at Galveston, United States (USA) at Jan 11, 06:17 AM EST. The local time to the port is Jan 11, 06:17 AM EST",
-    "description": "Galveston, United States (USA) Arrival (UTC) Jan 11, 11:17 — ET: Jan 11, 06:17 AM EST | Local: Jan 11, 06:17 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USGLS001",
-    "guid": "3582d2a6dd4ec902db8a337fa134e3b5baf035f5",
-    "pubDate": "Sun, 11 Jan 2026 12:02:15 GMT",
-    "eventUtc": "2026-01-11T11:17:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
