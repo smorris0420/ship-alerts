@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Departed from San Diego, United States (USA) at Mar 02, 08:31 PM EST. The local time to the port is Mar 02, 08:31 PM EST",
+    "description": "San Diego, United States (USA) Departure (UTC) Mar 3, 01:31 — ET: Mar 02, 08:31 PM EST | Local: Mar 02, 08:31 PM EST",
+    "link": "https://www.vesselfinder.com/ports/USSAN001",
+    "guid": "04dbfa7c34527ca9cf5da5fe0e1397d4251e10ae",
+    "pubDate": "Tue, 03 Mar 2026 02:46:56 GMT",
+    "eventUtc": "2026-03-03T01:31:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Departed from Cozumel, Mexico at Mar 02, 05:16 PM EST. The local time to the port is Mar 02, 05:16 PM EST",
     "description": "Cozumel, Mexico Departure (UTC) Mar 2, 22:16 — ET: Mar 02, 05:16 PM EST | Local: Mar 02, 05:16 PM EST",
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
@@ -5483,17 +5494,6 @@
     "link": "https://www.vesselfinder.com/ports/USPCV001",
     "guid": "4859aaf99b8c15157813e14b77bc10426afcacf6",
     "pubDate": "Fri, 09 Jan 2026 19:58:56 GMT",
-    "eventUtc": "2026-01-10T18:15:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
-    "source": "vf_port"
-  },
-  {
-    "title": "Disney Fantasy Arrived at Cape Canaveral, United States (USA) at Jan 10, 01:15 PM EST. The local time to the port is Jan 10, 01:15 PM EST",
-    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Jan 10, 18:15 — ET: Jan 10, 01:15 PM EST | Local: Jan 10, 01:15 PM EST",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "6370d9189bc6f9a4170b36bf325715cfa3b8d972",
-    "pubDate": "Fri, 09 Jan 2026 19:58:58 GMT",
     "eventUtc": "2026-01-10T18:15:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
