@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Tue, 03 Mar 2026 21:59:32 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 03 Mar 2026 22:30:21 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -153,6 +153,13 @@
     <guid isPermaLink="false">05443454d55aff3d327ee76314cc9b4eeece9151</guid>
     <pubDate>Tue, 03 Mar 2026 21:57:20 GMT</pubDate>
     <description><![CDATA[Nassau, Bahamas Arrival (UTC) Mar 05, 17:00 — ET: Mar 05, 12:00 PM EST | Local: Mar 05, 12:00 PM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Treasure Departed from Road Town, Tortola, British Virgin Islands at Mar 03, 05:15 PM EST. The local time to the port is Mar 03, 06:15 PM AST</title>
+    <link>https://www.vesselfinder.com/ports/VGRAD001</link>
+    <guid isPermaLink="false">e60785e7fff3154552435c71dd56d2941736a87a</guid>
+    <pubDate>Tue, 03 Mar 2026 22:26:42 GMT</pubDate>
+    <description><![CDATA[Road Town, Tortola, British Virgin Islands Departure (UTC) Mar 3, 22:15 — ET: Mar 03, 05:15 PM EST | Local: Mar 03, 06:15 PM AST]]></description>
   </item>
   <item>
     <title>Disney Magic Arrived at Cozumel, Mexico at Mar 03, 11:30 AM EST. The local time to the port is Mar 03, 11:30 AM EST</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">016d69d4daec289722259ce147ca14b46e9b910e</guid>
     <pubDate>Fri, 09 Jan 2026 22:27:43 GMT</pubDate>
     <description><![CDATA[Galveston, United States (USA) Arrival (UTC) Jan 11, 15:00 — ET: Jan 11, 10:00 AM EST | Local: Jan 11, 10:00 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Destiny Departed from Port Everglades, United States (USA) at Jan 11, 08:45 AM EST. The local time to the port is Jan 11, 08:45 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/USPEF001</link>
-    <guid isPermaLink="false">e0cc274030bc37008b95f3ed7c6cbc6ed92d82f6</guid>
-    <pubDate>Sat, 10 Jan 2026 22:01:00 GMT</pubDate>
-    <description><![CDATA[Port Everglades, United States (USA) Departure (UTC) Jan 11, 13:45 — ET: Jan 11, 08:45 AM EST | Local: Jan 11, 08:45 AM EST]]></description>
   </item>
 </channel>
 </rss>
