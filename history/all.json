@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Nassau, Bahamas at Mar 03, 07:17 AM EST. The local time to the port is Mar 03, 07:17 AM EST",
+    "description": "Nassau, Bahamas Arrival (UTC) Mar 3, 12:17 — ET: Mar 03, 07:17 AM EST | Local: Mar 03, 07:17 AM EST",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "57a5e8a5558a57dae789170d1d35d5759bc93651",
+    "pubDate": "Tue, 03 Mar 2026 13:42:19 GMT",
+    "eventUtc": "2026-03-03T12:17:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Arrived at Singapore, Singapore at Mar 03, 06:40 AM EST. The local time to the port is Mar 03, 06:40 AM EST",
     "description": "Singapore, Singapore Arrival (UTC) Mar 3, 11:40 — ET: Mar 03, 06:40 AM EST | Local: Mar 03, 06:40 AM EST",
     "link": "https://www.vesselfinder.com/ports/SGSIN001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-01-10T22:49:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Cape Canaveral, United States (USA) at Jan 10, 05:25 PM EST. The local time to the port is Jan 10, 05:25 PM EST",
-    "description": "Cape Canaveral, United States (USA) Departure (UTC) Jan 10, 22:25 — ET: Jan 10, 05:25 PM EST | Local: Jan 10, 05:25 PM EST",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "cd609930191700bdccb0a48278ac083de117b608",
-    "pubDate": "Sat, 10 Jan 2026 22:41:17 GMT",
-    "eventUtc": "2026-01-10T22:25:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
