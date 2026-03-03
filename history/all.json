@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Adventure Arrived at Singapore, Singapore at Mar 03, 06:40 AM EST. The local time to the port is Mar 03, 06:40 AM EST",
+    "description": "Singapore, Singapore Arrival (UTC) Mar 3, 11:40 — ET: Mar 03, 06:40 AM EST | Local: Mar 03, 06:40 AM EST",
+    "link": "https://www.vesselfinder.com/ports/SGSIN001",
+    "guid": "c56cc36cb6bc86689ec6bbf255191e956e4911d5",
+    "pubDate": "Tue, 03 Mar 2026 12:29:59 GMT",
+    "eventUtc": "2026-03-03T11:40:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Arrived at Road Town, Tortola, British Virgin Islands at Mar 03, 05:57 AM EST. The local time to the port is Mar 03, 06:57 AM AST",
     "description": "Road Town, Tortola, British Virgin Islands Arrival (UTC) Mar 3, 10:57 — ET: Mar 03, 05:57 AM EST | Local: Mar 03, 06:57 AM AST",
     "link": "https://www.vesselfinder.com/ports/VGRAD001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-01-10T22:25:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Departed from Gorda Cay, Bahamas at Jan 10, 05:07 PM EST. The local time to the port is Jan 10, 05:07 PM EST",
-    "description": "Gorda Cay, Bahamas Departure (UTC) Jan 10, 22:07 — ET: Jan 10, 05:07 PM EST | Local: Jan 10, 05:07 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "18553b80a6bc44105d15b21c8894c169ffd6f85d",
-    "pubDate": "Sat, 10 Jan 2026 22:25:53 GMT",
-    "eventUtc": "2026-01-10T22:07:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
     "source": "vf_ship"
   }
 ]
