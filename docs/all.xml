@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Tue, 03 Mar 2026 18:03:00 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 03 Mar 2026 19:08:32 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -146,6 +146,13 @@
     <guid isPermaLink="false">2cf8d9201ff56160a0f93f41a25dcf33c1faf3bf</guid>
     <pubDate>Tue, 03 Mar 2026 18:00:15 GMT</pubDate>
     <description><![CDATA[Cozumel, Mexico Arrival (UTC) Mar 3, 16:30 — ET: Mar 03, 11:30 AM EST | Local: Mar 03, 11:30 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Wish Arrived at Gorda Cay, Bahamas at Mar 03, 07:49 AM EST. The local time to the port is Mar 03, 07:49 AM EST</title>
+    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
+    <guid isPermaLink="false">ea6a5e0b447b1aca2727321a36c9e61ef7be2e2c</guid>
+    <pubDate>Tue, 03 Mar 2026 19:03:43 GMT</pubDate>
+    <description><![CDATA[Gorda Cay, Bahamas Arrival (UTC) Mar 3, 12:49 — ET: Mar 03, 07:49 AM EST | Local: Mar 03, 07:49 AM EST]]></description>
   </item>
   <item>
     <title>Disney Dream Arrived at Nassau, Bahamas at Mar 03, 07:17 AM EST. The local time to the port is Mar 03, 07:17 AM EST</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">a6677f336083c5b02110bd231e080ecfd7686d0a</guid>
     <pubDate>Sun, 11 Jan 2026 19:37:21 GMT</pubDate>
     <description><![CDATA[Gorda Cay, Bahamas Arrival (UTC) Jan 11, 13:10 — ET: Jan 11, 08:10 AM EST | Local: Jan 11, 08:10 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Dream Arrived at Nassau, Bahamas at Jan 11, 07:32 AM EST. The local time to the port is Jan 11, 07:32 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/BSNAS001</link>
-    <guid isPermaLink="false">3e5edb91c7fc58444ac2ff9ad34a4d90a29cd98c</guid>
-    <pubDate>Sun, 11 Jan 2026 13:38:40 GMT</pubDate>
-    <description><![CDATA[Nassau, Bahamas Arrival (UTC) Jan 11, 12:32 — ET: Jan 11, 07:32 AM EST | Local: Jan 11, 07:32 AM EST]]></description>
   </item>
 </channel>
 </rss>
