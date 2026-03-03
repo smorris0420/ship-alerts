@@ -22,6 +22,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Nassau, Bahamas at Mar 05, 12:00 PM EST. The local time to the port is Mar 05, 12:00 PM EST",
+    "description": "Nassau, Bahamas Departure (UTC) Mar 05, 17:00 — ET: Mar 05, 12:00 PM EST | Local: Mar 05, 12:00 PM EST",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "73624b9b691c7644d3d269cc3bf41421500b64e1",
+    "pubDate": "Tue, 03 Mar 2026 21:57:18 GMT",
+    "eventUtc": "2026-03-05T17:00:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_port"
+  },
+  {
+    "title": "Disney Dream Arrived at Nassau, Bahamas at Mar 05, 12:00 PM EST. The local time to the port is Mar 05, 12:00 PM EST",
+    "description": "Nassau, Bahamas Arrival (UTC) Mar 05, 17:00 — ET: Mar 05, 12:00 PM EST | Local: Mar 05, 12:00 PM EST",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "05443454d55aff3d327ee76314cc9b4eeece9151",
+    "pubDate": "Tue, 03 Mar 2026 21:57:20 GMT",
+    "eventUtc": "2026-03-05T17:00:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_port"
+  },
+  {
     "title": "Disney Dream Arrived at Nassau, Bahamas at Mar 03, 07:17 AM EST. The local time to the port is Mar 03, 07:17 AM EST",
     "description": "Nassau, Bahamas Arrival (UTC) Mar 3, 12:17 — ET: Mar 03, 07:17 AM EST | Local: Mar 03, 07:17 AM EST",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
