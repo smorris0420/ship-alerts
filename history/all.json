@@ -264,6 +264,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Departed from Gorda Cay, Bahamas at Mar 03, 04:51 PM EST. The local time to the port is Mar 03, 04:51 PM EST",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Mar 3, 21:51 — ET: Mar 03, 04:51 PM EST | Local: Mar 03, 04:51 PM EST",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "de05f635add75b8600d4b81914c40771305c9036",
+    "pubDate": "Wed, 04 Mar 2026 03:24:46 GMT",
+    "eventUtc": "2026-03-03T21:51:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Arrived at Cozumel, Mexico at Mar 03, 11:30 AM EST. The local time to the port is Mar 03, 11:30 AM EST",
     "description": "Cozumel, Mexico Arrival (UTC) Mar 3, 16:30 — ET: Mar 03, 11:30 AM EST | Local: Mar 03, 11:30 AM EST",
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
@@ -5483,17 +5494,6 @@
     "link": "https://www.vesselfinder.com/ports/USPEF001",
     "guid": "7d0b947862a993cafddd4c125783ea62284eb505",
     "pubDate": "Sat, 10 Jan 2026 20:45:01 GMT",
-    "eventUtc": "2026-01-11T15:45:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
-    "source": "vf_port"
-  },
-  {
-    "title": "Disney Destiny Arrived at Port Everglades, United States (USA) at Jan 11, 10:45 AM EST. The local time to the port is Jan 11, 10:45 AM EST",
-    "description": "Port Everglades, United States (USA) Arrival (UTC) Jan 11, 15:45 — ET: Jan 11, 10:45 AM EST | Local: Jan 11, 10:45 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "3315d978170bc1b842ea478355f622602ecccb4a",
-    "pubDate": "Sat, 10 Jan 2026 20:45:02 GMT",
     "eventUtc": "2026-01-11T15:45:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
