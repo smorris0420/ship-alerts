@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Wed, 04 Mar 2026 20:02:13 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 04 Mar 2026 20:41:07 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -153,6 +153,13 @@
     <guid isPermaLink="false">05443454d55aff3d327ee76314cc9b4eeece9151</guid>
     <pubDate>Tue, 03 Mar 2026 21:57:20 GMT</pubDate>
     <description><![CDATA[Nassau, Bahamas Arrival (UTC) Mar 05, 17:00 — ET: Mar 05, 12:00 PM EST | Local: Mar 05, 12:00 PM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Treasure Departed from Saint Thomas, US Virgin Islands at Mar 04, 03:14 PM EST. The local time to the port is Mar 04, 03:14 PM EST</title>
+    <link>https://www.vesselfinder.com/ports/VISTT001</link>
+    <guid isPermaLink="false">94be7f9e6ab9ddfdb3a045865cc9e060fc96a4d8</guid>
+    <pubDate>Wed, 04 Mar 2026 20:36:50 GMT</pubDate>
+    <description><![CDATA[Saint Thomas, US Virgin Islands Departure (UTC) Mar 4, 20:14 — ET: Mar 04, 03:14 PM EST | Local: Mar 04, 03:14 PM EST]]></description>
   </item>
   <item>
     <title>Disney Destiny Arrived at Gorda Cay, Bahamas at Mar 04, 07:42 AM EST. The local time to the port is Mar 04, 07:42 AM EST</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">804877974a63a5ec6b76033ecd44d879aa675a8e</guid>
     <pubDate>Mon, 12 Jan 2026 02:20:24 GMT</pubDate>
     <description><![CDATA[Gorda Cay, Bahamas Departure (UTC) Jan 11, 21:55 — ET: Jan 11, 04:55 PM EST | Local: Jan 11, 04:55 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Wonder Arrived at Sydney, Australia at Jan 11, 02:09 PM EST. The local time to the port is Jan 12, 06:09 AM AEDT</title>
-    <link>https://www.vesselfinder.com/ports/AUSYD002</link>
-    <guid isPermaLink="false">b0e42b06cb3a39a246fac7be212cfdea7ebc1162</guid>
-    <pubDate>Sun, 11 Jan 2026 19:40:39 GMT</pubDate>
-    <description><![CDATA[Sydney, Australia Arrival (UTC) Jan 11, 19:09 — ET: Jan 11, 02:09 PM EST | Local: Jan 12, 06:09 AM AEDT]]></description>
   </item>
 </channel>
 </rss>
