@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Wed, 04 Mar 2026 23:29:34 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 04 Mar 2026 23:56:57 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -153,6 +153,13 @@
     <guid isPermaLink="false">05443454d55aff3d327ee76314cc9b4eeece9151</guid>
     <pubDate>Tue, 03 Mar 2026 21:57:20 GMT</pubDate>
     <description><![CDATA[Nassau, Bahamas Arrival (UTC) Mar 05, 17:00 — ET: Mar 05, 12:00 PM EST | Local: Mar 05, 12:00 PM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Fantasy Departed from Nassau, Bahamas at Mar 04, 06:05 PM EST. The local time to the port is Mar 04, 06:05 PM EST</title>
+    <link>https://www.vesselfinder.com/ports/BSNAS001</link>
+    <guid isPermaLink="false">d91899c13423eff978640e2d6bf6c646b694783d</guid>
+    <pubDate>Wed, 04 Mar 2026 23:53:09 GMT</pubDate>
+    <description><![CDATA[Nassau, Bahamas Departure (UTC) Mar 4, 23:05 — ET: Mar 04, 06:05 PM EST | Local: Mar 04, 06:05 PM EST]]></description>
   </item>
   <item>
     <title>Disney Treasure Departed from Saint Thomas, US Virgin Islands at Mar 04, 03:14 PM EST. The local time to the port is Mar 04, 03:14 PM EST</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">5cfca2d9b46ea33b4bf05fbb4598d1f8cd983026</guid>
     <pubDate>Sun, 11 Jan 2026 22:53:15 GMT</pubDate>
     <description><![CDATA[Galveston, United States (USA) Departure (UTC) Jan 11, 22:43 — ET: Jan 11, 05:43 PM EST | Local: Jan 11, 05:43 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Wish Departed from Gorda Cay, Bahamas at Jan 11, 04:55 PM EST. The local time to the port is Jan 11, 04:55 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
-    <guid isPermaLink="false">804877974a63a5ec6b76033ecd44d879aa675a8e</guid>
-    <pubDate>Mon, 12 Jan 2026 02:20:24 GMT</pubDate>
-    <description><![CDATA[Gorda Cay, Bahamas Departure (UTC) Jan 11, 21:55 — ET: Jan 11, 04:55 PM EST | Local: Jan 11, 04:55 PM EST]]></description>
   </item>
 </channel>
 </rss>

@@ -231,6 +231,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Fantasy Departed from Nassau, Bahamas at Mar 04, 06:05 PM EST. The local time to the port is Mar 04, 06:05 PM EST",
+    "description": "Nassau, Bahamas Departure (UTC) Mar 4, 23:05 — ET: Mar 04, 06:05 PM EST | Local: Mar 04, 06:05 PM EST",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "d91899c13423eff978640e2d6bf6c646b694783d",
+    "pubDate": "Wed, 04 Mar 2026 23:53:09 GMT",
+    "eventUtc": "2026-03-04T23:05:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Departed from Saint Thomas, US Virgin Islands at Mar 04, 03:14 PM EST. The local time to the port is Mar 04, 03:14 PM EST",
     "description": "Saint Thomas, US Virgin Islands Departure (UTC) Mar 4, 20:14 — ET: Mar 04, 03:14 PM EST | Local: Mar 04, 03:14 PM EST",
     "link": "https://www.vesselfinder.com/ports/VISTT001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-01-11T22:43:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Departed from Gorda Cay, Bahamas at Jan 11, 04:55 PM EST. The local time to the port is Jan 11, 04:55 PM EST",
-    "description": "Gorda Cay, Bahamas Departure (UTC) Jan 11, 21:55 — ET: Jan 11, 04:55 PM EST | Local: Jan 11, 04:55 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "804877974a63a5ec6b76033ecd44d879aa675a8e",
-    "pubDate": "Mon, 12 Jan 2026 02:20:24 GMT",
-    "eventUtc": "2026-01-11T21:55:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
     "source": "vf_ship"
   }
 ]

@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Fantasy Departed from Nassau, Bahamas at Mar 04, 06:05 PM EST. The local time to the port is Mar 04, 06:05 PM EST",
+    "description": "Nassau, Bahamas Departure (UTC) Mar 4, 23:05 — ET: Mar 04, 06:05 PM EST | Local: Mar 04, 06:05 PM EST",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "d91899c13423eff978640e2d6bf6c646b694783d",
+    "pubDate": "Wed, 04 Mar 2026 23:53:09 GMT",
+    "eventUtc": "2026-03-04T23:05:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Arrived at Nassau, Bahamas at Mar 04, 07:38 AM EST. The local time to the port is Mar 04, 07:38 AM EST",
     "description": "Nassau, Bahamas Arrival (UTC) Mar 4, 12:38 — ET: Mar 04, 07:38 AM EST | Local: Mar 04, 07:38 AM EST",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
