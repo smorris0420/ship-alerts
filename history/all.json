@@ -231,6 +231,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Wonder Departed from San Diego, United States (USA) at Mar 06, 08:41 PM EST. The local time to the port is Mar 06, 08:41 PM EST",
+    "description": "San Diego, United States (USA) Departure (UTC) Mar 7, 01:41 — ET: Mar 06, 08:41 PM EST | Local: Mar 06, 08:41 PM EST",
+    "link": "https://www.vesselfinder.com/ports/USSAN001",
+    "guid": "7f7b573c94e1a3a17d99c0f8c948c122ec39340b",
+    "pubDate": "Sat, 07 Mar 2026 02:26:41 GMT",
+    "eventUtc": "2026-03-07T01:41:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Departed from Galveston, United States (USA) at Mar 06, 06:06 PM EST. The local time to the port is Mar 06, 06:06 PM EST",
     "description": "Galveston, United States (USA) Departure (UTC) Mar 6, 23:06 — ET: Mar 06, 06:06 PM EST | Local: Mar 06, 06:06 PM EST",
     "link": "https://www.vesselfinder.com/ports/USGLS001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-01-13T23:23:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Departed from Nassau, Bahamas at Jan 13, 05:57 PM EST. The local time to the port is Jan 13, 05:57 PM EST",
-    "description": "Nassau, Bahamas Departure (UTC) Jan 13, 22:57 — ET: Jan 13, 05:57 PM EST | Local: Jan 13, 05:57 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "8431e9a7ae6ce20f09d36dc18686db126c350057",
-    "pubDate": "Tue, 13 Jan 2026 23:10:28 GMT",
-    "eventUtc": "2026-01-13T22:57:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
     "source": "vf_ship"
   }
 ]
