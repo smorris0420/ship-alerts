@@ -264,6 +264,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Departed from Gorda Cay, Bahamas at Mar 06, 05:12 PM EST. The local time to the port is Mar 06, 05:12 PM EST",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Mar 6, 22:12 — ET: Mar 06, 05:12 PM EST | Local: Mar 06, 05:12 PM EST",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "528e7f13ad97321a58ac3ea176a4a2c72a837a26",
+    "pubDate": "Sat, 07 Mar 2026 06:26:51 GMT",
+    "eventUtc": "2026-03-06T22:12:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Departed from Cape Canaveral, United States (USA) at Mar 06, 05:10 PM EST. The local time to the port is Mar 06, 05:10 PM EST",
     "description": "Cape Canaveral, United States (USA) Departure (UTC) Mar 6, 22:10 — ET: Mar 06, 05:10 PM EST | Local: Mar 06, 05:10 PM EST",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -294,6 +305,17 @@
     "eventUtc": "2026-03-06T14:25:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Treasure Arrived at Gorda Cay, Bahamas at Mar 06, 09:07 AM EST. The local time to the port is Mar 06, 09:07 AM EST",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Mar 6, 14:07 — ET: Mar 06, 09:07 AM EST | Local: Mar 06, 09:07 AM EST",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "bf02747210b2b5f20ca56bff6ff4d2678f06f107",
+    "pubDate": "Sat, 07 Mar 2026 06:26:50 GMT",
+    "eventUtc": "2026-03-06T14:07:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
     "source": "vf_ship"
   },
   {
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-01-14T10:55:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Departed from Hobart, Australia at Jan 14, 01:17 AM EST. The local time to the port is Jan 14, 05:17 PM AEDT",
-    "description": "Hobart, Australia Departure (UTC) Jan 14, 06:17 — ET: Jan 14, 01:17 AM EST | Local: Jan 14, 05:17 PM AEDT",
-    "link": "https://www.vesselfinder.com/ports/AUHBA001",
-    "guid": "ae37866d8898cc4d28d1c77faf06b974076081f3",
-    "pubDate": "Wed, 14 Jan 2026 06:35:39 GMT",
-    "eventUtc": "2026-01-14T06:17:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Cozumel, Mexico at Jan 13, 06:23 PM EST. The local time to the port is Jan 13, 06:23 PM EST",
-    "description": "Cozumel, Mexico Departure (UTC) Jan 13, 23:23 — ET: Jan 13, 06:23 PM EST | Local: Jan 13, 06:23 PM EST",
-    "link": "https://www.vesselfinder.com/ports/MXCZM001",
-    "guid": "eaca5a77576f959564e2ab3b826a297511de25e8",
-    "pubDate": "Tue, 13 Jan 2026 23:33:16 GMT",
-    "eventUtc": "2026-01-13T23:23:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
