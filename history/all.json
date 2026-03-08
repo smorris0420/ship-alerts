@@ -231,6 +231,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Departed from Gorda Cay, Bahamas at Mar 07, 05:02 PM EST. The local time to the port is Mar 07, 05:02 PM EST",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Mar 7, 22:02 — ET: Mar 07, 05:02 PM EST | Local: Mar 07, 05:02 PM EST",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "563dbc042d1e58519a73f5480b0ea3c86922a631",
+    "pubDate": "Sun, 08 Mar 2026 06:43:23 GMT",
+    "eventUtc": "2026-03-07T22:02:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Departed from San Diego, United States (USA) at Mar 07, 03:00 PM EST. The local time to the port is Mar 07, 03:00 PM EST",
     "description": "San Diego, United States (USA) Departure (UTC) Mar 07, 20:00 — ET: Mar 07, 03:00 PM EST | Local: Mar 07, 03:00 PM EST",
     "link": "https://www.vesselfinder.com/ports/USSAN001",
@@ -261,6 +272,17 @@
     "eventUtc": "2026-03-07T14:13:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Destiny Arrived at Gorda Cay, Bahamas at Mar 07, 07:56 AM EST. The local time to the port is Mar 07, 07:56 AM EST",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Mar 7, 12:56 — ET: Mar 07, 07:56 AM EST | Local: Mar 07, 07:56 AM EST",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "904a2ad5f7efeff3471528ee7c5f019145616105",
+    "pubDate": "Sun, 08 Mar 2026 06:43:22 GMT",
+    "eventUtc": "2026-03-07T12:56:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
     "source": "vf_ship"
   },
   {
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-01-14T22:50:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Falmouth, Jamaica at Jan 14, 04:59 PM EST. The local time to the port is Jan 14, 04:59 PM EST",
-    "description": "Falmouth, Jamaica Departure (UTC) Jan 14, 21:59 — ET: Jan 14, 04:59 PM EST | Local: Jan 14, 04:59 PM EST",
-    "link": "https://www.vesselfinder.com/ports/JMFMH001",
-    "guid": "ccc869d22ccd2f44f57ca418965fddc13ace1779",
-    "pubDate": "Thu, 15 Jan 2026 21:31:56 GMT",
-    "eventUtc": "2026-01-14T21:59:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Departed from Gorda Cay, Bahamas at Jan 14, 04:53 PM EST. The local time to the port is Jan 14, 04:53 PM EST",
-    "description": "Gorda Cay, Bahamas Departure (UTC) Jan 14, 21:53 — ET: Jan 14, 04:53 PM EST | Local: Jan 14, 04:53 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "d8373f1b0d69656abfef483f508e21b0f595c336",
-    "pubDate": "Wed, 14 Jan 2026 22:52:35 GMT",
-    "eventUtc": "2026-01-14T21:53:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
     "source": "vf_ship"
   }
 ]
