@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Adventure Departed from Singapore, Singapore at Mar 08, 09:00 PM EDT. The local time to the port is Mar 08, 09:00 PM EDT",
+    "description": "Singapore, Singapore Departure (UTC) Mar 09, 01:00 — ET: Mar 08, 09:00 PM EDT | Local: Mar 08, 09:00 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/SGSIN001",
+    "guid": "589a8e3243849978dca1dee5d9f1fa4b7c1bdfd2",
+    "pubDate": "Sun, 08 Mar 2026 19:35:52 GMT",
+    "eventUtc": "2026-03-09T01:00:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_port"
+  },
+  {
+    "title": "Disney Adventure Arrived at Singapore, Singapore at Mar 08, 09:00 PM EDT. The local time to the port is Mar 08, 09:00 PM EDT",
+    "description": "Singapore, Singapore Arrival (UTC) Mar 09, 01:00 — ET: Mar 08, 09:00 PM EDT | Local: Mar 08, 09:00 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/SGSIN001",
+    "guid": "5a7e251b398b21db5102eabd46dee496a691e9b7",
+    "pubDate": "Sun, 08 Mar 2026 19:35:53 GMT",
+    "eventUtc": "2026-03-09T01:00:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_port"
+  },
+  {
     "title": "Disney Magic Arrived at Cozumel, Mexico at Mar 08, 12:13 PM EDT. The local time to the port is Mar 08, 11:13 AM EST",
     "description": "Cozumel, Mexico Arrival (UTC) Mar 8, 16:13 — ET: Mar 08, 12:13 PM EDT | Local: Mar 08, 11:13 AM EST",
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-01-15T20:07:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Arrived at Nassau, Bahamas at Jan 15, 09:02 AM EST. The local time to the port is Jan 15, 09:02 AM EST",
-    "description": "Nassau, Bahamas Arrival (UTC) Jan 15, 14:02 — ET: Jan 15, 09:02 AM EST | Local: Jan 15, 09:02 AM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "4209461d809d7b37f564696da537fab0b8bf3be0",
-    "pubDate": "Thu, 15 Jan 2026 14:46:52 GMT",
-    "eventUtc": "2026-01-15T14:02:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Adventure Arrived at Cape Canaveral, United States (USA) at Jan 15, 07:10 AM EST. The local time to the port is Jan 15, 07:10 AM EST",
-    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Jan 15, 12:10 — ET: Jan 15, 07:10 AM EST | Local: Jan 15, 07:10 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "6937f1aa3440ab9b374ec452df65d2c9d6bdde8f",
-    "pubDate": "Thu, 15 Jan 2026 13:09:29 GMT",
-    "eventUtc": "2026-01-15T12:10:00+00:00",
-    "shipSlug": "disney-adventure",
-    "shipName": "Disney Adventure",
     "source": "vf_ship"
   }
 ]
