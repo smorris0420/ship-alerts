@@ -231,6 +231,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Magic Departed from Cozumel, Mexico at Mar 08, 07:21 PM EDT. The local time to the port is Mar 08, 06:21 PM EST",
+    "description": "Cozumel, Mexico Departure (UTC) Mar 8, 23:21 — ET: Mar 08, 07:21 PM EDT | Local: Mar 08, 06:21 PM EST",
+    "link": "https://www.vesselfinder.com/ports/MXCZM001",
+    "guid": "d045f0e1bac703e9283b03814fa0b0ea1daddfc4",
+    "pubDate": "Sun, 08 Mar 2026 23:26:56 GMT",
+    "eventUtc": "2026-03-08T23:21:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Arrived at Singapore, Singapore at Mar 08, 05:50 PM EDT. The local time to the port is Mar 08, 05:50 PM EDT",
     "description": "Singapore, Singapore Arrival (UTC) Mar 8, 21:50 — ET: Mar 08, 05:50 PM EDT | Local: Mar 08, 05:50 PM EDT",
     "link": "https://www.vesselfinder.com/ports/SGSIN001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-01-16T10:55:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Arrived at Port Everglades, United States (USA) at Jan 16, 04:46 AM EST. The local time to the port is Jan 16, 04:46 AM EST",
-    "description": "Port Everglades, United States (USA) Arrival (UTC) Jan 16, 09:46 — ET: Jan 16, 04:46 AM EST | Local: Jan 16, 04:46 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "c68f2528c494bdf71c257b5f8629b8632673546f",
-    "pubDate": "Fri, 16 Jan 2026 10:24:09 GMT",
-    "eventUtc": "2026-01-16T09:46:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
     "source": "vf_ship"
   }
 ]
