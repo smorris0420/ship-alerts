@@ -231,6 +231,28 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Adventure Arrived at Singapore, Singapore at Mar 08, 05:50 PM EDT. The local time to the port is Mar 08, 05:50 PM EDT",
+    "description": "Singapore, Singapore Arrival (UTC) Mar 8, 21:50 — ET: Mar 08, 05:50 PM EDT | Local: Mar 08, 05:50 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/SGSIN001",
+    "guid": "7a71486b0c7cb5b07e6fc31066d76f7ac6cbefff",
+    "pubDate": "Sun, 08 Mar 2026 22:38:17 GMT",
+    "eventUtc": "2026-03-08T21:50:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Wonder Arrived at Ensenada, Mexico at Mar 08, 05:20 PM EDT. The local time to the port is Mar 08, 04:20 PM EST",
+    "description": "Ensenada, Mexico Arrival (UTC) Mar 8, 21:20 — ET: Mar 08, 05:20 PM EDT | Local: Mar 08, 04:20 PM EST",
+    "link": "https://www.vesselfinder.com/ports/MXESE001",
+    "guid": "b48b890e5b5677e764ea6ec5bae24420040f1e0a",
+    "pubDate": "Sun, 08 Mar 2026 22:38:10 GMT",
+    "eventUtc": "2026-03-08T21:20:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Departed from Gorda Cay, Bahamas at Mar 08, 05:00 PM EDT. The local time to the port is Mar 08, 05:00 PM EDT",
     "description": "Gorda Cay, Bahamas Departure (UTC) Mar 8, 21:00 — ET: Mar 08, 05:00 PM EDT | Local: Mar 08, 05:00 PM EDT",
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-01-16T09:46:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Departed from Sydney, Australia at Jan 16, 02:13 AM EST. The local time to the port is Jan 16, 06:13 PM AEDT",
-    "description": "Sydney, Australia Departure (UTC) Jan 16, 07:13 — ET: Jan 16, 02:13 AM EST | Local: Jan 16, 06:13 PM AEDT",
-    "link": "https://www.vesselfinder.com/ports/AUSYD002",
-    "guid": "3eddefc43780c3e4dda6f746a6541e6f7eef367f",
-    "pubDate": "Fri, 16 Jan 2026 07:36:26 GMT",
-    "eventUtc": "2026-01-16T07:13:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Departed from Nassau, Bahamas at Jan 15, 05:50 PM EST. The local time to the port is Jan 15, 05:50 PM EST",
-    "description": "Nassau, Bahamas Departure (UTC) Jan 15, 22:50 — ET: Jan 15, 05:50 PM EST | Local: Jan 15, 05:50 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "3c1c514c3efb3413d2a418eba18970b6e8c38a1a",
-    "pubDate": "Thu, 15 Jan 2026 23:11:33 GMT",
-    "eventUtc": "2026-01-15T22:50:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
     "source": "vf_ship"
   }
 ]
