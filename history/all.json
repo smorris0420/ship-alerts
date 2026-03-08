@@ -220,6 +220,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Arrived at Gorda Cay, Bahamas at Mar 08, 08:01 AM EDT. The local time to the port is Mar 08, 08:01 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Mar 8, 12:01 — ET: Mar 08, 08:01 AM EDT | Local: Mar 08, 08:01 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "55885e67e0a15ae4243b3b38b27b40e28bfaba93",
+    "pubDate": "Sun, 08 Mar 2026 18:59:27 GMT",
+    "eventUtc": "2026-03-08T12:01:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Arrived at Nassau, Bahamas at Mar 08, 07:42 AM EDT. The local time to the port is Mar 08, 07:42 AM EDT",
     "description": "Nassau, Bahamas Arrival (UTC) Mar 8, 11:42 — ET: Mar 08, 07:42 AM EDT | Local: Mar 08, 07:42 AM EDT",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -5484,17 +5495,6 @@
     "guid": "6937f1aa3440ab9b374ec452df65d2c9d6bdde8f",
     "pubDate": "Thu, 15 Jan 2026 13:09:29 GMT",
     "eventUtc": "2026-01-15T12:10:00+00:00",
-    "shipSlug": "disney-adventure",
-    "shipName": "Disney Adventure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Adventure Departed from Freeport, Bahamas at Jan 14, 11:17 PM EST. The local time to the port is Jan 14, 11:17 PM EST",
-    "description": "Freeport, Bahamas Departure (UTC) Jan 15, 04:17 — ET: Jan 14, 11:17 PM EST | Local: Jan 14, 11:17 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSFPO001",
-    "guid": "fbe72768a206964739288a5722cac23e85b7a3a1",
-    "pubDate": "Thu, 15 Jan 2026 04:31:08 GMT",
-    "eventUtc": "2026-01-15T04:17:00+00:00",
     "shipSlug": "disney-adventure",
     "shipName": "Disney Adventure",
     "source": "vf_ship"

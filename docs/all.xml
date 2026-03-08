@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Sun, 08 Mar 2026 18:33:25 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 08 Mar 2026 19:03:07 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -146,6 +146,13 @@
     <guid isPermaLink="false">c34a4fefe2b7059e35953480cb3e8ad1006a441c</guid>
     <pubDate>Sun, 08 Mar 2026 17:02:03 GMT</pubDate>
     <description><![CDATA[Cozumel, Mexico Arrival (UTC) Mar 8, 16:13 — ET: Mar 08, 12:13 PM EDT | Local: Mar 08, 11:13 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Wish Arrived at Gorda Cay, Bahamas at Mar 08, 08:01 AM EDT. The local time to the port is Mar 08, 08:01 AM EDT</title>
+    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
+    <guid isPermaLink="false">55885e67e0a15ae4243b3b38b27b40e28bfaba93</guid>
+    <pubDate>Sun, 08 Mar 2026 18:59:27 GMT</pubDate>
+    <description><![CDATA[Gorda Cay, Bahamas Arrival (UTC) Mar 8, 12:01 — ET: Mar 08, 08:01 AM EDT | Local: Mar 08, 08:01 AM EDT]]></description>
   </item>
   <item>
     <title>Disney Dream Arrived at Nassau, Bahamas at Mar 08, 07:42 AM EDT. The local time to the port is Mar 08, 07:42 AM EDT</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">6937f1aa3440ab9b374ec452df65d2c9d6bdde8f</guid>
     <pubDate>Thu, 15 Jan 2026 13:09:29 GMT</pubDate>
     <description><![CDATA[Cape Canaveral, United States (USA) Arrival (UTC) Jan 15, 12:10 — ET: Jan 15, 07:10 AM EST | Local: Jan 15, 07:10 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Adventure Departed from Freeport, Bahamas at Jan 14, 11:17 PM EST. The local time to the port is Jan 14, 11:17 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/BSFPO001</link>
-    <guid isPermaLink="false">fbe72768a206964739288a5722cac23e85b7a3a1</guid>
-    <pubDate>Thu, 15 Jan 2026 04:31:08 GMT</pubDate>
-    <description><![CDATA[Freeport, Bahamas Departure (UTC) Jan 15, 04:17 — ET: Jan 14, 11:17 PM EST | Local: Jan 14, 11:17 PM EST]]></description>
   </item>
 </channel>
 </rss>
