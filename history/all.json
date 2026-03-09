@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Departed from Cape Canaveral, United States (USA) at Mar 09, 04:33 PM EDT. The local time to the port is Mar 09, 04:33 PM EDT",
+    "description": "Cape Canaveral, United States (USA) Departure (UTC) Mar 9, 20:33 — ET: Mar 09, 04:33 PM EDT | Local: Mar 09, 04:33 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "7b5d7fa7b7312cf7f7b184d77f75adf70f6f3ccc",
+    "pubDate": "Mon, 09 Mar 2026 20:58:47 GMT",
+    "eventUtc": "2026-03-09T20:33:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Destiny Departed from Port Everglades, United States (USA) at Mar 09, 04:31 PM EDT. The local time to the port is Mar 09, 04:31 PM EDT",
+    "description": "Port Everglades, United States (USA) Departure (UTC) Mar 9, 20:31 — ET: Mar 09, 04:31 PM EDT | Local: Mar 09, 04:31 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPEF001",
+    "guid": "bcdc83634618c8e8ee5d18391b8254dc2196451b",
+    "pubDate": "Mon, 09 Mar 2026 21:02:16 GMT",
+    "eventUtc": "2026-03-09T20:31:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Port Everglades, United States (USA) at Mar 09, 04:05 PM EDT. The local time to the port is Mar 09, 04:05 PM EDT",
     "description": "Port Everglades, United States (USA) Departure (UTC) Mar 9, 20:05 — ET: Mar 09, 04:05 PM EDT | Local: Mar 09, 04:05 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USPEF001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-01-17T13:48:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Cape Canaveral, United States (USA) at Jan 17, 05:58 AM EST. The local time to the port is Jan 17, 05:58 AM EST",
-    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Jan 17, 10:58 — ET: Jan 17, 05:58 AM EST | Local: Jan 17, 05:58 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "d0d71d4c7cb6fab577bfbb3ab11f593e926435af",
-    "pubDate": "Sat, 17 Jan 2026 11:43:44 GMT",
-    "eventUtc": "2026-01-17T10:58:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Arrived at Port Everglades, United States (USA) at Jan 17, 04:32 AM EST. The local time to the port is Jan 17, 04:32 AM EST",
-    "description": "Port Everglades, United States (USA) Arrival (UTC) Jan 17, 09:32 — ET: Jan 17, 04:32 AM EST | Local: Jan 17, 04:32 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "1faf5e6cdf7a194e7b2220dd5d811264ea4dc0d1",
-    "pubDate": "Sat, 17 Jan 2026 10:24:17 GMT",
-    "eventUtc": "2026-01-17T09:32:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
     "source": "vf_ship"
   }
 ]
