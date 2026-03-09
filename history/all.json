@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Arrived at Cozumel, Mexico at Mar 09, 08:56 AM EDT. The local time to the port is Mar 09, 07:56 AM EST",
+    "description": "Cozumel, Mexico Arrival (UTC) Mar 9, 12:56 — ET: Mar 09, 08:56 AM EDT | Local: Mar 09, 07:56 AM EST",
+    "link": "https://www.vesselfinder.com/ports/MXCZM001",
+    "guid": "abfc5f4639caf83009aae430aef3be90abb743ff",
+    "pubDate": "Mon, 09 Mar 2026 13:38:46 GMT",
+    "eventUtc": "2026-03-09T12:56:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Arrived at Port Everglades, United States (USA) at Mar 09, 06:03 AM EDT. The local time to the port is Mar 09, 06:03 AM EDT",
     "description": "Port Everglades, United States (USA) Arrival (UTC) Mar 9, 10:03 — ET: Mar 09, 06:03 AM EDT | Local: Mar 09, 06:03 AM EDT",
     "link": "https://www.vesselfinder.com/ports/USPEF001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-01-16T22:56:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Gorda Cay, Bahamas at Jan 16, 04:46 PM EST. The local time to the port is Jan 16, 04:46 PM EST",
-    "description": "Gorda Cay, Bahamas Departure (UTC) Jan 16, 21:46 — ET: Jan 16, 04:46 PM EST | Local: Jan 16, 04:46 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "3d08a6740e322105bebe3537a43b938160400a34",
-    "pubDate": "Sat, 17 Jan 2026 02:19:59 GMT",
-    "eventUtc": "2026-01-16T21:46:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
