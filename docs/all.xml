@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Tue, 10 Mar 2026 14:15:24 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 10 Mar 2026 15:14:33 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -169,6 +169,13 @@
     <description><![CDATA[Singapore, Singapore Departure (UTC) Mar 10, 09:36 — ET: Mar 10, 05:36 AM EDT | Local: Mar 10, 05:36 AM EDT]]></description>
   </item>
   <item>
+    <title>Disney Magic Departed from Progreso, Mexico at Mar 09, 09:06 PM EDT. The local time to the port is Mar 09, 08:06 PM EST</title>
+    <link>https://www.vesselfinder.com/ports/MXPGO001</link>
+    <guid isPermaLink="false">3a4ff8279e39aabdf054942b90365812f7ee8ad6</guid>
+    <pubDate>Tue, 10 Mar 2026 15:12:32 GMT</pubDate>
+    <description><![CDATA[Progreso, Mexico Departure (UTC) Mar 10, 01:06 — ET: Mar 09, 09:06 PM EDT | Local: Mar 09, 08:06 PM EST]]></description>
+  </item>
+  <item>
     <title>Disney Wonder Departed from San Diego, United States (USA) at Mar 09, 08:34 PM EDT. The local time to the port is Mar 09, 08:34 PM EDT</title>
     <link>https://www.vesselfinder.com/ports/USSAN001</link>
     <guid isPermaLink="false">62bfc61684ce4007f97c135772bffc2d04f2d80a</guid>
@@ -202,6 +209,13 @@
     <guid isPermaLink="false">ebc5b3d7b16c050975b07af77b65586b4533d62e</guid>
     <pubDate>Mon, 09 Mar 2026 20:25:59 GMT</pubDate>
     <description><![CDATA[Port Everglades, United States (USA) Departure (UTC) Mar 9, 20:05 — ET: Mar 09, 04:05 PM EDT | Local: Mar 09, 04:05 PM EDT]]></description>
+  </item>
+  <item>
+    <title>Disney Magic Arrived at Progreso, Mexico at Mar 09, 11:43 AM EDT. The local time to the port is Mar 09, 10:43 AM EST</title>
+    <link>https://www.vesselfinder.com/ports/MXPGO001</link>
+    <guid isPermaLink="false">ac22dd9285acf88a3fe49d717e496a7c9eae11d2</guid>
+    <pubDate>Tue, 10 Mar 2026 15:12:31 GMT</pubDate>
+    <description><![CDATA[Progreso, Mexico Arrival (UTC) Mar 9, 15:43 — ET: Mar 09, 11:43 AM EDT | Local: Mar 09, 10:43 AM EST]]></description>
   </item>
   <item>
     <title>Disney Wonder Arrived at San Diego, United States (USA) at Mar 09, 09:27 AM EDT. The local time to the port is Mar 09, 09:27 AM EDT</title>
@@ -3492,20 +3506,6 @@
     <guid isPermaLink="false">25c2398d7fa4f56d9e2f7eca1f594d8cbeb5c525</guid>
     <pubDate>Sun, 18 Jan 2026 06:53:20 GMT</pubDate>
     <description><![CDATA[Hobart, Australia Departure (UTC) Jan 18, 06:15 — ET: Jan 18, 01:15 AM EST | Local: Jan 18, 05:15 PM AEDT]]></description>
-  </item>
-  <item>
-    <title>Disney Adventure Departed from Cape Canaveral, United States (USA) at Jan 17, 10:45 PM EST. The local time to the port is Jan 17, 10:45 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/USPCV001</link>
-    <guid isPermaLink="false">e9b6ceeba1d39afc0a0494d79d4c4b34c8529fed</guid>
-    <pubDate>Sat, 17 Jan 2026 18:05:07 GMT</pubDate>
-    <description><![CDATA[Cape Canaveral, United States (USA) Departure (UTC) Jan 18, 03:45 — ET: Jan 17, 10:45 PM EST | Local: Jan 17, 10:45 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Adventure Arrived at Cape Canaveral, United States (USA) at Jan 17, 10:45 PM EST. The local time to the port is Jan 17, 10:45 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/USPCV001</link>
-    <guid isPermaLink="false">fc6587e8f76e6ce4a4c02fade9460e46710f7b8e</guid>
-    <pubDate>Sat, 17 Jan 2026 18:05:09 GMT</pubDate>
-    <description><![CDATA[Cape Canaveral, United States (USA) Arrival (UTC) Jan 18, 03:45 — ET: Jan 17, 10:45 PM EST | Local: Jan 17, 10:45 PM EST]]></description>
   </item>
 </channel>
 </rss>
