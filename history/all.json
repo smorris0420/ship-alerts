@@ -231,6 +231,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Adventure Departed from Singapore, Singapore at Mar 10, 05:36 AM EDT. The local time to the port is Mar 10, 05:36 AM EDT",
+    "description": "Singapore, Singapore Departure (UTC) Mar 10, 09:36 — ET: Mar 10, 05:36 AM EDT | Local: Mar 10, 05:36 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/SGSIN001",
+    "guid": "128764711c54d53bb8c08f73d423090c07ac16b7",
+    "pubDate": "Tue, 10 Mar 2026 10:09:27 GMT",
+    "eventUtc": "2026-03-10T09:36:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Departed from San Diego, United States (USA) at Mar 09, 08:34 PM EDT. The local time to the port is Mar 09, 08:34 PM EDT",
     "description": "San Diego, United States (USA) Departure (UTC) Mar 10, 00:34 — ET: Mar 09, 08:34 PM EDT | Local: Mar 09, 08:34 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USSAN001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-01-17T23:54:00+00:00",
     "shipSlug": "disney-adventure",
     "shipName": "Disney Adventure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Departed from Nassau, Bahamas at Jan 17, 06:01 PM EST. The local time to the port is Jan 17, 06:01 PM EST",
-    "description": "Nassau, Bahamas Departure (UTC) Jan 17, 23:01 — ET: Jan 17, 06:01 PM EST | Local: Jan 17, 06:01 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "908164e54391b172beae9d66748976ed3efff8f8",
-    "pubDate": "Sat, 17 Jan 2026 23:13:06 GMT",
-    "eventUtc": "2026-01-17T23:01:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
     "source": "vf_ship"
   }
 ]
