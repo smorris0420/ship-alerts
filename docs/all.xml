@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Wed, 11 Mar 2026 11:04:53 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 11 Mar 2026 11:46:38 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -153,6 +153,13 @@
     <guid isPermaLink="false">99ca458ae30e7ef3362f4491448bd71846955ac8</guid>
     <pubDate>Mon, 09 Mar 2026 23:39:41 GMT</pubDate>
     <description><![CDATA[Cape Canaveral, United States (USA) Arrival (UTC) Mar 11, 12:30 — ET: Mar 11, 08:30 AM EDT | Local: Mar 11, 08:30 AM EDT]]></description>
+  </item>
+  <item>
+    <title>Disney Magic Arrived at Galveston, United States (USA) at Mar 11, 06:53 AM EDT. The local time to the port is Mar 11, 06:53 AM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USGLS001</link>
+    <guid isPermaLink="false">0422ba7eaf8701f59848677e9d2d70474a1ce3bf</guid>
+    <pubDate>Wed, 11 Mar 2026 11:44:35 GMT</pubDate>
+    <description><![CDATA[Galveston, United States (USA) Arrival (UTC) Mar 11, 10:53 — ET: Mar 11, 06:53 AM EDT | Local: Mar 11, 06:53 AM EDT]]></description>
   </item>
   <item>
     <title>Disney Fantasy Arrived at Cape Canaveral, United States (USA) at Mar 11, 03:43 AM EDT. The local time to the port is Mar 11, 03:43 AM EDT</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">b37aa2be2214f3e2c67d2be6dede9b4e0e6f8242</guid>
     <pubDate>Sun, 18 Jan 2026 23:17:18 GMT</pubDate>
     <description><![CDATA[Cape Canaveral, United States (USA) Departure (UTC) Jan 18, 22:58 — ET: Jan 18, 05:58 PM EST | Local: Jan 18, 05:58 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Dream Departed from Nassau, Bahamas at Jan 18, 05:58 PM EST. The local time to the port is Jan 18, 05:58 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/BSNAS001</link>
-    <guid isPermaLink="false">3f4cefaa4ef04fd58c8c363d177105382b159fcf</guid>
-    <pubDate>Sun, 18 Jan 2026 23:18:15 GMT</pubDate>
-    <description><![CDATA[Nassau, Bahamas Departure (UTC) Jan 18, 22:58 — ET: Jan 18, 05:58 PM EST | Local: Jan 18, 05:58 PM EST]]></description>
   </item>
 </channel>
 </rss>
