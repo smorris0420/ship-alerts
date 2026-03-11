@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Departed from Nassau, Bahamas at Mar 11, 06:08 PM EDT. The local time to the port is Mar 11, 06:08 PM EDT",
+    "description": "Nassau, Bahamas Departure (UTC) Mar 11, 22:08 — ET: Mar 11, 06:08 PM EDT | Local: Mar 11, 06:08 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "be9fe8ea9c3a7c58a236d8b03d8116ae3648e865",
+    "pubDate": "Wed, 11 Mar 2026 22:36:43 GMT",
+    "eventUtc": "2026-03-11T22:08:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Departed from Galveston, United States (USA) at Mar 11, 05:51 PM EDT. The local time to the port is Mar 11, 05:51 PM EDT",
     "description": "Galveston, United States (USA) Departure (UTC) Mar 11, 21:51 — ET: Mar 11, 05:51 PM EDT | Local: Mar 11, 05:51 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USGLS001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-01-19T15:39:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Arrived at Cozumel, Mexico at Jan 19, 07:12 AM EST. The local time to the port is Jan 19, 07:12 AM EST",
-    "description": "Cozumel, Mexico Arrival (UTC) Jan 19, 12:12 — ET: Jan 19, 07:12 AM EST | Local: Jan 19, 07:12 AM EST",
-    "link": "https://www.vesselfinder.com/ports/MXCZM001",
-    "guid": "e76c917904d4995d1bddfed7cf8d5db1217dd488",
-    "pubDate": "Mon, 19 Jan 2026 13:13:21 GMT",
-    "eventUtc": "2026-01-19T12:12:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
     "source": "vf_ship"
   }
 ]
