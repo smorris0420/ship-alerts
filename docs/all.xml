@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Fri, 13 Mar 2026 20:32:55 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 13 Mar 2026 21:06:02 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,20 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Dream Departed from Port Everglades, United States (USA) at Mar 13, 04:52 PM EDT. The local time to the port is Mar 13, 04:52 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USPEF001</link>
+    <guid isPermaLink="false">2ea62b3f0d455f40723554ae1f28a2c1cf74b963</guid>
+    <pubDate>Fri, 13 Mar 2026 21:04:29 GMT</pubDate>
+    <description><![CDATA[Port Everglades, United States (USA) Departure (UTC) Mar 13, 20:52 — ET: Mar 13, 04:52 PM EDT | Local: Mar 13, 04:52 PM EDT]]></description>
+  </item>
+  <item>
+    <title>Disney Wish Departed from Cape Canaveral, United States (USA) at Mar 13, 04:28 PM EDT. The local time to the port is Mar 13, 04:28 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USPCV001</link>
+    <guid isPermaLink="false">b3e152b1c502fe6aaa736adaa481f5b891f8bd3a</guid>
+    <pubDate>Fri, 13 Mar 2026 21:02:44 GMT</pubDate>
+    <description><![CDATA[Cape Canaveral, United States (USA) Departure (UTC) Mar 13, 20:28 — ET: Mar 13, 04:28 PM EDT | Local: Mar 13, 04:28 PM EDT]]></description>
   </item>
   <item>
     <title>Disney Wonder Arrived at San Diego, United States (USA) at Mar 13, 09:28 AM EDT. The local time to the port is Mar 13, 09:28 AM EDT</title>
@@ -3492,20 +3506,6 @@
     <guid isPermaLink="false">5979e4428cab5a3fd3c27d0dc093e23f90b3eb64</guid>
     <pubDate>Wed, 21 Jan 2026 12:53:01 GMT</pubDate>
     <description><![CDATA[Galveston, United States (USA) Arrival (UTC) Jan 21, 12:03 — ET: Jan 21, 07:03 AM EST | Local: Jan 21, 07:03 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Treasure Arrived at Saint Thomas, US Virgin Islands at Jan 21, 06:06 AM EST. The local time to the port is Jan 21, 06:06 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/VISTT001</link>
-    <guid isPermaLink="false">a892b846f494cd39567fd6f49eadfb00bacb4573</guid>
-    <pubDate>Wed, 21 Jan 2026 11:41:32 GMT</pubDate>
-    <description><![CDATA[Saint Thomas, US Virgin Islands Arrival (UTC) Jan 21, 11:06 — ET: Jan 21, 06:06 AM EST | Local: Jan 21, 06:06 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Dream Departed from Nassau, Bahamas at Jan 20, 05:54 PM EST. The local time to the port is Jan 20, 05:54 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/BSNAS001</link>
-    <guid isPermaLink="false">7220698a90a0e4954a16233010fb2127e5b94138</guid>
-    <pubDate>Tue, 20 Jan 2026 23:00:54 GMT</pubDate>
-    <description><![CDATA[Nassau, Bahamas Departure (UTC) Jan 20, 22:54 — ET: Jan 20, 05:54 PM EST | Local: Jan 20, 05:54 PM EST]]></description>
   </item>
 </channel>
 </rss>

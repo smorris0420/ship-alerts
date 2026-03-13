@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Port Everglades, United States (USA) at Mar 13, 04:52 PM EDT. The local time to the port is Mar 13, 04:52 PM EDT",
+    "description": "Port Everglades, United States (USA) Departure (UTC) Mar 13, 20:52 — ET: Mar 13, 04:52 PM EDT | Local: Mar 13, 04:52 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPEF001",
+    "guid": "2ea62b3f0d455f40723554ae1f28a2c1cf74b963",
+    "pubDate": "Fri, 13 Mar 2026 21:04:29 GMT",
+    "eventUtc": "2026-03-13T20:52:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Wish Departed from Cape Canaveral, United States (USA) at Mar 13, 04:28 PM EDT. The local time to the port is Mar 13, 04:28 PM EDT",
+    "description": "Cape Canaveral, United States (USA) Departure (UTC) Mar 13, 20:28 — ET: Mar 13, 04:28 PM EDT | Local: Mar 13, 04:28 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "b3e152b1c502fe6aaa736adaa481f5b891f8bd3a",
+    "pubDate": "Fri, 13 Mar 2026 21:02:44 GMT",
+    "eventUtc": "2026-03-13T20:28:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Arrived at San Diego, United States (USA) at Mar 13, 09:28 AM EDT. The local time to the port is Mar 13, 09:28 AM EDT",
     "description": "San Diego, United States (USA) Arrival (UTC) Mar 13, 13:28 — ET: Mar 13, 09:28 AM EDT | Local: Mar 13, 09:28 AM EDT",
     "link": "https://www.vesselfinder.com/ports/USSAN001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-01-21T12:03:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Saint Thomas, US Virgin Islands at Jan 21, 06:06 AM EST. The local time to the port is Jan 21, 06:06 AM EST",
-    "description": "Saint Thomas, US Virgin Islands Arrival (UTC) Jan 21, 11:06 — ET: Jan 21, 06:06 AM EST | Local: Jan 21, 06:06 AM EST",
-    "link": "https://www.vesselfinder.com/ports/VISTT001",
-    "guid": "a892b846f494cd39567fd6f49eadfb00bacb4573",
-    "pubDate": "Wed, 21 Jan 2026 11:41:32 GMT",
-    "eventUtc": "2026-01-21T11:06:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Nassau, Bahamas at Jan 20, 05:54 PM EST. The local time to the port is Jan 20, 05:54 PM EST",
-    "description": "Nassau, Bahamas Departure (UTC) Jan 20, 22:54 — ET: Jan 20, 05:54 PM EST | Local: Jan 20, 05:54 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "7220698a90a0e4954a16233010fb2127e5b94138",
-    "pubDate": "Tue, 20 Jan 2026 23:00:54 GMT",
-    "eventUtc": "2026-01-20T22:54:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
     "source": "vf_ship"
   }
 ]
