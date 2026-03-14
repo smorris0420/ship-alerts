@@ -209,6 +209,39 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Galveston, United States (USA) at Mar 15, 09:30 AM EDT. The local time to the port is Mar 15, 09:30 AM EDT",
+    "description": "Galveston, United States (USA) Departure (UTC) Mar 15, 13:30 — ET: Mar 15, 09:30 AM EDT | Local: Mar 15, 09:30 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USGLS001",
+    "guid": "b578b556805e833bdb2f2076434b23cecc2db505",
+    "pubDate": "Sat, 14 Mar 2026 14:05:24 GMT",
+    "eventUtc": "2026-03-15T13:30:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_port"
+  },
+  {
+    "title": "Disney Magic Arrived at Galveston, United States (USA) at Mar 15, 09:30 AM EDT. The local time to the port is Mar 15, 09:30 AM EDT",
+    "description": "Galveston, United States (USA) Arrival (UTC) Mar 15, 13:30 — ET: Mar 15, 09:30 AM EDT | Local: Mar 15, 09:30 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USGLS001",
+    "guid": "e7f29fe4c221d9be0a9d49e203a120822c823835",
+    "pubDate": "Sat, 14 Mar 2026 14:05:25 GMT",
+    "eventUtc": "2026-03-15T13:30:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_port"
+  },
+  {
+    "title": "Disney Wish Arrived at Nassau, Bahamas at Mar 14, 08:58 AM EDT. The local time to the port is Mar 14, 08:58 AM EDT",
+    "description": "Nassau, Bahamas Arrival (UTC) Mar 14, 12:58 — ET: Mar 14, 08:58 AM EDT | Local: Mar 14, 08:58 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "a48a3963cccd699c46a29ce0715f23838fa93d0d",
+    "pubDate": "Sat, 14 Mar 2026 14:03:52 GMT",
+    "eventUtc": "2026-03-14T12:58:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Arrived at Cape Canaveral, United States (USA) at Mar 14, 05:57 AM EDT. The local time to the port is Mar 14, 05:57 AM EDT",
     "description": "Cape Canaveral, United States (USA) Arrival (UTC) Mar 14, 09:57 — ET: Mar 14, 05:57 AM EDT | Local: Mar 14, 05:57 AM EDT",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5465,38 +5498,5 @@
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
     "source": "vf_port"
-  },
-  {
-    "title": "Disney Adventure Departed from Cape Canaveral, United States (USA) at Jan 21, 07:02 PM EST. The local time to the port is Jan 21, 07:02 PM EST",
-    "description": "Cape Canaveral, United States (USA) Departure (UTC) Jan 22, 00:02 — ET: Jan 21, 07:02 PM EST | Local: Jan 21, 07:02 PM EST",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "f3f3e89a867cffd37fe2edfc4209663a66fd151b",
-    "pubDate": "Thu, 22 Jan 2026 02:34:57 GMT",
-    "eventUtc": "2026-01-22T00:02:00+00:00",
-    "shipSlug": "disney-adventure",
-    "shipName": "Disney Adventure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Departed from Nassau, Bahamas at Jan 21, 06:27 PM EST. The local time to the port is Jan 21, 06:27 PM EST",
-    "description": "Nassau, Bahamas Departure (UTC) Jan 21, 23:27 — ET: Jan 21, 06:27 PM EST | Local: Jan 21, 06:27 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "c9eb5cc4380cc26d0e240c44c5a18d7cdd86e129",
-    "pubDate": "Wed, 21 Jan 2026 23:51:33 GMT",
-    "eventUtc": "2026-01-21T23:27:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Galveston, United States (USA) at Jan 21, 05:54 PM EST. The local time to the port is Jan 21, 05:54 PM EST",
-    "description": "Galveston, United States (USA) Departure (UTC) Jan 21, 22:54 — ET: Jan 21, 05:54 PM EST | Local: Jan 21, 05:54 PM EST",
-    "link": "https://www.vesselfinder.com/ports/USGLS001",
-    "guid": "9ad83ee5d68efa5e9d6528909618465c9a97ecae",
-    "pubDate": "Wed, 21 Jan 2026 23:30:59 GMT",
-    "eventUtc": "2026-01-21T22:54:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
-    "source": "vf_ship"
   }
 ]
