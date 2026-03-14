@@ -231,6 +231,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Treasure Departed from Cape Canaveral, United States (USA) at Mar 14, 05:14 PM EDT. The local time to the port is Mar 14, 05:14 PM EDT",
+    "description": "Cape Canaveral, United States (USA) Departure (UTC) Mar 14, 21:14 — ET: Mar 14, 05:14 PM EDT | Local: Mar 14, 05:14 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "40c25892324cc55ea9b9faa2925d3f7926189c40",
+    "pubDate": "Sat, 14 Mar 2026 21:36:27 GMT",
+    "eventUtc": "2026-03-14T21:14:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Departed from Port Everglades, United States (USA) at Mar 14, 04:28 PM EDT. The local time to the port is Mar 14, 04:28 PM EDT",
     "description": "Port Everglades, United States (USA) Departure (UTC) Mar 14, 20:28 — ET: Mar 14, 04:28 PM EDT | Local: Mar 14, 04:28 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USPEF001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-01-22T19:28:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Arrived at Gorda Cay, Bahamas at Jan 22, 07:33 AM EST. The local time to the port is Jan 22, 07:33 AM EST",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) Jan 22, 12:33 — ET: Jan 22, 07:33 AM EST | Local: Jan 22, 07:33 AM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "227f14e0b65942b4225041cd5d190691e384a196",
-    "pubDate": "Thu, 22 Jan 2026 13:13:55 GMT",
-    "eventUtc": "2026-01-22T12:33:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
     "source": "vf_ship"
   }
 ]
