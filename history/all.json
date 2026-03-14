@@ -231,6 +231,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Destiny Departed from Port Everglades, United States (USA) at Mar 14, 04:28 PM EDT. The local time to the port is Mar 14, 04:28 PM EDT",
+    "description": "Port Everglades, United States (USA) Departure (UTC) Mar 14, 20:28 — ET: Mar 14, 04:28 PM EDT | Local: Mar 14, 04:28 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPEF001",
+    "guid": "85151365b13ce7a8b11a5fea2bf18b40e8aa85f9",
+    "pubDate": "Sat, 14 Mar 2026 20:43:52 GMT",
+    "eventUtc": "2026-03-14T20:28:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Arrived at Nassau, Bahamas at Mar 14, 08:58 AM EDT. The local time to the port is Mar 14, 08:58 AM EDT",
     "description": "Nassau, Bahamas Arrival (UTC) Mar 14, 12:58 — ET: Mar 14, 08:58 AM EDT | Local: Mar 14, 08:58 AM EDT",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-01-22T12:33:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Arrived at Port Everglades, United States (USA) at Jan 22, 05:52 AM EST. The local time to the port is Jan 22, 05:52 AM EST",
-    "description": "Port Everglades, United States (USA) Arrival (UTC) Jan 22, 10:52 — ET: Jan 22, 05:52 AM EST | Local: Jan 22, 05:52 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "3eb9273ac1382404ffcb5f42b9468448b8d07a46",
-    "pubDate": "Thu, 22 Jan 2026 11:37:40 GMT",
-    "eventUtc": "2026-01-22T10:52:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
     "source": "vf_ship"
   }
 ]
