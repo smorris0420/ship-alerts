@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Arrived at Port Everglades, United States (USA) at Mar 14, 04:35 AM EDT. The local time to the port is Mar 14, 04:35 AM EDT",
+    "description": "Port Everglades, United States (USA) Arrival (UTC) Mar 14, 08:35 — ET: Mar 14, 04:35 AM EDT | Local: Mar 14, 04:35 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPEF001",
+    "guid": "4f45d7d835f08d4fccf99108aadbd8abb759e742",
+    "pubDate": "Sat, 14 Mar 2026 09:38:40 GMT",
+    "eventUtc": "2026-03-14T08:35:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Departed from San Diego, United States (USA) at Mar 13, 08:26 PM EDT. The local time to the port is Mar 13, 08:26 PM EDT",
     "description": "San Diego, United States (USA) Departure (UTC) Mar 14, 00:26 — ET: Mar 13, 08:26 PM EDT | Local: Mar 13, 08:26 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USSAN001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-01-21T21:53:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Saint Thomas, US Virgin Islands at Jan 21, 03:27 PM EST. The local time to the port is Jan 21, 03:27 PM EST",
-    "description": "Saint Thomas, US Virgin Islands Departure (UTC) Jan 21, 20:27 — ET: Jan 21, 03:27 PM EST | Local: Jan 21, 03:27 PM EST",
-    "link": "https://www.vesselfinder.com/ports/VISTT001",
-    "guid": "b6da634fa7bf9ad8e84e7ae8247259c9e8611314",
-    "pubDate": "Wed, 21 Jan 2026 20:42:42 GMT",
-    "eventUtc": "2026-01-21T20:27:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]

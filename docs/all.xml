@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Sat, 14 Mar 2026 09:00:12 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 14 Mar 2026 09:38:42 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,13 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Destiny Arrived at Port Everglades, United States (USA) at Mar 14, 04:35 AM EDT. The local time to the port is Mar 14, 04:35 AM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USPEF001</link>
+    <guid isPermaLink="false">4f45d7d835f08d4fccf99108aadbd8abb759e742</guid>
+    <pubDate>Sat, 14 Mar 2026 09:38:40 GMT</pubDate>
+    <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) Mar 14, 08:35 — ET: Mar 14, 04:35 AM EDT | Local: Mar 14, 04:35 AM EDT]]></description>
   </item>
   <item>
     <title>Disney Wonder Departed from San Diego, United States (USA) at Mar 13, 08:26 PM EDT. The local time to the port is Mar 13, 08:26 PM EDT</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">e7dcdc49a4f15a5bd5eb0c6a78948a6ed0cb596a</guid>
     <pubDate>Thu, 22 Jan 2026 06:00:15 GMT</pubDate>
     <description><![CDATA[Gorda Cay, Bahamas Departure (UTC) Jan 21, 21:53 — ET: Jan 21, 04:53 PM EST | Local: Jan 21, 04:53 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Treasure Departed from Saint Thomas, US Virgin Islands at Jan 21, 03:27 PM EST. The local time to the port is Jan 21, 03:27 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/VISTT001</link>
-    <guid isPermaLink="false">b6da634fa7bf9ad8e84e7ae8247259c9e8611314</guid>
-    <pubDate>Wed, 21 Jan 2026 20:42:42 GMT</pubDate>
-    <description><![CDATA[Saint Thomas, US Virgin Islands Departure (UTC) Jan 21, 20:27 — ET: Jan 21, 03:27 PM EST | Local: Jan 21, 03:27 PM EST]]></description>
   </item>
 </channel>
 </rss>
