@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Departed from San Diego, United States (USA) at Mar 13, 08:26 PM EDT. The local time to the port is Mar 13, 08:26 PM EDT",
+    "description": "San Diego, United States (USA) Departure (UTC) Mar 14, 00:26 — ET: Mar 13, 08:26 PM EDT | Local: Mar 13, 08:26 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USSAN001",
+    "guid": "7edaac96e8ec4c65ee94f0cc6b210f5cb84e9cb8",
+    "pubDate": "Sat, 14 Mar 2026 02:51:36 GMT",
+    "eventUtc": "2026-03-14T00:26:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Treasure Departed from Gorda Cay, Bahamas at Mar 13, 05:12 PM EDT. The local time to the port is Mar 13, 05:12 PM EDT",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Mar 13, 21:12 — ET: Mar 13, 05:12 PM EDT | Local: Mar 13, 05:12 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "f578efad336f709dcd078127861d4819dc62f4a5",
+    "pubDate": "Sat, 14 Mar 2026 02:49:45 GMT",
+    "eventUtc": "2026-03-13T21:12:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Port Everglades, United States (USA) at Mar 13, 04:52 PM EDT. The local time to the port is Mar 13, 04:52 PM EDT",
     "description": "Port Everglades, United States (USA) Departure (UTC) Mar 13, 20:52 — ET: Mar 13, 04:52 PM EDT | Local: Mar 13, 04:52 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USPEF001",
@@ -262,6 +284,17 @@
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
     "source": "vf_port"
+  },
+  {
+    "title": "Disney Treasure Arrived at Gorda Cay, Bahamas at Mar 13, 07:47 AM EDT. The local time to the port is Mar 13, 07:47 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Mar 13, 11:47 — ET: Mar 13, 07:47 AM EDT | Local: Mar 13, 07:47 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "ee64a7b2a051fa67e9cd960f2e2d8e6b1fce6cf7",
+    "pubDate": "Sat, 14 Mar 2026 02:49:44 GMT",
+    "eventUtc": "2026-03-13T11:47:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
   },
   {
     "title": "Disney Adventure Departed from Singapore, Singapore at Mar 13, 05:59 AM EDT. The local time to the port is Mar 13, 05:59 AM EDT",
@@ -5464,39 +5497,6 @@
     "eventUtc": "2026-01-21T20:27:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Arrived at Gorda Cay, Bahamas at Jan 21, 07:51 AM EST. The local time to the port is Jan 21, 07:51 AM EST",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) Jan 21, 12:51 — ET: Jan 21, 07:51 AM EST | Local: Jan 21, 07:51 AM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "1e35e299779c13cbed1be929b7f96a953a20cd03",
-    "pubDate": "Wed, 21 Jan 2026 19:10:27 GMT",
-    "eventUtc": "2026-01-21T12:51:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Arrived at Nassau, Bahamas at Jan 21, 07:28 AM EST. The local time to the port is Jan 21, 07:28 AM EST",
-    "description": "Nassau, Bahamas Arrival (UTC) Jan 21, 12:28 — ET: Jan 21, 07:28 AM EST | Local: Jan 21, 07:28 AM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "30e0d820e9157fc18b45d046023004c0dba108c3",
-    "pubDate": "Wed, 21 Jan 2026 13:38:41 GMT",
-    "eventUtc": "2026-01-21T12:28:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Arrived at Galveston, United States (USA) at Jan 21, 07:03 AM EST. The local time to the port is Jan 21, 07:03 AM EST",
-    "description": "Galveston, United States (USA) Arrival (UTC) Jan 21, 12:03 — ET: Jan 21, 07:03 AM EST | Local: Jan 21, 07:03 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USGLS001",
-    "guid": "5979e4428cab5a3fd3c27d0dc093e23f90b3eb64",
-    "pubDate": "Wed, 21 Jan 2026 12:53:01 GMT",
-    "eventUtc": "2026-01-21T12:03:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
