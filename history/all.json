@@ -231,6 +231,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Destiny Arrived at Cozumel, Mexico at Mar 16, 08:17 AM EDT. The local time to the port is Mar 16, 07:17 AM EST",
+    "description": "Cozumel, Mexico Arrival (UTC) Mar 16, 12:17 — ET: Mar 16, 08:17 AM EDT | Local: Mar 16, 07:17 AM EST",
+    "link": "https://www.vesselfinder.com/ports/MXCZM001",
+    "guid": "c3e1770c533af0dcd683dfcde250143bfd59e363",
+    "pubDate": "Mon, 16 Mar 2026 13:51:41 GMT",
+    "eventUtc": "2026-03-16T12:17:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Arrived at Cape Canaveral, United States (USA) at Mar 16, 06:07 AM EDT. The local time to the port is Mar 16, 06:07 AM EDT",
     "description": "Cape Canaveral, United States (USA) Arrival (UTC) Mar 16, 10:07 — ET: Mar 16, 06:07 AM EDT | Local: Mar 16, 06:07 AM EDT",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5487,16 +5498,5 @@
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
     "source": "vf_port"
-  },
-  {
-    "title": "Disney Wish Departed from Nassau, Bahamas at Jan 24, 06:02 PM EST. The local time to the port is Jan 24, 06:02 PM EST",
-    "description": "Nassau, Bahamas Departure (UTC) Jan 24, 23:02 — ET: Jan 24, 06:02 PM EST | Local: Jan 24, 06:02 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "54eabec75b9dabc6c3ad625e285352e1c1f9d93c",
-    "pubDate": "Sun, 25 Jan 2026 01:27:40 GMT",
-    "eventUtc": "2026-01-24T23:02:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
-    "source": "vf_ship"
   }
 ]
