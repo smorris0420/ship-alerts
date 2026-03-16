@@ -231,6 +231,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Wonder Departed from Ensenada, Mexico at Mar 15, 08:42 PM EDT. The local time to the port is Mar 15, 07:42 PM EST",
+    "description": "Ensenada, Mexico Departure (UTC) Mar 16, 00:42 — ET: Mar 15, 08:42 PM EDT | Local: Mar 15, 07:42 PM EST",
+    "link": "https://www.vesselfinder.com/ports/MXESE001",
+    "guid": "151ac66f05d84092d4947c134427696b9d749c2d",
+    "pubDate": "Mon, 16 Mar 2026 03:31:16 GMT",
+    "eventUtc": "2026-03-16T00:42:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Departed from Singapore, Singapore at Mar 15, 08:30 PM EDT. The local time to the port is Mar 15, 08:30 PM EDT",
     "description": "Singapore, Singapore Departure (UTC) Mar 16, 00:30 — ET: Mar 15, 08:30 PM EDT | Local: Mar 15, 08:30 PM EDT",
     "link": "https://www.vesselfinder.com/ports/SGSIN001",
@@ -272,6 +283,17 @@
     "eventUtc": "2026-03-15T21:20:00+00:00",
     "shipSlug": "disney-adventure",
     "shipName": "Disney Adventure",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Wish Departed from Gorda Cay, Bahamas at Mar 15, 04:53 PM EDT. The local time to the port is Mar 15, 04:53 PM EDT",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Mar 15, 20:53 — ET: Mar 15, 04:53 PM EDT | Local: Mar 15, 04:53 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "28c5f9db58ae02402a5806e657bc3ae0235741fa",
+    "pubDate": "Mon, 16 Mar 2026 03:28:36 GMT",
+    "eventUtc": "2026-03-15T20:53:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
     "source": "vf_ship"
   },
   {
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-01-24T10:44:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Adventure Departed from Freeport, Bahamas at Jan 23, 11:42 PM EST. The local time to the port is Jan 23, 11:42 PM EST",
-    "description": "Freeport, Bahamas Departure (UTC) Jan 24, 04:42 — ET: Jan 23, 11:42 PM EST | Local: Jan 23, 11:42 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSFPO001",
-    "guid": "176fedc6db0cd1e414150a210849ffb898cf5d36",
-    "pubDate": "Sat, 24 Jan 2026 04:56:46 GMT",
-    "eventUtc": "2026-01-24T04:42:00+00:00",
-    "shipSlug": "disney-adventure",
-    "shipName": "Disney Adventure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Progreso, Mexico at Jan 23, 07:06 PM EST. The local time to the port is Jan 23, 07:06 PM EST",
-    "description": "Progreso, Mexico Departure (UTC) Jan 24, 00:06 — ET: Jan 23, 07:06 PM EST | Local: Jan 23, 07:06 PM EST",
-    "link": "https://www.vesselfinder.com/ports/MXPGO001",
-    "guid": "45e4c069acc9b79da2ff3ba0b144c5f566123aef",
-    "pubDate": "Sat, 24 Jan 2026 20:48:49 GMT",
-    "eventUtc": "2026-01-24T00:06:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
