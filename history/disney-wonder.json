@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Arrived at San Diego, United States (USA) at Mar 16, 09:24 AM EDT. The local time to the port is Mar 16, 09:24 AM EDT",
+    "description": "San Diego, United States (USA) Arrival (UTC) Mar 16, 13:24 — ET: Mar 16, 09:24 AM EDT | Local: Mar 16, 09:24 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USSAN001",
+    "guid": "50a6626bea8d23335f90d143fa2bb8100f180b5d",
+    "pubDate": "Mon, 16 Mar 2026 14:54:17 GMT",
+    "eventUtc": "2026-03-16T13:24:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Departed from Ensenada, Mexico at Mar 15, 08:42 PM EDT. The local time to the port is Mar 15, 07:42 PM EST",
     "description": "Ensenada, Mexico Departure (UTC) Mar 16, 00:42 — ET: Mar 15, 08:42 PM EDT | Local: Mar 15, 07:42 PM EST",
     "link": "https://www.vesselfinder.com/ports/MXESE001",

@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Arrived at San Diego, United States (USA) at Mar 16, 09:24 AM EDT. The local time to the port is Mar 16, 09:24 AM EDT",
+    "description": "San Diego, United States (USA) Arrival (UTC) Mar 16, 13:24 — ET: Mar 16, 09:24 AM EDT | Local: Mar 16, 09:24 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USSAN001",
+    "guid": "50a6626bea8d23335f90d143fa2bb8100f180b5d",
+    "pubDate": "Mon, 16 Mar 2026 14:54:17 GMT",
+    "eventUtc": "2026-03-16T13:24:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Port Everglades, United States (USA) at Mar 16, 09:00 AM EDT. The local time to the port is Mar 16, 09:00 AM EDT",
     "description": "Port Everglades, United States (USA) Departure (UTC) Mar 16, 13:00 — ET: Mar 16, 09:00 AM EDT | Local: Mar 16, 09:00 AM EDT",
     "link": "https://www.vesselfinder.com/ports/USPEF001",
@@ -5483,17 +5494,6 @@
     "link": "https://www.vesselfinder.com/ports/AUSYD002",
     "guid": "e8d1f3488e5ef867b6d8bf49a3c969743e521049",
     "pubDate": "Sat, 24 Jan 2026 22:04:07 GMT",
-    "eventUtc": "2026-01-25T06:30:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
-    "source": "vf_port"
-  },
-  {
-    "title": "Disney Wonder Arrived at Sydney, Australia at Jan 25, 01:30 AM EST. The local time to the port is Jan 25, 05:30 PM AEDT",
-    "description": "Sydney, Australia Arrival (UTC) Jan 25, 06:30 — ET: Jan 25, 01:30 AM EST | Local: Jan 25, 05:30 PM AEDT",
-    "link": "https://www.vesselfinder.com/ports/AUSYD002",
-    "guid": "aa88f3700215f5b92dd05a755055ebd869d9a7c3",
-    "pubDate": "Sat, 24 Jan 2026 22:04:08 GMT",
     "eventUtc": "2026-01-25T06:30:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
