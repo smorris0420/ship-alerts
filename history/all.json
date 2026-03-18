@@ -231,6 +231,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Fantasy Departed from Nassau, Bahamas at Mar 18, 06:07 PM EDT. The local time to the port is Mar 18, 06:07 PM EDT",
+    "description": "Nassau, Bahamas Departure (UTC) Mar 18, 22:07 — ET: Mar 18, 06:07 PM EDT | Local: Mar 18, 06:07 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "54b6628192614cb22b31b265ccde28e9d01c60b8",
+    "pubDate": "Wed, 18 Mar 2026 22:31:47 GMT",
+    "eventUtc": "2026-03-18T22:07:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Arrived at Singapore, Singapore at Mar 18, 05:14 PM EDT. The local time to the port is Mar 18, 05:14 PM EDT",
     "description": "Singapore, Singapore Arrival (UTC) Mar 18, 21:14 — ET: Mar 18, 05:14 PM EDT | Local: Mar 18, 05:14 PM EDT",
     "link": "https://www.vesselfinder.com/ports/SGSIN001",
@@ -5487,16 +5498,5 @@
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
     "source": "vf_port"
-  },
-  {
-    "title": "Disney Fantasy Arrived at Gorda Cay, Bahamas at Jan 26, 08:01 AM EST. The local time to the port is Jan 26, 08:01 AM EST",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) Jan 26, 13:01 — ET: Jan 26, 08:01 AM EST | Local: Jan 26, 08:01 AM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "5cffd4c138376135cd1596c217fbdfe64d1c4031",
-    "pubDate": "Tue, 27 Jan 2026 01:50:29 GMT",
-    "eventUtc": "2026-01-26T13:01:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
-    "source": "vf_ship"
   }
 ]
