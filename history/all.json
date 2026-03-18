@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Adventure Departed from Singapore, Singapore at Mar 18, 08:30 PM EDT. The local time to the port is Mar 18, 08:30 PM EDT",
+    "description": "Singapore, Singapore Departure (UTC) Mar 19, 00:30 — ET: Mar 18, 08:30 PM EDT | Local: Mar 18, 08:30 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/SGSIN001",
+    "guid": "abf471191827212c2ba9371fc632a28e3021ed59",
+    "pubDate": "Wed, 18 Mar 2026 20:00:31 GMT",
+    "eventUtc": "2026-03-19T00:30:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_port"
+  },
+  {
+    "title": "Disney Adventure Arrived at Singapore, Singapore at Mar 18, 08:30 PM EDT. The local time to the port is Mar 18, 08:30 PM EDT",
+    "description": "Singapore, Singapore Arrival (UTC) Mar 19, 00:30 — ET: Mar 18, 08:30 PM EDT | Local: Mar 18, 08:30 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/SGSIN001",
+    "guid": "99b48b0f241e7dcfd96ac6f87f7526691ff49823",
+    "pubDate": "Wed, 18 Mar 2026 20:00:33 GMT",
+    "eventUtc": "2026-03-19T00:30:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_port"
+  },
+  {
     "title": "Disney Treasure Arrived at Saint Thomas, US Virgin Islands at Mar 18, 07:39 AM EDT. The local time to the port is Mar 18, 07:39 AM EDT",
     "description": "Saint Thomas, US Virgin Islands Arrival (UTC) Mar 18, 11:39 — ET: Mar 18, 07:39 AM EDT | Local: Mar 18, 07:39 AM EDT",
     "link": "https://www.vesselfinder.com/ports/VISTT001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-01-26T10:50:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Arrived at Port Everglades, United States (USA) at Jan 26, 05:48 AM EST. The local time to the port is Jan 26, 05:48 AM EST",
-    "description": "Port Everglades, United States (USA) Arrival (UTC) Jan 26, 10:48 — ET: Jan 26, 05:48 AM EST | Local: Jan 26, 05:48 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "ae93b03f696087aae66ca982eedce7ac2650410c",
-    "pubDate": "Mon, 26 Jan 2026 11:32:30 GMT",
-    "eventUtc": "2026-01-26T10:48:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Arrived at Port Everglades, United States (USA) at Jan 26, 04:54 AM EST. The local time to the port is Jan 26, 04:54 AM EST",
-    "description": "Port Everglades, United States (USA) Arrival (UTC) Jan 26, 09:54 — ET: Jan 26, 04:54 AM EST | Local: Jan 26, 04:54 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "cdb6a0dfd71a2f6a40b3ed0dad6a74f3916f2531",
-    "pubDate": "Mon, 26 Jan 2026 10:45:46 GMT",
-    "eventUtc": "2026-01-26T09:54:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
     "source": "vf_ship"
   }
 ]
