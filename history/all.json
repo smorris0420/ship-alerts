@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Departed from Ensenada, Mexico at Mar 19, 08:12 PM EDT. The local time to the port is Mar 19, 07:12 PM EST",
+    "description": "Ensenada, Mexico Departure (UTC) Mar 20, 00:12 — ET: Mar 19, 08:12 PM EDT | Local: Mar 19, 07:12 PM EST",
+    "link": "https://www.vesselfinder.com/ports/MXESE001",
+    "guid": "d00602970121d9800366d2c1f636756ebb170c80",
+    "pubDate": "Fri, 20 Mar 2026 02:52:54 GMT",
+    "eventUtc": "2026-03-20T00:12:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Departed from Port Everglades, United States (USA) at Mar 19, 04:12 PM EDT. The local time to the port is Mar 19, 04:12 PM EDT",
     "description": "Port Everglades, United States (USA) Departure (UTC) Mar 19, 20:12 — ET: Mar 19, 04:12 PM EDT | Local: Mar 19, 04:12 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USPEF001",
@@ -5487,16 +5498,5 @@
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
     "source": "vf_port"
-  },
-  {
-    "title": "Disney Treasure Departed from Cozumel, Mexico at Jan 26, 05:35 PM EST. The local time to the port is Jan 26, 05:35 PM EST",
-    "description": "Cozumel, Mexico Departure (UTC) Jan 26, 22:35 — ET: Jan 26, 05:35 PM EST | Local: Jan 26, 05:35 PM EST",
-    "link": "https://www.vesselfinder.com/ports/MXCZM001",
-    "guid": "0dacb15f998e68d995b0294eedcb6628df8d6917",
-    "pubDate": "Mon, 26 Jan 2026 22:54:41 GMT",
-    "eventUtc": "2026-01-26T22:35:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
   }
 ]
