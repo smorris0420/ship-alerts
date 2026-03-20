@@ -220,6 +220,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Gorda Cay, Bahamas at Mar 19, 05:02 PM EDT. The local time to the port is Mar 19, 05:02 PM EDT",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Mar 19, 21:02 — ET: Mar 19, 05:02 PM EDT | Local: Mar 19, 05:02 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "a19254e133c25d8664c647d9b7821804e27c7b2a",
+    "pubDate": "Fri, 20 Mar 2026 05:39:38 GMT",
+    "eventUtc": "2026-03-19T21:02:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Departed from Port Everglades, United States (USA) at Mar 19, 04:12 PM EDT. The local time to the port is Mar 19, 04:12 PM EDT",
     "description": "Port Everglades, United States (USA) Departure (UTC) Mar 19, 20:12 — ET: Mar 19, 04:12 PM EDT | Local: Mar 19, 04:12 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USPEF001",
@@ -239,6 +250,17 @@
     "eventUtc": "2026-03-19T14:36:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Dream Arrived at Gorda Cay, Bahamas at Mar 19, 07:31 AM EDT. The local time to the port is Mar 19, 07:31 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Mar 19, 11:31 — ET: Mar 19, 07:31 AM EDT | Local: Mar 19, 07:31 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "57277b52c23bb34270fbd06f929fab4680ea6d88",
+    "pubDate": "Fri, 20 Mar 2026 05:39:37 GMT",
+    "eventUtc": "2026-03-19T11:31:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
     "source": "vf_ship"
   },
   {
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-01-27T17:48:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Arrived at Nassau, Bahamas at Jan 27, 08:47 AM EST. The local time to the port is Jan 27, 08:47 AM EST",
-    "description": "Nassau, Bahamas Arrival (UTC) Jan 27, 13:47 — ET: Jan 27, 08:47 AM EST | Local: Jan 27, 08:47 AM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "719a4a93f04d8fa1d7c178bd5370f0cbd32ed79a",
-    "pubDate": "Tue, 27 Jan 2026 14:54:57 GMT",
-    "eventUtc": "2026-01-27T13:47:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Arrived at Progreso, Mexico at Jan 27, 07:55 AM EST. The local time to the port is Jan 27, 07:55 AM EST",
-    "description": "Progreso, Mexico Arrival (UTC) Jan 27, 12:55 — ET: Jan 27, 07:55 AM EST | Local: Jan 27, 07:55 AM EST",
-    "link": "https://www.vesselfinder.com/ports/MXPGO001",
-    "guid": "5245973ea4444126e977667fd8a7b56e3d43b71a",
-    "pubDate": "Thu, 29 Jan 2026 04:12:55 GMT",
-    "eventUtc": "2026-01-27T12:55:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]

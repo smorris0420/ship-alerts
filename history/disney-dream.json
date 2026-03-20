@@ -22,6 +22,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Gorda Cay, Bahamas at Mar 19, 05:02 PM EDT. The local time to the port is Mar 19, 05:02 PM EDT",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Mar 19, 21:02 — ET: Mar 19, 05:02 PM EDT | Local: Mar 19, 05:02 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "a19254e133c25d8664c647d9b7821804e27c7b2a",
+    "pubDate": "Fri, 20 Mar 2026 05:39:38 GMT",
+    "eventUtc": "2026-03-19T21:02:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Dream Arrived at Gorda Cay, Bahamas at Mar 19, 07:31 AM EDT. The local time to the port is Mar 19, 07:31 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Mar 19, 11:31 — ET: Mar 19, 07:31 AM EDT | Local: Mar 19, 07:31 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "57277b52c23bb34270fbd06f929fab4680ea6d88",
+    "pubDate": "Fri, 20 Mar 2026 05:39:37 GMT",
+    "eventUtc": "2026-03-19T11:31:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Nassau, Bahamas at Mar 17, 05:56 PM EDT. The local time to the port is Mar 17, 05:56 PM EDT",
     "description": "Nassau, Bahamas Departure (UTC) Mar 17, 21:56 — ET: Mar 17, 05:56 PM EDT | Local: Mar 17, 05:56 PM EDT",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
