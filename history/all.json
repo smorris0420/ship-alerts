@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Galveston, United States (USA) at Mar 20, 05:56 PM EDT. The local time to the port is Mar 20, 05:56 PM EDT",
+    "description": "Galveston, United States (USA) Departure (UTC) Mar 20, 21:56 — ET: Mar 20, 05:56 PM EDT | Local: Mar 20, 05:56 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USGLS001",
+    "guid": "f792cc00ba3d9374666285957eadbe92e28eb246",
+    "pubDate": "Fri, 20 Mar 2026 22:23:13 GMT",
+    "eventUtc": "2026-03-20T21:56:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Departed from Cape Canaveral, United States (USA) at Mar 20, 04:57 PM EDT. The local time to the port is Mar 20, 04:57 PM EDT",
     "description": "Cape Canaveral, United States (USA) Departure (UTC) Mar 20, 20:57 — ET: Mar 20, 04:57 PM EDT | Local: Mar 20, 04:57 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-01-28T11:57:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Arrived at Cape Canaveral, United States (USA) at Jan 28, 05:33 AM EST. The local time to the port is Jan 28, 05:33 AM EST",
-    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Jan 28, 10:33 — ET: Jan 28, 05:33 AM EST | Local: Jan 28, 05:33 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "05da2423ba9dbe09914991aeaf0a0c76c305924d",
-    "pubDate": "Wed, 28 Jan 2026 11:35:10 GMT",
-    "eventUtc": "2026-01-28T10:33:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
     "source": "vf_ship"
   }
 ]
