@@ -264,6 +264,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Progreso, Mexico at Mar 18, 09:19 PM EDT. The local time to the port is Mar 18, 08:19 PM EST",
+    "description": "Progreso, Mexico Departure (UTC) Mar 19, 01:19 — ET: Mar 18, 09:19 PM EDT | Local: Mar 18, 08:19 PM EST",
+    "link": "https://www.vesselfinder.com/ports/MXPGO001",
+    "guid": "3c7c585b677e2db89bceea810f21382cc13b9bf8",
+    "pubDate": "Fri, 20 Mar 2026 04:30:24 GMT",
+    "eventUtc": "2026-03-19T01:19:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Departed from Singapore, Singapore at Mar 18, 08:30 PM EDT. The local time to the port is Mar 18, 08:30 PM EDT",
     "description": "Singapore, Singapore Departure (UTC) Mar 19, 00:30 — ET: Mar 18, 08:30 PM EDT | Local: Mar 18, 08:30 PM EDT",
     "link": "https://www.vesselfinder.com/ports/SGSIN001",
@@ -327,6 +338,17 @@
     "eventUtc": "2026-03-18T19:59:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Magic Arrived at Progreso, Mexico at Mar 18, 11:33 AM EDT. The local time to the port is Mar 18, 10:33 AM EST",
+    "description": "Progreso, Mexico Arrival (UTC) Mar 18, 15:33 — ET: Mar 18, 11:33 AM EDT | Local: Mar 18, 10:33 AM EST",
+    "link": "https://www.vesselfinder.com/ports/MXPGO001",
+    "guid": "e374c5a6e8681f3442a35259667dcf8f951a618a",
+    "pubDate": "Fri, 20 Mar 2026 04:30:23 GMT",
+    "eventUtc": "2026-03-18T15:33:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
     "source": "vf_ship"
   },
   {
@@ -5476,27 +5498,5 @@
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
     "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Departed from Hobart, Australia at Jan 27, 04:30 AM EST. The local time to the port is Jan 27, 08:30 PM AEDT",
-    "description": "Hobart, Australia Departure (UTC) Jan 27, 09:30 — ET: Jan 27, 04:30 AM EST | Local: Jan 27, 08:30 PM AEDT",
-    "link": "https://www.vesselfinder.com/ports/AUHBA001",
-    "guid": "e7df5a67afb95f92e5f5fb8d8d34d898eece9414",
-    "pubDate": "Tue, 27 Jan 2026 19:21:34 GMT",
-    "eventUtc": "2026-01-27T09:30:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
-    "source": "vf_port"
-  },
-  {
-    "title": "Disney Wonder Arrived at Hobart, Australia at Jan 27, 04:30 AM EST. The local time to the port is Jan 27, 08:30 PM AEDT",
-    "description": "Hobart, Australia Arrival (UTC) Jan 27, 09:30 — ET: Jan 27, 04:30 AM EST | Local: Jan 27, 08:30 PM AEDT",
-    "link": "https://www.vesselfinder.com/ports/AUHBA001",
-    "guid": "37ef73226a134edb66fb8aaf5b7ce952920657ec",
-    "pubDate": "Tue, 27 Jan 2026 19:21:36 GMT",
-    "eventUtc": "2026-01-27T09:30:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
-    "source": "vf_port"
   }
 ]
