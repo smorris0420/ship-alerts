@@ -44,6 +44,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Departed from Gorda Cay, Bahamas at Mar 20, 05:11 PM EDT. The local time to the port is Mar 20, 05:11 PM EDT",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Mar 20, 21:11 — ET: Mar 20, 05:11 PM EDT | Local: Mar 20, 05:11 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "5332f28ac8ce2f4561b0edb22878fa1afa80a58e",
+    "pubDate": "Sat, 21 Mar 2026 05:34:28 GMT",
+    "eventUtc": "2026-03-20T21:11:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Treasure Arrived at Gorda Cay, Bahamas at Mar 20, 09:24 AM EDT. The local time to the port is Mar 20, 09:24 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Mar 20, 13:24 — ET: Mar 20, 09:24 AM EDT | Local: Mar 20, 09:24 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "50520d646549bf0d7cabbe5cdc84b95ebeaacf26",
+    "pubDate": "Sat, 21 Mar 2026 05:34:26 GMT",
+    "eventUtc": "2026-03-20T13:24:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Departed from Saint Thomas, US Virgin Islands at Mar 18, 04:12 PM EDT. The local time to the port is Mar 18, 04:12 PM EDT",
     "description": "Saint Thomas, US Virgin Islands Departure (UTC) Mar 18, 20:12 — ET: Mar 18, 04:12 PM EDT | Local: Mar 18, 04:12 PM EDT",
     "link": "https://www.vesselfinder.com/ports/VISTT001",
