@@ -253,6 +253,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Departed from Avalon Anch., United States (USA) at Mar 20, 08:27 PM EDT. The local time to the port is Mar 20, 08:27 PM EDT",
+    "description": "Avalon Anch., United States (USA) Departure (UTC) Mar 21, 00:27 — ET: Mar 20, 08:27 PM EDT | Local: Mar 20, 08:27 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USAOU001",
+    "guid": "ae56005061640b58ebe91842ef717e5d90a974e3",
+    "pubDate": "Sat, 21 Mar 2026 15:01:43 GMT",
+    "eventUtc": "2026-03-21T00:27:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Departed from Galveston, United States (USA) at Mar 20, 05:56 PM EDT. The local time to the port is Mar 20, 05:56 PM EDT",
     "description": "Galveston, United States (USA) Departure (UTC) Mar 20, 21:56 — ET: Mar 20, 05:56 PM EDT | Local: Mar 20, 05:56 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USGLS001",
@@ -302,6 +313,17 @@
     "link": "https://www.vesselfinder.com/ports/USSAN001",
     "guid": "fa831ad77a80c422a1ee651cec699a7d12b00d3f",
     "pubDate": "Fri, 20 Mar 2026 14:13:35 GMT",
+    "eventUtc": "2026-03-20T13:29:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Wonder Arrived at Avalon Anch., United States (USA) at Mar 20, 09:29 AM EDT. The local time to the port is Mar 20, 09:29 AM EDT",
+    "description": "Avalon Anch., United States (USA) Arrival (UTC) Mar 20, 13:29 — ET: Mar 20, 09:29 AM EDT | Local: Mar 20, 09:29 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USAOU001",
+    "guid": "ab031c648a91d4fc4f3a0f2f6cd3260c86eb8302",
+    "pubDate": "Sat, 21 Mar 2026 15:01:41 GMT",
     "eventUtc": "2026-03-20T13:29:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-01-28T22:43:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Falmouth, Jamaica at Jan 28, 05:11 PM EST. The local time to the port is Jan 28, 05:11 PM EST",
-    "description": "Falmouth, Jamaica Departure (UTC) Jan 28, 22:11 — ET: Jan 28, 05:11 PM EST | Local: Jan 28, 05:11 PM EST",
-    "link": "https://www.vesselfinder.com/ports/JMFMH001",
-    "guid": "dd83e774d48a77140905331d2d5e07b7c264e422",
-    "pubDate": "Fri, 30 Jan 2026 06:09:11 GMT",
-    "eventUtc": "2026-01-28T22:11:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Departed from Gorda Cay, Bahamas at Jan 28, 05:08 PM EST. The local time to the port is Jan 28, 05:08 PM EST",
-    "description": "Gorda Cay, Bahamas Departure (UTC) Jan 28, 22:08 — ET: Jan 28, 05:08 PM EST | Local: Jan 28, 05:08 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "0732654b946e4dbe95591ef8303b552fbcdcd862",
-    "pubDate": "Wed, 28 Jan 2026 22:37:48 GMT",
-    "eventUtc": "2026-01-28T22:08:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
     "source": "vf_ship"
   }
 ]

@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Sat, 21 Mar 2026 14:42:47 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 21 Mar 2026 15:03:09 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -169,6 +169,13 @@
     <description><![CDATA[San Diego, United States (USA) Departure (UTC) Mar 21, 00:27 — ET: Mar 20, 08:27 PM EDT | Local: Mar 20, 08:27 PM EDT]]></description>
   </item>
   <item>
+    <title>Disney Wonder Departed from Avalon Anch., United States (USA) at Mar 20, 08:27 PM EDT. The local time to the port is Mar 20, 08:27 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USAOU001</link>
+    <guid isPermaLink="false">ae56005061640b58ebe91842ef717e5d90a974e3</guid>
+    <pubDate>Sat, 21 Mar 2026 15:01:43 GMT</pubDate>
+    <description><![CDATA[Avalon Anch., United States (USA) Departure (UTC) Mar 21, 00:27 — ET: Mar 20, 08:27 PM EDT | Local: Mar 20, 08:27 PM EDT]]></description>
+  </item>
+  <item>
     <title>Disney Magic Departed from Galveston, United States (USA) at Mar 20, 05:56 PM EDT. The local time to the port is Mar 20, 05:56 PM EDT</title>
     <link>https://www.vesselfinder.com/ports/USGLS001</link>
     <guid isPermaLink="false">f792cc00ba3d9374666285957eadbe92e28eb246</guid>
@@ -202,6 +209,13 @@
     <guid isPermaLink="false">fa831ad77a80c422a1ee651cec699a7d12b00d3f</guid>
     <pubDate>Fri, 20 Mar 2026 14:13:35 GMT</pubDate>
     <description><![CDATA[San Diego, United States (USA) Arrival (UTC) Mar 20, 13:29 — ET: Mar 20, 09:29 AM EDT | Local: Mar 20, 09:29 AM EDT]]></description>
+  </item>
+  <item>
+    <title>Disney Wonder Arrived at Avalon Anch., United States (USA) at Mar 20, 09:29 AM EDT. The local time to the port is Mar 20, 09:29 AM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USAOU001</link>
+    <guid isPermaLink="false">ab031c648a91d4fc4f3a0f2f6cd3260c86eb8302</guid>
+    <pubDate>Sat, 21 Mar 2026 15:01:41 GMT</pubDate>
+    <description><![CDATA[Avalon Anch., United States (USA) Arrival (UTC) Mar 20, 13:29 — ET: Mar 20, 09:29 AM EDT | Local: Mar 20, 09:29 AM EDT]]></description>
   </item>
   <item>
     <title>Disney Treasure Arrived at Gorda Cay, Bahamas at Mar 20, 09:24 AM EDT. The local time to the port is Mar 20, 09:24 AM EDT</title>
@@ -3492,20 +3506,6 @@
     <guid isPermaLink="false">84d3f8710023573cf6f0128abcc77f37ecf9fd43</guid>
     <pubDate>Wed, 28 Jan 2026 23:40:33 GMT</pubDate>
     <description><![CDATA[Nassau, Bahamas Departure (UTC) Jan 28, 22:43 — ET: Jan 28, 05:43 PM EST | Local: Jan 28, 05:43 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Treasure Departed from Falmouth, Jamaica at Jan 28, 05:11 PM EST. The local time to the port is Jan 28, 05:11 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/JMFMH001</link>
-    <guid isPermaLink="false">dd83e774d48a77140905331d2d5e07b7c264e422</guid>
-    <pubDate>Fri, 30 Jan 2026 06:09:11 GMT</pubDate>
-    <description><![CDATA[Falmouth, Jamaica Departure (UTC) Jan 28, 22:11 — ET: Jan 28, 05:11 PM EST | Local: Jan 28, 05:11 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Wish Departed from Gorda Cay, Bahamas at Jan 28, 05:08 PM EST. The local time to the port is Jan 28, 05:08 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
-    <guid isPermaLink="false">0732654b946e4dbe95591ef8303b552fbcdcd862</guid>
-    <pubDate>Wed, 28 Jan 2026 22:37:48 GMT</pubDate>
-    <description><![CDATA[Gorda Cay, Bahamas Departure (UTC) Jan 28, 22:08 — ET: Jan 28, 05:08 PM EST | Local: Jan 28, 05:08 PM EST]]></description>
   </item>
 </channel>
 </rss>
