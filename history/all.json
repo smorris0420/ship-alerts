@@ -231,6 +231,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Wish Departed from Gorda Cay, Bahamas at Mar 22, 04:52 PM EDT. The local time to the port is Mar 22, 04:52 PM EDT",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Mar 22, 20:52 — ET: Mar 22, 04:52 PM EDT | Local: Mar 22, 04:52 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "3cd46c36d3db2dac5120475dff21dab72efe49d0",
+    "pubDate": "Sun, 22 Mar 2026 21:14:00 GMT",
+    "eventUtc": "2026-03-22T20:52:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Arrived at Cozumel, Mexico at Mar 22, 12:15 PM EDT. The local time to the port is Mar 22, 11:15 AM EST",
     "description": "Cozumel, Mexico Arrival (UTC) Mar 22, 16:15 — ET: Mar 22, 12:15 PM EDT | Local: Mar 22, 11:15 AM EST",
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-01-30T10:20:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Departed from Nassau, Bahamas at Jan 29, 05:59 PM EST. The local time to the port is Jan 29, 05:59 PM EST",
-    "description": "Nassau, Bahamas Departure (UTC) Jan 29, 22:59 — ET: Jan 29, 05:59 PM EST | Local: Jan 29, 05:59 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "a5609c2ac58e6379931b6d1c01f2e02462a51e79",
-    "pubDate": "Fri, 30 Jan 2026 02:13:30 GMT",
-    "eventUtc": "2026-01-29T22:59:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
     "source": "vf_ship"
   }
 ]
