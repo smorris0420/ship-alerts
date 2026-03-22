@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Adventure Departed from Singapore, Singapore at Mar 22, 08:30 PM EDT. The local time to the port is Mar 22, 08:30 PM EDT",
+    "description": "Singapore, Singapore Departure (UTC) Mar 23, 00:30 — ET: Mar 22, 08:30 PM EDT | Local: Mar 22, 08:30 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/SGSIN001",
+    "guid": "e74c1cc68ffa1cd18e0f19b322243d1eea830beb",
+    "pubDate": "Sun, 22 Mar 2026 19:10:09 GMT",
+    "eventUtc": "2026-03-23T00:30:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_port"
+  },
+  {
+    "title": "Disney Adventure Arrived at Singapore, Singapore at Mar 22, 08:30 PM EDT. The local time to the port is Mar 22, 08:30 PM EDT",
+    "description": "Singapore, Singapore Arrival (UTC) Mar 23, 00:30 — ET: Mar 22, 08:30 PM EDT | Local: Mar 22, 08:30 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/SGSIN001",
+    "guid": "91972e535f27970c61f058b85d3c206b37d52c4c",
+    "pubDate": "Sun, 22 Mar 2026 19:10:10 GMT",
+    "eventUtc": "2026-03-23T00:30:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_port"
+  },
+  {
     "title": "Disney Magic Arrived at Cozumel, Mexico at Mar 22, 12:15 PM EDT. The local time to the port is Mar 22, 11:15 AM EST",
     "description": "Cozumel, Mexico Arrival (UTC) Mar 22, 16:15 — ET: Mar 22, 12:15 PM EDT | Local: Mar 22, 11:15 AM EST",
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-01-29T22:59:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Galveston, United States (USA) at Jan 29, 05:45 PM EST. The local time to the port is Jan 29, 05:45 PM EST",
-    "description": "Galveston, United States (USA) Departure (UTC) Jan 29, 22:45 — ET: Jan 29, 05:45 PM EST | Local: Jan 29, 05:45 PM EST",
-    "link": "https://www.vesselfinder.com/ports/USGLS001",
-    "guid": "880881991a5483c25cdf9e14ff7a05330c679914",
-    "pubDate": "Thu, 29 Jan 2026 23:03:32 GMT",
-    "eventUtc": "2026-01-29T22:45:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Gorda Cay, Bahamas at Jan 29, 05:04 PM EST. The local time to the port is Jan 29, 05:04 PM EST",
-    "description": "Gorda Cay, Bahamas Departure (UTC) Jan 29, 22:04 — ET: Jan 29, 05:04 PM EST | Local: Jan 29, 05:04 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "ace30948b61c60d15bd0b5db98847400eb0511dd",
-    "pubDate": "Fri, 30 Jan 2026 06:11:23 GMT",
-    "eventUtc": "2026-01-29T22:04:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
     "source": "vf_ship"
   }
 ]
