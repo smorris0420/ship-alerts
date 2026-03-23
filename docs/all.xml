@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Mon, 23 Mar 2026 20:09:54 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 23 Mar 2026 20:56:48 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,27 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Wish Departed from Cape Canaveral, United States (USA) at Mar 23, 04:41 PM EDT. The local time to the port is Mar 23, 04:41 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USPCV001</link>
+    <guid isPermaLink="false">c98980b44c3ab667f5d3b57dee6adacb40fc19b3</guid>
+    <pubDate>Mon, 23 Mar 2026 20:52:46 GMT</pubDate>
+    <description><![CDATA[Cape Canaveral, United States (USA) Departure (UTC) Mar 23, 20:41 — ET: Mar 23, 04:41 PM EDT | Local: Mar 23, 04:41 PM EDT]]></description>
+  </item>
+  <item>
+    <title>Disney Destiny Departed from Port Everglades, United States (USA) at Mar 23, 04:25 PM EDT. The local time to the port is Mar 23, 04:25 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USPEF001</link>
+    <guid isPermaLink="false">780eb33144d5724477416c16ec9c8db23a2dd5f1</guid>
+    <pubDate>Mon, 23 Mar 2026 20:56:47 GMT</pubDate>
+    <description><![CDATA[Port Everglades, United States (USA) Departure (UTC) Mar 23, 20:25 — ET: Mar 23, 04:25 PM EDT | Local: Mar 23, 04:25 PM EDT]]></description>
+  </item>
+  <item>
+    <title>Disney Dream Departed from Port Everglades, United States (USA) at Mar 23, 04:11 PM EDT. The local time to the port is Mar 23, 04:11 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USPEF001</link>
+    <guid isPermaLink="false">849158497ccf96a04f2b50ff4bb61c721204840f</guid>
+    <pubDate>Mon, 23 Mar 2026 20:55:06 GMT</pubDate>
+    <description><![CDATA[Port Everglades, United States (USA) Departure (UTC) Mar 23, 20:11 — ET: Mar 23, 04:11 PM EDT | Local: Mar 23, 04:11 PM EDT]]></description>
   </item>
   <item>
     <title>Disney Wonder Arrived at San Diego, United States (USA) at Mar 23, 09:41 AM EDT. The local time to the port is Mar 23, 09:41 AM EDT</title>
@@ -3485,27 +3506,6 @@
     <guid isPermaLink="false">0a5d990583f5a9b0387812e6e05cc88ad36a23b1</guid>
     <pubDate>Sat, 31 Jan 2026 14:54:28 GMT</pubDate>
     <description><![CDATA[Cozumel, Mexico Arrival (UTC) Jan 31, 14:05 — ET: Jan 31, 09:05 AM EST | Local: Jan 31, 09:05 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Wish Arrived at Nassau, Bahamas at Jan 31, 08:44 AM EST. The local time to the port is Jan 31, 08:44 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/BSNAS001</link>
-    <guid isPermaLink="false">bf563b8eafa9350163ad75c174394f597a8847e8</guid>
-    <pubDate>Sat, 31 Jan 2026 14:28:26 GMT</pubDate>
-    <description><![CDATA[Nassau, Bahamas Arrival (UTC) Jan 31, 13:44 — ET: Jan 31, 08:44 AM EST | Local: Jan 31, 08:44 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Treasure Arrived at Cape Canaveral, United States (USA) at Jan 31, 06:02 AM EST. The local time to the port is Jan 31, 06:02 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/USPCV001</link>
-    <guid isPermaLink="false">b2e77ceb8278a827436c663f4e730694e50571f1</guid>
-    <pubDate>Sat, 31 Jan 2026 11:53:09 GMT</pubDate>
-    <description><![CDATA[Cape Canaveral, United States (USA) Arrival (UTC) Jan 31, 11:02 — ET: Jan 31, 06:02 AM EST | Local: Jan 31, 06:02 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Destiny Arrived at Port Everglades, United States (USA) at Jan 31, 04:32 AM EST. The local time to the port is Jan 31, 04:32 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/USPEF001</link>
-    <guid isPermaLink="false">2d9b84f1a528ee026772bd1e6aef0ee52fbd8187</guid>
-    <pubDate>Sat, 31 Jan 2026 10:34:28 GMT</pubDate>
-    <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) Jan 31, 09:32 — ET: Jan 31, 04:32 AM EST | Local: Jan 31, 04:32 AM EST]]></description>
   </item>
 </channel>
 </rss>
