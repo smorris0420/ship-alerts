@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Departed from Cozumel, Mexico at Mar 23, 06:11 PM EDT. The local time to the port is Mar 23, 05:11 PM EST",
+    "description": "Cozumel, Mexico Departure (UTC) Mar 23, 22:11 — ET: Mar 23, 06:11 PM EDT | Local: Mar 23, 05:11 PM EST",
+    "link": "https://www.vesselfinder.com/ports/MXCZM001",
+    "guid": "2e36f3a78f412e802db70c1ce2d6dd4d5aa29fe2",
+    "pubDate": "Mon, 23 Mar 2026 22:43:53 GMT",
+    "eventUtc": "2026-03-23T22:11:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Departed from Gorda Cay, Bahamas at Mar 23, 05:08 PM EDT. The local time to the port is Mar 23, 05:08 PM EDT",
     "description": "Gorda Cay, Bahamas Departure (UTC) Mar 23, 21:08 — ET: Mar 23, 05:08 PM EDT | Local: Mar 23, 05:08 PM EDT",
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
@@ -5483,17 +5494,6 @@
     "link": "https://www.vesselfinder.com/ports/PAPCN006",
     "guid": "304d05b88647cd5be56af4d961a29229c475c4a1",
     "pubDate": "Mon, 02 Feb 2026 09:13:11 GMT",
-    "eventUtc": "2026-01-31T17:12:00+00:00",
-    "shipSlug": "disney-adventure",
-    "shipName": "Disney Adventure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Adventure Departed from Unknown Port at Jan 31, 12:12 PM EST. The local time to the port is Jan 31, 12:12 PM EST",
-    "description": "Unknown Port Departure (UTC) Jan 31, 17:12 — ET: Jan 31, 12:12 PM EST | Local: Jan 31, 12:12 PM EST",
-    "link": "https://www.vesselfinder.com/vessels/details/9808986",
-    "guid": "62f9ff12fe883e48ac4fb5dce70497454cd49343",
-    "pubDate": "Mon, 02 Feb 2026 18:03:09 GMT",
     "eventUtc": "2026-01-31T17:12:00+00:00",
     "shipSlug": "disney-adventure",
     "shipName": "Disney Adventure",
