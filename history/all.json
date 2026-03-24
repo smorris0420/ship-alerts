@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Departed from San Diego, United States (USA) at Mar 23, 08:21 PM EDT. The local time to the port is Mar 23, 08:21 PM EDT",
+    "description": "San Diego, United States (USA) Departure (UTC) Mar 24, 00:21 — ET: Mar 23, 08:21 PM EDT | Local: Mar 23, 08:21 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USSAN001",
+    "guid": "de6073ca930e31b84692f1e7ae31a346f76893c6",
+    "pubDate": "Tue, 24 Mar 2026 01:01:37 GMT",
+    "eventUtc": "2026-03-24T00:21:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Departed from Cozumel, Mexico at Mar 23, 06:11 PM EDT. The local time to the port is Mar 23, 05:11 PM EST",
     "description": "Cozumel, Mexico Departure (UTC) Mar 23, 22:11 — ET: Mar 23, 06:11 PM EDT | Local: Mar 23, 05:11 PM EST",
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
@@ -5483,17 +5494,6 @@
     "link": "https://www.vesselfinder.com/ports/CWWIL002",
     "guid": "36f4f339a544493cea369f4bd6e51a993b4177cc",
     "pubDate": "Sat, 31 Jan 2026 17:39:17 GMT",
-    "eventUtc": "2026-01-31T17:12:00+00:00",
-    "shipSlug": "disney-adventure",
-    "shipName": "Disney Adventure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Adventure Departed from Panama Canal Anch. Atlantic, Panama at Jan 31, 12:12 PM EST. The local time to the port is Jan 31, 12:12 PM EST",
-    "description": "Panama Canal Anch. Atlantic, Panama Departure (UTC) Jan 31, 17:12 — ET: Jan 31, 12:12 PM EST | Local: Jan 31, 12:12 PM EST",
-    "link": "https://www.vesselfinder.com/ports/PAPCN006",
-    "guid": "304d05b88647cd5be56af4d961a29229c475c4a1",
-    "pubDate": "Mon, 02 Feb 2026 09:13:11 GMT",
     "eventUtc": "2026-01-31T17:12:00+00:00",
     "shipSlug": "disney-adventure",
     "shipName": "Disney Adventure",

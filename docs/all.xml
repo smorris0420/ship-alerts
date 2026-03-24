@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Mon, 23 Mar 2026 23:55:06 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 24 Mar 2026 01:03:11 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,13 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Wonder Departed from San Diego, United States (USA) at Mar 23, 08:21 PM EDT. The local time to the port is Mar 23, 08:21 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USSAN001</link>
+    <guid isPermaLink="false">de6073ca930e31b84692f1e7ae31a346f76893c6</guid>
+    <pubDate>Tue, 24 Mar 2026 01:01:37 GMT</pubDate>
+    <description><![CDATA[San Diego, United States (USA) Departure (UTC) Mar 24, 00:21 — ET: Mar 23, 08:21 PM EDT | Local: Mar 23, 08:21 PM EDT]]></description>
   </item>
   <item>
     <title>Disney Treasure Departed from Cozumel, Mexico at Mar 23, 06:11 PM EDT. The local time to the port is Mar 23, 05:11 PM EST</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">36f4f339a544493cea369f4bd6e51a993b4177cc</guid>
     <pubDate>Sat, 31 Jan 2026 17:39:17 GMT</pubDate>
     <description><![CDATA[Willemstad, Curacao Departure (UTC) Jan 31, 17:12 — ET: Jan 31, 12:12 PM EST | Local: Jan 31, 01:12 PM AST]]></description>
-  </item>
-  <item>
-    <title>Disney Adventure Departed from Panama Canal Anch. Atlantic, Panama at Jan 31, 12:12 PM EST. The local time to the port is Jan 31, 12:12 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/PAPCN006</link>
-    <guid isPermaLink="false">304d05b88647cd5be56af4d961a29229c475c4a1</guid>
-    <pubDate>Mon, 02 Feb 2026 09:13:11 GMT</pubDate>
-    <description><![CDATA[Panama Canal Anch. Atlantic, Panama Departure (UTC) Jan 31, 17:12 — ET: Jan 31, 12:12 PM EST | Local: Jan 31, 12:12 PM EST]]></description>
   </item>
 </channel>
 </rss>
