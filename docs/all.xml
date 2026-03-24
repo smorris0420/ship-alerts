@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Tue, 24 Mar 2026 14:43:58 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 24 Mar 2026 15:49:47 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -148,11 +148,25 @@
     <description><![CDATA[San Diego, United States (USA) Departure (UTC) Mar 24, 00:21 — ET: Mar 23, 08:21 PM EDT | Local: Mar 23, 08:21 PM EDT]]></description>
   </item>
   <item>
+    <title>Disney Wonder Departed from Avalon Anch., United States (USA) at Mar 23, 08:21 PM EDT. The local time to the port is Mar 23, 08:21 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USAOU001</link>
+    <guid isPermaLink="false">098d68d0bb2d97d965600b2d2714f56451e89189</guid>
+    <pubDate>Tue, 24 Mar 2026 15:48:43 GMT</pubDate>
+    <description><![CDATA[Avalon Anch., United States (USA) Departure (UTC) Mar 24, 00:21 — ET: Mar 23, 08:21 PM EDT | Local: Mar 23, 08:21 PM EDT]]></description>
+  </item>
+  <item>
     <title>Disney Treasure Departed from Cozumel, Mexico at Mar 23, 06:11 PM EDT. The local time to the port is Mar 23, 05:11 PM EST</title>
     <link>https://www.vesselfinder.com/ports/MXCZM001</link>
     <guid isPermaLink="false">2e36f3a78f412e802db70c1ce2d6dd4d5aa29fe2</guid>
     <pubDate>Mon, 23 Mar 2026 22:43:53 GMT</pubDate>
     <description><![CDATA[Cozumel, Mexico Departure (UTC) Mar 23, 22:11 — ET: Mar 23, 06:11 PM EDT | Local: Mar 23, 05:11 PM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Treasure Departed from Georgetown, Grand Cayman Anch., Cayman Islands at Mar 23, 06:11 PM EDT. The local time to the port is Mar 23, 05:11 PM EST</title>
+    <link>https://www.vesselfinder.com/ports/KYGEC001</link>
+    <guid isPermaLink="false">f22b5040de1598a0b6d216d7fd5170ca7706a43b</guid>
+    <pubDate>Tue, 24 Mar 2026 15:46:46 GMT</pubDate>
+    <description><![CDATA[Georgetown, Grand Cayman Anch., Cayman Islands Departure (UTC) Mar 23, 22:11 — ET: Mar 23, 06:11 PM EDT | Local: Mar 23, 05:11 PM EST]]></description>
   </item>
   <item>
     <title>Disney Fantasy Departed from Gorda Cay, Bahamas at Mar 23, 05:08 PM EDT. The local time to the port is Mar 23, 05:08 PM EDT</title>
@@ -190,11 +204,25 @@
     <description><![CDATA[San Diego, United States (USA) Arrival (UTC) Mar 23, 13:41 — ET: Mar 23, 09:41 AM EDT | Local: Mar 23, 09:41 AM EDT]]></description>
   </item>
   <item>
+    <title>Disney Wonder Arrived at Avalon Anch., United States (USA) at Mar 23, 09:41 AM EDT. The local time to the port is Mar 23, 09:41 AM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USAOU001</link>
+    <guid isPermaLink="false">d86bd939860fc32c4d5002461258748b2b342f36</guid>
+    <pubDate>Tue, 24 Mar 2026 15:48:42 GMT</pubDate>
+    <description><![CDATA[Avalon Anch., United States (USA) Arrival (UTC) Mar 23, 13:41 — ET: Mar 23, 09:41 AM EDT | Local: Mar 23, 09:41 AM EDT]]></description>
+  </item>
+  <item>
     <title>Disney Treasure Arrived at Cozumel, Mexico at Mar 23, 08:51 AM EDT. The local time to the port is Mar 23, 07:51 AM EST</title>
     <link>https://www.vesselfinder.com/ports/MXCZM001</link>
     <guid isPermaLink="false">d32b2a2d2d90ae94db0d56cd5f798d3186c17bad</guid>
     <pubDate>Mon, 23 Mar 2026 13:46:52 GMT</pubDate>
     <description><![CDATA[Cozumel, Mexico Arrival (UTC) Mar 23, 12:51 — ET: Mar 23, 08:51 AM EDT | Local: Mar 23, 07:51 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Treasure Arrived at Georgetown, Grand Cayman Anch., Cayman Islands at Mar 23, 08:51 AM EDT. The local time to the port is Mar 23, 07:51 AM EST</title>
+    <link>https://www.vesselfinder.com/ports/KYGEC001</link>
+    <guid isPermaLink="false">793e6c245b8cf75f4c7e4c5078a290505c4863d2</guid>
+    <pubDate>Tue, 24 Mar 2026 15:46:45 GMT</pubDate>
+    <description><![CDATA[Georgetown, Grand Cayman Anch., Cayman Islands Arrival (UTC) Mar 23, 12:51 — ET: Mar 23, 08:51 AM EDT | Local: Mar 23, 07:51 AM EST]]></description>
   </item>
   <item>
     <title>Disney Fantasy Arrived at Gorda Cay, Bahamas at Mar 23, 07:29 AM EDT. The local time to the port is Mar 23, 07:29 AM EDT</title>
@@ -3478,34 +3506,6 @@
     <guid isPermaLink="false">ff9e8ace28fd407570f755d872d117529974920f</guid>
     <pubDate>Sat, 31 Jan 2026 02:46:14 GMT</pubDate>
     <description><![CDATA[Sydney, Australia Arrival (UTC) Feb 01, 06:45 — ET: Feb 01, 01:45 AM EST | Local: Feb 01, 05:45 PM AEDT]]></description>
-  </item>
-  <item>
-    <title>Disney Magic Departed from Cozumel, Mexico at Jan 31, 04:52 PM EST. The local time to the port is Jan 31, 04:52 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/MXCZM001</link>
-    <guid isPermaLink="false">9d226ba2cc9ee8911f863069c3ba98e5eb6904d8</guid>
-    <pubDate>Sat, 31 Jan 2026 22:02:45 GMT</pubDate>
-    <description><![CDATA[Cozumel, Mexico Departure (UTC) Jan 31, 21:52 — ET: Jan 31, 04:52 PM EST | Local: Jan 31, 04:52 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Treasure Departed from Cape Canaveral, United States (USA) at Jan 31, 04:40 PM EST. The local time to the port is Jan 31, 04:40 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/USPCV001</link>
-    <guid isPermaLink="false">72ec20de68d16381cf74f8863a3da97f5e587179</guid>
-    <pubDate>Sat, 31 Jan 2026 21:50:50 GMT</pubDate>
-    <description><![CDATA[Cape Canaveral, United States (USA) Departure (UTC) Jan 31, 21:40 — ET: Jan 31, 04:40 PM EST | Local: Jan 31, 04:40 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Destiny Departed from Port Everglades, United States (USA) at Jan 31, 04:16 PM EST. The local time to the port is Jan 31, 04:16 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/USPEF001</link>
-    <guid isPermaLink="false">5ac4cbf6471697aa65bc9d3968c3ca53120a5177</guid>
-    <pubDate>Sat, 31 Jan 2026 21:37:33 GMT</pubDate>
-    <description><![CDATA[Port Everglades, United States (USA) Departure (UTC) Jan 31, 21:16 — ET: Jan 31, 04:16 PM EST | Local: Jan 31, 04:16 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Adventure Departed from Willemstad, Curacao at Jan 31, 12:12 PM EST. The local time to the port is Jan 31, 01:12 PM AST</title>
-    <link>https://www.vesselfinder.com/ports/CWWIL002</link>
-    <guid isPermaLink="false">36f4f339a544493cea369f4bd6e51a993b4177cc</guid>
-    <pubDate>Sat, 31 Jan 2026 17:39:17 GMT</pubDate>
-    <description><![CDATA[Willemstad, Curacao Departure (UTC) Jan 31, 17:12 — ET: Jan 31, 12:12 PM EST | Local: Jan 31, 01:12 PM AST]]></description>
   </item>
 </channel>
 </rss>
