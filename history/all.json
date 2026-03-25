@@ -231,6 +231,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Fantasy Departed from Cape Canaveral, United States (USA) at Mar 25, 04:28 PM EDT. The local time to the port is Mar 25, 04:28 PM EDT",
+    "description": "Cape Canaveral, United States (USA) Departure (UTC) Mar 25, 20:28 — ET: Mar 25, 04:28 PM EDT | Local: Mar 25, 04:28 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "7469f48d62d6f0525999c5556908d7a220a8033c",
+    "pubDate": "Wed, 25 Mar 2026 20:39:14 GMT",
+    "eventUtc": "2026-03-25T20:28:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Arrived at Ensenada, Mexico at Mar 25, 10:43 AM EDT. The local time to the port is Mar 25, 09:43 AM EST",
     "description": "Ensenada, Mexico Arrival (UTC) Mar 25, 14:43 — ET: Mar 25, 10:43 AM EDT | Local: Mar 25, 09:43 AM EST",
     "link": "https://www.vesselfinder.com/ports/MXESE001",
@@ -5483,17 +5494,6 @@
     "link": "https://www.vesselfinder.com/ports/USPEF001",
     "guid": "7ad83f7c5f7165ebb85a3bdc9a8a9eb9a31b4d5e",
     "pubDate": "Sun, 01 Feb 2026 08:04:27 GMT",
-    "eventUtc": "2026-02-02T14:30:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_port"
-  },
-  {
-    "title": "Disney Dream Arrived at Port Everglades, United States (USA) at Feb 02, 09:30 AM EST. The local time to the port is Feb 02, 09:30 AM EST",
-    "description": "Port Everglades, United States (USA) Arrival (UTC) Feb 02, 14:30 — ET: Feb 02, 09:30 AM EST | Local: Feb 02, 09:30 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "fdbfc54fe24e343db55f54a5fecd7bba8e20c233",
-    "pubDate": "Sun, 01 Feb 2026 08:04:29 GMT",
     "eventUtc": "2026-02-02T14:30:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
