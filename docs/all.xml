@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Wed, 25 Mar 2026 23:24:45 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 25 Mar 2026 23:57:51 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -155,11 +155,25 @@
     <description><![CDATA[Singapore, Singapore Arrival (UTC) Mar 26, 00:30 — ET: Mar 25, 08:30 PM EDT | Local: Mar 25, 08:30 PM EDT]]></description>
   </item>
   <item>
+    <title>Disney Destiny Departed from Nassau, Bahamas at Mar 25, 05:59 PM EDT. The local time to the port is Mar 25, 05:59 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/BSNAS001</link>
+    <guid isPermaLink="false">bba0950829a67d37381a3cb3449735b57409fe67</guid>
+    <pubDate>Wed, 25 Mar 2026 23:57:49 GMT</pubDate>
+    <description><![CDATA[Nassau, Bahamas Departure (UTC) Mar 25, 21:59 — ET: Mar 25, 05:59 PM EDT | Local: Mar 25, 05:59 PM EDT]]></description>
+  </item>
+  <item>
     <title>Disney Magic Departed from Galveston, United States (USA) at Mar 25, 05:58 PM EDT. The local time to the port is Mar 25, 05:58 PM EDT</title>
     <link>https://www.vesselfinder.com/ports/USGLS001</link>
     <guid isPermaLink="false">c361c506b16d034a3a0dd1f5324f676a6764d27c</guid>
     <pubDate>Wed, 25 Mar 2026 22:43:55 GMT</pubDate>
     <description><![CDATA[Galveston, United States (USA) Departure (UTC) Mar 25, 21:58 — ET: Mar 25, 05:58 PM EDT | Local: Mar 25, 05:58 PM EDT]]></description>
+  </item>
+  <item>
+    <title>Disney Treasure Departed from Falmouth, Jamaica at Mar 25, 05:49 PM EDT. The local time to the port is Mar 25, 04:49 PM EST</title>
+    <link>https://www.vesselfinder.com/ports/JMFMH001</link>
+    <guid isPermaLink="false">1a5678bffa9d200be14fc358c253293d4abc70c1</guid>
+    <pubDate>Wed, 25 Mar 2026 23:55:03 GMT</pubDate>
+    <description><![CDATA[Falmouth, Jamaica Departure (UTC) Mar 25, 21:49 — ET: Mar 25, 05:49 PM EDT | Local: Mar 25, 04:49 PM EST]]></description>
   </item>
   <item>
     <title>Disney Adventure Arrived at Singapore, Singapore at Mar 25, 05:32 PM EDT. The local time to the port is Mar 25, 05:32 PM EDT</title>
@@ -188,6 +202,13 @@
     <guid isPermaLink="false">6942e1cf3824802d9d1b29fc6d38132c06999040</guid>
     <pubDate>Wed, 25 Mar 2026 15:57:23 GMT</pubDate>
     <description><![CDATA[Ensenada, Mexico Arrival (UTC) Mar 25, 14:43 — ET: Mar 25, 10:43 AM EDT | Local: Mar 25, 09:43 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Treasure Arrived at Falmouth, Jamaica at Mar 25, 08:21 AM EDT. The local time to the port is Mar 25, 07:21 AM EST</title>
+    <link>https://www.vesselfinder.com/ports/JMFMH001</link>
+    <guid isPermaLink="false">63a63801f90808eedebd832c446d37aa6d3db0ad</guid>
+    <pubDate>Wed, 25 Mar 2026 23:55:01 GMT</pubDate>
+    <description><![CDATA[Falmouth, Jamaica Arrival (UTC) Mar 25, 12:21 — ET: Mar 25, 08:21 AM EDT | Local: Mar 25, 07:21 AM EST]]></description>
   </item>
   <item>
     <title>Disney Magic Arrived at Galveston, United States (USA) at Mar 25, 07:57 AM EDT. The local time to the port is Mar 25, 07:57 AM EDT</title>
@@ -3485,27 +3506,6 @@
     <guid isPermaLink="false">64817fd31d9e7a823e1977dfa2a4a207e581f23f</guid>
     <pubDate>Tue, 03 Feb 2026 10:25:06 GMT</pubDate>
     <description><![CDATA[San Juan, Puerto Rico Departure (UTC) Feb 3, 09:22 — ET: Feb 03, 04:22 AM EST | Local: Feb 03, 05:22 AM AST]]></description>
-  </item>
-  <item>
-    <title>Disney Treasure Arrived at San Juan, Puerto Rico at Feb 03, 03:28 AM EST. The local time to the port is Feb 03, 04:28 AM AST</title>
-    <link>https://www.vesselfinder.com/ports/PRSJU001</link>
-    <guid isPermaLink="false">839ee1dd455c3ffaf2d61246b5b4bbd4a9bea0ea</guid>
-    <pubDate>Tue, 03 Feb 2026 10:25:04 GMT</pubDate>
-    <description><![CDATA[San Juan, Puerto Rico Arrival (UTC) Feb 3, 08:28 — ET: Feb 03, 03:28 AM EST | Local: Feb 03, 04:28 AM AST]]></description>
-  </item>
-  <item>
-    <title>Disney Magic Departed from Galveston, United States (USA) at Feb 02, 06:19 PM EST. The local time to the port is Feb 02, 06:19 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/USGLS001</link>
-    <guid isPermaLink="false">ac8915e7be126eff5e7cbcf75dd694b1fc66fde2</guid>
-    <pubDate>Mon, 02 Feb 2026 23:35:52 GMT</pubDate>
-    <description><![CDATA[Galveston, United States (USA) Departure (UTC) Feb 2, 23:19 — ET: Feb 02, 06:19 PM EST | Local: Feb 02, 06:19 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Wish Departed from Cape Canaveral, United States (USA) at Feb 02, 04:42 PM EST. The local time to the port is Feb 02, 04:42 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/USPCV001</link>
-    <guid isPermaLink="false">ef362443e34f9cd907f14b24f24d61ffe68ba116</guid>
-    <pubDate>Mon, 02 Feb 2026 23:09:14 GMT</pubDate>
-    <description><![CDATA[Cape Canaveral, United States (USA) Departure (UTC) Feb 2, 21:42 — ET: Feb 02, 04:42 PM EST | Local: Feb 02, 04:42 PM EST]]></description>
   </item>
 </channel>
 </rss>
