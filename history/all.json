@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Gorda Cay, Bahamas at Mar 25, 07:23 AM EDT. The local time to the port is Mar 25, 07:23 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Mar 25, 11:23 — ET: Mar 25, 07:23 AM EDT | Local: Mar 25, 07:23 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "4df0c0f5fedd3f9f1cd52b83ddfa95b744ed4be0",
+    "pubDate": "Wed, 25 Mar 2026 12:05:29 GMT",
+    "eventUtc": "2026-03-25T11:23:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Arrived at Cape Canaveral, United States (USA) at Mar 25, 05:32 AM EDT. The local time to the port is Mar 25, 05:32 AM EDT",
     "description": "Cape Canaveral, United States (USA) Arrival (UTC) Mar 25, 09:32 — ET: Mar 25, 05:32 AM EDT | Local: Mar 25, 05:32 AM EDT",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-02-01T19:39:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Arrived at Sydney, Australia at Feb 01, 09:11 AM EST. The local time to the port is Feb 02, 01:11 AM AEDT",
-    "description": "Sydney, Australia Arrival (UTC) Feb 1, 14:11 — ET: Feb 01, 09:11 AM EST | Local: Feb 02, 01:11 AM AEDT",
-    "link": "https://www.vesselfinder.com/ports/AUSYD002",
-    "guid": "a36ec4f3a2819b8e727f4b47ad9c1ee19f1e31b4",
-    "pubDate": "Sun, 01 Feb 2026 14:52:23 GMT",
-    "eventUtc": "2026-02-01T14:11:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
     "source": "vf_ship"
   }
 ]
