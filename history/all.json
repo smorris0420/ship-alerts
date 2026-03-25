@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Arrived at Ensenada, Mexico at Mar 25, 10:43 AM EDT. The local time to the port is Mar 25, 09:43 AM EST",
+    "description": "Ensenada, Mexico Arrival (UTC) Mar 25, 14:43 — ET: Mar 25, 10:43 AM EDT | Local: Mar 25, 09:43 AM EST",
+    "link": "https://www.vesselfinder.com/ports/MXESE001",
+    "guid": "6942e1cf3824802d9d1b29fc6d38132c06999040",
+    "pubDate": "Wed, 25 Mar 2026 15:57:23 GMT",
+    "eventUtc": "2026-03-25T14:43:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Arrived at Galveston, United States (USA) at Mar 25, 07:57 AM EDT. The local time to the port is Mar 25, 07:57 AM EDT",
     "description": "Galveston, United States (USA) Arrival (UTC) Mar 25, 11:57 — ET: Mar 25, 07:57 AM EDT | Local: Mar 25, 07:57 AM EDT",
     "link": "https://www.vesselfinder.com/ports/USGLS001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-02-02T10:19:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Departed from Sydney, Australia at Feb 02, 03:22 AM EST. The local time to the port is Feb 02, 07:22 PM AEDT",
-    "description": "Sydney, Australia Departure (UTC) Feb 2, 08:22 — ET: Feb 02, 03:22 AM EST | Local: Feb 02, 07:22 PM AEDT",
-    "link": "https://www.vesselfinder.com/ports/AUSYD002",
-    "guid": "d5d29a96ab54edc9ab10ee82c5824a3db2fb0a0e",
-    "pubDate": "Mon, 02 Feb 2026 09:13:03 GMT",
-    "eventUtc": "2026-02-02T08:22:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
     "source": "vf_ship"
   }
 ]
