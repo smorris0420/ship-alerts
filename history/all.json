@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Adventure Departed from Singapore, Singapore at Mar 26, 05:39 AM EDT. The local time to the port is Mar 26, 05:39 AM EDT",
+    "description": "Singapore, Singapore Departure (UTC) Mar 26, 09:39 — ET: Mar 26, 05:39 AM EDT | Local: Mar 26, 05:39 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/SGSIN001",
+    "guid": "3681a8069ad95192e0f678eb9e079353534151a4",
+    "pubDate": "Thu, 26 Mar 2026 10:17:11 GMT",
+    "eventUtc": "2026-03-26T09:39:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Departed from Ensenada, Mexico at Mar 25, 08:34 PM EDT. The local time to the port is Mar 25, 07:34 PM EST",
     "description": "Ensenada, Mexico Departure (UTC) Mar 26, 00:34 — ET: Mar 25, 08:34 PM EDT | Local: Mar 25, 07:34 PM EST",
     "link": "https://www.vesselfinder.com/ports/MXESE001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-02-03T12:23:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Arrived at Gorda Cay, Bahamas at Feb 03, 07:11 AM EST. The local time to the port is Feb 03, 07:11 AM EST",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) Feb 3, 12:11 — ET: Feb 03, 07:11 AM EST | Local: Feb 03, 07:11 AM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "ce24476c6801fe494ae6fc62b687b0835e245042",
-    "pubDate": "Tue, 03 Feb 2026 18:30:36 GMT",
-    "eventUtc": "2026-02-03T12:11:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
     "source": "vf_ship"
   }
 ]
