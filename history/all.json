@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Fantasy Departed from Nassau, Bahamas at Mar 26, 06:23 PM EDT. The local time to the port is Mar 26, 06:23 PM EDT",
+    "description": "Nassau, Bahamas Departure (UTC) Mar 26, 22:23 — ET: Mar 26, 06:23 PM EDT | Local: Mar 26, 06:23 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "c01d3ef917c696bc4e3c690eed29c05c4f86800b",
+    "pubDate": "Thu, 26 Mar 2026 22:33:00 GMT",
+    "eventUtc": "2026-03-26T22:23:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Departed from Gorda Cay, Bahamas at Mar 26, 04:58 PM EDT. The local time to the port is Mar 26, 04:58 PM EDT",
     "description": "Gorda Cay, Bahamas Departure (UTC) Mar 26, 20:58 — ET: Mar 26, 04:58 PM EDT | Local: Mar 26, 04:58 PM EDT",
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-02-04T12:29:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Road Town, Tortola, British Virgin Islands at Feb 04, 06:38 AM EST. The local time to the port is Feb 04, 07:38 AM AST",
-    "description": "Road Town, Tortola, British Virgin Islands Arrival (UTC) Feb 4, 11:38 — ET: Feb 04, 06:38 AM EST | Local: Feb 04, 07:38 AM AST",
-    "link": "https://www.vesselfinder.com/ports/VGRAD001",
-    "guid": "224a91ea49d49b1772005d041b20c7557ca896e1",
-    "pubDate": "Wed, 04 Feb 2026 12:26:31 GMT",
-    "eventUtc": "2026-02-04T11:38:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
