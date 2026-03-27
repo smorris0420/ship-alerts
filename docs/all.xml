@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Fri, 27 Mar 2026 13:44:13 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 27 Mar 2026 14:40:34 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,13 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Wonder Arrived at San Diego, United States (USA) at Mar 27, 09:41 AM EDT. The local time to the port is Mar 27, 09:41 AM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USSAN001</link>
+    <guid isPermaLink="false">bb69b2d66b5903143a50fc23ae5eed855c139abe</guid>
+    <pubDate>Fri, 27 Mar 2026 14:39:24 GMT</pubDate>
+    <description><![CDATA[San Diego, United States (USA) Arrival (UTC) Mar 27, 13:41 — ET: Mar 27, 09:41 AM EDT | Local: Mar 27, 09:41 AM EDT]]></description>
   </item>
   <item>
     <title>Disney Treasure Arrived at Gorda Cay, Bahamas at Mar 27, 07:46 AM EDT. The local time to the port is Mar 27, 07:46 AM EDT</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">4ebe19774f43cb509a4f885689b5bbaf46a590d8</guid>
     <pubDate>Wed, 04 Feb 2026 20:21:47 GMT</pubDate>
     <description><![CDATA[Noumea, New Caledonia Arrival (UTC) Feb 4, 19:42 — ET: Feb 04, 02:42 PM EST | Local: Feb 05, 06:42 AM +11]]></description>
-  </item>
-  <item>
-    <title>Disney Treasure Departed from Road Town, Tortola, British Virgin Islands at Feb 04, 02:19 PM EST. The local time to the port is Feb 04, 03:19 PM AST</title>
-    <link>https://www.vesselfinder.com/ports/VGRAD001</link>
-    <guid isPermaLink="false">c2ed1e79fec7678bd073faa6838b3e1c5f0a2dee</guid>
-    <pubDate>Wed, 04 Feb 2026 19:48:27 GMT</pubDate>
-    <description><![CDATA[Road Town, Tortola, British Virgin Islands Departure (UTC) Feb 4, 19:19 — ET: Feb 04, 02:19 PM EST | Local: Feb 04, 03:19 PM AST]]></description>
   </item>
 </channel>
 </rss>

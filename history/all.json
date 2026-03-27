@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Arrived at San Diego, United States (USA) at Mar 27, 09:41 AM EDT. The local time to the port is Mar 27, 09:41 AM EDT",
+    "description": "San Diego, United States (USA) Arrival (UTC) Mar 27, 13:41 — ET: Mar 27, 09:41 AM EDT | Local: Mar 27, 09:41 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USSAN001",
+    "guid": "bb69b2d66b5903143a50fc23ae5eed855c139abe",
+    "pubDate": "Fri, 27 Mar 2026 14:39:24 GMT",
+    "eventUtc": "2026-03-27T13:41:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Arrived at Gorda Cay, Bahamas at Mar 27, 07:46 AM EDT. The local time to the port is Mar 27, 07:46 AM EDT",
     "description": "Gorda Cay, Bahamas Arrival (UTC) Mar 27, 11:46 — ET: Mar 27, 07:46 AM EDT | Local: Mar 27, 07:46 AM EDT",
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-02-04T19:42:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Road Town, Tortola, British Virgin Islands at Feb 04, 02:19 PM EST. The local time to the port is Feb 04, 03:19 PM AST",
-    "description": "Road Town, Tortola, British Virgin Islands Departure (UTC) Feb 4, 19:19 — ET: Feb 04, 02:19 PM EST | Local: Feb 04, 03:19 PM AST",
-    "link": "https://www.vesselfinder.com/ports/VGRAD001",
-    "guid": "c2ed1e79fec7678bd073faa6838b3e1c5f0a2dee",
-    "pubDate": "Wed, 04 Feb 2026 19:48:27 GMT",
-    "eventUtc": "2026-02-04T19:19:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
