@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Fri, 27 Mar 2026 20:54:33 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 27 Mar 2026 21:27:57 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -153,6 +153,13 @@
     <guid isPermaLink="false">fd70e56745d4c91119758b9b1ae0add2a4ccfd4e</guid>
     <pubDate>Fri, 27 Mar 2026 15:32:02 GMT</pubDate>
     <description><![CDATA[Galveston, United States (USA) Arrival (UTC) Mar 29, 13:30 — ET: Mar 29, 09:30 AM EDT | Local: Mar 29, 09:30 AM EDT]]></description>
+  </item>
+  <item>
+    <title>Disney Wish Departed from Cape Canaveral, United States (USA) at Mar 27, 05:06 PM EDT. The local time to the port is Mar 27, 05:06 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USPCV001</link>
+    <guid isPermaLink="false">b5d80ab086dafb1b8b5eb2150a9a0958ed72c54c</guid>
+    <pubDate>Fri, 27 Mar 2026 21:22:59 GMT</pubDate>
+    <description><![CDATA[Cape Canaveral, United States (USA) Departure (UTC) Mar 27, 21:06 — ET: Mar 27, 05:06 PM EDT | Local: Mar 27, 05:06 PM EDT]]></description>
   </item>
   <item>
     <title>Disney Dream Departed from Port Everglades, United States (USA) at Mar 27, 04:26 PM EDT. The local time to the port is Mar 27, 04:26 PM EDT</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">40feb0c8ed72119485892d428906c7ac0257d744</guid>
     <pubDate>Thu, 05 Feb 2026 05:39:55 GMT</pubDate>
     <description><![CDATA[Noumea, New Caledonia Departure (UTC) Feb 5, 04:31 — ET: Feb 04, 11:31 PM EST | Local: Feb 05, 03:31 PM +11]]></description>
-  </item>
-  <item>
-    <title>Disney Magic Departed from Progreso, Mexico at Feb 04, 07:08 PM EST. The local time to the port is Feb 04, 07:08 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/MXPGO001</link>
-    <guid isPermaLink="false">3904c4a3ac3546b73db7eeadd322db1374fe56ca</guid>
-    <pubDate>Fri, 06 Feb 2026 07:33:50 GMT</pubDate>
-    <description><![CDATA[Progreso, Mexico Departure (UTC) Feb 5, 00:08 — ET: Feb 04, 07:08 PM EST | Local: Feb 04, 07:08 PM EST]]></description>
   </item>
 </channel>
 </rss>
