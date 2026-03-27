@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Fri, 27 Mar 2026 21:27:57 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 27 Mar 2026 22:01:08 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -153,6 +153,13 @@
     <guid isPermaLink="false">fd70e56745d4c91119758b9b1ae0add2a4ccfd4e</guid>
     <pubDate>Fri, 27 Mar 2026 15:32:02 GMT</pubDate>
     <description><![CDATA[Galveston, United States (USA) Arrival (UTC) Mar 29, 13:30 — ET: Mar 29, 09:30 AM EDT | Local: Mar 29, 09:30 AM EDT]]></description>
+  </item>
+  <item>
+    <title>Disney Treasure Departed from Gorda Cay, Bahamas at Mar 27, 05:14 PM EDT. The local time to the port is Mar 27, 05:14 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
+    <guid isPermaLink="false">1b6d0674811c1617ce3ff812b3b228362a481542</guid>
+    <pubDate>Fri, 27 Mar 2026 21:57:03 GMT</pubDate>
+    <description><![CDATA[Gorda Cay, Bahamas Departure (UTC) Mar 27, 21:14 — ET: Mar 27, 05:14 PM EDT | Local: Mar 27, 05:14 PM EDT]]></description>
   </item>
   <item>
     <title>Disney Wish Departed from Cape Canaveral, United States (USA) at Mar 27, 05:06 PM EDT. The local time to the port is Mar 27, 05:06 PM EDT</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">01a5979a4904392d98c60dbd8ed4fa2e3ff961b5</guid>
     <pubDate>Thu, 05 Feb 2026 10:58:02 GMT</pubDate>
     <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) Feb 5, 10:07 — ET: Feb 05, 05:07 AM EST | Local: Feb 05, 05:07 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Wonder Departed from Noumea, New Caledonia at Feb 04, 11:31 PM EST. The local time to the port is Feb 05, 03:31 PM +11</title>
-    <link>https://www.vesselfinder.com/ports/NCNOU001</link>
-    <guid isPermaLink="false">40feb0c8ed72119485892d428906c7ac0257d744</guid>
-    <pubDate>Thu, 05 Feb 2026 05:39:55 GMT</pubDate>
-    <description><![CDATA[Noumea, New Caledonia Departure (UTC) Feb 5, 04:31 — ET: Feb 04, 11:31 PM EST | Local: Feb 05, 03:31 PM +11]]></description>
   </item>
 </channel>
 </rss>
