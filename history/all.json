@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Galveston, United States (USA) at Mar 29, 09:30 AM EDT. The local time to the port is Mar 29, 09:30 AM EDT",
+    "description": "Galveston, United States (USA) Departure (UTC) Mar 29, 13:30 — ET: Mar 29, 09:30 AM EDT | Local: Mar 29, 09:30 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USGLS001",
+    "guid": "7d9c088feebba375eaa716c9dd982375bffb2ef5",
+    "pubDate": "Fri, 27 Mar 2026 15:32:00 GMT",
+    "eventUtc": "2026-03-29T13:30:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_port"
+  },
+  {
+    "title": "Disney Magic Arrived at Galveston, United States (USA) at Mar 29, 09:30 AM EDT. The local time to the port is Mar 29, 09:30 AM EDT",
+    "description": "Galveston, United States (USA) Arrival (UTC) Mar 29, 13:30 — ET: Mar 29, 09:30 AM EDT | Local: Mar 29, 09:30 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USGLS001",
+    "guid": "fd70e56745d4c91119758b9b1ae0add2a4ccfd4e",
+    "pubDate": "Fri, 27 Mar 2026 15:32:02 GMT",
+    "eventUtc": "2026-03-29T13:30:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_port"
+  },
+  {
     "title": "Disney Wonder Arrived at San Diego, United States (USA) at Mar 27, 09:41 AM EDT. The local time to the port is Mar 27, 09:41 AM EDT",
     "description": "San Diego, United States (USA) Arrival (UTC) Mar 27, 13:41 — ET: Mar 27, 09:41 AM EDT | Local: Mar 27, 09:41 AM EDT",
     "link": "https://www.vesselfinder.com/ports/USSAN001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-02-04T22:58:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Departed from Gorda Cay, Bahamas at Feb 04, 04:59 PM EST. The local time to the port is Feb 04, 04:59 PM EST",
-    "description": "Gorda Cay, Bahamas Departure (UTC) Feb 4, 21:59 — ET: Feb 04, 04:59 PM EST | Local: Feb 04, 04:59 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "ce7190c9037e9169d2bee17e4b964bee3c806526",
-    "pubDate": "Thu, 05 Feb 2026 06:41:27 GMT",
-    "eventUtc": "2026-02-04T21:59:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Arrived at Noumea, New Caledonia at Feb 04, 02:42 PM EST. The local time to the port is Feb 05, 06:42 AM +11",
-    "description": "Noumea, New Caledonia Arrival (UTC) Feb 4, 19:42 — ET: Feb 04, 02:42 PM EST | Local: Feb 05, 06:42 AM +11",
-    "link": "https://www.vesselfinder.com/ports/NCNOU001",
-    "guid": "4ebe19774f43cb509a4f885689b5bbaf46a590d8",
-    "pubDate": "Wed, 04 Feb 2026 20:21:47 GMT",
-    "eventUtc": "2026-02-04T19:42:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
     "source": "vf_ship"
   }
 ]

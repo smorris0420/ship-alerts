@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Fri, 27 Mar 2026 14:40:34 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 27 Mar 2026 15:34:10 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,20 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Magic Departed from Galveston, United States (USA) at Mar 29, 09:30 AM EDT. The local time to the port is Mar 29, 09:30 AM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USGLS001</link>
+    <guid isPermaLink="false">7d9c088feebba375eaa716c9dd982375bffb2ef5</guid>
+    <pubDate>Fri, 27 Mar 2026 15:32:00 GMT</pubDate>
+    <description><![CDATA[Galveston, United States (USA) Departure (UTC) Mar 29, 13:30 — ET: Mar 29, 09:30 AM EDT | Local: Mar 29, 09:30 AM EDT]]></description>
+  </item>
+  <item>
+    <title>Disney Magic Arrived at Galveston, United States (USA) at Mar 29, 09:30 AM EDT. The local time to the port is Mar 29, 09:30 AM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USGLS001</link>
+    <guid isPermaLink="false">fd70e56745d4c91119758b9b1ae0add2a4ccfd4e</guid>
+    <pubDate>Fri, 27 Mar 2026 15:32:02 GMT</pubDate>
+    <description><![CDATA[Galveston, United States (USA) Arrival (UTC) Mar 29, 13:30 — ET: Mar 29, 09:30 AM EDT | Local: Mar 29, 09:30 AM EDT]]></description>
   </item>
   <item>
     <title>Disney Wonder Arrived at San Diego, United States (USA) at Mar 27, 09:41 AM EDT. The local time to the port is Mar 27, 09:41 AM EDT</title>
@@ -3492,20 +3506,6 @@
     <guid isPermaLink="false">2b2f4c23b4d29137564e6593f76a33ff61f48d4f</guid>
     <pubDate>Thu, 05 Feb 2026 02:08:09 GMT</pubDate>
     <description><![CDATA[Nassau, Bahamas Departure (UTC) Feb 4, 22:58 — ET: Feb 04, 05:58 PM EST | Local: Feb 04, 05:58 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Destiny Departed from Gorda Cay, Bahamas at Feb 04, 04:59 PM EST. The local time to the port is Feb 04, 04:59 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
-    <guid isPermaLink="false">ce7190c9037e9169d2bee17e4b964bee3c806526</guid>
-    <pubDate>Thu, 05 Feb 2026 06:41:27 GMT</pubDate>
-    <description><![CDATA[Gorda Cay, Bahamas Departure (UTC) Feb 4, 21:59 — ET: Feb 04, 04:59 PM EST | Local: Feb 04, 04:59 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Wonder Arrived at Noumea, New Caledonia at Feb 04, 02:42 PM EST. The local time to the port is Feb 05, 06:42 AM +11</title>
-    <link>https://www.vesselfinder.com/ports/NCNOU001</link>
-    <guid isPermaLink="false">4ebe19774f43cb509a4f885689b5bbaf46a590d8</guid>
-    <pubDate>Wed, 04 Feb 2026 20:21:47 GMT</pubDate>
-    <description><![CDATA[Noumea, New Caledonia Arrival (UTC) Feb 4, 19:42 — ET: Feb 04, 02:42 PM EST | Local: Feb 05, 06:42 AM +11]]></description>
   </item>
 </channel>
 </rss>
