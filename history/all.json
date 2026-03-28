@@ -231,6 +231,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Wonder Departed from San Diego, United States (USA) at Mar 27, 08:33 PM EDT. The local time to the port is Mar 27, 08:33 PM EDT",
+    "description": "San Diego, United States (USA) Departure (UTC) Mar 28, 00:33 — ET: Mar 27, 08:33 PM EDT | Local: Mar 27, 08:33 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USSAN001",
+    "guid": "48f0c2f03df83a9857c0f1604a6e3ea336f5b04f",
+    "pubDate": "Sat, 28 Mar 2026 03:17:27 GMT",
+    "eventUtc": "2026-03-28T00:33:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Departed from Gorda Cay, Bahamas at Mar 27, 05:14 PM EDT. The local time to the port is Mar 27, 05:14 PM EDT",
     "description": "Gorda Cay, Bahamas Departure (UTC) Mar 27, 21:14 — ET: Mar 27, 05:14 PM EDT | Local: Mar 27, 05:14 PM EDT",
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
@@ -5484,17 +5495,6 @@
     "guid": "2b65aa2e76d5fdcc8a5be62bdf99b00f66fc7e4f",
     "pubDate": "Thu, 05 Feb 2026 21:47:56 GMT",
     "eventUtc": "2026-02-05T21:13:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Arrived at Port Everglades, United States (USA) at Feb 05, 05:07 AM EST. The local time to the port is Feb 05, 05:07 AM EST",
-    "description": "Port Everglades, United States (USA) Arrival (UTC) Feb 5, 10:07 — ET: Feb 05, 05:07 AM EST | Local: Feb 05, 05:07 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "01a5979a4904392d98c60dbd8ed4fa2e3ff961b5",
-    "pubDate": "Thu, 05 Feb 2026 10:58:02 GMT",
-    "eventUtc": "2026-02-05T10:07:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
     "source": "vf_ship"
