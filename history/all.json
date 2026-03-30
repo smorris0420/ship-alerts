@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Arrived at San Diego, United States (USA) at Mar 30, 09:39 AM EDT. The local time to the port is Mar 30, 09:39 AM EDT",
+    "description": "San Diego, United States (USA) Arrival (UTC) Mar 30, 13:39 — ET: Mar 30, 09:39 AM EDT | Local: Mar 30, 09:39 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USSAN001",
+    "guid": "5f3e54cb2feddbe03f3b1893d06a97f8ecba3307",
+    "pubDate": "Mon, 30 Mar 2026 15:19:56 GMT",
+    "eventUtc": "2026-03-30T13:39:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Arrived at Cozumel, Mexico at Mar 30, 08:13 AM EDT. The local time to the port is Mar 30, 07:13 AM EST",
     "description": "Cozumel, Mexico Arrival (UTC) Mar 30, 12:13 — ET: Mar 30, 08:13 AM EDT | Local: Mar 30, 07:13 AM EST",
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-02-08T22:11:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Departed from Gorda Cay, Bahamas at Feb 08, 04:37 PM EST. The local time to the port is Feb 08, 04:37 PM EST",
-    "description": "Gorda Cay, Bahamas Departure (UTC) Feb 8, 21:37 — ET: Feb 08, 04:37 PM EST | Local: Feb 08, 04:37 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "29df660e9904594c5186d742b9ce593ae29e4576",
-    "pubDate": "Sun, 08 Feb 2026 22:30:40 GMT",
-    "eventUtc": "2026-02-08T21:37:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
     "source": "vf_ship"
   }
 ]
