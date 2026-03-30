@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Departed from Cozumel, Mexico at Mar 30, 06:18 PM EDT. The local time to the port is Mar 30, 05:18 PM EST",
+    "description": "Cozumel, Mexico Departure (UTC) Mar 30, 22:18 — ET: Mar 30, 06:18 PM EDT | Local: Mar 30, 05:18 PM EST",
+    "link": "https://www.vesselfinder.com/ports/MXCZM001",
+    "guid": "7fcc5ca345e50a0347dad6fcc70bf67223ac8cbc",
+    "pubDate": "Mon, 30 Mar 2026 22:32:07 GMT",
+    "eventUtc": "2026-03-30T22:18:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Arrived at Cozumel, Mexico at Mar 30, 08:13 AM EDT. The local time to the port is Mar 30, 07:13 AM EST",
     "description": "Cozumel, Mexico Arrival (UTC) Mar 30, 12:13 — ET: Mar 30, 08:13 AM EDT | Local: Mar 30, 07:13 AM EST",
     "link": "https://www.vesselfinder.com/ports/MXCZM001",

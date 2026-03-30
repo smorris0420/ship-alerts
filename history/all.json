@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Departed from Cozumel, Mexico at Mar 30, 06:18 PM EDT. The local time to the port is Mar 30, 05:18 PM EST",
+    "description": "Cozumel, Mexico Departure (UTC) Mar 30, 22:18 — ET: Mar 30, 06:18 PM EDT | Local: Mar 30, 05:18 PM EST",
+    "link": "https://www.vesselfinder.com/ports/MXCZM001",
+    "guid": "7fcc5ca345e50a0347dad6fcc70bf67223ac8cbc",
+    "pubDate": "Mon, 30 Mar 2026 22:32:07 GMT",
+    "eventUtc": "2026-03-30T22:18:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Port Everglades, United States (USA) at Mar 30, 04:51 PM EDT. The local time to the port is Mar 30, 04:51 PM EDT",
     "description": "Port Everglades, United States (USA) Departure (UTC) Mar 30, 20:51 — ET: Mar 30, 04:51 PM EDT | Local: Mar 30, 04:51 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USPEF001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-02-09T10:02:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Cozumel, Mexico at Feb 08, 06:17 PM EST. The local time to the port is Feb 08, 06:17 PM EST",
-    "description": "Cozumel, Mexico Departure (UTC) Feb 8, 23:17 — ET: Feb 08, 06:17 PM EST | Local: Feb 08, 06:17 PM EST",
-    "link": "https://www.vesselfinder.com/ports/MXCZM001",
-    "guid": "ce4a1229241c53db6d7ef2acae867910e3d18e3f",
-    "pubDate": "Sun, 08 Feb 2026 23:42:31 GMT",
-    "eventUtc": "2026-02-08T23:17:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
