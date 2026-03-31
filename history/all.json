@@ -209,6 +209,39 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Departed from Saint Thomas, US Virgin Islands at Mar 31, 06:14 PM EDT. The local time to the port is Mar 31, 06:14 PM EDT",
+    "description": "Saint Thomas, US Virgin Islands Departure (UTC) Mar 31, 22:14 — ET: Mar 31, 06:14 PM EDT | Local: Mar 31, 06:14 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/VISTT001",
+    "guid": "5d53ee3231eec77f580bb0ac1db39ec843c09952",
+    "pubDate": "Tue, 31 Mar 2026 22:26:50 GMT",
+    "eventUtc": "2026-03-31T22:14:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Magic Departed from Cozumel, Mexico at Mar 31, 06:14 PM EDT. The local time to the port is Mar 31, 05:14 PM EST",
+    "description": "Cozumel, Mexico Departure (UTC) Mar 31, 22:14 — ET: Mar 31, 06:14 PM EDT | Local: Mar 31, 05:14 PM EST",
+    "link": "https://www.vesselfinder.com/ports/MXCZM001",
+    "guid": "91a3cf321f9be5a541053d545d6894f67a4e23c3",
+    "pubDate": "Tue, 31 Mar 2026 22:27:44 GMT",
+    "eventUtc": "2026-03-31T22:14:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Dream Departed from Nassau, Bahamas at Mar 31, 06:00 PM EDT. The local time to the port is Mar 31, 06:00 PM EDT",
+    "description": "Nassau, Bahamas Departure (UTC) Mar 31, 22:00 — ET: Mar 31, 06:00 PM EDT | Local: Mar 31, 06:00 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "fdbd0235d1cbaf410de40821f9ca764e1ab218e1",
+    "pubDate": "Tue, 31 Mar 2026 22:27:56 GMT",
+    "eventUtc": "2026-03-31T22:00:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Departed from Gorda Cay, Bahamas at Mar 31, 04:58 PM EDT. The local time to the port is Mar 31, 04:58 PM EDT",
     "description": "Gorda Cay, Bahamas Departure (UTC) Mar 31, 20:58 — ET: Mar 31, 04:58 PM EDT | Local: Mar 31, 04:58 PM EDT",
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
@@ -5465,38 +5498,5 @@
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
     "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Arrived at Pago Pago, American Samoa at Feb 09, 01:00 PM EST. The local time to the port is Feb 09, 07:00 AM SST",
-    "description": "Pago Pago, American Samoa Arrival (UTC) Feb 9, 18:00 — ET: Feb 09, 01:00 PM EST | Local: Feb 09, 07:00 AM SST",
-    "link": "https://www.vesselfinder.com/ports/ASPPG001",
-    "guid": "ad30600da7d434cfd1435d008bb8c06a6e32979e",
-    "pubDate": "Sun, 15 Feb 2026 14:57:55 GMT",
-    "eventUtc": "2026-02-09T18:00:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Adventure Departed from Los Angeles at Feb 09, 12:00 PM EST. The local time to the port is Feb 09, 12:00 PM EST",
-    "description": "Los Angeles Departure (UTC) Feb 09, 17:00 — ET: Feb 09, 12:00 PM EST | Local: Feb 09, 12:00 PM EST",
-    "link": "https://www.vesselfinder.com/ports/USLAX?name=Los-Angeles",
-    "guid": "0ae3d7f36b83da8de2f37bda5c0357e982400993",
-    "pubDate": "Fri, 06 Feb 2026 23:37:41 GMT",
-    "eventUtc": "2026-02-09T17:00:00+00:00",
-    "shipSlug": "disney-adventure",
-    "shipName": "Disney Adventure",
-    "source": "vf_port"
-  },
-  {
-    "title": "Disney Adventure Arrived at Los Angeles at Feb 09, 12:00 PM EST. The local time to the port is Feb 09, 12:00 PM EST",
-    "description": "Los Angeles Arrival (UTC) Feb 09, 17:00 — ET: Feb 09, 12:00 PM EST | Local: Feb 09, 12:00 PM EST",
-    "link": "https://www.vesselfinder.com/ports/USLAX?name=Los-Angeles",
-    "guid": "a10d2961fa3fa0c85c167e74636fca33390d7059",
-    "pubDate": "Fri, 06 Feb 2026 23:37:42 GMT",
-    "eventUtc": "2026-02-09T17:00:00+00:00",
-    "shipSlug": "disney-adventure",
-    "shipName": "Disney Adventure",
-    "source": "vf_port"
   }
 ]
