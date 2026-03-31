@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Departed from Gorda Cay, Bahamas at Mar 31, 04:58 PM EDT. The local time to the port is Mar 31, 04:58 PM EDT",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Mar 31, 20:58 — ET: Mar 31, 04:58 PM EDT | Local: Mar 31, 04:58 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "8bdd702fd477c406f8a7c16ac4d9cb8ff05b5420",
+    "pubDate": "Tue, 31 Mar 2026 21:52:11 GMT",
+    "eventUtc": "2026-03-31T20:58:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Arrived at Cozumel, Mexico at Mar 31, 11:43 AM EDT. The local time to the port is Mar 31, 10:43 AM EST",
     "description": "Cozumel, Mexico Arrival (UTC) Mar 31, 15:43 — ET: Mar 31, 11:43 AM EDT | Local: Mar 31, 10:43 AM EST",
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
@@ -5487,16 +5498,5 @@
     "shipSlug": "disney-adventure",
     "shipName": "Disney Adventure",
     "source": "vf_port"
-  },
-  {
-    "title": "Disney Magic Arrived at Progreso, Mexico at Feb 09, 10:39 AM EST. The local time to the port is Feb 09, 10:39 AM EST",
-    "description": "Progreso, Mexico Arrival (UTC) Feb 9, 15:39 — ET: Feb 09, 10:39 AM EST | Local: Feb 09, 10:39 AM EST",
-    "link": "https://www.vesselfinder.com/ports/MXPGO001",
-    "guid": "2979936f8744857a8c8d7289a48e125e496f22d7",
-    "pubDate": "Wed, 11 Feb 2026 03:23:23 GMT",
-    "eventUtc": "2026-02-09T15:39:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
-    "source": "vf_ship"
   }
 ]

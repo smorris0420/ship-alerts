@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Tue, 31 Mar 2026 21:07:45 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 31 Mar 2026 21:56:49 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,13 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Wish Departed from Gorda Cay, Bahamas at Mar 31, 04:58 PM EDT. The local time to the port is Mar 31, 04:58 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
+    <guid isPermaLink="false">8bdd702fd477c406f8a7c16ac4d9cb8ff05b5420</guid>
+    <pubDate>Tue, 31 Mar 2026 21:52:11 GMT</pubDate>
+    <description><![CDATA[Gorda Cay, Bahamas Departure (UTC) Mar 31, 20:58 — ET: Mar 31, 04:58 PM EDT | Local: Mar 31, 04:58 PM EDT]]></description>
   </item>
   <item>
     <title>Disney Magic Arrived at Cozumel, Mexico at Mar 31, 11:43 AM EDT. The local time to the port is Mar 31, 10:43 AM EST</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">a10d2961fa3fa0c85c167e74636fca33390d7059</guid>
     <pubDate>Fri, 06 Feb 2026 23:37:42 GMT</pubDate>
     <description><![CDATA[Los Angeles Arrival (UTC) Feb 09, 17:00 — ET: Feb 09, 12:00 PM EST | Local: Feb 09, 12:00 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Magic Arrived at Progreso, Mexico at Feb 09, 10:39 AM EST. The local time to the port is Feb 09, 10:39 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/MXPGO001</link>
-    <guid isPermaLink="false">2979936f8744857a8c8d7289a48e125e496f22d7</guid>
-    <pubDate>Wed, 11 Feb 2026 03:23:23 GMT</pubDate>
-    <description><![CDATA[Progreso, Mexico Arrival (UTC) Feb 9, 15:39 — ET: Feb 09, 10:39 AM EST | Local: Feb 09, 10:39 AM EST]]></description>
   </item>
 </channel>
 </rss>
