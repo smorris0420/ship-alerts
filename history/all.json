@@ -253,6 +253,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Departed from Avalon Anch., United States (USA) at Mar 30, 09:05 PM EDT. The local time to the port is Mar 30, 09:05 PM EDT",
+    "description": "Avalon Anch., United States (USA) Departure (UTC) Mar 31, 01:05 — ET: Mar 30, 09:05 PM EDT | Local: Mar 30, 09:05 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USAOU001",
+    "guid": "68ba397239d1ebef943cdfffb89ae51dbe0cc876",
+    "pubDate": "Tue, 31 Mar 2026 15:41:27 GMT",
+    "eventUtc": "2026-03-31T01:05:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Departed from Cozumel, Mexico at Mar 30, 06:18 PM EDT. The local time to the port is Mar 30, 05:18 PM EST",
     "description": "Cozumel, Mexico Departure (UTC) Mar 30, 22:18 — ET: Mar 30, 06:18 PM EDT | Local: Mar 30, 05:18 PM EST",
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
@@ -291,6 +302,17 @@
     "link": "https://www.vesselfinder.com/ports/USSAN001",
     "guid": "5f3e54cb2feddbe03f3b1893d06a97f8ecba3307",
     "pubDate": "Mon, 30 Mar 2026 15:19:56 GMT",
+    "eventUtc": "2026-03-30T13:39:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Wonder Arrived at Avalon Anch., United States (USA) at Mar 30, 09:39 AM EDT. The local time to the port is Mar 30, 09:39 AM EDT",
+    "description": "Avalon Anch., United States (USA) Arrival (UTC) Mar 30, 13:39 — ET: Mar 30, 09:39 AM EDT | Local: Mar 30, 09:39 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USAOU001",
+    "guid": "1364393a45a01129237f333503fd37923a7ffb45",
+    "pubDate": "Tue, 31 Mar 2026 15:41:26 GMT",
     "eventUtc": "2026-03-30T13:39:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-02-09T12:49:00+00:00",
     "shipSlug": "disney-adventure",
     "shipName": "Disney Adventure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Cozumel, Mexico at Feb 09, 07:38 AM EST. The local time to the port is Feb 09, 07:38 AM EST",
-    "description": "Cozumel, Mexico Arrival (UTC) Feb 9, 12:38 — ET: Feb 09, 07:38 AM EST | Local: Feb 09, 07:38 AM EST",
-    "link": "https://www.vesselfinder.com/ports/MXCZM001",
-    "guid": "ce71729491691ffb96e6ae0e20beaf3530f13363",
-    "pubDate": "Mon, 09 Feb 2026 13:46:17 GMT",
-    "eventUtc": "2026-02-09T12:38:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Georgetown, Grand Cayman Anch., Cayman Islands at Feb 09, 07:38 AM EST. The local time to the port is Feb 09, 07:38 AM EST",
-    "description": "Georgetown, Grand Cayman Anch., Cayman Islands Arrival (UTC) Feb 9, 12:38 — ET: Feb 09, 07:38 AM EST | Local: Feb 09, 07:38 AM EST",
-    "link": "https://www.vesselfinder.com/ports/KYGEC001",
-    "guid": "8b87b02bf19ee3c9fb46356f47ef073045fef894",
-    "pubDate": "Tue, 10 Feb 2026 15:53:27 GMT",
-    "eventUtc": "2026-02-09T12:38:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
