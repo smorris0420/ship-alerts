@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Arrived at Saint Thomas, US Virgin Islands at Mar 31, 06:52 AM EDT. The local time to the port is Mar 31, 06:52 AM EDT",
+    "description": "Saint Thomas, US Virgin Islands Arrival (UTC) Mar 31, 10:52 — ET: Mar 31, 06:52 AM EDT | Local: Mar 31, 06:52 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/VISTT001",
+    "guid": "9ebbcfdc35b9e95062d7b4a28d92eb8023d60936",
+    "pubDate": "Tue, 31 Mar 2026 11:33:45 GMT",
+    "eventUtc": "2026-03-31T10:52:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Departed from San Diego, United States (USA) at Mar 30, 09:05 PM EDT. The local time to the port is Mar 30, 09:05 PM EDT",
     "description": "San Diego, United States (USA) Departure (UTC) Mar 31, 01:05 — ET: Mar 30, 09:05 PM EDT | Local: Mar 30, 09:05 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USSAN001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-02-09T10:57:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Arrived at Port Everglades, United States (USA) at Feb 09, 05:54 AM EST. The local time to the port is Feb 09, 05:54 AM EST",
-    "description": "Port Everglades, United States (USA) Arrival (UTC) Feb 9, 10:54 — ET: Feb 09, 05:54 AM EST | Local: Feb 09, 05:54 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "4e38c0af0903c0f6c441e9047fdca6cb1bb427a0",
-    "pubDate": "Mon, 09 Feb 2026 11:34:03 GMT",
-    "eventUtc": "2026-02-09T10:54:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
     "source": "vf_ship"
   }
 ]
