@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Fantasy Arrived at Nassau, Bahamas at Apr 01, 07:22 AM EDT. The local time to the port is Apr 01, 07:22 AM EDT",
+    "description": "Nassau, Bahamas Arrival (UTC) Apr 1, 11:22 — ET: Apr 01, 07:22 AM EDT | Local: Apr 01, 07:22 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "cb16c99bdb31d30e20e97080cfeefa206a3ffe6f",
+    "pubDate": "Wed, 01 Apr 2026 12:04:42 GMT",
+    "eventUtc": "2026-04-01T11:22:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Departed from Saint Thomas, US Virgin Islands at Mar 31, 06:14 PM EDT. The local time to the port is Mar 31, 06:14 PM EDT",
     "description": "Saint Thomas, US Virgin Islands Departure (UTC) Mar 31, 22:14 — ET: Mar 31, 06:14 PM EDT | Local: Mar 31, 06:14 PM EDT",
     "link": "https://www.vesselfinder.com/ports/VISTT001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-02-09T21:29:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Port Everglades, United States (USA) at Feb 09, 04:18 PM EST. The local time to the port is Feb 09, 04:18 PM EST",
-    "description": "Port Everglades, United States (USA) Departure (UTC) Feb 9, 21:18 — ET: Feb 09, 04:18 PM EST | Local: Feb 09, 04:18 PM EST",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "827fe64a702ced443661d510cb3160b1c9df886b",
-    "pubDate": "Mon, 09 Feb 2026 21:57:23 GMT",
-    "eventUtc": "2026-02-09T21:18:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
     "source": "vf_ship"
   }
 ]
