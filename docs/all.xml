@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Wed, 01 Apr 2026 21:04:15 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 01 Apr 2026 22:02:18 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -153,6 +153,20 @@
     <guid isPermaLink="false">38b82e58d6a268e0d36ff0ae6e6cffadf47c0ac7</guid>
     <pubDate>Wed, 01 Apr 2026 20:09:28 GMT</pubDate>
     <description><![CDATA[Singapore, Singapore Arrival (UTC) Apr 02, 00:30 — ET: Apr 01, 08:30 PM EDT | Local: Apr 01, 08:30 PM EDT]]></description>
+  </item>
+  <item>
+    <title>Disney Fantasy Departed from Nassau, Bahamas at Apr 01, 05:55 PM EDT. The local time to the port is Apr 01, 05:55 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/BSNAS001</link>
+    <guid isPermaLink="false">9a1a74b70fbdbe9f8d9fc456ce034402cdf448e7</guid>
+    <pubDate>Wed, 01 Apr 2026 22:00:07 GMT</pubDate>
+    <description><![CDATA[Nassau, Bahamas Departure (UTC) Apr 1, 21:55 — ET: Apr 01, 05:55 PM EDT | Local: Apr 01, 05:55 PM EDT]]></description>
+  </item>
+  <item>
+    <title>Disney Destiny Departed from Gorda Cay, Bahamas at Apr 01, 05:10 PM EDT. The local time to the port is Apr 01, 05:10 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
+    <guid isPermaLink="false">417a6a14608e3a177f47f449f3881efe9278049b</guid>
+    <pubDate>Wed, 01 Apr 2026 22:02:16 GMT</pubDate>
+    <description><![CDATA[Gorda Cay, Bahamas Departure (UTC) Apr 1, 21:10 — ET: Apr 01, 05:10 PM EDT | Local: Apr 01, 05:10 PM EDT]]></description>
   </item>
   <item>
     <title>Disney Treasure Departed from Road Town, Tortola, British Virgin Islands at Apr 01, 02:39 PM EDT. The local time to the port is Apr 01, 02:39 PM AST</title>
@@ -3492,20 +3506,6 @@
     <guid isPermaLink="false">8a48a6bad54ca6a443b6f413a8c368ea4779cb62</guid>
     <pubDate>Tue, 10 Feb 2026 10:12:43 GMT</pubDate>
     <description><![CDATA[Cape Canaveral, United States (USA) Departure (UTC) Feb 10, 09:47 — ET: Feb 10, 04:47 AM EST | Local: Feb 10, 04:47 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Adventure Departed from Los Angeles, United States (USA) at Feb 10, 03:02 AM EST. The local time to the port is Feb 10, 03:02 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/USLAX001</link>
-    <guid isPermaLink="false">016d811d15b91d182abcaa539d0f0fb18b9139df</guid>
-    <pubDate>Tue, 10 Feb 2026 08:12:18 GMT</pubDate>
-    <description><![CDATA[Los Angeles, United States (USA) Departure (UTC) Feb 10, 08:02 — ET: Feb 10, 03:02 AM EST | Local: Feb 10, 03:02 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Wish Arrived at Cape Canaveral, United States (USA) at Feb 10, 02:52 AM EST. The local time to the port is Feb 10, 02:52 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/USPCV001</link>
-    <guid isPermaLink="false">6cf02551d2e27ac16724c64c9eb885cc2b4285b7</guid>
-    <pubDate>Tue, 10 Feb 2026 09:12:07 GMT</pubDate>
-    <description><![CDATA[Cape Canaveral, United States (USA) Arrival (UTC) Feb 10, 07:52 — ET: Feb 10, 02:52 AM EST | Local: Feb 10, 02:52 AM EST]]></description>
   </item>
 </channel>
 </rss>
