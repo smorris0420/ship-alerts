@@ -264,6 +264,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Georgetown, Grand Cayman Anch., Cayman Islands at Mar 31, 06:14 PM EDT. The local time to the port is Mar 31, 05:14 PM EST",
+    "description": "Georgetown, Grand Cayman Anch., Cayman Islands Departure (UTC) Mar 31, 22:14 — ET: Mar 31, 06:14 PM EDT | Local: Mar 31, 05:14 PM EST",
+    "link": "https://www.vesselfinder.com/ports/KYGEC001",
+    "guid": "a7d488659aad0b9cfc258f544985826d06802f20",
+    "pubDate": "Wed, 01 Apr 2026 17:16:03 GMT",
+    "eventUtc": "2026-03-31T22:14:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Nassau, Bahamas at Mar 31, 06:00 PM EDT. The local time to the port is Mar 31, 06:00 PM EDT",
     "description": "Nassau, Bahamas Departure (UTC) Mar 31, 22:00 — ET: Mar 31, 06:00 PM EDT | Local: Mar 31, 06:00 PM EDT",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -291,6 +302,17 @@
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
     "guid": "1ec95f71afeb252821e5e673932ef8f5c9f9b4ff",
     "pubDate": "Tue, 31 Mar 2026 18:39:07 GMT",
+    "eventUtc": "2026-03-31T15:43:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Magic Arrived at Georgetown, Grand Cayman Anch., Cayman Islands at Mar 31, 11:43 AM EDT. The local time to the port is Mar 31, 10:43 AM EST",
+    "description": "Georgetown, Grand Cayman Anch., Cayman Islands Arrival (UTC) Mar 31, 15:43 — ET: Mar 31, 11:43 AM EDT | Local: Mar 31, 10:43 AM EST",
+    "link": "https://www.vesselfinder.com/ports/KYGEC001",
+    "guid": "5a3490f8bb0b89b88bb0bbb2c576509492571cbe",
+    "pubDate": "Wed, 01 Apr 2026 17:16:01 GMT",
     "eventUtc": "2026-03-31T15:43:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-02-09T22:18:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Georgetown, Grand Cayman Anch., Cayman Islands at Feb 09, 05:18 PM EST. The local time to the port is Feb 09, 05:18 PM EST",
-    "description": "Georgetown, Grand Cayman Anch., Cayman Islands Departure (UTC) Feb 9, 22:18 — ET: Feb 09, 05:18 PM EST | Local: Feb 09, 05:18 PM EST",
-    "link": "https://www.vesselfinder.com/ports/KYGEC001",
-    "guid": "670bd2cc45a281785bc75edd0af6a9d42673cf86",
-    "pubDate": "Tue, 10 Feb 2026 15:53:28 GMT",
-    "eventUtc": "2026-02-09T22:18:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Departed from Gorda Cay, Bahamas at Feb 09, 05:03 PM EST. The local time to the port is Feb 09, 05:03 PM EST",
-    "description": "Gorda Cay, Bahamas Departure (UTC) Feb 9, 22:03 — ET: Feb 09, 05:03 PM EST | Local: Feb 09, 05:03 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "8f105c2273cfa65de60d97e5b08d8a7419b8d4a2",
-    "pubDate": "Mon, 09 Feb 2026 22:35:40 GMT",
-    "eventUtc": "2026-02-09T22:03:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
     "source": "vf_ship"
   }
 ]
