@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Arrived at Port Everglades, United States (USA) at Apr 02, 05:50 AM EDT. The local time to the port is Apr 02, 05:50 AM EDT",
+    "description": "Port Everglades, United States (USA) Arrival (UTC) Apr 2, 09:50 — ET: Apr 02, 05:50 AM EDT | Local: Apr 02, 05:50 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPEF001",
+    "guid": "33c71db2ccac879ef77f2b6d7ef909c9549a90a3",
+    "pubDate": "Thu, 02 Apr 2026 11:13:04 GMT",
+    "eventUtc": "2026-04-02T09:50:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Departed from Singapore, Singapore at Apr 02, 05:02 AM EDT. The local time to the port is Apr 02, 05:02 AM EDT",
     "description": "Singapore, Singapore Departure (UTC) Apr 2, 09:02 — ET: Apr 02, 05:02 AM EDT | Local: Apr 02, 05:02 AM EDT",
     "link": "https://www.vesselfinder.com/ports/SGSIN001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-02-11T12:24:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Arrived at Galveston, United States (USA) at Feb 11, 07:06 AM EST. The local time to the port is Feb 11, 07:06 AM EST",
-    "description": "Galveston, United States (USA) Arrival (UTC) Feb 11, 12:06 — ET: Feb 11, 07:06 AM EST | Local: Feb 11, 07:06 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USGLS001",
-    "guid": "8f24a224b90c37671c51eb106a4a9bc2d2595ba6",
-    "pubDate": "Wed, 11 Feb 2026 13:28:00 GMT",
-    "eventUtc": "2026-02-11T12:06:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
