@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Fantasy Departed from Nassau, Bahamas at Apr 01, 10:37 PM EDT. The local time to the port is Apr 01, 10:37 PM EDT",
+    "description": "Nassau, Bahamas Departure (UTC) Apr 2, 02:37 — ET: Apr 01, 10:37 PM EDT | Local: Apr 01, 10:37 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "b30dac5ee38d10b089bfcfdf04f6f4bd6e4ab8a0",
+    "pubDate": "Thu, 02 Apr 2026 03:51:43 GMT",
+    "eventUtc": "2026-04-02T02:37:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Fantasy Arrived at Nassau, Bahamas at Apr 01, 09:18 PM EDT. The local time to the port is Apr 01, 09:18 PM EDT",
+    "description": "Nassau, Bahamas Arrival (UTC) Apr 2, 01:18 — ET: Apr 01, 09:18 PM EDT | Local: Apr 01, 09:18 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "8b8f9a68883c48da13b1376419ca4ed0ddd5dc63",
+    "pubDate": "Thu, 02 Apr 2026 03:51:42 GMT",
+    "eventUtc": "2026-04-02T01:18:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Departed from Singapore, Singapore at Apr 01, 08:30 PM EDT. The local time to the port is Apr 01, 08:30 PM EDT",
     "description": "Singapore, Singapore Departure (UTC) Apr 02, 00:30 — ET: Apr 01, 08:30 PM EDT | Local: Apr 01, 08:30 PM EDT",
     "link": "https://www.vesselfinder.com/ports/SGSIN001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-02-11T10:38:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Departed from Nassau, Bahamas at Feb 10, 05:58 PM EST. The local time to the port is Feb 10, 05:58 PM EST",
-    "description": "Nassau, Bahamas Departure (UTC) Feb 10, 22:58 — ET: Feb 10, 05:58 PM EST | Local: Feb 10, 05:58 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "bba5af5b596f364443ca5cdc899f7bd3136e4ce8",
-    "pubDate": "Tue, 10 Feb 2026 23:23:53 GMT",
-    "eventUtc": "2026-02-10T22:58:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Arrived at Nassau, Bahamas at Feb 10, 09:00 AM EST. The local time to the port is Feb 10, 09:00 AM EST",
-    "description": "Nassau, Bahamas Arrival (UTC) Feb 10, 14:00 — ET: Feb 10, 09:00 AM EST | Local: Feb 10, 09:00 AM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "44c7dfc565118271d1b0311d14a3d3e8127ad4e7",
-    "pubDate": "Tue, 10 Feb 2026 14:48:41 GMT",
-    "eventUtc": "2026-02-10T14:00:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
     "source": "vf_ship"
   }
 ]
