@@ -209,6 +209,39 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Departed from San Diego, United States (USA) at Apr 03, 12:45 PM EDT. The local time to the port is Apr 03, 12:45 PM EDT",
+    "description": "San Diego, United States (USA) Departure (UTC) Apr 03, 16:45 — ET: Apr 03, 12:45 PM EDT | Local: Apr 03, 12:45 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USSAN001",
+    "guid": "d3685ce9c738f71635f446d584fd0e56f6760a30",
+    "pubDate": "Fri, 03 Apr 2026 11:03:07 GMT",
+    "eventUtc": "2026-04-03T16:45:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_port"
+  },
+  {
+    "title": "Disney Wonder Arrived at San Diego, United States (USA) at Apr 03, 12:45 PM EDT. The local time to the port is Apr 03, 12:45 PM EDT",
+    "description": "San Diego, United States (USA) Arrival (UTC) Apr 03, 16:45 — ET: Apr 03, 12:45 PM EDT | Local: Apr 03, 12:45 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USSAN001",
+    "guid": "13d3b52209ca293333ff75df2bec068f7059660c",
+    "pubDate": "Fri, 03 Apr 2026 11:03:08 GMT",
+    "eventUtc": "2026-04-03T16:45:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_port"
+  },
+  {
+    "title": "Disney Wish Arrived at Cape Canaveral, United States (USA) at Apr 03, 05:50 AM EDT. The local time to the port is Apr 03, 05:50 AM EDT",
+    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Apr 3, 09:50 — ET: Apr 03, 05:50 AM EDT | Local: Apr 03, 05:50 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "25435ded1b83b3b03bd15b080759ce6234a3c847",
+    "pubDate": "Fri, 03 Apr 2026 11:00:09 GMT",
+    "eventUtc": "2026-04-03T09:50:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Arrived at San Diego, United States (USA) at Apr 03, 05:20 AM EDT. The local time to the port is Apr 03, 05:20 AM EDT",
     "description": "San Diego, United States (USA) Arrival (UTC) Apr 3, 09:20 — ET: Apr 03, 05:20 AM EDT | Local: Apr 03, 05:20 AM EDT",
     "link": "https://www.vesselfinder.com/ports/USSAN001",
@@ -5464,39 +5497,6 @@
     "eventUtc": "2026-02-12T13:51:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Arrived at Gorda Cay, Bahamas at Feb 12, 08:08 AM EST. The local time to the port is Feb 12, 08:08 AM EST",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) Feb 12, 13:08 — ET: Feb 12, 08:08 AM EST | Local: Feb 12, 08:08 AM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "d844deecd3ba4acb278e52e962b72b6b58d12f0f",
-    "pubDate": "Thu, 12 Feb 2026 22:55:54 GMT",
-    "eventUtc": "2026-02-12T13:08:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Departed from Nassau, Bahamas at Feb 11, 05:44 PM EST. The local time to the port is Feb 11, 05:44 PM EST",
-    "description": "Nassau, Bahamas Departure (UTC) Feb 11, 22:44 — ET: Feb 11, 05:44 PM EST | Local: Feb 11, 05:44 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "c725b22ff6c76483ca01d6cfdea772ef16075659",
-    "pubDate": "Wed, 11 Feb 2026 22:57:30 GMT",
-    "eventUtc": "2026-02-11T22:44:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Galveston, United States (USA) at Feb 11, 05:42 PM EST. The local time to the port is Feb 11, 05:42 PM EST",
-    "description": "Galveston, United States (USA) Departure (UTC) Feb 11, 22:42 — ET: Feb 11, 05:42 PM EST | Local: Feb 11, 05:42 PM EST",
-    "link": "https://www.vesselfinder.com/ports/USGLS001",
-    "guid": "a30d7eba222cc8f8a5c88ad725c1335525d89d83",
-    "pubDate": "Wed, 11 Feb 2026 22:55:02 GMT",
-    "eventUtc": "2026-02-11T22:42:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
