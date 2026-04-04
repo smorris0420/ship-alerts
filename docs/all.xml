@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Sat, 04 Apr 2026 14:50:39 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 04 Apr 2026 15:20:34 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -176,6 +176,13 @@
     <description><![CDATA[San Diego, United States (USA) Departure (UTC) Apr 4, 00:32 — ET: Apr 03, 08:32 PM EDT | Local: Apr 03, 08:32 PM EDT]]></description>
   </item>
   <item>
+    <title>Disney Wonder Departed from Avalon Anch., United States (USA) at Apr 03, 08:32 PM EDT. The local time to the port is Apr 03, 08:32 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USAOU001</link>
+    <guid isPermaLink="false">b2f4bc2e8160641f28d4a953287e34ad219e8d4f</guid>
+    <pubDate>Sat, 04 Apr 2026 15:19:35 GMT</pubDate>
+    <description><![CDATA[Avalon Anch., United States (USA) Departure (UTC) Apr 4, 00:32 — ET: Apr 03, 08:32 PM EDT | Local: Apr 03, 08:32 PM EDT]]></description>
+  </item>
+  <item>
     <title>Disney Treasure Departed from Gorda Cay, Bahamas at Apr 03, 05:10 PM EDT. The local time to the port is Apr 03, 05:10 PM EDT</title>
     <link>https://www.vesselfinder.com/ports/BSGOC001</link>
     <guid isPermaLink="false">d1a4ac3d10adaa0a0162d676fe173a1d9e2d063a</guid>
@@ -237,6 +244,13 @@
     <guid isPermaLink="false">178c0bbfcaed9e7dfec6bdd03ca771bf28432bea</guid>
     <pubDate>Fri, 03 Apr 2026 10:06:57 GMT</pubDate>
     <description><![CDATA[San Diego, United States (USA) Arrival (UTC) Apr 3, 09:20 — ET: Apr 03, 05:20 AM EDT | Local: Apr 03, 05:20 AM EDT]]></description>
+  </item>
+  <item>
+    <title>Disney Wonder Arrived at Avalon Anch., United States (USA) at Apr 03, 05:20 AM EDT. The local time to the port is Apr 03, 05:20 AM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USAOU001</link>
+    <guid isPermaLink="false">5f4b305d6a60841f1c1f6c26c98848043424ff30</guid>
+    <pubDate>Sat, 04 Apr 2026 15:19:34 GMT</pubDate>
+    <description><![CDATA[Avalon Anch., United States (USA) Arrival (UTC) Apr 3, 09:20 — ET: Apr 03, 05:20 AM EDT | Local: Apr 03, 05:20 AM EDT]]></description>
   </item>
   <item>
     <title>Disney Dream Arrived at Port Everglades, United States (USA) at Apr 03, 04:31 AM EDT. The local time to the port is Apr 03, 04:31 AM EDT</title>
@@ -3492,20 +3506,6 @@
     <guid isPermaLink="false">388bf7f47afeb5ae9c6a3dcebda2317a88e4d9ce</guid>
     <pubDate>Fri, 13 Feb 2026 22:02:19 GMT</pubDate>
     <description><![CDATA[Cape Canaveral, United States (USA) Departure (UTC) Feb 13, 21:50 — ET: Feb 13, 04:50 PM EST | Local: Feb 13, 04:50 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Dream Departed from Port Everglades, United States (USA) at Feb 13, 04:42 PM EST. The local time to the port is Feb 13, 04:42 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/USPEF001</link>
-    <guid isPermaLink="false">755e4d93a69fd529c3c7b31fbf678f8f80de6f03</guid>
-    <pubDate>Fri, 13 Feb 2026 22:04:15 GMT</pubDate>
-    <description><![CDATA[Port Everglades, United States (USA) Departure (UTC) Feb 13, 21:42 — ET: Feb 13, 04:42 PM EST | Local: Feb 13, 04:42 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Dream Departed from Port Everglades, United States (USA) at Feb 13, 10:00 AM EST. The local time to the port is Feb 13, 10:00 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/USPEF001</link>
-    <guid isPermaLink="false">9aabe1cd02148f4932b9d7b12b358e7f30addea1</guid>
-    <pubDate>Thu, 12 Feb 2026 21:51:16 GMT</pubDate>
-    <description><![CDATA[Port Everglades, United States (USA) Departure (UTC) Feb 13, 15:00 — ET: Feb 13, 10:00 AM EST | Local: Feb 13, 10:00 AM EST]]></description>
   </item>
 </channel>
 </rss>

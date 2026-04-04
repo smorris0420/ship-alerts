@@ -33,6 +33,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Departed from Avalon Anch., United States (USA) at Apr 03, 08:32 PM EDT. The local time to the port is Apr 03, 08:32 PM EDT",
+    "description": "Avalon Anch., United States (USA) Departure (UTC) Apr 4, 00:32 — ET: Apr 03, 08:32 PM EDT | Local: Apr 03, 08:32 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USAOU001",
+    "guid": "b2f4bc2e8160641f28d4a953287e34ad219e8d4f",
+    "pubDate": "Sat, 04 Apr 2026 15:19:35 GMT",
+    "eventUtc": "2026-04-04T00:32:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Departed from San Diego, United States (USA) at Apr 03, 12:45 PM EDT. The local time to the port is Apr 03, 12:45 PM EDT",
     "description": "San Diego, United States (USA) Departure (UTC) Apr 03, 16:45 — ET: Apr 03, 12:45 PM EDT | Local: Apr 03, 12:45 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USSAN001",
@@ -60,6 +71,17 @@
     "link": "https://www.vesselfinder.com/ports/USSAN001",
     "guid": "178c0bbfcaed9e7dfec6bdd03ca771bf28432bea",
     "pubDate": "Fri, 03 Apr 2026 10:06:57 GMT",
+    "eventUtc": "2026-04-03T09:20:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Wonder Arrived at Avalon Anch., United States (USA) at Apr 03, 05:20 AM EDT. The local time to the port is Apr 03, 05:20 AM EDT",
+    "description": "Avalon Anch., United States (USA) Arrival (UTC) Apr 3, 09:20 — ET: Apr 03, 05:20 AM EDT | Local: Apr 03, 05:20 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USAOU001",
+    "guid": "5f4b305d6a60841f1c1f6c26c98848043424ff30",
+    "pubDate": "Sat, 04 Apr 2026 15:19:34 GMT",
     "eventUtc": "2026-04-03T09:20:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
