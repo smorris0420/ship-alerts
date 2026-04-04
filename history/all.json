@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Arrived at Nassau, Bahamas at Apr 04, 09:39 AM EDT. The local time to the port is Apr 04, 09:39 AM EDT",
+    "description": "Nassau, Bahamas Arrival (UTC) Apr 4, 13:39 — ET: Apr 04, 09:39 AM EDT | Local: Apr 04, 09:39 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "4dcbba88f8e97fd2e12108cfc6509e222036089f",
+    "pubDate": "Sat, 04 Apr 2026 14:45:38 GMT",
+    "eventUtc": "2026-04-04T13:39:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Arrived at Nassau, Bahamas at Apr 04, 09:03 AM EDT. The local time to the port is Apr 04, 09:03 AM EDT",
     "description": "Nassau, Bahamas Arrival (UTC) Apr 4, 13:03 — ET: Apr 04, 09:03 AM EDT | Local: Apr 04, 09:03 AM EDT",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -5483,17 +5494,6 @@
     "link": "https://www.vesselfinder.com/ports/USPEF001",
     "guid": "9aabe1cd02148f4932b9d7b12b358e7f30addea1",
     "pubDate": "Thu, 12 Feb 2026 21:51:16 GMT",
-    "eventUtc": "2026-02-13T15:00:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_port"
-  },
-  {
-    "title": "Disney Dream Arrived at Port Everglades, United States (USA) at Feb 13, 10:00 AM EST. The local time to the port is Feb 13, 10:00 AM EST",
-    "description": "Port Everglades, United States (USA) Arrival (UTC) Feb 13, 15:00 — ET: Feb 13, 10:00 AM EST | Local: Feb 13, 10:00 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "1278f7c774d48dd32efc3a66502ab2dfea04efa3",
-    "pubDate": "Thu, 12 Feb 2026 21:51:17 GMT",
     "eventUtc": "2026-02-13T15:00:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
