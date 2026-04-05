@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Sun, 05 Apr 2026 20:58:11 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 05 Apr 2026 21:29:52 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -153,6 +153,13 @@
     <guid isPermaLink="false">7256947a31bde567677e49662d1d341db2a52cea</guid>
     <pubDate>Sun, 05 Apr 2026 19:53:15 GMT</pubDate>
     <description><![CDATA[Singapore, Singapore Arrival (UTC) Apr 06, 00:30 — ET: Apr 05, 08:30 PM EDT | Local: Apr 05, 08:30 PM EDT]]></description>
+  </item>
+  <item>
+    <title>Disney Wish Departed from Gorda Cay, Bahamas at Apr 05, 04:59 PM EDT. The local time to the port is Apr 05, 04:59 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
+    <guid isPermaLink="false">e73d98ab0eb9ccec5843e40e59bb0e2ef1fbd8b8</guid>
+    <pubDate>Sun, 05 Apr 2026 21:25:50 GMT</pubDate>
+    <description><![CDATA[Gorda Cay, Bahamas Departure (UTC) Apr 5, 20:59 — ET: Apr 05, 04:59 PM EDT | Local: Apr 05, 04:59 PM EDT]]></description>
   </item>
   <item>
     <title>Disney Wonder Arrived at Ensenada, Mexico at Apr 05, 10:44 AM EDT. The local time to the port is Apr 05, 09:44 AM EST</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">781598dcf088fc58954cad18573d72cb80f95758</guid>
     <pubDate>Mon, 16 Feb 2026 06:10:36 GMT</pubDate>
     <description><![CDATA[Gorda Cay, Bahamas Arrival (UTC) Feb 15, 12:09 — ET: Feb 15, 07:09 AM EST | Local: Feb 15, 07:09 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Magic Arrived at Galveston, United States (USA) at Feb 15, 05:08 AM EST. The local time to the port is Feb 15, 05:08 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/USGLS001</link>
-    <guid isPermaLink="false">113a33917e3cc09833c095d67dd4687b410e02d8</guid>
-    <pubDate>Sun, 15 Feb 2026 10:42:22 GMT</pubDate>
-    <description><![CDATA[Galveston, United States (USA) Arrival (UTC) Feb 15, 10:08 — ET: Feb 15, 05:08 AM EST | Local: Feb 15, 05:08 AM EST]]></description>
   </item>
 </channel>
 </rss>
