@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Arrived at Galveston, United States (USA) at Apr 05, 06:25 AM EDT. The local time to the port is Apr 05, 06:25 AM EDT",
+    "description": "Galveston, United States (USA) Arrival (UTC) Apr 5, 10:25 — ET: Apr 05, 06:25 AM EDT | Local: Apr 05, 06:25 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USGLS001",
+    "guid": "33125b58ff905819237eff1f3023f176d3260722",
+    "pubDate": "Sun, 05 Apr 2026 11:40:16 GMT",
+    "eventUtc": "2026-04-05T10:25:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Departed from Nassau, Bahamas at Apr 04, 06:03 PM EDT. The local time to the port is Apr 04, 06:03 PM EDT",
     "description": "Nassau, Bahamas Departure (UTC) Apr 4, 22:03 — ET: Apr 04, 06:03 PM EDT | Local: Apr 04, 06:03 PM EDT",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-02-14T13:59:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Cape Canaveral, United States (USA) at Feb 14, 06:00 AM EST. The local time to the port is Feb 14, 06:00 AM EST",
-    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Feb 14, 11:00 — ET: Feb 14, 06:00 AM EST | Local: Feb 14, 06:00 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "a783ea8064cad96b89f1183d2334dcd1fa48b946",
-    "pubDate": "Sat, 14 Feb 2026 11:37:37 GMT",
-    "eventUtc": "2026-02-14T11:00:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
