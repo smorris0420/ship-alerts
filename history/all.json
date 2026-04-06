@@ -231,6 +231,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Wonder Departed from Ensenada, Mexico at Apr 05, 08:29 PM EDT. The local time to the port is Apr 05, 07:29 PM EST",
+    "description": "Ensenada, Mexico Departure (UTC) Apr 6, 00:29 — ET: Apr 05, 08:29 PM EDT | Local: Apr 05, 07:29 PM EST",
+    "link": "https://www.vesselfinder.com/ports/MXESE001",
+    "guid": "c8412a10c0b38ec7dd9aa80d624123247fe30cd6",
+    "pubDate": "Mon, 06 Apr 2026 01:08:57 GMT",
+    "eventUtc": "2026-04-06T00:29:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Nassau, Bahamas at Apr 05, 05:57 PM EDT. The local time to the port is Apr 05, 05:57 PM EDT",
     "description": "Nassau, Bahamas Departure (UTC) Apr 5, 21:57 — ET: Apr 05, 05:57 PM EDT | Local: Apr 05, 05:57 PM EDT",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -5487,16 +5498,5 @@
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
     "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Galveston, United States (USA) at Feb 15, 10:00 AM EST. The local time to the port is Feb 15, 10:00 AM EST",
-    "description": "Galveston, United States (USA) Departure (UTC) Feb 15, 15:00 — ET: Feb 15, 10:00 AM EST | Local: Feb 15, 10:00 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USGLS001",
-    "guid": "6798ad5126332ee839e7a9f013217eb97743b811",
-    "pubDate": "Fri, 13 Feb 2026 22:50:20 GMT",
-    "eventUtc": "2026-02-15T15:00:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
-    "source": "vf_port"
   }
 ]
