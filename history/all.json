@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Arrived at Cozumel, Mexico at Apr 06, 08:56 AM EDT. The local time to the port is Apr 06, 07:56 AM EST",
+    "description": "Cozumel, Mexico Arrival (UTC) Apr 6, 12:56 — ET: Apr 06, 08:56 AM EDT | Local: Apr 06, 07:56 AM EST",
+    "link": "https://www.vesselfinder.com/ports/MXCZM001",
+    "guid": "7bf1e5769baa352a407da2b50299d75f901eb663",
+    "pubDate": "Mon, 06 Apr 2026 13:46:41 GMT",
+    "eventUtc": "2026-04-06T12:56:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Fantasy Arrived at Gorda Cay, Bahamas at Apr 06, 07:39 AM EDT. The local time to the port is Apr 06, 07:39 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Apr 6, 11:39 — ET: Apr 06, 07:39 AM EDT | Local: Apr 06, 07:39 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "d205583bed58eca3fd16627ebae9436e6976dba7",
+    "pubDate": "Mon, 06 Apr 2026 13:46:48 GMT",
+    "eventUtc": "2026-04-06T11:39:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Arrived at Cape Canaveral, United States (USA) at Apr 06, 05:58 AM EDT. The local time to the port is Apr 06, 05:58 AM EDT",
     "description": "Cape Canaveral, United States (USA) Arrival (UTC) Apr 6, 09:58 — ET: Apr 06, 05:58 AM EDT | Local: Apr 06, 05:58 AM EDT",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-02-16T10:36:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Departed from Honolulu, United States (USA) at Feb 15, 11:32 PM EST. The local time to the port is Feb 15, 11:32 PM EST",
-    "description": "Honolulu, United States (USA) Departure (UTC) Feb 16, 04:32 — ET: Feb 15, 11:32 PM EST | Local: Feb 15, 11:32 PM EST",
-    "link": "https://www.vesselfinder.com/ports/USHNL001",
-    "guid": "799da8ff887a62ae2d84a61ff8dd91aeffe39ccb",
-    "pubDate": "Mon, 16 Feb 2026 05:02:42 GMT",
-    "eventUtc": "2026-02-16T04:32:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Departed from Cape Canaveral, United States (USA) at Feb 15, 06:12 PM EST. The local time to the port is Feb 15, 06:12 PM EST",
-    "description": "Cape Canaveral, United States (USA) Departure (UTC) Feb 15, 23:12 — ET: Feb 15, 06:12 PM EST | Local: Feb 15, 06:12 PM EST",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "1c0484b5a58086c9256c9e7b4cf81f8609840b62",
-    "pubDate": "Sun, 15 Feb 2026 23:40:07 GMT",
-    "eventUtc": "2026-02-15T23:12:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
     "source": "vf_ship"
   }
 ]
