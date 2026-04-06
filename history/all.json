@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Departed from Port Everglades, United States (USA) at Apr 06, 06:11 PM EDT. The local time to the port is Apr 06, 06:11 PM EDT",
+    "description": "Port Everglades, United States (USA) Departure (UTC) Apr 6, 22:11 — ET: Apr 06, 06:11 PM EDT | Local: Apr 06, 06:11 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPEF001",
+    "guid": "4b6a78adbd410283c0f532542ca6483f4397c2ae",
+    "pubDate": "Mon, 06 Apr 2026 22:56:01 GMT",
+    "eventUtc": "2026-04-06T22:11:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Treasure Departed from Cozumel, Mexico at Apr 06, 06:05 PM EDT. The local time to the port is Apr 06, 05:05 PM EST",
+    "description": "Cozumel, Mexico Departure (UTC) Apr 6, 22:05 — ET: Apr 06, 06:05 PM EDT | Local: Apr 06, 05:05 PM EST",
+    "link": "https://www.vesselfinder.com/ports/MXCZM001",
+    "guid": "7a4bf3f472810c5136c35367792f726256e18c3f",
+    "pubDate": "Mon, 06 Apr 2026 22:52:56 GMT",
+    "eventUtc": "2026-04-06T22:05:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Port Everglades, United States (USA) at Apr 06, 05:52 PM EDT. The local time to the port is Apr 06, 05:52 PM EDT",
     "description": "Port Everglades, United States (USA) Departure (UTC) Apr 6, 21:52 — ET: Apr 06, 05:52 PM EDT | Local: Apr 06, 05:52 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USPEF001",
@@ -5476,27 +5498,5 @@
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
     "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Departed from Honolulu, United States (USA) at Feb 16, 03:30 PM EST. The local time to the port is Feb 16, 03:30 PM EST",
-    "description": "Honolulu, United States (USA) Departure (UTC) Feb 16, 20:30 — ET: Feb 16, 03:30 PM EST | Local: Feb 16, 03:30 PM EST",
-    "link": "https://www.vesselfinder.com/ports/USHNL001",
-    "guid": "95458053998b13dde7e0b3d748cd98a78d0c6037",
-    "pubDate": "Sun, 15 Feb 2026 23:42:15 GMT",
-    "eventUtc": "2026-02-16T20:30:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
-    "source": "vf_port"
-  },
-  {
-    "title": "Disney Wonder Arrived at Honolulu, United States (USA) at Feb 16, 03:30 PM EST. The local time to the port is Feb 16, 03:30 PM EST",
-    "description": "Honolulu, United States (USA) Arrival (UTC) Feb 16, 20:30 — ET: Feb 16, 03:30 PM EST | Local: Feb 16, 03:30 PM EST",
-    "link": "https://www.vesselfinder.com/ports/USHNL001",
-    "guid": "1a75503a2d5e2896bdd0e4a915cfa3eef67c9144",
-    "pubDate": "Sun, 15 Feb 2026 23:42:16 GMT",
-    "eventUtc": "2026-02-16T20:30:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
-    "source": "vf_port"
   }
 ]

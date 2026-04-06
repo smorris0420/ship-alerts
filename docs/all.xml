@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Mon, 06 Apr 2026 22:06:51 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 06 Apr 2026 22:56:03 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,20 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Destiny Departed from Port Everglades, United States (USA) at Apr 06, 06:11 PM EDT. The local time to the port is Apr 06, 06:11 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USPEF001</link>
+    <guid isPermaLink="false">4b6a78adbd410283c0f532542ca6483f4397c2ae</guid>
+    <pubDate>Mon, 06 Apr 2026 22:56:01 GMT</pubDate>
+    <description><![CDATA[Port Everglades, United States (USA) Departure (UTC) Apr 6, 22:11 — ET: Apr 06, 06:11 PM EDT | Local: Apr 06, 06:11 PM EDT]]></description>
+  </item>
+  <item>
+    <title>Disney Treasure Departed from Cozumel, Mexico at Apr 06, 06:05 PM EDT. The local time to the port is Apr 06, 05:05 PM EST</title>
+    <link>https://www.vesselfinder.com/ports/MXCZM001</link>
+    <guid isPermaLink="false">7a4bf3f472810c5136c35367792f726256e18c3f</guid>
+    <pubDate>Mon, 06 Apr 2026 22:52:56 GMT</pubDate>
+    <description><![CDATA[Cozumel, Mexico Departure (UTC) Apr 6, 22:05 — ET: Apr 06, 06:05 PM EDT | Local: Apr 06, 05:05 PM EST]]></description>
   </item>
   <item>
     <title>Disney Dream Departed from Port Everglades, United States (USA) at Apr 06, 05:52 PM EDT. The local time to the port is Apr 06, 05:52 PM EDT</title>
@@ -3492,20 +3506,6 @@
     <guid isPermaLink="false">ef9aaf058106e7f27496be4dce350bc5ccabc7f8</guid>
     <pubDate>Mon, 16 Feb 2026 21:18:00 GMT</pubDate>
     <description><![CDATA[Port Everglades, United States (USA) Departure (UTC) Feb 16, 21:05 — ET: Feb 16, 04:05 PM EST | Local: Feb 16, 04:05 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Wonder Departed from Honolulu, United States (USA) at Feb 16, 03:30 PM EST. The local time to the port is Feb 16, 03:30 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/USHNL001</link>
-    <guid isPermaLink="false">95458053998b13dde7e0b3d748cd98a78d0c6037</guid>
-    <pubDate>Sun, 15 Feb 2026 23:42:15 GMT</pubDate>
-    <description><![CDATA[Honolulu, United States (USA) Departure (UTC) Feb 16, 20:30 — ET: Feb 16, 03:30 PM EST | Local: Feb 16, 03:30 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Wonder Arrived at Honolulu, United States (USA) at Feb 16, 03:30 PM EST. The local time to the port is Feb 16, 03:30 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/USHNL001</link>
-    <guid isPermaLink="false">1a75503a2d5e2896bdd0e4a915cfa3eef67c9144</guid>
-    <pubDate>Sun, 15 Feb 2026 23:42:16 GMT</pubDate>
-    <description><![CDATA[Honolulu, United States (USA) Arrival (UTC) Feb 16, 20:30 — ET: Feb 16, 03:30 PM EST | Local: Feb 16, 03:30 PM EST]]></description>
   </item>
 </channel>
 </rss>
