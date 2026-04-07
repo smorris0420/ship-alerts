@@ -253,6 +253,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Departed from Georgetown, Grand Cayman Anch., Cayman Islands at Apr 06, 06:05 PM EDT. The local time to the port is Apr 06, 05:05 PM EST",
+    "description": "Georgetown, Grand Cayman Anch., Cayman Islands Departure (UTC) Apr 6, 22:05 — ET: Apr 06, 06:05 PM EDT | Local: Apr 06, 05:05 PM EST",
+    "link": "https://www.vesselfinder.com/ports/KYGEC001",
+    "guid": "1b83860fa8a828b29a815939121228164d6f1761",
+    "pubDate": "Tue, 07 Apr 2026 15:48:01 GMT",
+    "eventUtc": "2026-04-06T22:05:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Port Everglades, United States (USA) at Apr 06, 05:52 PM EDT. The local time to the port is Apr 06, 05:52 PM EDT",
     "description": "Port Everglades, United States (USA) Departure (UTC) Apr 6, 21:52 — ET: Apr 06, 05:52 PM EDT | Local: Apr 06, 05:52 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USPEF001",
@@ -302,6 +313,17 @@
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
     "guid": "7bf1e5769baa352a407da2b50299d75f901eb663",
     "pubDate": "Mon, 06 Apr 2026 13:46:41 GMT",
+    "eventUtc": "2026-04-06T12:56:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Treasure Arrived at Georgetown, Grand Cayman Anch., Cayman Islands at Apr 06, 08:56 AM EDT. The local time to the port is Apr 06, 07:56 AM EST",
+    "description": "Georgetown, Grand Cayman Anch., Cayman Islands Arrival (UTC) Apr 6, 12:56 — ET: Apr 06, 08:56 AM EDT | Local: Apr 06, 07:56 AM EST",
+    "link": "https://www.vesselfinder.com/ports/KYGEC001",
+    "guid": "499b63bb99cc9a92909db305b2c6280ff0c575e5",
+    "pubDate": "Tue, 07 Apr 2026 15:48:00 GMT",
     "eventUtc": "2026-04-06T12:56:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-02-17T12:26:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Saint Thomas, US Virgin Islands at Feb 17, 05:46 AM EST. The local time to the port is Feb 17, 05:46 AM EST",
-    "description": "Saint Thomas, US Virgin Islands Arrival (UTC) Feb 17, 10:46 — ET: Feb 17, 05:46 AM EST | Local: Feb 17, 05:46 AM EST",
-    "link": "https://www.vesselfinder.com/ports/VISTT001",
-    "guid": "e3b6c53b53135c9a7d9ced8ae0a4b9425fe439a4",
-    "pubDate": "Tue, 17 Feb 2026 11:47:39 GMT",
-    "eventUtc": "2026-02-17T10:46:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Departed from Cozumel, Mexico at Feb 16, 05:06 PM EST. The local time to the port is Feb 16, 05:06 PM EST",
-    "description": "Cozumel, Mexico Departure (UTC) Feb 16, 22:06 — ET: Feb 16, 05:06 PM EST | Local: Feb 16, 05:06 PM EST",
-    "link": "https://www.vesselfinder.com/ports/MXCZM001",
-    "guid": "b9fa71b4d5115b38fc392fae4bc09a8d67db50ea",
-    "pubDate": "Mon, 16 Feb 2026 22:50:38 GMT",
-    "eventUtc": "2026-02-16T22:06:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
     "source": "vf_ship"
   }
 ]
