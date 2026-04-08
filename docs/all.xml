@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Wed, 08 Apr 2026 21:58:04 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 08 Apr 2026 22:38:51 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -153,6 +153,27 @@
     <guid isPermaLink="false">50e59020e8efda621c0e1112f75f5b0734285827</guid>
     <pubDate>Wed, 08 Apr 2026 20:09:30 GMT</pubDate>
     <description><![CDATA[Singapore, Singapore Arrival (UTC) Apr 09, 00:30 — ET: Apr 08, 08:30 PM EDT | Local: Apr 08, 08:30 PM EDT]]></description>
+  </item>
+  <item>
+    <title>Disney Wish Departed from Nassau, Bahamas at Apr 08, 06:21 PM EDT. The local time to the port is Apr 08, 06:21 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/BSNAS001</link>
+    <guid isPermaLink="false">c8114c4b51bab1548e9b60549abf08a82603ce97</guid>
+    <pubDate>Wed, 08 Apr 2026 22:35:33 GMT</pubDate>
+    <description><![CDATA[Nassau, Bahamas Departure (UTC) Apr 8, 22:21 — ET: Apr 08, 06:21 PM EDT | Local: Apr 08, 06:21 PM EDT]]></description>
+  </item>
+  <item>
+    <title>Disney Destiny Departed from Nassau, Bahamas at Apr 08, 05:53 PM EDT. The local time to the port is Apr 08, 05:53 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/BSNAS001</link>
+    <guid isPermaLink="false">ee3419ac90347463ad36b0224f771aa145a91a9d</guid>
+    <pubDate>Wed, 08 Apr 2026 22:38:49 GMT</pubDate>
+    <description><![CDATA[Nassau, Bahamas Departure (UTC) Apr 8, 21:53 — ET: Apr 08, 05:53 PM EDT | Local: Apr 08, 05:53 PM EDT]]></description>
+  </item>
+  <item>
+    <title>Disney Adventure Arrived at Singapore, Singapore at Apr 08, 05:24 PM EDT. The local time to the port is Apr 08, 05:24 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/SGSIN001</link>
+    <guid isPermaLink="false">faa40e2e47b06287ed2d98fe74105c0879cda9ad</guid>
+    <pubDate>Wed, 08 Apr 2026 22:38:42 GMT</pubDate>
+    <description><![CDATA[Singapore, Singapore Arrival (UTC) Apr 8, 21:24 — ET: Apr 08, 05:24 PM EDT | Local: Apr 08, 05:24 PM EDT]]></description>
   </item>
   <item>
     <title>Disney Fantasy Departed from Cape Canaveral, United States (USA) at Apr 08, 04:30 PM EDT. The local time to the port is Apr 08, 04:30 PM EDT</title>
@@ -3485,27 +3506,6 @@
     <guid isPermaLink="false">6ff079222332143a4e271141621b5c451bf53f35</guid>
     <pubDate>Wed, 18 Feb 2026 23:49:37 GMT</pubDate>
     <description><![CDATA[Nassau, Bahamas Departure (UTC) Feb 18, 23:15 — ET: Feb 18, 06:15 PM EST | Local: Feb 18, 06:15 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Destiny Departed from Gorda Cay, Bahamas at Feb 18, 05:02 PM EST. The local time to the port is Feb 18, 05:02 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
-    <guid isPermaLink="false">6dfbf620c6956931209b799495838ab2f1e0b956</guid>
-    <pubDate>Thu, 19 Feb 2026 01:03:36 GMT</pubDate>
-    <description><![CDATA[Gorda Cay, Bahamas Departure (UTC) Feb 18, 22:02 — ET: Feb 18, 05:02 PM EST | Local: Feb 18, 05:02 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Treasure Departed from Road Town, Tortola, British Virgin Islands at Feb 18, 02:12 PM EST. The local time to the port is Feb 18, 03:12 PM AST</title>
-    <link>https://www.vesselfinder.com/ports/VGRAD001</link>
-    <guid isPermaLink="false">724e4ce468dea90c875a43b9925d1d33daecdb88</guid>
-    <pubDate>Wed, 18 Feb 2026 19:32:05 GMT</pubDate>
-    <description><![CDATA[Road Town, Tortola, British Virgin Islands Departure (UTC) Feb 18, 19:12 — ET: Feb 18, 02:12 PM EST | Local: Feb 18, 03:12 PM AST]]></description>
-  </item>
-  <item>
-    <title>Disney Magic Arrived at Progreso, Mexico at Feb 18, 10:31 AM EST. The local time to the port is Feb 18, 10:31 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/MXPGO001</link>
-    <guid isPermaLink="false">fc762b1eb30f283f83852b59c4f0f12d8673cbe6</guid>
-    <pubDate>Thu, 19 Feb 2026 11:47:41 GMT</pubDate>
-    <description><![CDATA[Progreso, Mexico Arrival (UTC) Feb 18, 15:31 — ET: Feb 18, 10:31 AM EST | Local: Feb 18, 10:31 AM EST]]></description>
   </item>
 </channel>
 </rss>
