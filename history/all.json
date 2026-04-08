@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Adventure Departed from Singapore, Singapore at Apr 08, 08:30 PM EDT. The local time to the port is Apr 08, 08:30 PM EDT",
+    "description": "Singapore, Singapore Departure (UTC) Apr 09, 00:30 — ET: Apr 08, 08:30 PM EDT | Local: Apr 08, 08:30 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/SGSIN001",
+    "guid": "2f29d21049024f21cc1738043591746f8e485162",
+    "pubDate": "Wed, 08 Apr 2026 20:09:29 GMT",
+    "eventUtc": "2026-04-09T00:30:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_port"
+  },
+  {
+    "title": "Disney Adventure Arrived at Singapore, Singapore at Apr 08, 08:30 PM EDT. The local time to the port is Apr 08, 08:30 PM EDT",
+    "description": "Singapore, Singapore Arrival (UTC) Apr 09, 00:30 — ET: Apr 08, 08:30 PM EDT | Local: Apr 08, 08:30 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/SGSIN001",
+    "guid": "50e59020e8efda621c0e1112f75f5b0734285827",
+    "pubDate": "Wed, 08 Apr 2026 20:09:30 GMT",
+    "eventUtc": "2026-04-09T00:30:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_port"
+  },
+  {
     "title": "Disney Wish Arrived at Nassau, Bahamas at Apr 08, 08:48 AM EDT. The local time to the port is Apr 08, 08:48 AM EDT",
     "description": "Nassau, Bahamas Arrival (UTC) Apr 8, 12:48 — ET: Apr 08, 08:48 AM EDT | Local: Apr 08, 08:48 AM EDT",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-02-18T12:46:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Arrived at Nassau, Bahamas at Feb 18, 07:13 AM EST. The local time to the port is Feb 18, 07:13 AM EST",
-    "description": "Nassau, Bahamas Arrival (UTC) Feb 18, 12:13 — ET: Feb 18, 07:13 AM EST | Local: Feb 18, 07:13 AM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "a71c522a2f5409d492e655d075656e9ab9cef4b2",
-    "pubDate": "Wed, 18 Feb 2026 13:49:34 GMT",
-    "eventUtc": "2026-02-18T12:13:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Road Town, Tortola, British Virgin Islands at Feb 18, 06:39 AM EST. The local time to the port is Feb 18, 07:39 AM AST",
-    "description": "Road Town, Tortola, British Virgin Islands Arrival (UTC) Feb 18, 11:39 — ET: Feb 18, 06:39 AM EST | Local: Feb 18, 07:39 AM AST",
-    "link": "https://www.vesselfinder.com/ports/VGRAD001",
-    "guid": "492a59fd2b3e58f3e4ccb8596f70b88d089a81d1",
-    "pubDate": "Wed, 18 Feb 2026 13:49:19 GMT",
-    "eventUtc": "2026-02-18T11:39:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
