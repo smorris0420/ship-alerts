@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Adventure Departed from Singapore, Singapore at Apr 09, 05:55 AM EDT. The local time to the port is Apr 09, 05:55 AM EDT",
+    "description": "Singapore, Singapore Departure (UTC) Apr 9, 09:55 — ET: Apr 09, 05:55 AM EDT | Local: Apr 09, 05:55 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/SGSIN001",
+    "guid": "ab95bb66bc08474fd7c6ee9cc2ec431310c808d0",
+    "pubDate": "Thu, 09 Apr 2026 10:49:35 GMT",
+    "eventUtc": "2026-04-09T09:55:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Departed from Singapore, Singapore at Apr 08, 08:30 PM EDT. The local time to the port is Apr 08, 08:30 PM EDT",
     "description": "Singapore, Singapore Departure (UTC) Apr 09, 00:30 — ET: Apr 08, 08:30 PM EDT | Local: Apr 08, 08:30 PM EDT",
     "link": "https://www.vesselfinder.com/ports/SGSIN001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-02-19T00:58:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Departed from Nassau, Bahamas at Feb 18, 06:15 PM EST. The local time to the port is Feb 18, 06:15 PM EST",
-    "description": "Nassau, Bahamas Departure (UTC) Feb 18, 23:15 — ET: Feb 18, 06:15 PM EST | Local: Feb 18, 06:15 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "6ff079222332143a4e271141621b5c451bf53f35",
-    "pubDate": "Wed, 18 Feb 2026 23:49:37 GMT",
-    "eventUtc": "2026-02-18T23:15:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
     "source": "vf_ship"
   }
 ]
