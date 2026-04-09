@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Gorda Cay, Bahamas at Apr 09, 07:30 AM EDT. The local time to the port is Apr 09, 07:30 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Apr 9, 11:30 — ET: Apr 09, 07:30 AM EDT | Local: Apr 09, 07:30 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "a99dcb3d17c062addbc37ed055470e784dbcf860",
+    "pubDate": "Thu, 09 Apr 2026 12:49:17 GMT",
+    "eventUtc": "2026-04-09T11:30:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Departed from Singapore, Singapore at Apr 09, 05:55 AM EDT. The local time to the port is Apr 09, 05:55 AM EDT",
     "description": "Singapore, Singapore Departure (UTC) Apr 9, 09:55 — ET: Apr 09, 05:55 AM EDT | Local: Apr 09, 05:55 AM EDT",
     "link": "https://www.vesselfinder.com/ports/SGSIN001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-02-19T05:55:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Progreso, Mexico at Feb 18, 07:58 PM EST. The local time to the port is Feb 18, 07:58 PM EST",
-    "description": "Progreso, Mexico Departure (UTC) Feb 19, 00:58 — ET: Feb 18, 07:58 PM EST | Local: Feb 18, 07:58 PM EST",
-    "link": "https://www.vesselfinder.com/ports/MXPGO001",
-    "guid": "6a1d6af408d8cbb1f4882eb2c3869721fbc77278",
-    "pubDate": "Thu, 19 Feb 2026 11:47:42 GMT",
-    "eventUtc": "2026-02-19T00:58:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
