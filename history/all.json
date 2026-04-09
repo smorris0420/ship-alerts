@@ -286,6 +286,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Departed from Falmouth, Jamaica at Apr 08, 05:46 PM EDT. The local time to the port is Apr 08, 04:46 PM EST",
+    "description": "Falmouth, Jamaica Departure (UTC) Apr 8, 21:46 — ET: Apr 08, 05:46 PM EDT | Local: Apr 08, 04:46 PM EST",
+    "link": "https://www.vesselfinder.com/ports/JMFMH001",
+    "guid": "473021fac989cd1ce58f38f222d2fb48cec6530c",
+    "pubDate": "Thu, 09 Apr 2026 17:21:03 GMT",
+    "eventUtc": "2026-04-08T21:46:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Arrived at Singapore, Singapore at Apr 08, 05:24 PM EDT. The local time to the port is Apr 08, 05:24 PM EDT",
     "description": "Singapore, Singapore Arrival (UTC) Apr 8, 21:24 — ET: Apr 08, 05:24 PM EDT | Local: Apr 08, 05:24 PM EDT",
     "link": "https://www.vesselfinder.com/ports/SGSIN001",
@@ -316,6 +327,17 @@
     "eventUtc": "2026-04-08T12:48:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Treasure Arrived at Falmouth, Jamaica at Apr 08, 07:53 AM EDT. The local time to the port is Apr 08, 06:53 AM EST",
+    "description": "Falmouth, Jamaica Arrival (UTC) Apr 8, 11:53 — ET: Apr 08, 07:53 AM EDT | Local: Apr 08, 06:53 AM EST",
+    "link": "https://www.vesselfinder.com/ports/JMFMH001",
+    "guid": "00feeef77ca84479a6b47bf7e7f1a53ed0f0a33e",
+    "pubDate": "Thu, 09 Apr 2026 17:21:01 GMT",
+    "eventUtc": "2026-04-08T11:53:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
     "source": "vf_ship"
   },
   {
@@ -5473,28 +5495,6 @@
     "guid": "321fa080d0349da8670ec438c6c03fa358b7c463",
     "pubDate": "Thu, 19 Feb 2026 22:19:44 GMT",
     "eventUtc": "2026-02-19T22:03:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Departed from Port Everglades, United States (USA) at Feb 19, 04:48 PM EST. The local time to the port is Feb 19, 04:48 PM EST",
-    "description": "Port Everglades, United States (USA) Departure (UTC) Feb 19, 21:48 — ET: Feb 19, 04:48 PM EST | Local: Feb 19, 04:48 PM EST",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "42c0f54994d338b92cb5f7692e44ae42df2ce6ef",
-    "pubDate": "Thu, 19 Feb 2026 21:52:29 GMT",
-    "eventUtc": "2026-02-19T21:48:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Arrived at Gorda Cay, Bahamas at Feb 19, 07:38 AM EST. The local time to the port is Feb 19, 07:38 AM EST",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) Feb 19, 12:38 — ET: Feb 19, 07:38 AM EST | Local: Feb 19, 07:38 AM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "12f253943c7abd270a5e50281667cfd6d32be33d",
-    "pubDate": "Thu, 19 Feb 2026 13:53:21 GMT",
-    "eventUtc": "2026-02-19T12:38:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
     "source": "vf_ship"
