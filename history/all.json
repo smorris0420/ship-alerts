@@ -231,6 +231,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Dream Departed from Gorda Cay, Bahamas at Apr 09, 05:03 PM EDT. The local time to the port is Apr 09, 05:03 PM EDT",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Apr 9, 21:03 — ET: Apr 09, 05:03 PM EDT | Local: Apr 09, 05:03 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "668ba3b9cc8e578a89862bd14f3fd93951be55de",
+    "pubDate": "Thu, 09 Apr 2026 21:29:44 GMT",
+    "eventUtc": "2026-04-09T21:03:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Arrived at Ensenada, Mexico at Apr 09, 03:00 PM EDT. The local time to the port is Apr 09, 02:00 PM EST",
     "description": "Ensenada, Mexico Arrival (UTC) Apr 9, 19:00 — ET: Apr 09, 03:00 PM EDT | Local: Apr 09, 02:00 PM EST",
     "link": "https://www.vesselfinder.com/ports/MXESE001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-02-20T12:21:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Arrived at Cape Canaveral, United States (USA) at Feb 20, 05:46 AM EST. The local time to the port is Feb 20, 05:46 AM EST",
-    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Feb 20, 10:46 — ET: Feb 20, 05:46 AM EST | Local: Feb 20, 05:46 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "ce86473b6347ac7cd00cdf107835f88e2120746c",
-    "pubDate": "Fri, 20 Feb 2026 11:45:31 GMT",
-    "eventUtc": "2026-02-20T10:46:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
     "source": "vf_ship"
   }
 ]
