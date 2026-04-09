@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Fantasy Arrived at Nassau, Bahamas at Apr 09, 09:08 AM EDT. The local time to the port is Apr 09, 09:08 AM EDT",
+    "description": "Nassau, Bahamas Arrival (UTC) Apr 9, 13:08 — ET: Apr 09, 09:08 AM EDT | Local: Apr 09, 09:08 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "8c475d6a5cf10a7a9a5ff97098ff9f0d29db0986",
+    "pubDate": "Thu, 09 Apr 2026 14:32:44 GMT",
+    "eventUtc": "2026-04-09T13:08:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Arrived at Gorda Cay, Bahamas at Apr 09, 07:30 AM EDT. The local time to the port is Apr 09, 07:30 AM EDT",
     "description": "Gorda Cay, Bahamas Arrival (UTC) Apr 9, 11:30 — ET: Apr 09, 07:30 AM EDT | Local: Apr 09, 07:30 AM EDT",
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-02-19T12:38:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Arrived at Port Everglades, United States (USA) at Feb 19, 12:55 AM EST. The local time to the port is Feb 19, 12:55 AM EST",
-    "description": "Port Everglades, United States (USA) Arrival (UTC) Feb 19, 05:55 — ET: Feb 19, 12:55 AM EST | Local: Feb 19, 12:55 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "ee2928e3d8ed93ad12d46f70f9202990866f96d6",
-    "pubDate": "Thu, 19 Feb 2026 07:34:41 GMT",
-    "eventUtc": "2026-02-19T05:55:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
     "source": "vf_ship"
   }
 ]
