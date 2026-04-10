@@ -231,6 +231,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Wonder Arrived at San Diego, United States (USA) at Apr 10, 09:49 AM EDT. The local time to the port is Apr 10, 09:49 AM EDT",
+    "description": "San Diego, United States (USA) Arrival (UTC) Apr 10, 13:49 — ET: Apr 10, 09:49 AM EDT | Local: Apr 10, 09:49 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USSAN001",
+    "guid": "91e9c104cf5ff1a0d29426682414846c34d4a345",
+    "pubDate": "Fri, 10 Apr 2026 14:42:50 GMT",
+    "eventUtc": "2026-04-10T13:49:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Arrived at Gorda Cay, Bahamas at Apr 10, 08:07 AM EDT. The local time to the port is Apr 10, 08:07 AM EDT",
     "description": "Gorda Cay, Bahamas Arrival (UTC) Apr 10, 12:07 — ET: Apr 10, 08:07 AM EDT | Local: Apr 10, 08:07 AM EDT",
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-02-20T22:15:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Departed from Cape Canaveral, United States (USA) at Feb 20, 05:12 PM EST. The local time to the port is Feb 20, 05:12 PM EST",
-    "description": "Cape Canaveral, United States (USA) Departure (UTC) Feb 20, 22:12 — ET: Feb 20, 05:12 PM EST | Local: Feb 20, 05:12 PM EST",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "d56cbdd9cdd68faead8e2564b18f5d61a72a899d",
-    "pubDate": "Fri, 20 Feb 2026 22:40:33 GMT",
-    "eventUtc": "2026-02-20T22:12:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
     "source": "vf_ship"
   }
 ]
