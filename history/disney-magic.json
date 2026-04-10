@@ -33,6 +33,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Arrived at Cartagena, Colombia at Apr 10, 09:10 AM EDT. The local time to the port is Apr 10, 08:10 AM -05",
+    "description": "Cartagena, Colombia Arrival (UTC) Apr 10, 13:10 — ET: Apr 10, 09:10 AM EDT | Local: Apr 10, 08:10 AM -05",
+    "link": "https://www.vesselfinder.com/ports/COCTG001",
+    "guid": "aaa2d1ce3432d1b3cbfa145ea29223d43487d927",
+    "pubDate": "Fri, 10 Apr 2026 15:36:00 GMT",
+    "eventUtc": "2026-04-10T13:10:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Departed from Cozumel, Mexico at Apr 07, 07:13 PM EDT. The local time to the port is Apr 07, 06:13 PM EST",
     "description": "Cozumel, Mexico Departure (UTC) Apr 7, 23:13 — ET: Apr 07, 07:13 PM EDT | Local: Apr 07, 06:13 PM EST",
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
