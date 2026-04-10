@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Cartagena, Colombia at Apr 10, 03:44 PM EDT. The local time to the port is Apr 10, 02:44 PM -05",
+    "description": "Cartagena, Colombia Departure (UTC) Apr 10, 19:44 — ET: Apr 10, 03:44 PM EDT | Local: Apr 10, 02:44 PM -05",
+    "link": "https://www.vesselfinder.com/ports/COCTG001",
+    "guid": "217a2de6e4e48bd7b44dc67e2f5cf4c12107a780",
+    "pubDate": "Fri, 10 Apr 2026 19:57:32 GMT",
+    "eventUtc": "2026-04-10T19:44:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Departed from Nassau, Bahamas at Apr 10, 10:45 AM EDT. The local time to the port is Apr 10, 10:45 AM EDT",
     "description": "Nassau, Bahamas Departure (UTC) Apr 10, 14:45 — ET: Apr 10, 10:45 AM EDT | Local: Apr 10, 10:45 AM EDT",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-02-21T00:10:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Galveston, United States (USA) at Feb 20, 05:39 PM EST. The local time to the port is Feb 20, 05:39 PM EST",
-    "description": "Galveston, United States (USA) Departure (UTC) Feb 20, 22:39 — ET: Feb 20, 05:39 PM EST | Local: Feb 20, 05:39 PM EST",
-    "link": "https://www.vesselfinder.com/ports/USGLS001",
-    "guid": "431716fbe2a7b6af2b44ced065f5dfca927f4782",
-    "pubDate": "Fri, 20 Feb 2026 23:04:39 GMT",
-    "eventUtc": "2026-02-20T22:39:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
