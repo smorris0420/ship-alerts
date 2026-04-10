@@ -231,6 +231,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Wonder Departed from Ensenada, Mexico at Apr 09, 08:12 PM EDT. The local time to the port is Apr 09, 07:12 PM EST",
+    "description": "Ensenada, Mexico Departure (UTC) Apr 10, 00:12 — ET: Apr 09, 08:12 PM EDT | Local: Apr 09, 07:12 PM EST",
+    "link": "https://www.vesselfinder.com/ports/MXESE001",
+    "guid": "f9a794f5441d021875aef05666b449e23cc7421c",
+    "pubDate": "Fri, 10 Apr 2026 01:09:04 GMT",
+    "eventUtc": "2026-04-10T00:12:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Departed from Nassau, Bahamas at Apr 09, 06:27 PM EDT. The local time to the port is Apr 09, 06:27 PM EDT",
     "description": "Nassau, Bahamas Departure (UTC) Apr 9, 22:27 — ET: Apr 09, 06:27 PM EDT | Local: Apr 09, 06:27 PM EDT",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-02-20T17:45:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Gorda Cay, Bahamas at Feb 20, 09:46 AM EST. The local time to the port is Feb 20, 09:46 AM EST",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) Feb 20, 14:46 — ET: Feb 20, 09:46 AM EST | Local: Feb 20, 09:46 AM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "77b07d12f75177eac489c94bf830831fc3f7925b",
-    "pubDate": "Fri, 20 Feb 2026 15:49:23 GMT",
-    "eventUtc": "2026-02-20T14:46:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
