@@ -231,6 +231,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Dream Departed from Nassau, Bahamas at Apr 12, 06:28 PM EDT. The local time to the port is Apr 12, 06:28 PM EDT",
+    "description": "Nassau, Bahamas Departure (UTC) Apr 12, 22:28 — ET: Apr 12, 06:28 PM EDT | Local: Apr 12, 06:28 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "981f75f6b5fb1fe5411df4871586842bfa679c42",
+    "pubDate": "Sun, 12 Apr 2026 23:00:13 GMT",
+    "eventUtc": "2026-04-12T22:28:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Arrived at Singapore, Singapore at Apr 12, 05:18 PM EDT. The local time to the port is Apr 12, 05:18 PM EDT",
     "description": "Singapore, Singapore Arrival (UTC) Apr 12, 21:18 — ET: Apr 12, 05:18 PM EDT | Local: Apr 12, 05:18 PM EDT",
     "link": "https://www.vesselfinder.com/ports/SGSIN001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-02-23T10:43:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Arrived at Port Everglades, United States (USA) at Feb 23, 05:12 AM EST. The local time to the port is Feb 23, 05:12 AM EST",
-    "description": "Port Everglades, United States (USA) Arrival (UTC) Feb 23, 10:12 — ET: Feb 23, 05:12 AM EST | Local: Feb 23, 05:12 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "1c1e5befe85003f7b862c8f76f59f77ae7dac46d",
-    "pubDate": "Mon, 23 Feb 2026 11:27:11 GMT",
-    "eventUtc": "2026-02-23T10:12:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
     "source": "vf_ship"
   }
 ]
