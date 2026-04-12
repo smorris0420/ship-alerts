@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Arrived at Gorda Cay, Bahamas at Apr 12, 07:56 AM EDT. The local time to the port is Apr 12, 07:56 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Apr 12, 11:56 — ET: Apr 12, 07:56 AM EDT | Local: Apr 12, 07:56 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "c317729427e90b07d4f81413d4a1fe0c422286fa",
+    "pubDate": "Sun, 12 Apr 2026 12:54:34 GMT",
+    "eventUtc": "2026-04-12T11:56:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Departed from Nassau, Bahamas at Apr 11, 06:35 PM EDT. The local time to the port is Apr 11, 06:35 PM EDT",
     "description": "Nassau, Bahamas Departure (UTC) Apr 11, 22:35 — ET: Apr 11, 06:35 PM EDT | Local: Apr 11, 06:35 PM EDT",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -2734,17 +2745,6 @@
     "guid": "ef72cd2d436ca3de08bf5abd0edc3245fef6dadd",
     "pubDate": "Mon, 10 Nov 2025 22:41:05 GMT",
     "eventUtc": "2025-11-10T21:57:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Arrived at Cape Canaveral, United States (USA) at Nov 10, 06:20 AM EST. The local time to the port is Nov 10, 06:20 AM EST",
-    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Nov 10, 11:20 — ET: Nov 10, 06:20 AM EST | Local: Nov 10, 06:20 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "4c6c59a757b0ab5a2b01d89b97f44a212ab972c9",
-    "pubDate": "Mon, 10 Nov 2025 12:43:14 GMT",
-    "eventUtc": "2025-11-10T11:20:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
     "source": "vf_ship"
