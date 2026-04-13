@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Departed from Cozumel, Mexico at Apr 13, 06:12 PM EDT. The local time to the port is Apr 13, 05:12 PM EST",
+    "description": "Cozumel, Mexico Departure (UTC) Apr 13, 22:12 — ET: Apr 13, 06:12 PM EDT | Local: Apr 13, 05:12 PM EST",
+    "link": "https://www.vesselfinder.com/ports/MXCZM001",
+    "guid": "bf871e892ace9a90a3f8b620d097483c933e0540",
+    "pubDate": "Mon, 13 Apr 2026 22:29:05 GMT",
+    "eventUtc": "2026-04-13T22:12:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Departed from Gorda Cay, Bahamas at Apr 13, 05:07 PM EDT. The local time to the port is Apr 13, 05:07 PM EDT",
     "description": "Gorda Cay, Bahamas Departure (UTC) Apr 13, 21:07 — ET: Apr 13, 05:07 PM EDT | Local: Apr 13, 05:07 PM EDT",
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-02-24T16:11:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Adventure Departed from Tokyo, Japan at Feb 24, 08:55 AM EST. The local time to the port is Feb 24, 08:55 AM EST",
-    "description": "Tokyo, Japan Departure (UTC) Feb 24, 13:55 — ET: Feb 24, 08:55 AM EST | Local: Feb 24, 08:55 AM EST",
-    "link": "https://www.vesselfinder.com/ports/JPTYO001",
-    "guid": "4337e5832e8215c8510666996870552d6d836410",
-    "pubDate": "Tue, 24 Feb 2026 14:41:17 GMT",
-    "eventUtc": "2026-02-24T13:55:00+00:00",
-    "shipSlug": "disney-adventure",
-    "shipName": "Disney Adventure",
     "source": "vf_ship"
   }
 ]
