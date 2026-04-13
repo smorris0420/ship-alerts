@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Mon, 13 Apr 2026 01:14:53 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 13 Apr 2026 04:34:41 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -167,6 +167,13 @@
     <guid isPermaLink="false">8da37cd7895f06d161a08f8659a07d406325bac6</guid>
     <pubDate>Sun, 12 Apr 2026 22:21:06 GMT</pubDate>
     <description><![CDATA[Singapore, Singapore Arrival (UTC) Apr 12, 21:18 — ET: Apr 12, 05:18 PM EDT | Local: Apr 12, 05:18 PM EDT]]></description>
+  </item>
+  <item>
+    <title>Disney Wonder Arrived at Ensenada, Mexico at Apr 12, 05:13 PM EDT. The local time to the port is Apr 12, 04:13 PM EST</title>
+    <link>https://www.vesselfinder.com/ports/MXESE001</link>
+    <guid isPermaLink="false">6173ca8986d418b5af2f250b39851ac560e3db88</guid>
+    <pubDate>Mon, 13 Apr 2026 04:33:28 GMT</pubDate>
+    <description><![CDATA[Ensenada, Mexico Arrival (UTC) Apr 12, 21:13 — ET: Apr 12, 05:13 PM EDT | Local: Apr 12, 04:13 PM EST]]></description>
   </item>
   <item>
     <title>Disney Wish Departed from Gorda Cay, Bahamas at Apr 12, 05:01 PM EDT. The local time to the port is Apr 12, 05:01 PM EDT</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">d4d5ae72b8aee4ec099b599c87492c39c424f20a</guid>
     <pubDate>Mon, 23 Feb 2026 13:26:31 GMT</pubDate>
     <description><![CDATA[Cozumel, Mexico Arrival (UTC) Feb 23, 12:34 — ET: Feb 23, 07:34 AM EST | Local: Feb 23, 07:34 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Wish Arrived at Cape Canaveral, United States (USA) at Feb 23, 05:43 AM EST. The local time to the port is Feb 23, 05:43 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/USPCV001</link>
-    <guid isPermaLink="false">324f4a6e2e51737c1bc1ef7fec4e47b1fcbc81c3</guid>
-    <pubDate>Mon, 23 Feb 2026 11:24:50 GMT</pubDate>
-    <description><![CDATA[Cape Canaveral, United States (USA) Arrival (UTC) Feb 23, 10:43 — ET: Feb 23, 05:43 AM EST | Local: Feb 23, 05:43 AM EST]]></description>
   </item>
 </channel>
 </rss>
