@@ -209,6 +209,39 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Fantasy Departed from Gorda Cay, Bahamas at Apr 13, 05:07 PM EDT. The local time to the port is Apr 13, 05:07 PM EDT",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Apr 13, 21:07 — ET: Apr 13, 05:07 PM EDT | Local: Apr 13, 05:07 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "dd572e27f025e639555d9daeb19006fd7372a0c7",
+    "pubDate": "Mon, 13 Apr 2026 21:31:22 GMT",
+    "eventUtc": "2026-04-13T21:07:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Wish Departed from Cape Canaveral, United States (USA) at Apr 13, 04:50 PM EDT. The local time to the port is Apr 13, 04:50 PM EDT",
+    "description": "Cape Canaveral, United States (USA) Departure (UTC) Apr 13, 20:50 — ET: Apr 13, 04:50 PM EDT | Local: Apr 13, 04:50 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "5fe298d42acc3d7a424cc00f3981af862b619175",
+    "pubDate": "Mon, 13 Apr 2026 21:30:38 GMT",
+    "eventUtc": "2026-04-13T20:50:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Dream Departed from Port Everglades, United States (USA) at Apr 13, 04:49 PM EDT. The local time to the port is Apr 13, 04:49 PM EDT",
+    "description": "Port Everglades, United States (USA) Departure (UTC) Apr 13, 20:49 — ET: Apr 13, 04:49 PM EDT | Local: Apr 13, 04:49 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPEF001",
+    "guid": "b98ebedfbd5cf1dcd72b948857958299ed59814b",
+    "pubDate": "Mon, 13 Apr 2026 21:32:06 GMT",
+    "eventUtc": "2026-04-13T20:49:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Departed from Singapore, Singapore at Apr 13, 10:16 AM EDT. The local time to the port is Apr 13, 10:16 AM EDT",
     "description": "Singapore, Singapore Departure (UTC) Apr 13, 14:16 — ET: Apr 13, 10:16 AM EDT | Local: Apr 13, 10:16 AM EDT",
     "link": "https://www.vesselfinder.com/ports/SGSIN001",
@@ -5462,39 +5495,6 @@
     "guid": "4337e5832e8215c8510666996870552d6d836410",
     "pubDate": "Tue, 24 Feb 2026 14:41:17 GMT",
     "eventUtc": "2026-02-24T13:55:00+00:00",
-    "shipSlug": "disney-adventure",
-    "shipName": "Disney Adventure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Arrived at Cape Canaveral, United States (USA) at Feb 24, 08:53 AM EST. The local time to the port is Feb 24, 08:53 AM EST",
-    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Feb 24, 13:53 — ET: Feb 24, 08:53 AM EST | Local: Feb 24, 08:53 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "7568d1b54c214aec224c6b22ad06687d962b4fd3",
-    "pubDate": "Tue, 24 Feb 2026 14:38:03 GMT",
-    "eventUtc": "2026-02-24T13:53:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Arrived at Nassau, Bahamas at Feb 24, 07:29 AM EST. The local time to the port is Feb 24, 07:29 AM EST",
-    "description": "Nassau, Bahamas Arrival (UTC) Feb 24, 12:29 — ET: Feb 24, 07:29 AM EST | Local: Feb 24, 07:29 AM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "99345e8174a1b6f6d729446d2f7def2dfa64f91a",
-    "pubDate": "Tue, 24 Feb 2026 13:51:23 GMT",
-    "eventUtc": "2026-02-24T12:29:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Adventure Arrived at Tokyo, Japan at Feb 23, 05:39 PM EST. The local time to the port is Feb 23, 05:39 PM EST",
-    "description": "Tokyo, Japan Arrival (UTC) Feb 23, 22:39 — ET: Feb 23, 05:39 PM EST | Local: Feb 23, 05:39 PM EST",
-    "link": "https://www.vesselfinder.com/ports/JPTYO001",
-    "guid": "6cdd0596afeec1859a05afc1f26f8e2924077b4c",
-    "pubDate": "Tue, 24 Feb 2026 00:03:26 GMT",
-    "eventUtc": "2026-02-23T22:39:00+00:00",
     "shipSlug": "disney-adventure",
     "shipName": "Disney Adventure",
     "source": "vf_ship"
