@@ -220,6 +220,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Arrived at San Diego, United States (USA) at Apr 13, 09:51 AM EDT. The local time to the port is Apr 13, 09:51 AM EDT",
+    "description": "San Diego, United States (USA) Arrival (UTC) Apr 13, 13:51 — ET: Apr 13, 09:51 AM EDT | Local: Apr 13, 09:51 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USSAN001",
+    "guid": "6989535150161d893675bfded18c471997904747",
+    "pubDate": "Mon, 13 Apr 2026 15:59:23 GMT",
+    "eventUtc": "2026-04-13T13:51:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Arrived at Cozumel, Mexico at Apr 13, 08:05 AM EDT. The local time to the port is Apr 13, 07:05 AM EST",
     "description": "Cozumel, Mexico Arrival (UTC) Apr 13, 12:05 — ET: Apr 13, 08:05 AM EDT | Local: Apr 13, 07:05 AM EST",
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-02-23T22:39:00+00:00",
     "shipSlug": "disney-adventure",
     "shipName": "Disney Adventure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Cozumel, Mexico at Feb 23, 05:33 PM EST. The local time to the port is Feb 23, 05:33 PM EST",
-    "description": "Cozumel, Mexico Departure (UTC) Feb 23, 22:33 — ET: Feb 23, 05:33 PM EST | Local: Feb 23, 05:33 PM EST",
-    "link": "https://www.vesselfinder.com/ports/MXCZM001",
-    "guid": "5394fe832ddb8bc82270a5258b19966de2be6d5c",
-    "pubDate": "Mon, 23 Feb 2026 23:08:01 GMT",
-    "eventUtc": "2026-02-23T22:33:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
