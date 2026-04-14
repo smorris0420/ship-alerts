@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Tue, 14 Apr 2026 11:38:04 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 14 Apr 2026 12:45:43 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,20 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Dream Arrived at Nassau, Bahamas at Apr 14, 07:32 AM EDT. The local time to the port is Apr 14, 07:32 AM EDT</title>
+    <link>https://www.vesselfinder.com/ports/BSNAS001</link>
+    <guid isPermaLink="false">6df611f198c3679a64942f7923b734ee43a6a0fa</guid>
+    <pubDate>Tue, 14 Apr 2026 12:43:57 GMT</pubDate>
+    <description><![CDATA[Nassau, Bahamas Arrival (UTC) Apr 14, 11:32 — ET: Apr 14, 07:32 AM EDT | Local: Apr 14, 07:32 AM EDT]]></description>
+  </item>
+  <item>
+    <title>Disney Wish Arrived at Gorda Cay, Bahamas at Apr 14, 07:31 AM EDT. The local time to the port is Apr 14, 07:31 AM EDT</title>
+    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
+    <guid isPermaLink="false">ce88158d127534226063ead3f00ba651bcb7e11c</guid>
+    <pubDate>Tue, 14 Apr 2026 12:42:01 GMT</pubDate>
+    <description><![CDATA[Gorda Cay, Bahamas Arrival (UTC) Apr 14, 11:31 — ET: Apr 14, 07:31 AM EDT | Local: Apr 14, 07:31 AM EDT]]></description>
   </item>
   <item>
     <title>Disney Wonder Departed from San Diego, United States (USA) at Apr 13, 08:31 PM EDT. The local time to the port is Apr 13, 08:31 PM EDT</title>
@@ -3492,20 +3506,6 @@
     <guid isPermaLink="false">657a98448d07059dfd76d9cd036239ab0812190a</guid>
     <pubDate>Tue, 24 Feb 2026 22:46:59 GMT</pubDate>
     <description><![CDATA[Nassau, Bahamas Arrival (UTC) Feb 24, 21:34 — ET: Feb 24, 04:34 PM EST | Local: Feb 24, 04:34 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Wish Departed from Nassau, Bahamas at Feb 24, 04:08 PM EST. The local time to the port is Feb 24, 04:08 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/BSNAS001</link>
-    <guid isPermaLink="false">e1b4f7df585091301ac72f36a81dc00a96ee9926</guid>
-    <pubDate>Tue, 24 Feb 2026 21:33:46 GMT</pubDate>
-    <description><![CDATA[Nassau, Bahamas Departure (UTC) Feb 24, 21:08 — ET: Feb 24, 04:08 PM EST | Local: Feb 24, 04:08 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Wish Arrived at Nassau, Bahamas at Feb 24, 11:28 AM EST. The local time to the port is Feb 24, 11:28 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/BSNAS001</link>
-    <guid isPermaLink="false">e840bac691f365758fb57f8302a8d4ae66296768</guid>
-    <pubDate>Tue, 24 Feb 2026 17:44:25 GMT</pubDate>
-    <description><![CDATA[Nassau, Bahamas Arrival (UTC) Feb 24, 16:28 — ET: Feb 24, 11:28 AM EST | Local: Feb 24, 11:28 AM EST]]></description>
   </item>
 </channel>
 </rss>
