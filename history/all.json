@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Nassau, Bahamas at Apr 14, 05:55 PM EDT. The local time to the port is Apr 14, 05:55 PM EDT",
+    "description": "Nassau, Bahamas Departure (UTC) Apr 14, 21:55 — ET: Apr 14, 05:55 PM EDT | Local: Apr 14, 05:55 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "e12f7f306ef1eef34af71643463b74a55894b80b",
+    "pubDate": "Tue, 14 Apr 2026 22:25:54 GMT",
+    "eventUtc": "2026-04-14T21:55:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Treasure Departed from Road Town, Tortola, British Virgin Islands at Apr 14, 05:52 PM EDT. The local time to the port is Apr 14, 05:52 PM AST",
+    "description": "Road Town, Tortola, British Virgin Islands Departure (UTC) Apr 14, 21:52 — ET: Apr 14, 05:52 PM EDT | Local: Apr 14, 05:52 PM AST",
+    "link": "https://www.vesselfinder.com/ports/VGRAD001",
+    "guid": "ac79c5512cba2a389a8d450ff3ad2181de7bca59",
+    "pubDate": "Tue, 14 Apr 2026 22:24:46 GMT",
+    "eventUtc": "2026-04-14T21:52:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Departed from Gorda Cay, Bahamas at Apr 14, 05:03 PM EDT. The local time to the port is Apr 14, 05:03 PM EDT",
     "description": "Gorda Cay, Bahamas Departure (UTC) Apr 14, 21:03 — ET: Apr 14, 05:03 PM EDT | Local: Apr 14, 05:03 PM EDT",
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-02-25T13:42:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Arrived at Gorda Cay, Bahamas at Feb 25, 07:41 AM EST. The local time to the port is Feb 25, 07:41 AM EST",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) Feb 25, 12:41 — ET: Feb 25, 07:41 AM EST | Local: Feb 25, 07:41 AM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "ad771847db9e95a39c1036c8ec3233ff2d554948",
-    "pubDate": "Thu, 26 Feb 2026 15:39:13 GMT",
-    "eventUtc": "2026-02-25T12:41:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Arrived at Nassau, Bahamas at Feb 25, 07:16 AM EST. The local time to the port is Feb 25, 07:16 AM EST",
-    "description": "Nassau, Bahamas Arrival (UTC) Feb 25, 12:16 — ET: Feb 25, 07:16 AM EST | Local: Feb 25, 07:16 AM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "251309df3927c8ded1a515cfc34898c2a7af6296",
-    "pubDate": "Wed, 25 Feb 2026 13:30:47 GMT",
-    "eventUtc": "2026-02-25T12:16:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
     "source": "vf_ship"
   }
 ]
