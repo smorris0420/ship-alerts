@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Departed from San Diego, United States (USA) at Apr 13, 08:31 PM EDT. The local time to the port is Apr 13, 08:31 PM EDT",
+    "description": "San Diego, United States (USA) Departure (UTC) Apr 14, 00:31 — ET: Apr 13, 08:31 PM EDT | Local: Apr 13, 08:31 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USSAN001",
+    "guid": "5d3cf91f5a7afbaaf98b8553f47d7f02ec702774",
+    "pubDate": "Tue, 14 Apr 2026 03:37:39 GMT",
+    "eventUtc": "2026-04-14T00:31:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Departed from Cozumel, Mexico at Apr 13, 06:12 PM EDT. The local time to the port is Apr 13, 05:12 PM EST",
     "description": "Cozumel, Mexico Departure (UTC) Apr 13, 22:12 — ET: Apr 13, 06:12 PM EDT | Local: Apr 13, 05:12 PM EST",
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
@@ -5484,17 +5495,6 @@
     "guid": "e840bac691f365758fb57f8302a8d4ae66296768",
     "pubDate": "Tue, 24 Feb 2026 17:44:25 GMT",
     "eventUtc": "2026-02-24T16:28:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Departed from Cape Canaveral, United States (USA) at Feb 24, 11:11 AM EST. The local time to the port is Feb 24, 11:11 AM EST",
-    "description": "Cape Canaveral, United States (USA) Departure (UTC) Feb 24, 16:11 — ET: Feb 24, 11:11 AM EST | Local: Feb 24, 11:11 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "b3a0ba94e833e26bf099436c625c83841f52ba8e",
-    "pubDate": "Tue, 24 Feb 2026 16:44:03 GMT",
-    "eventUtc": "2026-02-24T16:11:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
     "source": "vf_ship"
