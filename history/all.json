@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Adventure Departed from Singapore, Singapore at Apr 15, 08:30 PM EDT. The local time to the port is Apr 15, 08:30 PM EDT",
+    "description": "Singapore, Singapore Departure (UTC) Apr 16, 00:30 — ET: Apr 15, 08:30 PM EDT | Local: Apr 15, 08:30 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/SGSIN001",
+    "guid": "3bcad56eb63a4bc96cc5ceace396d7ae29f1703c",
+    "pubDate": "Wed, 15 Apr 2026 20:07:02 GMT",
+    "eventUtc": "2026-04-16T00:30:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_port"
+  },
+  {
+    "title": "Disney Adventure Arrived at Singapore, Singapore at Apr 15, 08:30 PM EDT. The local time to the port is Apr 15, 08:30 PM EDT",
+    "description": "Singapore, Singapore Arrival (UTC) Apr 16, 00:30 — ET: Apr 15, 08:30 PM EDT | Local: Apr 15, 08:30 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/SGSIN001",
+    "guid": "1c536b55e56c1eb112287982cc0bf22d80c60762",
+    "pubDate": "Wed, 15 Apr 2026 20:07:04 GMT",
+    "eventUtc": "2026-04-16T00:30:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_port"
+  },
+  {
     "title": "Disney Wonder Arrived at Ensenada, Mexico at Apr 15, 10:37 AM EDT. The local time to the port is Apr 15, 09:37 AM EST",
     "description": "Ensenada, Mexico Arrival (UTC) Apr 15, 14:37 — ET: Apr 15, 10:37 AM EDT | Local: Apr 15, 09:37 AM EST",
     "link": "https://www.vesselfinder.com/ports/MXESE001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-02-25T21:59:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Falmouth, Jamaica at Feb 25, 04:56 PM EST. The local time to the port is Feb 25, 04:56 PM EST",
-    "description": "Falmouth, Jamaica Departure (UTC) Feb 25, 21:56 — ET: Feb 25, 04:56 PM EST | Local: Feb 25, 04:56 PM EST",
-    "link": "https://www.vesselfinder.com/ports/JMFMH001",
-    "guid": "0ab19a42b864071f39ce6386ed5450d9fd38e8db",
-    "pubDate": "Fri, 27 Feb 2026 06:33:02 GMT",
-    "eventUtc": "2026-02-25T21:56:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Departed from Cape Canaveral, United States (USA) at Feb 25, 04:35 PM EST. The local time to the port is Feb 25, 04:35 PM EST",
-    "description": "Cape Canaveral, United States (USA) Departure (UTC) Feb 25, 21:35 — ET: Feb 25, 04:35 PM EST | Local: Feb 25, 04:35 PM EST",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "727579bea3b1fc49f430849e7fd670044d8a9bcc",
-    "pubDate": "Wed, 25 Feb 2026 21:43:48 GMT",
-    "eventUtc": "2026-02-25T21:35:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
     "source": "vf_ship"
   }
 ]
