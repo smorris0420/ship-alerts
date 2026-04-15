@@ -209,6 +209,39 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Arrived at Gorda Cay, Bahamas at Apr 15, 07:44 AM EDT. The local time to the port is Apr 15, 07:44 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Apr 15, 11:44 — ET: Apr 15, 07:44 AM EDT | Local: Apr 15, 07:44 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "e9a002d4b6d6b50b56ed3d98d21dd7d1c68c6e52",
+    "pubDate": "Wed, 15 Apr 2026 12:44:19 GMT",
+    "eventUtc": "2026-04-15T11:44:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Treasure Arrived at Saint Thomas, US Virgin Islands at Apr 15, 07:26 AM EDT. The local time to the port is Apr 15, 07:26 AM EDT",
+    "description": "Saint Thomas, US Virgin Islands Arrival (UTC) Apr 15, 11:26 — ET: Apr 15, 07:26 AM EDT | Local: Apr 15, 07:26 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/VISTT001",
+    "guid": "9c3cef558d72439e358db39565600ab31b11c3f2",
+    "pubDate": "Wed, 15 Apr 2026 12:41:51 GMT",
+    "eventUtc": "2026-04-15T11:26:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Fantasy Arrived at Nassau, Bahamas at Apr 15, 07:22 AM EDT. The local time to the port is Apr 15, 07:22 AM EDT",
+    "description": "Nassau, Bahamas Arrival (UTC) Apr 15, 11:22 — ET: Apr 15, 07:22 AM EDT | Local: Apr 15, 07:22 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "d4903066d121c3277794f9d044a52ee9d7161bc8",
+    "pubDate": "Wed, 15 Apr 2026 12:42:00 GMT",
+    "eventUtc": "2026-04-15T11:22:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Nassau, Bahamas at Apr 14, 05:55 PM EDT. The local time to the port is Apr 14, 05:55 PM EDT",
     "description": "Nassau, Bahamas Departure (UTC) Apr 14, 21:55 — ET: Apr 14, 05:55 PM EDT | Local: Apr 14, 05:55 PM EDT",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -5464,39 +5497,6 @@
     "eventUtc": "2026-02-25T21:02:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Departed from Cape Canaveral, United States (USA) at Feb 25, 09:45 AM EST. The local time to the port is Feb 25, 09:45 AM EST",
-    "description": "Cape Canaveral, United States (USA) Departure (UTC) Feb 25, 14:45 — ET: Feb 25, 09:45 AM EST | Local: Feb 25, 09:45 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "a32ccdeca8811d8d532071c7c723557eaf79565b",
-    "pubDate": "Tue, 24 Feb 2026 16:45:12 GMT",
-    "eventUtc": "2026-02-25T14:45:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
-    "source": "vf_port"
-  },
-  {
-    "title": "Disney Fantasy Arrived at Cape Canaveral, United States (USA) at Feb 25, 09:45 AM EST. The local time to the port is Feb 25, 09:45 AM EST",
-    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Feb 25, 14:45 — ET: Feb 25, 09:45 AM EST | Local: Feb 25, 09:45 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "ef9587f2ae66033a714d90555579deff27b241fb",
-    "pubDate": "Tue, 24 Feb 2026 16:45:13 GMT",
-    "eventUtc": "2026-02-25T14:45:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
-    "source": "vf_port"
-  },
-  {
-    "title": "Disney Magic Arrived at Galveston, United States (USA) at Feb 25, 08:42 AM EST. The local time to the port is Feb 25, 08:42 AM EST",
-    "description": "Galveston, United States (USA) Arrival (UTC) Feb 25, 13:42 — ET: Feb 25, 08:42 AM EST | Local: Feb 25, 08:42 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USGLS001",
-    "guid": "70e54c988203f490da97baf06f3bd50f6d8fd3fe",
-    "pubDate": "Wed, 25 Feb 2026 14:34:29 GMT",
-    "eventUtc": "2026-02-25T13:42:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
