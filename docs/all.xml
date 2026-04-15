@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Wed, 15 Apr 2026 14:22:48 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 15 Apr 2026 15:45:56 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,13 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Wonder Arrived at Ensenada, Mexico at Apr 15, 10:37 AM EDT. The local time to the port is Apr 15, 09:37 AM EST</title>
+    <link>https://www.vesselfinder.com/ports/MXESE001</link>
+    <guid isPermaLink="false">55219b9a39122a59c0009aff141759be0fef689c</guid>
+    <pubDate>Wed, 15 Apr 2026 15:44:51 GMT</pubDate>
+    <description><![CDATA[Ensenada, Mexico Arrival (UTC) Apr 15, 14:37 — ET: Apr 15, 10:37 AM EDT | Local: Apr 15, 09:37 AM EST]]></description>
   </item>
   <item>
     <title>Disney Destiny Arrived at Gorda Cay, Bahamas at Apr 15, 07:44 AM EDT. The local time to the port is Apr 15, 07:44 AM EDT</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">727579bea3b1fc49f430849e7fd670044d8a9bcc</guid>
     <pubDate>Wed, 25 Feb 2026 21:43:48 GMT</pubDate>
     <description><![CDATA[Cape Canaveral, United States (USA) Departure (UTC) Feb 25, 21:35 — ET: Feb 25, 04:35 PM EST | Local: Feb 25, 04:35 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Treasure Arrived at Falmouth, Jamaica at Feb 25, 04:02 PM EST. The local time to the port is Feb 25, 04:02 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/JMFMH001</link>
-    <guid isPermaLink="false">20bdbc1fcd87616f255d05940d43043371fba96f</guid>
-    <pubDate>Fri, 27 Feb 2026 06:33:01 GMT</pubDate>
-    <description><![CDATA[Falmouth, Jamaica Arrival (UTC) Feb 25, 21:02 — ET: Feb 25, 04:02 PM EST | Local: Feb 25, 04:02 PM EST]]></description>
   </item>
 </channel>
 </rss>
