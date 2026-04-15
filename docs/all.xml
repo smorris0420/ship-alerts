@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Wed, 15 Apr 2026 21:07:28 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 15 Apr 2026 22:05:24 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -153,6 +153,20 @@
     <guid isPermaLink="false">1c536b55e56c1eb112287982cc0bf22d80c60762</guid>
     <pubDate>Wed, 15 Apr 2026 20:07:04 GMT</pubDate>
     <description><![CDATA[Singapore, Singapore Arrival (UTC) Apr 16, 00:30 — ET: Apr 15, 08:30 PM EDT | Local: Apr 15, 08:30 PM EDT]]></description>
+  </item>
+  <item>
+    <title>Disney Adventure Arrived at Singapore, Singapore at Apr 15, 05:08 PM EDT. The local time to the port is Apr 15, 05:08 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/SGSIN001</link>
+    <guid isPermaLink="false">f7b5faf352b1f45a700d1cb762dc74bd410ecd0e</guid>
+    <pubDate>Wed, 15 Apr 2026 22:05:14 GMT</pubDate>
+    <description><![CDATA[Singapore, Singapore Arrival (UTC) Apr 15, 21:08 — ET: Apr 15, 05:08 PM EDT | Local: Apr 15, 05:08 PM EDT]]></description>
+  </item>
+  <item>
+    <title>Disney Destiny Departed from Gorda Cay, Bahamas at Apr 15, 05:02 PM EDT. The local time to the port is Apr 15, 05:02 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
+    <guid isPermaLink="false">6392e000b43d72c76e8546bf90d5e7d1f036dc92</guid>
+    <pubDate>Wed, 15 Apr 2026 22:05:22 GMT</pubDate>
+    <description><![CDATA[Gorda Cay, Bahamas Departure (UTC) Apr 15, 21:02 — ET: Apr 15, 05:02 PM EDT | Local: Apr 15, 05:02 PM EDT]]></description>
   </item>
   <item>
     <title>Disney Treasure Departed from Saint Thomas, US Virgin Islands at Apr 15, 04:13 PM EDT. The local time to the port is Apr 15, 04:13 PM EDT</title>
@@ -3492,20 +3506,6 @@
     <guid isPermaLink="false">4a8a663b9e163f82c54dacaac450fd7b11296f8a</guid>
     <pubDate>Thu, 26 Feb 2026 14:44:57 GMT</pubDate>
     <description><![CDATA[Nassau, Bahamas Arrival (UTC) Feb 26, 13:54 — ET: Feb 26, 08:54 AM EST | Local: Feb 26, 08:54 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Destiny Departed from Nassau, Bahamas at Feb 25, 05:56 PM EST. The local time to the port is Feb 25, 05:56 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/BSNAS001</link>
-    <guid isPermaLink="false">bfc42b68fe3d88e6e95bb3a4020be2b9ad4129a9</guid>
-    <pubDate>Wed, 25 Feb 2026 23:22:40 GMT</pubDate>
-    <description><![CDATA[Nassau, Bahamas Departure (UTC) Feb 25, 22:56 — ET: Feb 25, 05:56 PM EST | Local: Feb 25, 05:56 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Magic Departed from Galveston, United States (USA) at Feb 25, 05:40 PM EST. The local time to the port is Feb 25, 05:40 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/USGLS001</link>
-    <guid isPermaLink="false">997e65dc1bbf2049e3165e7f574aa8ab4997d82c</guid>
-    <pubDate>Wed, 25 Feb 2026 22:51:32 GMT</pubDate>
-    <description><![CDATA[Galveston, United States (USA) Departure (UTC) Feb 25, 22:40 — ET: Feb 25, 05:40 PM EST | Local: Feb 25, 05:40 PM EST]]></description>
   </item>
 </channel>
 </rss>
