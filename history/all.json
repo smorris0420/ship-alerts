@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Departed from Ensenada, Mexico at Apr 15, 08:46 PM EDT. The local time to the port is Apr 15, 07:46 PM EST",
+    "description": "Ensenada, Mexico Departure (UTC) Apr 16, 00:46 — ET: Apr 15, 08:46 PM EDT | Local: Apr 15, 07:46 PM EST",
+    "link": "https://www.vesselfinder.com/ports/MXESE001",
+    "guid": "834df7a426cfc4c581b5876e5b889f05c419b13a",
+    "pubDate": "Thu, 16 Apr 2026 01:15:23 GMT",
+    "eventUtc": "2026-04-16T00:46:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Departed from Singapore, Singapore at Apr 15, 08:30 PM EDT. The local time to the port is Apr 15, 08:30 PM EDT",
     "description": "Singapore, Singapore Departure (UTC) Apr 16, 00:30 — ET: Apr 15, 08:30 PM EDT | Local: Apr 15, 08:30 PM EDT",
     "link": "https://www.vesselfinder.com/ports/SGSIN001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-02-26T23:03:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Arrived at Vancouver, Canada at Feb 26, 09:44 AM EST. The local time to the port is Feb 26, 06:44 AM PST",
-    "description": "Vancouver, Canada Arrival (UTC) Feb 26, 14:44 — ET: Feb 26, 09:44 AM EST | Local: Feb 26, 06:44 AM PST",
-    "link": "https://www.vesselfinder.com/ports/CAVAN001",
-    "guid": "407f5de528a374adcded52cbd9971807f29d684f",
-    "pubDate": "Thu, 26 Feb 2026 15:41:57 GMT",
-    "eventUtc": "2026-02-26T14:44:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
     "source": "vf_ship"
   }
 ]
