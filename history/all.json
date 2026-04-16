@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Arrived at Port Everglades, United States (USA) at Apr 16, 05:47 AM EDT. The local time to the port is Apr 16, 05:47 AM EDT",
+    "description": "Port Everglades, United States (USA) Arrival (UTC) Apr 16, 09:47 — ET: Apr 16, 05:47 AM EDT | Local: Apr 16, 05:47 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPEF001",
+    "guid": "d98475364c8be3250e3d2c628fb5a09feedb599f",
+    "pubDate": "Thu, 16 Apr 2026 10:56:56 GMT",
+    "eventUtc": "2026-04-16T09:47:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Departed from Singapore, Singapore at Apr 16, 05:22 AM EDT. The local time to the port is Apr 16, 05:22 AM EDT",
     "description": "Singapore, Singapore Departure (UTC) Apr 16, 09:22 — ET: Apr 16, 05:22 AM EDT | Local: Apr 16, 05:22 AM EDT",
     "link": "https://www.vesselfinder.com/ports/SGSIN001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-02-27T10:41:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Departed from Vancouver, Canada at Feb 26, 08:10 PM EST. The local time to the port is Feb 26, 05:10 PM PST",
-    "description": "Vancouver, Canada Departure (UTC) Feb 27, 01:10 — ET: Feb 26, 08:10 PM EST | Local: Feb 26, 05:10 PM PST",
-    "link": "https://www.vesselfinder.com/ports/CAVAN001",
-    "guid": "165faa717769c0e2060562efb30184716e8a8477",
-    "pubDate": "Fri, 27 Feb 2026 02:51:54 GMT",
-    "eventUtc": "2026-02-27T01:10:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
     "source": "vf_ship"
   }
 ]

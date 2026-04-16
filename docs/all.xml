@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Thu, 16 Apr 2026 09:53:13 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 16 Apr 2026 10:56:58 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,13 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Destiny Arrived at Port Everglades, United States (USA) at Apr 16, 05:47 AM EDT. The local time to the port is Apr 16, 05:47 AM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USPEF001</link>
+    <guid isPermaLink="false">d98475364c8be3250e3d2c628fb5a09feedb599f</guid>
+    <pubDate>Thu, 16 Apr 2026 10:56:56 GMT</pubDate>
+    <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) Apr 16, 09:47 — ET: Apr 16, 05:47 AM EDT | Local: Apr 16, 05:47 AM EDT]]></description>
   </item>
   <item>
     <title>Disney Adventure Departed from Singapore, Singapore at Apr 16, 05:22 AM EDT. The local time to the port is Apr 16, 05:22 AM EDT</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">9a4d0b297bd472a53d706e99136832fd4d7a1b18</guid>
     <pubDate>Fri, 27 Feb 2026 11:49:01 GMT</pubDate>
     <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) Feb 27, 10:41 — ET: Feb 27, 05:41 AM EST | Local: Feb 27, 05:41 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Wonder Departed from Vancouver, Canada at Feb 26, 08:10 PM EST. The local time to the port is Feb 26, 05:10 PM PST</title>
-    <link>https://www.vesselfinder.com/ports/CAVAN001</link>
-    <guid isPermaLink="false">165faa717769c0e2060562efb30184716e8a8477</guid>
-    <pubDate>Fri, 27 Feb 2026 02:51:54 GMT</pubDate>
-    <description><![CDATA[Vancouver, Canada Departure (UTC) Feb 27, 01:10 — ET: Feb 26, 08:10 PM EST | Local: Feb 26, 05:10 PM PST]]></description>
   </item>
 </channel>
 </rss>
