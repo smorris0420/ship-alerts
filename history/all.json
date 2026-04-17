@@ -847,6 +847,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Cabo San Lucas Anch., Mexico at Apr 10, 03:44 PM EDT. The local time to the port is Apr 10, 02:44 PM EST",
+    "description": "Cabo San Lucas Anch., Mexico Departure (UTC) Apr 10, 19:44 — ET: Apr 10, 03:44 PM EDT | Local: Apr 10, 02:44 PM EST",
+    "link": "https://www.vesselfinder.com/ports/MXCSL001",
+    "guid": "1384fe52b8efb489460b7a3b15ece4ab1a9113be",
+    "pubDate": "Fri, 17 Apr 2026 04:24:09 GMT",
+    "eventUtc": "2026-04-10T19:44:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Departed from Nassau, Bahamas at Apr 10, 10:45 AM EDT. The local time to the port is Apr 10, 10:45 AM EDT",
     "description": "Nassau, Bahamas Departure (UTC) Apr 10, 14:45 — ET: Apr 10, 10:45 AM EDT | Local: Apr 10, 10:45 AM EDT",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -896,6 +907,17 @@
     "link": "https://www.vesselfinder.com/ports/COCTG001",
     "guid": "aaa2d1ce3432d1b3cbfa145ea29223d43487d927",
     "pubDate": "Fri, 10 Apr 2026 15:36:00 GMT",
+    "eventUtc": "2026-04-10T13:10:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Magic Arrived at Cabo San Lucas Anch., Mexico at Apr 10, 09:10 AM EDT. The local time to the port is Apr 10, 08:10 AM EST",
+    "description": "Cabo San Lucas Anch., Mexico Arrival (UTC) Apr 10, 13:10 — ET: Apr 10, 09:10 AM EDT | Local: Apr 10, 08:10 AM EST",
+    "link": "https://www.vesselfinder.com/ports/MXCSL001",
+    "guid": "1c5267dc21a61285e2913963b9c4f3edfbe12744",
+    "pubDate": "Fri, 17 Apr 2026 04:24:08 GMT",
     "eventUtc": "2026-04-10T13:10:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-02-27T21:32:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Port Everglades, United States (USA) at Feb 27, 04:11 PM EST. The local time to the port is Feb 27, 04:11 PM EST",
-    "description": "Port Everglades, United States (USA) Departure (UTC) Feb 27, 21:11 — ET: Feb 27, 04:11 PM EST | Local: Feb 27, 04:11 PM EST",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "6f10c770287072e50f2f3d2d8aeb15788e466f0e",
-    "pubDate": "Fri, 27 Feb 2026 21:18:44 GMT",
-    "eventUtc": "2026-02-27T21:11:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Arrived at Progreso, Mexico at Feb 27, 08:10 AM EST. The local time to the port is Feb 27, 08:10 AM EST",
-    "description": "Progreso, Mexico Arrival (UTC) Feb 27, 13:10 — ET: Feb 27, 08:10 AM EST | Local: Feb 27, 08:10 AM EST",
-    "link": "https://www.vesselfinder.com/ports/MXPGO001",
-    "guid": "8062e1caf8fcac9cd25c68fc2ed81ff7a95389b0",
-    "pubDate": "Sun, 01 Mar 2026 02:02:53 GMT",
-    "eventUtc": "2026-02-27T13:10:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
