@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Fantasy Departed from Nassau, Bahamas at Apr 18, 06:09 PM EDT. The local time to the port is Apr 18, 06:09 PM EDT",
+    "description": "Nassau, Bahamas Departure (UTC) Apr 18, 22:09 — ET: Apr 18, 06:09 PM EDT | Local: Apr 18, 06:09 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "20c7d8b0adb04a7cd59ed934b21e803ee2c717ad",
+    "pubDate": "Sat, 18 Apr 2026 22:41:34 GMT",
+    "eventUtc": "2026-04-18T22:09:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Departed from Cape Canaveral, United States (USA) at Apr 18, 05:10 PM EDT. The local time to the port is Apr 18, 05:10 PM EDT",
     "description": "Cape Canaveral, United States (USA) Departure (UTC) Apr 18, 21:10 — ET: Apr 18, 05:10 PM EDT | Local: Apr 18, 05:10 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-03-01T22:53:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Galveston, United States (USA) at Mar 01, 05:52 PM EST. The local time to the port is Mar 01, 05:52 PM EST",
-    "description": "Galveston, United States (USA) Departure (UTC) Mar 1, 22:52 — ET: Mar 01, 05:52 PM EST | Local: Mar 01, 05:52 PM EST",
-    "link": "https://www.vesselfinder.com/ports/USGLS001",
-    "guid": "849963252880548047119b9e66eb47631d2555a5",
-    "pubDate": "Sun, 01 Mar 2026 22:57:07 GMT",
-    "eventUtc": "2026-03-01T22:52:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
