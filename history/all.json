@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Arrived at Ensenada, Mexico at Apr 18, 01:41 PM EDT. The local time to the port is Apr 18, 12:41 PM EST",
+    "description": "Ensenada, Mexico Arrival (UTC) Apr 18, 17:41 — ET: Apr 18, 01:41 PM EDT | Local: Apr 18, 12:41 PM EST",
+    "link": "https://www.vesselfinder.com/ports/MXESE001",
+    "guid": "0fa6a5c1aa754a377454dc664b7f2007ea09a4b7",
+    "pubDate": "Sat, 18 Apr 2026 18:43:54 GMT",
+    "eventUtc": "2026-04-18T17:41:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Arrived at Nassau, Bahamas at Apr 18, 09:06 AM EDT. The local time to the port is Apr 18, 09:06 AM EDT",
     "description": "Nassau, Bahamas Arrival (UTC) Apr 18, 13:06 — ET: Apr 18, 09:06 AM EDT | Local: Apr 18, 09:06 AM EDT",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -5487,16 +5498,5 @@
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
     "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Galveston, United States (USA) at Mar 01, 10:00 AM EST. The local time to the port is Mar 01, 10:00 AM EST",
-    "description": "Galveston, United States (USA) Departure (UTC) Mar 01, 15:00 — ET: Mar 01, 10:00 AM EST | Local: Mar 01, 10:00 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USGLS001",
-    "guid": "c250c85964e2e392538cf5f4746e96c6be1ce1d2",
-    "pubDate": "Fri, 27 Feb 2026 20:50:39 GMT",
-    "eventUtc": "2026-03-01T15:00:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
-    "source": "vf_port"
   }
 ]
