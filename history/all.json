@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Departed from Cape Canaveral, United States (USA) at Apr 18, 05:10 PM EDT. The local time to the port is Apr 18, 05:10 PM EDT",
+    "description": "Cape Canaveral, United States (USA) Departure (UTC) Apr 18, 21:10 — ET: Apr 18, 05:10 PM EDT | Local: Apr 18, 05:10 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "6511b03454f327d192afc86357cce84103307812",
+    "pubDate": "Sat, 18 Apr 2026 21:23:49 GMT",
+    "eventUtc": "2026-04-18T21:10:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Destiny Departed from Gorda Cay, Bahamas at Apr 18, 05:00 PM EDT. The local time to the port is Apr 18, 05:00 PM EDT",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Apr 18, 21:00 — ET: Apr 18, 05:00 PM EDT | Local: Apr 18, 05:00 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "3e3188701b5bf7c8148320b3fc1a57b65365d72f",
+    "pubDate": "Sat, 18 Apr 2026 21:27:27 GMT",
+    "eventUtc": "2026-04-18T21:00:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Arrived at Ensenada, Mexico at Apr 18, 01:41 PM EDT. The local time to the port is Apr 18, 12:41 PM EST",
     "description": "Ensenada, Mexico Arrival (UTC) Apr 18, 17:41 — ET: Apr 18, 01:41 PM EDT | Local: Apr 18, 12:41 PM EST",
     "link": "https://www.vesselfinder.com/ports/MXESE001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-03-01T22:52:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Departed from Gorda Cay, Bahamas at Mar 01, 04:59 PM EST. The local time to the port is Mar 01, 04:59 PM EST",
-    "description": "Gorda Cay, Bahamas Departure (UTC) Mar 1, 21:59 — ET: Mar 01, 04:59 PM EST | Local: Mar 01, 04:59 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "178fbbcb8a7ff17621155551433d5d9083715d52",
-    "pubDate": "Sun, 01 Mar 2026 22:34:18 GMT",
-    "eventUtc": "2026-03-01T21:59:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Departed from Cape Canaveral, United States (USA) at Mar 01, 04:29 PM EST. The local time to the port is Mar 01, 04:29 PM EST",
-    "description": "Cape Canaveral, United States (USA) Departure (UTC) Mar 1, 21:29 — ET: Mar 01, 04:29 PM EST | Local: Mar 01, 04:29 PM EST",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "4aad8a91f252410f6d7428a36d4feb8d6569e28c",
-    "pubDate": "Sun, 01 Mar 2026 21:47:42 GMT",
-    "eventUtc": "2026-03-01T21:29:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
     "source": "vf_ship"
   }
 ]
