@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Arrived at San Diego, United States (USA) at Apr 19, 09:29 AM EDT. The local time to the port is Apr 19, 09:29 AM EDT",
+    "description": "San Diego, United States (USA) Arrival (UTC) Apr 19, 13:29 — ET: Apr 19, 09:29 AM EDT | Local: Apr 19, 09:29 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USSAN001",
+    "guid": "d5c35c3d619db259d527a0ffb4fae89b93c4ce5a",
+    "pubDate": "Sun, 19 Apr 2026 14:59:09 GMT",
+    "eventUtc": "2026-04-19T13:29:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Arrived at Gorda Cay, Bahamas at Apr 19, 07:23 AM EDT. The local time to the port is Apr 19, 07:23 AM EDT",
     "description": "Gorda Cay, Bahamas Arrival (UTC) Apr 19, 11:23 — ET: Apr 19, 07:23 AM EDT | Local: Apr 19, 07:23 AM EDT",
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
@@ -5483,17 +5494,6 @@
     "link": "https://www.vesselfinder.com/ports/USSAN001",
     "guid": "c2112c7caf7534e82844465c0ffd11c20d14512e",
     "pubDate": "Mon, 02 Mar 2026 15:03:39 GMT",
-    "eventUtc": "2026-03-02T14:26:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Arrived at Avalon Anch., United States (USA) at Mar 02, 09:26 AM EST. The local time to the port is Mar 02, 09:26 AM EST",
-    "description": "Avalon Anch., United States (USA) Arrival (UTC) Mar 2, 14:26 — ET: Mar 02, 09:26 AM EST | Local: Mar 02, 09:26 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USAOU001",
-    "guid": "5f5c7c9c77f1734c74511a6460795c38d0ff177c",
-    "pubDate": "Tue, 03 Mar 2026 16:13:03 GMT",
     "eventUtc": "2026-03-02T14:26:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
