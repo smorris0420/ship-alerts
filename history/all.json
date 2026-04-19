@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Ensenada, Mexico at Apr 18, 09:31 PM EDT. The local time to the port is Apr 18, 08:31 PM EST",
+    "description": "Ensenada, Mexico Departure (UTC) Apr 19, 01:31 — ET: Apr 18, 09:31 PM EDT | Local: Apr 18, 08:31 PM EST",
+    "link": "https://www.vesselfinder.com/ports/MXESE001",
+    "guid": "263a3702718cc601721006ccc57adc6d82045823",
+    "pubDate": "Sun, 19 Apr 2026 02:56:37 GMT",
+    "eventUtc": "2026-04-19T01:31:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Departed from Nassau, Bahamas at Apr 18, 06:41 PM EDT. The local time to the port is Apr 18, 06:41 PM EDT",
     "description": "Nassau, Bahamas Departure (UTC) Apr 18, 22:41 — ET: Apr 18, 06:41 PM EDT | Local: Apr 18, 06:41 PM EDT",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-03-02T10:49:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Arrived at Port Everglades, United States (USA) at Mar 02, 05:13 AM EST. The local time to the port is Mar 02, 05:13 AM EST",
-    "description": "Port Everglades, United States (USA) Arrival (UTC) Mar 2, 10:13 — ET: Mar 02, 05:13 AM EST | Local: Mar 02, 05:13 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "2a0187e8fb1ee39c229a8881a4564216de5f7fe0",
-    "pubDate": "Mon, 02 Mar 2026 11:00:46 GMT",
-    "eventUtc": "2026-03-02T10:13:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
     "source": "vf_ship"
   }
 ]
