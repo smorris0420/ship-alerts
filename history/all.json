@@ -297,6 +297,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Avalon Anch., United States (USA) at Apr 19, 08:40 PM EDT. The local time to the port is Apr 19, 08:40 PM EDT",
+    "description": "Avalon Anch., United States (USA) Departure (UTC) Apr 20, 00:40 — ET: Apr 19, 08:40 PM EDT | Local: Apr 19, 08:40 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USAOU001",
+    "guid": "7956e1920c84576ca4b8edda6d66c68f1d8ebe38",
+    "pubDate": "Mon, 20 Apr 2026 16:01:00 GMT",
+    "eventUtc": "2026-04-20T00:40:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Departed from Singapore, Singapore at Apr 19, 08:30 PM EDT. The local time to the port is Apr 19, 08:30 PM EDT",
     "description": "Singapore, Singapore Departure (UTC) Apr 20, 00:30 — ET: Apr 19, 08:30 PM EDT | Local: Apr 19, 08:30 PM EDT",
     "link": "https://www.vesselfinder.com/ports/SGSIN001",
@@ -379,6 +390,17 @@
     "link": "https://www.vesselfinder.com/ports/USSAN001",
     "guid": "d5c35c3d619db259d527a0ffb4fae89b93c4ce5a",
     "pubDate": "Sun, 19 Apr 2026 14:59:09 GMT",
+    "eventUtc": "2026-04-19T13:29:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Magic Arrived at Avalon Anch., United States (USA) at Apr 19, 09:29 AM EDT. The local time to the port is Apr 19, 09:29 AM EDT",
+    "description": "Avalon Anch., United States (USA) Arrival (UTC) Apr 19, 13:29 — ET: Apr 19, 09:29 AM EDT | Local: Apr 19, 09:29 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USAOU001",
+    "guid": "d9d7cf46d128bbfaa2288ddaacdf8e00d515a038",
+    "pubDate": "Mon, 20 Apr 2026 16:00:58 GMT",
     "eventUtc": "2026-04-19T13:29:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-03-04T12:42:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Arrived at Nassau, Bahamas at Mar 04, 07:38 AM EST. The local time to the port is Mar 04, 07:38 AM EST",
-    "description": "Nassau, Bahamas Arrival (UTC) Mar 4, 12:38 — ET: Mar 04, 07:38 AM EST | Local: Mar 04, 07:38 AM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "ea7ca7bf3f9e97f9a525dc65465e1f2ef81b631e",
-    "pubDate": "Wed, 04 Mar 2026 14:01:13 GMT",
-    "eventUtc": "2026-03-04T12:38:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Saint Thomas, US Virgin Islands at Mar 04, 06:21 AM EST. The local time to the port is Mar 04, 06:21 AM EST",
-    "description": "Saint Thomas, US Virgin Islands Arrival (UTC) Mar 4, 11:21 — ET: Mar 04, 06:21 AM EST | Local: Mar 04, 06:21 AM EST",
-    "link": "https://www.vesselfinder.com/ports/VISTT001",
-    "guid": "70ef55248d13d9bb68aaf042ed4431a9175a9798",
-    "pubDate": "Wed, 04 Mar 2026 12:57:38 GMT",
-    "eventUtc": "2026-03-04T11:21:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
