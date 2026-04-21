@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Departed from San Diego, United States (USA) at Apr 22, 02:00 PM EDT. The local time to the port is Apr 22, 02:00 PM EDT",
+    "description": "San Diego, United States (USA) Departure (UTC) Apr 22, 18:00 — ET: Apr 22, 02:00 PM EDT | Local: Apr 22, 02:00 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USSAN001",
+    "guid": "c5ff6687f200bf1072e6a75f032a43ea30e71d5a",
+    "pubDate": "Tue, 21 Apr 2026 05:13:49 GMT",
+    "eventUtc": "2026-04-22T18:00:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_port"
+  },
+  {
+    "title": "Disney Wonder Arrived at San Diego, United States (USA) at Apr 22, 02:00 PM EDT. The local time to the port is Apr 22, 02:00 PM EDT",
+    "description": "San Diego, United States (USA) Arrival (UTC) Apr 22, 18:00 — ET: Apr 22, 02:00 PM EDT | Local: Apr 22, 02:00 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USSAN001",
+    "guid": "133e144fc420ea0d7624e76d1742a905b39e9ee5",
+    "pubDate": "Tue, 21 Apr 2026 05:13:50 GMT",
+    "eventUtc": "2026-04-22T18:00:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_port"
+  },
+  {
     "title": "Disney Wonder Departed from San Diego, United States (USA) at Apr 20, 08:29 PM EDT. The local time to the port is Apr 20, 08:29 PM EDT",
     "description": "San Diego, United States (USA) Departure (UTC) Apr 21, 00:29 — ET: Apr 20, 08:29 PM EDT | Local: Apr 20, 08:29 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USSAN001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-03-05T12:51:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Arrived at Port Everglades, United States (USA) at Mar 05, 04:56 AM EST. The local time to the port is Mar 05, 04:56 AM EST",
-    "description": "Port Everglades, United States (USA) Arrival (UTC) Mar 5, 09:56 — ET: Mar 05, 04:56 AM EST | Local: Mar 05, 04:56 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "fa413e3b33014004dfdaf60857cd3177531bd98b",
-    "pubDate": "Thu, 05 Mar 2026 11:01:18 GMT",
-    "eventUtc": "2026-03-05T09:56:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Adventure Departed from Singapore, Singapore at Mar 05, 04:18 AM EST. The local time to the port is Mar 05, 04:18 AM EST",
-    "description": "Singapore, Singapore Departure (UTC) Mar 5, 09:18 — ET: Mar 05, 04:18 AM EST | Local: Mar 05, 04:18 AM EST",
-    "link": "https://www.vesselfinder.com/ports/SGSIN001",
-    "guid": "c1fdaa24ad7370810e99faee5dd20610c72534e8",
-    "pubDate": "Thu, 05 Mar 2026 10:06:04 GMT",
-    "eventUtc": "2026-03-05T09:18:00+00:00",
-    "shipSlug": "disney-adventure",
-    "shipName": "Disney Adventure",
     "source": "vf_ship"
   }
 ]

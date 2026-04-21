@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Tue, 21 Apr 2026 02:15:46 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 21 Apr 2026 05:15:07 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,20 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Wonder Departed from San Diego, United States (USA) at Apr 22, 02:00 PM EDT. The local time to the port is Apr 22, 02:00 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USSAN001</link>
+    <guid isPermaLink="false">c5ff6687f200bf1072e6a75f032a43ea30e71d5a</guid>
+    <pubDate>Tue, 21 Apr 2026 05:13:49 GMT</pubDate>
+    <description><![CDATA[San Diego, United States (USA) Departure (UTC) Apr 22, 18:00 — ET: Apr 22, 02:00 PM EDT | Local: Apr 22, 02:00 PM EDT]]></description>
+  </item>
+  <item>
+    <title>Disney Wonder Arrived at San Diego, United States (USA) at Apr 22, 02:00 PM EDT. The local time to the port is Apr 22, 02:00 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USSAN001</link>
+    <guid isPermaLink="false">133e144fc420ea0d7624e76d1742a905b39e9ee5</guid>
+    <pubDate>Tue, 21 Apr 2026 05:13:50 GMT</pubDate>
+    <description><![CDATA[San Diego, United States (USA) Arrival (UTC) Apr 22, 18:00 — ET: Apr 22, 02:00 PM EDT | Local: Apr 22, 02:00 PM EDT]]></description>
   </item>
   <item>
     <title>Disney Wonder Departed from San Diego, United States (USA) at Apr 20, 08:29 PM EDT. The local time to the port is Apr 20, 08:29 PM EDT</title>
@@ -3492,20 +3506,6 @@
     <guid isPermaLink="false">2788767864ad94fa18511897cd7404683be6e4e6</guid>
     <pubDate>Fri, 06 Mar 2026 04:27:06 GMT</pubDate>
     <description><![CDATA[Gorda Cay, Bahamas Arrival (UTC) Mar 5, 12:51 — ET: Mar 05, 07:51 AM EST | Local: Mar 05, 07:51 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Destiny Arrived at Port Everglades, United States (USA) at Mar 05, 04:56 AM EST. The local time to the port is Mar 05, 04:56 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/USPEF001</link>
-    <guid isPermaLink="false">fa413e3b33014004dfdaf60857cd3177531bd98b</guid>
-    <pubDate>Thu, 05 Mar 2026 11:01:18 GMT</pubDate>
-    <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) Mar 5, 09:56 — ET: Mar 05, 04:56 AM EST | Local: Mar 05, 04:56 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Adventure Departed from Singapore, Singapore at Mar 05, 04:18 AM EST. The local time to the port is Mar 05, 04:18 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/SGSIN001</link>
-    <guid isPermaLink="false">c1fdaa24ad7370810e99faee5dd20610c72534e8</guid>
-    <pubDate>Thu, 05 Mar 2026 10:06:04 GMT</pubDate>
-    <description><![CDATA[Singapore, Singapore Departure (UTC) Mar 5, 09:18 — ET: Mar 05, 04:18 AM EST | Local: Mar 05, 04:18 AM EST]]></description>
   </item>
 </channel>
 </rss>
