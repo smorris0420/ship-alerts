@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Tue, 21 Apr 2026 14:28:37 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 21 Apr 2026 15:54:29 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -176,6 +176,13 @@
     <description><![CDATA[Cozumel, Mexico Departure (UTC) Apr 20, 21:58 — ET: Apr 20, 05:58 PM EDT | Local: Apr 20, 04:58 PM EST]]></description>
   </item>
   <item>
+    <title>Disney Treasure Departed from Georgetown, Grand Cayman Anch., Cayman Islands at Apr 20, 05:58 PM EDT. The local time to the port is Apr 20, 04:58 PM EST</title>
+    <link>https://www.vesselfinder.com/ports/KYGEC001</link>
+    <guid isPermaLink="false">723e197aa672725f83fd1106c8e940a752cc30a1</guid>
+    <pubDate>Tue, 21 Apr 2026 15:51:41 GMT</pubDate>
+    <description><![CDATA[Georgetown, Grand Cayman Anch., Cayman Islands Departure (UTC) Apr 20, 21:58 — ET: Apr 20, 05:58 PM EDT | Local: Apr 20, 04:58 PM EST]]></description>
+  </item>
+  <item>
     <title>Disney Fantasy Departed from Gorda Cay, Bahamas at Apr 20, 05:05 PM EDT. The local time to the port is Apr 20, 05:05 PM EDT</title>
     <link>https://www.vesselfinder.com/ports/BSGOC001</link>
     <guid isPermaLink="false">f177bf7294a466e868a68b802e455c8c4302f107</guid>
@@ -216,6 +223,13 @@
     <guid isPermaLink="false">c8d9255f7768715b53a9ff7e8717ce3a25ebc028</guid>
     <pubDate>Mon, 20 Apr 2026 14:50:24 GMT</pubDate>
     <description><![CDATA[Cozumel, Mexico Arrival (UTC) Apr 20, 12:48 — ET: Apr 20, 08:48 AM EDT | Local: Apr 20, 07:48 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Treasure Arrived at Georgetown, Grand Cayman Anch., Cayman Islands at Apr 20, 08:48 AM EDT. The local time to the port is Apr 20, 07:48 AM EST</title>
+    <link>https://www.vesselfinder.com/ports/KYGEC001</link>
+    <guid isPermaLink="false">7dd017e7253fcfc5efdd77d9e0128418c07275b5</guid>
+    <pubDate>Tue, 21 Apr 2026 15:51:40 GMT</pubDate>
+    <description><![CDATA[Georgetown, Grand Cayman Anch., Cayman Islands Arrival (UTC) Apr 20, 12:48 — ET: Apr 20, 08:48 AM EDT | Local: Apr 20, 07:48 AM EST]]></description>
   </item>
   <item>
     <title>Disney Fantasy Arrived at Gorda Cay, Bahamas at Apr 20, 07:37 AM EDT. The local time to the port is Apr 20, 07:37 AM EDT</title>
@@ -3492,20 +3506,6 @@
     <guid isPermaLink="false">62f41ca64a7ebaec3270af525d20ce0d9ba0a119</guid>
     <pubDate>Fri, 06 Mar 2026 04:27:08 GMT</pubDate>
     <description><![CDATA[Gorda Cay, Bahamas Departure (UTC) Mar 5, 22:02 — ET: Mar 05, 05:02 PM EST | Local: Mar 05, 05:02 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Dream Departed from Nassau, Bahamas at Mar 05, 12:00 PM EST. The local time to the port is Mar 05, 12:00 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/BSNAS001</link>
-    <guid isPermaLink="false">73624b9b691c7644d3d269cc3bf41421500b64e1</guid>
-    <pubDate>Tue, 03 Mar 2026 21:57:18 GMT</pubDate>
-    <description><![CDATA[Nassau, Bahamas Departure (UTC) Mar 05, 17:00 — ET: Mar 05, 12:00 PM EST | Local: Mar 05, 12:00 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Dream Arrived at Nassau, Bahamas at Mar 05, 12:00 PM EST. The local time to the port is Mar 05, 12:00 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/BSNAS001</link>
-    <guid isPermaLink="false">05443454d55aff3d327ee76314cc9b4eeece9151</guid>
-    <pubDate>Tue, 03 Mar 2026 21:57:20 GMT</pubDate>
-    <description><![CDATA[Nassau, Bahamas Arrival (UTC) Mar 05, 17:00 — ET: Mar 05, 12:00 PM EST | Local: Mar 05, 12:00 PM EST]]></description>
   </item>
 </channel>
 </rss>
