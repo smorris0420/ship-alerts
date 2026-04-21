@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Mon, 20 Apr 2026 23:58:31 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 21 Apr 2026 02:15:46 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,13 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Wonder Departed from San Diego, United States (USA) at Apr 20, 08:29 PM EDT. The local time to the port is Apr 20, 08:29 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USSAN001</link>
+    <guid isPermaLink="false">d42c623aad3b023adfb03c675cd1e10fadad920f</guid>
+    <pubDate>Tue, 21 Apr 2026 02:14:41 GMT</pubDate>
+    <description><![CDATA[San Diego, United States (USA) Departure (UTC) Apr 21, 00:29 — ET: Apr 20, 08:29 PM EDT | Local: Apr 20, 08:29 PM EDT]]></description>
   </item>
   <item>
     <title>Disney Treasure Departed from Cozumel, Mexico at Apr 20, 05:58 PM EDT. The local time to the port is Apr 20, 04:58 PM EST</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">c1fdaa24ad7370810e99faee5dd20610c72534e8</guid>
     <pubDate>Thu, 05 Mar 2026 10:06:04 GMT</pubDate>
     <description><![CDATA[Singapore, Singapore Departure (UTC) Mar 5, 09:18 — ET: Mar 05, 04:18 AM EST | Local: Mar 05, 04:18 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Magic Departed from Progreso, Mexico at Mar 04, 08:04 PM EST. The local time to the port is Mar 04, 08:04 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/MXPGO001</link>
-    <guid isPermaLink="false">c78d228b8b557beca84d7d2f995bdcbfbd7b36a9</guid>
-    <pubDate>Fri, 06 Mar 2026 02:48:52 GMT</pubDate>
-    <description><![CDATA[Progreso, Mexico Departure (UTC) Mar 5, 01:04 — ET: Mar 04, 08:04 PM EST | Local: Mar 04, 08:04 PM EST]]></description>
   </item>
 </channel>
 </rss>

@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Departed from San Diego, United States (USA) at Apr 20, 08:29 PM EDT. The local time to the port is Apr 20, 08:29 PM EDT",
+    "description": "San Diego, United States (USA) Departure (UTC) Apr 21, 00:29 — ET: Apr 20, 08:29 PM EDT | Local: Apr 20, 08:29 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USSAN001",
+    "guid": "d42c623aad3b023adfb03c675cd1e10fadad920f",
+    "pubDate": "Tue, 21 Apr 2026 02:14:41 GMT",
+    "eventUtc": "2026-04-21T00:29:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Departed from Cozumel, Mexico at Apr 20, 05:58 PM EDT. The local time to the port is Apr 20, 04:58 PM EST",
     "description": "Cozumel, Mexico Departure (UTC) Apr 20, 21:58 — ET: Apr 20, 05:58 PM EDT | Local: Apr 20, 04:58 PM EST",
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-03-05T09:18:00+00:00",
     "shipSlug": "disney-adventure",
     "shipName": "Disney Adventure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Progreso, Mexico at Mar 04, 08:04 PM EST. The local time to the port is Mar 04, 08:04 PM EST",
-    "description": "Progreso, Mexico Departure (UTC) Mar 5, 01:04 — ET: Mar 04, 08:04 PM EST | Local: Mar 04, 08:04 PM EST",
-    "link": "https://www.vesselfinder.com/ports/MXPGO001",
-    "guid": "c78d228b8b557beca84d7d2f995bdcbfbd7b36a9",
-    "pubDate": "Fri, 06 Mar 2026 02:48:52 GMT",
-    "eventUtc": "2026-03-05T01:04:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
