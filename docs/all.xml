@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Wed, 22 Apr 2026 09:57:33 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 22 Apr 2026 11:03:26 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -153,6 +153,13 @@
     <guid isPermaLink="false">133e144fc420ea0d7624e76d1742a905b39e9ee5</guid>
     <pubDate>Tue, 21 Apr 2026 05:13:50 GMT</pubDate>
     <description><![CDATA[San Diego, United States (USA) Arrival (UTC) Apr 22, 18:00 — ET: Apr 22, 02:00 PM EDT | Local: Apr 22, 02:00 PM EDT]]></description>
+  </item>
+  <item>
+    <title>Disney Fantasy Arrived at Cape Canaveral, United States (USA) at Apr 22, 05:38 AM EDT. The local time to the port is Apr 22, 05:38 AM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USPCV001</link>
+    <guid isPermaLink="false">5f405270ef09b38547c96714937e18aaa17dd075</guid>
+    <pubDate>Wed, 22 Apr 2026 11:00:40 GMT</pubDate>
+    <description><![CDATA[Cape Canaveral, United States (USA) Arrival (UTC) Apr 22, 09:38 — ET: Apr 22, 05:38 AM EDT | Local: Apr 22, 05:38 AM EDT]]></description>
   </item>
   <item>
     <title>Disney Magic Departed from Ensenada, Mexico at Apr 21, 09:21 PM EDT. The local time to the port is Apr 21, 08:21 PM EST</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">c96911b876d741855a4a1cbe38c9b7fae721a5da</guid>
     <pubDate>Fri, 06 Mar 2026 11:40:27 GMT</pubDate>
     <description><![CDATA[Cape Canaveral, United States (USA) Arrival (UTC) Mar 6, 10:47 — ET: Mar 06, 05:47 AM EST | Local: Mar 06, 05:47 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Dream Arrived at Port Everglades, United States (USA) at Mar 06, 05:46 AM EST. The local time to the port is Mar 06, 05:46 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/USPEF001</link>
-    <guid isPermaLink="false">10c7ce770b2ca68a97576e7c311a274a664b0127</guid>
-    <pubDate>Fri, 06 Mar 2026 11:42:38 GMT</pubDate>
-    <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) Mar 6, 10:46 — ET: Mar 06, 05:46 AM EST | Local: Mar 06, 05:46 AM EST]]></description>
   </item>
 </channel>
 </rss>
