@@ -231,6 +231,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Destiny Departed from Nassau, Bahamas at Apr 22, 06:19 PM EDT. The local time to the port is Apr 22, 06:19 PM EDT",
+    "description": "Nassau, Bahamas Departure (UTC) Apr 22, 22:19 — ET: Apr 22, 06:19 PM EDT | Local: Apr 22, 06:19 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "30fee2947b815262617b3adee238b2e62f38ae78",
+    "pubDate": "Wed, 22 Apr 2026 22:49:12 GMT",
+    "eventUtc": "2026-04-22T22:19:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Arrived at Singapore, Singapore at Apr 22, 05:18 PM EDT. The local time to the port is Apr 22, 05:18 PM EDT",
     "description": "Singapore, Singapore Arrival (UTC) Apr 22, 21:18 — ET: Apr 22, 05:18 PM EDT | Local: Apr 22, 05:18 PM EDT",
     "link": "https://www.vesselfinder.com/ports/SGSIN001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-03-07T01:41:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Galveston, United States (USA) at Mar 06, 06:06 PM EST. The local time to the port is Mar 06, 06:06 PM EST",
-    "description": "Galveston, United States (USA) Departure (UTC) Mar 6, 23:06 — ET: Mar 06, 06:06 PM EST | Local: Mar 06, 06:06 PM EST",
-    "link": "https://www.vesselfinder.com/ports/USGLS001",
-    "guid": "36d653b798d95ebf98ef748ef491aba08f58ca25",
-    "pubDate": "Fri, 06 Mar 2026 23:40:21 GMT",
-    "eventUtc": "2026-03-06T23:06:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
