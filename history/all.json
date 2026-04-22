@@ -231,6 +231,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Fantasy Departed from Cape Canaveral, United States (USA) at Apr 22, 04:25 PM EDT. The local time to the port is Apr 22, 04:25 PM EDT",
+    "description": "Cape Canaveral, United States (USA) Departure (UTC) Apr 22, 20:25 — ET: Apr 22, 04:25 PM EDT | Local: Apr 22, 04:25 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "093e3dda13b763e6c3436f3f777337c0f9bee94b",
+    "pubDate": "Wed, 22 Apr 2026 20:58:36 GMT",
+    "eventUtc": "2026-04-22T20:25:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Departed from San Diego, United States (USA) at Apr 22, 02:00 PM EDT. The local time to the port is Apr 22, 02:00 PM EDT",
     "description": "San Diego, United States (USA) Departure (UTC) Apr 22, 18:00 — ET: Apr 22, 02:00 PM EDT | Local: Apr 22, 02:00 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USSAN001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-03-06T22:10:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Port Everglades, United States (USA) at Mar 06, 04:59 PM EST. The local time to the port is Mar 06, 04:59 PM EST",
-    "description": "Port Everglades, United States (USA) Departure (UTC) Mar 6, 21:59 — ET: Mar 06, 04:59 PM EST | Local: Mar 06, 04:59 PM EST",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "31d5a0f6a889210c78894919df5e0df2c9b069a3",
-    "pubDate": "Fri, 06 Mar 2026 22:45:02 GMT",
-    "eventUtc": "2026-03-06T21:59:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
     "source": "vf_ship"
   }
 ]
