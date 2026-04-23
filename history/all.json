@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Gorda Cay, Bahamas at Apr 24, 09:00 AM EDT. The local time to the port is Apr 24, 09:00 AM EDT",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Apr 24, 13:00 — ET: Apr 24, 09:00 AM EDT | Local: Apr 24, 09:00 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "8f54474c5f31a70d77171a195702e6363e97b3c9",
+    "pubDate": "Thu, 23 Apr 2026 16:13:19 GMT",
+    "eventUtc": "2026-04-24T13:00:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_port"
+  },
+  {
+    "title": "Disney Dream Arrived at Gorda Cay, Bahamas at Apr 24, 09:00 AM EDT. The local time to the port is Apr 24, 09:00 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Apr 24, 13:00 — ET: Apr 24, 09:00 AM EDT | Local: Apr 24, 09:00 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "1591e519909c146d29b9db88c148ad2731b6cf9b",
+    "pubDate": "Thu, 23 Apr 2026 16:13:21 GMT",
+    "eventUtc": "2026-04-24T13:00:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_port"
+  },
+  {
     "title": "Disney Magic Arrived at San Diego, United States (USA) at Apr 23, 09:28 AM EDT. The local time to the port is Apr 23, 09:28 AM EDT",
     "description": "San Diego, United States (USA) Arrival (UTC) Apr 23, 13:28 — ET: Apr 23, 09:28 AM EDT | Local: Apr 23, 09:28 AM EDT",
     "link": "https://www.vesselfinder.com/ports/USSAN001",
@@ -5476,27 +5498,5 @@
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
     "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Departed from Gorda Cay, Bahamas at Mar 07, 05:02 PM EST. The local time to the port is Mar 07, 05:02 PM EST",
-    "description": "Gorda Cay, Bahamas Departure (UTC) Mar 7, 22:02 — ET: Mar 07, 05:02 PM EST | Local: Mar 07, 05:02 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "563dbc042d1e58519a73f5480b0ea3c86922a631",
-    "pubDate": "Sun, 08 Mar 2026 06:43:23 GMT",
-    "eventUtc": "2026-03-07T22:02:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Departed from San Diego, United States (USA) at Mar 07, 03:00 PM EST. The local time to the port is Mar 07, 03:00 PM EST",
-    "description": "San Diego, United States (USA) Departure (UTC) Mar 07, 20:00 — ET: Mar 07, 03:00 PM EST | Local: Mar 07, 03:00 PM EST",
-    "link": "https://www.vesselfinder.com/ports/USSAN001",
-    "guid": "095b4cac9825a921524ec672de80533d668acb7a",
-    "pubDate": "Fri, 06 Mar 2026 22:45:32 GMT",
-    "eventUtc": "2026-03-07T20:00:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
-    "source": "vf_port"
   }
 ]
