@@ -231,6 +231,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Fantasy Departed from Nassau, Bahamas at Apr 23, 06:05 PM EDT. The local time to the port is Apr 23, 06:05 PM EDT",
+    "description": "Nassau, Bahamas Departure (UTC) Apr 23, 22:05 — ET: Apr 23, 06:05 PM EDT | Local: Apr 23, 06:05 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "0a118245720c2534710a5bb91460da1912512295",
+    "pubDate": "Thu, 23 Apr 2026 22:46:53 GMT",
+    "eventUtc": "2026-04-23T22:05:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Arrived at Ensenada, Mexico at Apr 23, 10:15 AM EDT. The local time to the port is Apr 23, 09:15 AM EST",
     "description": "Ensenada, Mexico Arrival (UTC) Apr 23, 14:15 — ET: Apr 23, 10:15 AM EDT | Local: Apr 23, 09:15 AM EST",
     "link": "https://www.vesselfinder.com/ports/MXESE001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-03-08T11:42:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Departed from Nassau, Bahamas at Mar 07, 05:56 PM EST. The local time to the port is Mar 07, 05:56 PM EST",
-    "description": "Nassau, Bahamas Departure (UTC) Mar 7, 22:56 — ET: Mar 07, 05:56 PM EST | Local: Mar 07, 05:56 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "ad50cfc360a72ddee1e49290304097e304b317d7",
-    "pubDate": "Sat, 07 Mar 2026 23:32:26 GMT",
-    "eventUtc": "2026-03-07T22:56:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
     "source": "vf_ship"
   }
 ]
