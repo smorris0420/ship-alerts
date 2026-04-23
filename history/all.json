@@ -209,6 +209,39 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Arrived at San Diego, United States (USA) at Apr 23, 09:28 AM EDT. The local time to the port is Apr 23, 09:28 AM EDT",
+    "description": "San Diego, United States (USA) Arrival (UTC) Apr 23, 13:28 — ET: Apr 23, 09:28 AM EDT | Local: Apr 23, 09:28 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USSAN001",
+    "guid": "d29a1790788514777b9b22995bbac1b6321671ca",
+    "pubDate": "Thu, 23 Apr 2026 14:14:47 GMT",
+    "eventUtc": "2026-04-23T13:28:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Fantasy Arrived at Nassau, Bahamas at Apr 23, 08:50 AM EDT. The local time to the port is Apr 23, 08:50 AM EDT",
+    "description": "Nassau, Bahamas Arrival (UTC) Apr 23, 12:50 — ET: Apr 23, 08:50 AM EDT | Local: Apr 23, 08:50 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "5f800532d1b50b19688a2ca35aed36351e96b786",
+    "pubDate": "Thu, 23 Apr 2026 14:14:39 GMT",
+    "eventUtc": "2026-04-23T12:50:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Dream Arrived at Gorda Cay, Bahamas at Apr 23, 07:57 AM EDT. The local time to the port is Apr 23, 07:57 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Apr 23, 11:57 — ET: Apr 23, 07:57 AM EDT | Local: Apr 23, 07:57 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "b8277980bdd23624180623024f506ae0702cddec",
+    "pubDate": "Thu, 23 Apr 2026 14:15:02 GMT",
+    "eventUtc": "2026-04-23T11:57:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Departed from Singapore, Singapore at Apr 23, 05:03 AM EDT. The local time to the port is Apr 23, 05:03 AM EDT",
     "description": "Singapore, Singapore Departure (UTC) Apr 23, 09:03 — ET: Apr 23, 05:03 AM EDT | Local: Apr 23, 05:03 AM EDT",
     "link": "https://www.vesselfinder.com/ports/SGSIN001",
@@ -5465,38 +5498,5 @@
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
     "source": "vf_port"
-  },
-  {
-    "title": "Disney Wonder Arrived at San Diego, United States (USA) at Mar 07, 03:00 PM EST. The local time to the port is Mar 07, 03:00 PM EST",
-    "description": "San Diego, United States (USA) Arrival (UTC) Mar 07, 20:00 — ET: Mar 07, 03:00 PM EST | Local: Mar 07, 03:00 PM EST",
-    "link": "https://www.vesselfinder.com/ports/USSAN001",
-    "guid": "63dbb5dadf617b0fc5697d8f434269e0e9c32a2d",
-    "pubDate": "Fri, 06 Mar 2026 22:45:33 GMT",
-    "eventUtc": "2026-03-07T20:00:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
-    "source": "vf_port"
-  },
-  {
-    "title": "Disney Wish Arrived at Nassau, Bahamas at Mar 07, 09:13 AM EST. The local time to the port is Mar 07, 09:13 AM EST",
-    "description": "Nassau, Bahamas Arrival (UTC) Mar 7, 14:13 — ET: Mar 07, 09:13 AM EST | Local: Mar 07, 09:13 AM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "4adc5fe1f3458e6f264047395d7f2fa00a09b984",
-    "pubDate": "Sat, 07 Mar 2026 17:28:39 GMT",
-    "eventUtc": "2026-03-07T14:13:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Arrived at Gorda Cay, Bahamas at Mar 07, 07:56 AM EST. The local time to the port is Mar 07, 07:56 AM EST",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) Mar 7, 12:56 — ET: Mar 07, 07:56 AM EST | Local: Mar 07, 07:56 AM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "904a2ad5f7efeff3471528ee7c5f019145616105",
-    "pubDate": "Sun, 08 Mar 2026 06:43:22 GMT",
-    "eventUtc": "2026-03-07T12:56:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
-    "source": "vf_ship"
   }
 ]
