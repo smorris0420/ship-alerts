@@ -242,6 +242,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Departed from Falmouth, Jamaica at Apr 22, 05:47 PM EDT. The local time to the port is Apr 22, 04:47 PM EST",
+    "description": "Falmouth, Jamaica Departure (UTC) Apr 22, 21:47 — ET: Apr 22, 05:47 PM EDT | Local: Apr 22, 04:47 PM EST",
+    "link": "https://www.vesselfinder.com/ports/JMFMH001",
+    "guid": "c197ceaddb42d0f28467821a612833e7801e216c",
+    "pubDate": "Thu, 23 Apr 2026 08:16:24 GMT",
+    "eventUtc": "2026-04-22T21:47:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Arrived at Singapore, Singapore at Apr 22, 05:18 PM EDT. The local time to the port is Apr 22, 05:18 PM EDT",
     "description": "Singapore, Singapore Arrival (UTC) Apr 22, 21:18 — ET: Apr 22, 05:18 PM EDT | Local: Apr 22, 05:18 PM EDT",
     "link": "https://www.vesselfinder.com/ports/SGSIN001",
@@ -305,6 +316,17 @@
     "eventUtc": "2026-04-22T13:11:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Treasure Arrived at Falmouth, Jamaica at Apr 22, 07:57 AM EDT. The local time to the port is Apr 22, 06:57 AM EST",
+    "description": "Falmouth, Jamaica Arrival (UTC) Apr 22, 11:57 — ET: Apr 22, 07:57 AM EDT | Local: Apr 22, 06:57 AM EST",
+    "link": "https://www.vesselfinder.com/ports/JMFMH001",
+    "guid": "72aca2adf5d2a1c1117083f7425d951951f3b948",
+    "pubDate": "Thu, 23 Apr 2026 08:16:22 GMT",
+    "eventUtc": "2026-04-22T11:57:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
     "source": "vf_ship"
   },
   {
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-03-07T10:56:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Departed from San Diego, United States (USA) at Mar 06, 08:41 PM EST. The local time to the port is Mar 06, 08:41 PM EST",
-    "description": "San Diego, United States (USA) Departure (UTC) Mar 7, 01:41 — ET: Mar 06, 08:41 PM EST | Local: Mar 06, 08:41 PM EST",
-    "link": "https://www.vesselfinder.com/ports/USSAN001",
-    "guid": "7f7b573c94e1a3a17d99c0f8c948c122ec39340b",
-    "pubDate": "Sat, 07 Mar 2026 02:26:41 GMT",
-    "eventUtc": "2026-03-07T01:41:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Departed from Avalon Anch., United States (USA) at Mar 06, 08:41 PM EST. The local time to the port is Mar 06, 08:41 PM EST",
-    "description": "Avalon Anch., United States (USA) Departure (UTC) Mar 7, 01:41 — ET: Mar 06, 08:41 PM EST | Local: Mar 06, 08:41 PM EST",
-    "link": "https://www.vesselfinder.com/ports/USAOU001",
-    "guid": "c69e22e65ec5f8d4c5d973fc2659acdbbee979f3",
-    "pubDate": "Sat, 07 Mar 2026 16:02:48 GMT",
-    "eventUtc": "2026-03-07T01:41:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
     "source": "vf_ship"
   }
 ]
