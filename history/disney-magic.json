@@ -33,6 +33,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from San Diego, United States (USA) at Apr 23, 08:37 PM EDT. The local time to the port is Apr 23, 08:37 PM EDT",
+    "description": "San Diego, United States (USA) Departure (UTC) Apr 24, 00:37 — ET: Apr 23, 08:37 PM EDT | Local: Apr 23, 08:37 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USSAN001",
+    "guid": "ae51aa3660b8804f983aff9ec231b642388798f6",
+    "pubDate": "Fri, 24 Apr 2026 01:12:45 GMT",
+    "eventUtc": "2026-04-24T00:37:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Arrived at San Diego, United States (USA) at Apr 23, 09:28 AM EDT. The local time to the port is Apr 23, 09:28 AM EDT",
     "description": "San Diego, United States (USA) Arrival (UTC) Apr 23, 13:28 — ET: Apr 23, 09:28 AM EDT | Local: Apr 23, 09:28 AM EDT",
     "link": "https://www.vesselfinder.com/ports/USSAN001",
