@@ -33,6 +33,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Arrived at Ensenada, Mexico at Apr 24, 10:29 AM EDT. The local time to the port is Apr 24, 09:29 AM EST",
+    "description": "Ensenada, Mexico Arrival (UTC) Apr 24, 14:29 — ET: Apr 24, 10:29 AM EDT | Local: Apr 24, 09:29 AM EST",
+    "link": "https://www.vesselfinder.com/ports/MXESE001",
+    "guid": "a8c162a1522803fb9475f1d00663148edca78b61",
+    "pubDate": "Fri, 24 Apr 2026 15:44:43 GMT",
+    "eventUtc": "2026-04-24T14:29:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Departed from San Diego, United States (USA) at Apr 23, 08:37 PM EDT. The local time to the port is Apr 23, 08:37 PM EDT",
     "description": "San Diego, United States (USA) Departure (UTC) Apr 24, 00:37 — ET: Apr 23, 08:37 PM EDT | Local: Apr 23, 08:37 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USSAN001",
