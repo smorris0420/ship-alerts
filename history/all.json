@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Departed from Port Everglades, United States (USA) at Apr 25, 04:14 PM EDT. The local time to the port is Apr 25, 04:14 PM EDT",
+    "description": "Port Everglades, United States (USA) Departure (UTC) Apr 25, 20:14 — ET: Apr 25, 04:14 PM EDT | Local: Apr 25, 04:14 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPEF001",
+    "guid": "b0cf28b0b46b11963cc670702c739b67e513a032",
+    "pubDate": "Sat, 25 Apr 2026 20:31:37 GMT",
+    "eventUtc": "2026-04-25T20:14:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Port Everglades, United States (USA) at Apr 25, 11:45 AM EDT. The local time to the port is Apr 25, 11:45 AM EDT",
     "description": "Port Everglades, United States (USA) Departure (UTC) Apr 25, 15:45 — ET: Apr 25, 11:45 AM EDT | Local: Apr 25, 11:45 AM EDT",
     "link": "https://www.vesselfinder.com/ports/USPEF001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-03-09T15:43:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Arrived at San Diego, United States (USA) at Mar 09, 09:27 AM EDT. The local time to the port is Mar 09, 09:27 AM EDT",
-    "description": "San Diego, United States (USA) Arrival (UTC) Mar 9, 13:27 — ET: Mar 09, 09:27 AM EDT | Local: Mar 09, 09:27 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/USSAN001",
-    "guid": "6fc7182597d3fed1e4ea2a9ef953416644c8c6bf",
-    "pubDate": "Mon, 09 Mar 2026 14:37:40 GMT",
-    "eventUtc": "2026-03-09T13:27:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
     "source": "vf_ship"
   }
 ]
