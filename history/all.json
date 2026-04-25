@@ -231,6 +231,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Destiny Arrived at Port Everglades, United States (USA) at Apr 25, 04:32 AM EDT. The local time to the port is Apr 25, 04:32 AM EDT",
+    "description": "Port Everglades, United States (USA) Arrival (UTC) Apr 25, 08:32 — ET: Apr 25, 04:32 AM EDT | Local: Apr 25, 04:32 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPEF001",
+    "guid": "c97d26a26374c363d856f8436f4cd35bbc423ae9",
+    "pubDate": "Sat, 25 Apr 2026 09:36:46 GMT",
+    "eventUtc": "2026-04-25T08:32:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Departed from Ensenada, Mexico at Apr 24, 08:57 PM EDT. The local time to the port is Apr 24, 07:57 PM EST",
     "description": "Ensenada, Mexico Departure (UTC) Apr 25, 00:57 — ET: Apr 24, 08:57 PM EDT | Local: Apr 24, 07:57 PM EST",
     "link": "https://www.vesselfinder.com/ports/MXESE001",
@@ -5483,17 +5494,6 @@
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
     "guid": "abfc5f4639caf83009aae430aef3be90abb743ff",
     "pubDate": "Mon, 09 Mar 2026 13:38:46 GMT",
-    "eventUtc": "2026-03-09T12:56:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Georgetown, Grand Cayman Anch., Cayman Islands at Mar 09, 08:56 AM EDT. The local time to the port is Mar 09, 07:56 AM EST",
-    "description": "Georgetown, Grand Cayman Anch., Cayman Islands Arrival (UTC) Mar 9, 12:56 — ET: Mar 09, 08:56 AM EDT | Local: Mar 09, 07:56 AM EST",
-    "link": "https://www.vesselfinder.com/ports/KYGEC001",
-    "guid": "ad18ca36e02f8b8725a3bb429724346e65de3a03",
-    "pubDate": "Tue, 10 Mar 2026 16:16:07 GMT",
     "eventUtc": "2026-03-09T12:56:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
