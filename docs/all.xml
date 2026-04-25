@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Sat, 25 Apr 2026 10:30:45 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 25 Apr 2026 11:16:20 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -153,6 +153,13 @@
     <guid isPermaLink="false">352f372e203723d8c228014b1ae8a1d7e5e050d0</guid>
     <pubDate>Fri, 24 Apr 2026 12:44:26 GMT</pubDate>
     <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) Apr 25, 15:45 — ET: Apr 25, 11:45 AM EDT | Local: Apr 25, 11:45 AM EDT]]></description>
+  </item>
+  <item>
+    <title>Disney Treasure Arrived at Cape Canaveral, United States (USA) at Apr 25, 05:55 AM EDT. The local time to the port is Apr 25, 05:55 AM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USPCV001</link>
+    <guid isPermaLink="false">b25372c536b3ec8a28e5a476b1280cb8940afb80</guid>
+    <pubDate>Sat, 25 Apr 2026 11:12:48 GMT</pubDate>
+    <description><![CDATA[Cape Canaveral, United States (USA) Arrival (UTC) Apr 25, 09:55 — ET: Apr 25, 05:55 AM EDT | Local: Apr 25, 05:55 AM EDT]]></description>
   </item>
   <item>
     <title>Disney Destiny Arrived at Port Everglades, United States (USA) at Apr 25, 04:32 AM EDT. The local time to the port is Apr 25, 04:32 AM EDT</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">ef577d3f5bf99909cef38f8115f31b3bf8bf6437</guid>
     <pubDate>Wed, 11 Mar 2026 16:07:38 GMT</pubDate>
     <description><![CDATA[Avalon Anch., United States (USA) Arrival (UTC) Mar 9, 13:27 — ET: Mar 09, 09:27 AM EDT | Local: Mar 09, 09:27 AM EDT]]></description>
-  </item>
-  <item>
-    <title>Disney Treasure Arrived at Cozumel, Mexico at Mar 09, 08:56 AM EDT. The local time to the port is Mar 09, 07:56 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/MXCZM001</link>
-    <guid isPermaLink="false">abfc5f4639caf83009aae430aef3be90abb743ff</guid>
-    <pubDate>Mon, 09 Mar 2026 13:38:46 GMT</pubDate>
-    <description><![CDATA[Cozumel, Mexico Arrival (UTC) Mar 9, 12:56 — ET: Mar 09, 08:56 AM EDT | Local: Mar 09, 07:56 AM EST]]></description>
   </item>
 </channel>
 </rss>
