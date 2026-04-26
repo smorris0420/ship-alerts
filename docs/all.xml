@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Sun, 26 Apr 2026 18:33:42 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 26 Apr 2026 19:35:16 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,20 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Adventure Departed from Singapore, Singapore at Apr 26, 08:30 PM EDT. The local time to the port is Apr 26, 08:30 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/SGSIN001</link>
+    <guid isPermaLink="false">406c2375fbd066f24542dfbd06c1e7fcad948e43</guid>
+    <pubDate>Sun, 26 Apr 2026 19:34:41 GMT</pubDate>
+    <description><![CDATA[Singapore, Singapore Departure (UTC) Apr 27, 00:30 — ET: Apr 26, 08:30 PM EDT | Local: Apr 26, 08:30 PM EDT]]></description>
+  </item>
+  <item>
+    <title>Disney Adventure Arrived at Singapore, Singapore at Apr 26, 08:30 PM EDT. The local time to the port is Apr 26, 08:30 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/SGSIN001</link>
+    <guid isPermaLink="false">1e561296712867508eba1c6d69138054eb2d74cb</guid>
+    <pubDate>Sun, 26 Apr 2026 19:34:42 GMT</pubDate>
+    <description><![CDATA[Singapore, Singapore Arrival (UTC) Apr 27, 00:30 — ET: Apr 26, 08:30 PM EDT | Local: Apr 26, 08:30 PM EDT]]></description>
   </item>
   <item>
     <title>Disney Wish Arrived at Gorda Cay, Bahamas at Apr 26, 07:22 AM EDT. The local time to the port is Apr 26, 07:22 AM EDT</title>
@@ -3492,20 +3506,6 @@
     <guid isPermaLink="false">2ebeec85d9a3aab36af6fee537b7e12239bb9c74</guid>
     <pubDate>Wed, 11 Mar 2026 16:07:40 GMT</pubDate>
     <description><![CDATA[Avalon Anch., United States (USA) Departure (UTC) Mar 10, 00:34 — ET: Mar 09, 08:34 PM EDT | Local: Mar 09, 08:34 PM EDT]]></description>
-  </item>
-  <item>
-    <title>Disney Treasure Departed from Cozumel, Mexico at Mar 09, 06:08 PM EDT. The local time to the port is Mar 09, 05:08 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/MXCZM001</link>
-    <guid isPermaLink="false">ce29eb8f0ccb67da7c0738c7dd8ea260cd0a8be9</guid>
-    <pubDate>Mon, 09 Mar 2026 22:41:32 GMT</pubDate>
-    <description><![CDATA[Cozumel, Mexico Departure (UTC) Mar 9, 22:08 — ET: Mar 09, 06:08 PM EDT | Local: Mar 09, 05:08 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Treasure Departed from Georgetown, Grand Cayman Anch., Cayman Islands at Mar 09, 06:08 PM EDT. The local time to the port is Mar 09, 05:08 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/KYGEC001</link>
-    <guid isPermaLink="false">c2a3870edf36dfd01f821eafd6334bbe98065634</guid>
-    <pubDate>Tue, 10 Mar 2026 16:16:09 GMT</pubDate>
-    <description><![CDATA[Georgetown, Grand Cayman Anch., Cayman Islands Departure (UTC) Mar 9, 22:08 — ET: Mar 09, 06:08 PM EDT | Local: Mar 09, 05:08 PM EST]]></description>
   </item>
 </channel>
 </rss>
