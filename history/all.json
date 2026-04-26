@@ -231,6 +231,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Fantasy Departed from Cape Canaveral, United States (USA) at Apr 26, 04:22 PM EDT. The local time to the port is Apr 26, 04:22 PM EDT",
+    "description": "Cape Canaveral, United States (USA) Departure (UTC) Apr 26, 20:22 — ET: Apr 26, 04:22 PM EDT | Local: Apr 26, 04:22 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "720730dbff7be374d6739e8b2e3e9ffe84afab02",
+    "pubDate": "Sun, 26 Apr 2026 20:56:37 GMT",
+    "eventUtc": "2026-04-26T20:22:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Arrived at Gorda Cay, Bahamas at Apr 26, 07:22 AM EDT. The local time to the port is Apr 26, 07:22 AM EDT",
     "description": "Gorda Cay, Bahamas Arrival (UTC) Apr 26, 11:22 — ET: Apr 26, 07:22 AM EDT | Local: Apr 26, 07:22 AM EDT",
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
@@ -5483,17 +5494,6 @@
     "link": "https://www.vesselfinder.com/ports/USSAN001",
     "guid": "62bfc61684ce4007f97c135772bffc2d04f2d80a",
     "pubDate": "Tue, 10 Mar 2026 02:14:31 GMT",
-    "eventUtc": "2026-03-10T00:34:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Departed from Avalon Anch., United States (USA) at Mar 09, 08:34 PM EDT. The local time to the port is Mar 09, 08:34 PM EDT",
-    "description": "Avalon Anch., United States (USA) Departure (UTC) Mar 10, 00:34 — ET: Mar 09, 08:34 PM EDT | Local: Mar 09, 08:34 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USAOU001",
-    "guid": "2ebeec85d9a3aab36af6fee537b7e12239bb9c74",
-    "pubDate": "Wed, 11 Mar 2026 16:07:40 GMT",
     "eventUtc": "2026-03-10T00:34:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
