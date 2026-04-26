@@ -231,6 +231,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Wish Departed from Gorda Cay, Bahamas at Apr 26, 04:53 PM EDT. The local time to the port is Apr 26, 04:53 PM EDT",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Apr 26, 20:53 — ET: Apr 26, 04:53 PM EDT | Local: Apr 26, 04:53 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "8298097115f22347061414c11096d72eadad01e9",
+    "pubDate": "Sun, 26 Apr 2026 21:38:39 GMT",
+    "eventUtc": "2026-04-26T20:53:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Departed from Cape Canaveral, United States (USA) at Apr 26, 04:22 PM EDT. The local time to the port is Apr 26, 04:22 PM EDT",
     "description": "Cape Canaveral, United States (USA) Departure (UTC) Apr 26, 20:22 — ET: Apr 26, 04:22 PM EDT | Local: Apr 26, 04:22 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-03-10T01:06:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Departed from San Diego, United States (USA) at Mar 09, 08:34 PM EDT. The local time to the port is Mar 09, 08:34 PM EDT",
-    "description": "San Diego, United States (USA) Departure (UTC) Mar 10, 00:34 — ET: Mar 09, 08:34 PM EDT | Local: Mar 09, 08:34 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USSAN001",
-    "guid": "62bfc61684ce4007f97c135772bffc2d04f2d80a",
-    "pubDate": "Tue, 10 Mar 2026 02:14:31 GMT",
-    "eventUtc": "2026-03-10T00:34:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
     "source": "vf_ship"
   }
 ]
