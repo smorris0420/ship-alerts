@@ -209,6 +209,39 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Fantasy Arrived at Gorda Cay, Bahamas at Apr 27, 07:12 AM EDT. The local time to the port is Apr 27, 07:12 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Apr 27, 11:12 — ET: Apr 27, 07:12 AM EDT | Local: Apr 27, 07:12 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "a8b95de23e7a47e0cef252e5c08765a0b4cf166e",
+    "pubDate": "Mon, 27 Apr 2026 12:01:57 GMT",
+    "eventUtc": "2026-04-27T11:12:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Dream Arrived at Port Everglades, United States (USA) at Apr 27, 06:02 AM EDT. The local time to the port is Apr 27, 06:02 AM EDT",
+    "description": "Port Everglades, United States (USA) Arrival (UTC) Apr 27, 10:02 — ET: Apr 27, 06:02 AM EDT | Local: Apr 27, 06:02 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPEF001",
+    "guid": "623cf9d12f6f4ac7c794ba394ee77a80e48dc84d",
+    "pubDate": "Mon, 27 Apr 2026 12:02:39 GMT",
+    "eventUtc": "2026-04-27T10:02:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Wish Arrived at Cape Canaveral, United States (USA) at Apr 27, 05:35 AM EDT. The local time to the port is Apr 27, 05:35 AM EDT",
+    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Apr 27, 09:35 — ET: Apr 27, 05:35 AM EDT | Local: Apr 27, 05:35 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "f3d8796d7952556aae1fb75280f6bd98b321d243",
+    "pubDate": "Mon, 27 Apr 2026 12:01:13 GMT",
+    "eventUtc": "2026-04-27T09:35:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Departed from Singapore, Singapore at Apr 27, 05:14 AM EDT. The local time to the port is Apr 27, 05:14 AM EDT",
     "description": "Singapore, Singapore Departure (UTC) Apr 27, 09:14 — ET: Apr 27, 05:14 AM EDT | Local: Apr 27, 05:14 AM EDT",
     "link": "https://www.vesselfinder.com/ports/SGSIN001",
@@ -5462,39 +5495,6 @@
     "guid": "99c4665e5da74749960b682d9f067bddb34fbc06",
     "pubDate": "Thu, 12 Mar 2026 17:13:50 GMT",
     "eventUtc": "2026-03-11T11:35:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Arrived at Galveston, United States (USA) at Mar 11, 06:53 AM EDT. The local time to the port is Mar 11, 06:53 AM EDT",
-    "description": "Galveston, United States (USA) Arrival (UTC) Mar 11, 10:53 — ET: Mar 11, 06:53 AM EDT | Local: Mar 11, 06:53 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/USGLS001",
-    "guid": "0422ba7eaf8701f59848677e9d2d70474a1ce3bf",
-    "pubDate": "Wed, 11 Mar 2026 11:44:35 GMT",
-    "eventUtc": "2026-03-11T10:53:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Arrived at Cape Canaveral, United States (USA) at Mar 11, 03:43 AM EDT. The local time to the port is Mar 11, 03:43 AM EDT",
-    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Mar 11, 07:43 — ET: Mar 11, 03:43 AM EDT | Local: Mar 11, 03:43 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "488bb1120aca36725d5ad8489a7c35b976d82ed4",
-    "pubDate": "Wed, 11 Mar 2026 08:46:20 GMT",
-    "eventUtc": "2026-03-11T07:43:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Departed from Nassau, Bahamas at Mar 10, 06:44 PM EDT. The local time to the port is Mar 10, 06:44 PM EDT",
-    "description": "Nassau, Bahamas Departure (UTC) Mar 10, 22:44 — ET: Mar 10, 06:44 PM EDT | Local: Mar 10, 06:44 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "62ba054fb2f327c056df1aa13a1961b9189aac8e",
-    "pubDate": "Tue, 10 Mar 2026 23:15:21 GMT",
-    "eventUtc": "2026-03-10T22:44:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
     "source": "vf_ship"
