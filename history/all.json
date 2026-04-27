@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Port Everglades, United States (USA) at Apr 27, 04:06 PM EDT. The local time to the port is Apr 27, 04:06 PM EDT",
+    "description": "Port Everglades, United States (USA) Departure (UTC) Apr 27, 20:06 — ET: Apr 27, 04:06 PM EDT | Local: Apr 27, 04:06 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPEF001",
+    "guid": "17c68d0f451b594241351525f5da6e60a80e1e68",
+    "pubDate": "Mon, 27 Apr 2026 20:10:54 GMT",
+    "eventUtc": "2026-04-27T20:06:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Arrived at Puerto Vallarta, Mexico at Apr 27, 09:25 AM EDT. The local time to the port is Apr 27, 08:25 AM EST",
     "description": "Puerto Vallarta, Mexico Arrival (UTC) Apr 27, 13:25 — ET: Apr 27, 09:25 AM EDT | Local: Apr 27, 08:25 AM EST",
     "link": "https://www.vesselfinder.com/ports/MXPVR001",
@@ -5487,16 +5498,5 @@
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
     "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Departed from Cape Canaveral, United States (USA) at Mar 11, 08:30 AM EDT. The local time to the port is Mar 11, 08:30 AM EDT",
-    "description": "Cape Canaveral, United States (USA) Departure (UTC) Mar 11, 12:30 — ET: Mar 11, 08:30 AM EDT | Local: Mar 11, 08:30 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "29327190f54690e27b5fa4b9769f296279eee414",
-    "pubDate": "Mon, 09 Mar 2026 23:39:40 GMT",
-    "eventUtc": "2026-03-11T12:30:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
-    "source": "vf_port"
   }
 ]
