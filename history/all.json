@@ -275,6 +275,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Departed from Cabo San Lucas Anch., Mexico at Apr 27, 06:05 PM EDT. The local time to the port is Apr 27, 05:05 PM EST",
+    "description": "Cabo San Lucas Anch., Mexico Departure (UTC) Apr 27, 22:05 — ET: Apr 27, 06:05 PM EDT | Local: Apr 27, 05:05 PM EST",
+    "link": "https://www.vesselfinder.com/ports/MXCSL001",
+    "guid": "813678355809799c12d14b92a7af36b9bc7fe7c6",
+    "pubDate": "Tue, 28 Apr 2026 18:58:23 GMT",
+    "eventUtc": "2026-04-27T22:05:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Departed from Gorda Cay, Bahamas at Apr 27, 04:55 PM EDT. The local time to the port is Apr 27, 04:55 PM EDT",
     "description": "Gorda Cay, Bahamas Departure (UTC) Apr 27, 20:55 — ET: Apr 27, 04:55 PM EDT | Local: Apr 27, 04:55 PM EDT",
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
@@ -313,6 +324,17 @@
     "link": "https://www.vesselfinder.com/ports/MXPVR001",
     "guid": "9275429084f5c0e0f19bb4ba17198baef57ca383",
     "pubDate": "Mon, 27 Apr 2026 14:24:58 GMT",
+    "eventUtc": "2026-04-27T13:25:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Wonder Arrived at Cabo San Lucas Anch., Mexico at Apr 27, 09:25 AM EDT. The local time to the port is Apr 27, 08:25 AM EST",
+    "description": "Cabo San Lucas Anch., Mexico Arrival (UTC) Apr 27, 13:25 — ET: Apr 27, 09:25 AM EDT | Local: Apr 27, 08:25 AM EST",
+    "link": "https://www.vesselfinder.com/ports/MXCSL001",
+    "guid": "d4d091f29154e752294bfc8abfa6aa822c9da731",
+    "pubDate": "Tue, 28 Apr 2026 18:58:21 GMT",
     "eventUtc": "2026-04-27T13:25:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
@@ -5476,27 +5498,5 @@
     "shipSlug": "disney-adventure",
     "shipName": "Disney Adventure",
     "source": "vf_port"
-  },
-  {
-    "title": "Disney Fantasy Departed from Nassau, Bahamas at Mar 12, 06:21 PM EDT. The local time to the port is Mar 12, 06:21 PM EDT",
-    "description": "Nassau, Bahamas Departure (UTC) Mar 12, 22:21 — ET: Mar 12, 06:21 PM EDT | Local: Mar 12, 06:21 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "7c2ed28a418e890054afdeeeabc8e33864f70290",
-    "pubDate": "Thu, 12 Mar 2026 22:40:20 GMT",
-    "eventUtc": "2026-03-12T22:21:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Adventure Arrived at Singapore, Singapore at Mar 12, 05:09 PM EDT. The local time to the port is Mar 12, 05:09 PM EDT",
-    "description": "Singapore, Singapore Arrival (UTC) Mar 12, 21:09 — ET: Mar 12, 05:09 PM EDT | Local: Mar 12, 05:09 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/SGSIN001",
-    "guid": "35ba133c972b0f20fede7a9f47c4c19323111bc3",
-    "pubDate": "Fri, 13 Mar 2026 02:45:16 GMT",
-    "eventUtc": "2026-03-12T21:09:00+00:00",
-    "shipSlug": "disney-adventure",
-    "shipName": "Disney Adventure",
-    "source": "vf_ship"
   }
 ]

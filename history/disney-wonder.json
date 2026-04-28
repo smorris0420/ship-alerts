@@ -33,11 +33,33 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Departed from Cabo San Lucas Anch., Mexico at Apr 27, 06:05 PM EDT. The local time to the port is Apr 27, 05:05 PM EST",
+    "description": "Cabo San Lucas Anch., Mexico Departure (UTC) Apr 27, 22:05 — ET: Apr 27, 06:05 PM EDT | Local: Apr 27, 05:05 PM EST",
+    "link": "https://www.vesselfinder.com/ports/MXCSL001",
+    "guid": "813678355809799c12d14b92a7af36b9bc7fe7c6",
+    "pubDate": "Tue, 28 Apr 2026 18:58:23 GMT",
+    "eventUtc": "2026-04-27T22:05:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Arrived at Puerto Vallarta, Mexico at Apr 27, 09:25 AM EDT. The local time to the port is Apr 27, 08:25 AM EST",
     "description": "Puerto Vallarta, Mexico Arrival (UTC) Apr 27, 13:25 — ET: Apr 27, 09:25 AM EDT | Local: Apr 27, 08:25 AM EST",
     "link": "https://www.vesselfinder.com/ports/MXPVR001",
     "guid": "9275429084f5c0e0f19bb4ba17198baef57ca383",
     "pubDate": "Mon, 27 Apr 2026 14:24:58 GMT",
+    "eventUtc": "2026-04-27T13:25:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Wonder Arrived at Cabo San Lucas Anch., Mexico at Apr 27, 09:25 AM EDT. The local time to the port is Apr 27, 08:25 AM EST",
+    "description": "Cabo San Lucas Anch., Mexico Arrival (UTC) Apr 27, 13:25 — ET: Apr 27, 09:25 AM EDT | Local: Apr 27, 08:25 AM EST",
+    "link": "https://www.vesselfinder.com/ports/MXCSL001",
+    "guid": "d4d091f29154e752294bfc8abfa6aa822c9da731",
+    "pubDate": "Tue, 28 Apr 2026 18:58:21 GMT",
     "eventUtc": "2026-04-27T13:25:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
