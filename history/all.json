@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Departed from Gorda Cay, Bahamas at Apr 28, 04:51 PM EDT. The local time to the port is Apr 28, 04:51 PM EDT",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Apr 28, 20:51 — ET: Apr 28, 04:51 PM EDT | Local: Apr 28, 04:51 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "28fbf24de4925c0d32ac2f6050d513aff27cddbd",
+    "pubDate": "Tue, 28 Apr 2026 21:32:40 GMT",
+    "eventUtc": "2026-04-28T20:51:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Arrived at Nassau, Bahamas at Apr 28, 07:24 AM EDT. The local time to the port is Apr 28, 07:24 AM EDT",
     "description": "Nassau, Bahamas Arrival (UTC) Apr 28, 11:24 — ET: Apr 28, 07:24 AM EDT | Local: Apr 28, 07:24 AM EDT",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -5483,17 +5494,6 @@
     "link": "https://www.vesselfinder.com/ports/SGSIN001",
     "guid": "3bcee38cb64a4d3d735e82501342a690d5b21018",
     "pubDate": "Thu, 12 Mar 2026 19:55:11 GMT",
-    "eventUtc": "2026-03-13T00:30:00+00:00",
-    "shipSlug": "disney-adventure",
-    "shipName": "Disney Adventure",
-    "source": "vf_port"
-  },
-  {
-    "title": "Disney Adventure Arrived at Singapore, Singapore at Mar 12, 08:30 PM EDT. The local time to the port is Mar 12, 08:30 PM EDT",
-    "description": "Singapore, Singapore Arrival (UTC) Mar 13, 00:30 — ET: Mar 12, 08:30 PM EDT | Local: Mar 12, 08:30 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/SGSIN001",
-    "guid": "6c872eff527ab9a054f07bf23f66352a16ebc41e",
-    "pubDate": "Thu, 12 Mar 2026 19:55:12 GMT",
     "eventUtc": "2026-03-13T00:30:00+00:00",
     "shipSlug": "disney-adventure",
     "shipName": "Disney Adventure",
