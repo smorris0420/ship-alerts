@@ -209,6 +209,39 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Arrived at Gorda Cay, Bahamas at Apr 29, 07:40 AM EDT. The local time to the port is Apr 29, 07:40 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Apr 29, 11:40 — ET: Apr 29, 07:40 AM EDT | Local: Apr 29, 07:40 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "15ccdd63f9fa003b414578d10281a656994ae966",
+    "pubDate": "Wed, 29 Apr 2026 13:00:53 GMT",
+    "eventUtc": "2026-04-29T11:40:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Treasure Arrived at Road Town, Tortola, British Virgin Islands at Apr 29, 07:38 AM EDT. The local time to the port is Apr 29, 07:38 AM AST",
+    "description": "Road Town, Tortola, British Virgin Islands Arrival (UTC) Apr 29, 11:38 — ET: Apr 29, 07:38 AM EDT | Local: Apr 29, 07:38 AM AST",
+    "link": "https://www.vesselfinder.com/ports/VGRAD001",
+    "guid": "44e576fa4b73de4d18d1e10e175ff72105e7ae5d",
+    "pubDate": "Wed, 29 Apr 2026 12:57:14 GMT",
+    "eventUtc": "2026-04-29T11:38:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Fantasy Arrived at Nassau, Bahamas at Apr 29, 07:20 AM EDT. The local time to the port is Apr 29, 07:20 AM EDT",
+    "description": "Nassau, Bahamas Arrival (UTC) Apr 29, 11:20 — ET: Apr 29, 07:20 AM EDT | Local: Apr 29, 07:20 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "defb1e3cff74ec7a4761eb06d1b33478ffd3543f",
+    "pubDate": "Wed, 29 Apr 2026 12:57:30 GMT",
+    "eventUtc": "2026-04-29T11:20:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Nassau, Bahamas at Apr 28, 07:32 PM EDT. The local time to the port is Apr 28, 07:32 PM EDT",
     "description": "Nassau, Bahamas Departure (UTC) Apr 28, 23:32 — ET: Apr 28, 07:32 PM EDT | Local: Apr 28, 07:32 PM EDT",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -5464,39 +5497,6 @@
     "eventUtc": "2026-03-13T11:47:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Adventure Departed from Singapore, Singapore at Mar 13, 05:59 AM EDT. The local time to the port is Mar 13, 05:59 AM EDT",
-    "description": "Singapore, Singapore Departure (UTC) Mar 13, 09:59 — ET: Mar 13, 05:59 AM EDT | Local: Mar 13, 05:59 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/SGSIN001",
-    "guid": "b7d8fa7530b642c5779f8157bfe6b9d799051d96",
-    "pubDate": "Fri, 13 Mar 2026 10:22:43 GMT",
-    "eventUtc": "2026-03-13T09:59:00+00:00",
-    "shipSlug": "disney-adventure",
-    "shipName": "Disney Adventure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Arrived at Port Everglades, United States (USA) at Mar 13, 05:43 AM EDT. The local time to the port is Mar 13, 05:43 AM EDT",
-    "description": "Port Everglades, United States (USA) Arrival (UTC) Mar 13, 09:43 — ET: Mar 13, 05:43 AM EDT | Local: Mar 13, 05:43 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "6570a3c38c78f4826424876e2a71366b5f37a292",
-    "pubDate": "Fri, 13 Mar 2026 10:21:57 GMT",
-    "eventUtc": "2026-03-13T09:43:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Arrived at Cape Canaveral, United States (USA) at Mar 13, 05:33 AM EDT. The local time to the port is Mar 13, 05:33 AM EDT",
-    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Mar 13, 09:33 — ET: Mar 13, 05:33 AM EDT | Local: Mar 13, 05:33 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "96605eb159606817d178667aa9d38eb3460652d8",
-    "pubDate": "Fri, 13 Mar 2026 10:19:44 GMT",
-    "eventUtc": "2026-03-13T09:33:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
     "source": "vf_ship"
   }
 ]
