@@ -231,6 +231,28 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Adventure Arrived at Singapore, Singapore at Apr 29, 05:20 PM EDT. The local time to the port is Apr 29, 05:20 PM EDT",
+    "description": "Singapore, Singapore Arrival (UTC) Apr 29, 21:20 — ET: Apr 29, 05:20 PM EDT | Local: Apr 29, 05:20 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/SGSIN001",
+    "guid": "483674571262d11915cd67d5ede5be04ed6e1d70",
+    "pubDate": "Wed, 29 Apr 2026 22:13:11 GMT",
+    "eventUtc": "2026-04-29T21:20:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Destiny Departed from Gorda Cay, Bahamas at Apr 29, 05:04 PM EDT. The local time to the port is Apr 29, 05:04 PM EDT",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Apr 29, 21:04 — ET: Apr 29, 05:04 PM EDT | Local: Apr 29, 05:04 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "a73eee43f3590c7ae83b41f694a85d5b6fdf6dd7",
+    "pubDate": "Wed, 29 Apr 2026 22:13:24 GMT",
+    "eventUtc": "2026-04-29T21:04:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Departed from Road Town, Tortola, British Virgin Islands at Apr 29, 02:27 PM EDT. The local time to the port is Apr 29, 02:27 PM AST",
     "description": "Road Town, Tortola, British Virgin Islands Departure (UTC) Apr 29, 18:27 — ET: Apr 29, 02:27 PM EDT | Local: Apr 29, 02:27 PM AST",
     "link": "https://www.vesselfinder.com/ports/VGRAD001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-03-13T13:28:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Arrived at Avalon Anch., United States (USA) at Mar 13, 09:28 AM EDT. The local time to the port is Mar 13, 09:28 AM EDT",
-    "description": "Avalon Anch., United States (USA) Arrival (UTC) Mar 13, 13:28 — ET: Mar 13, 09:28 AM EDT | Local: Mar 13, 09:28 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/USAOU001",
-    "guid": "dec990c935efbfb90c47cf2d72a9ede560b6a672",
-    "pubDate": "Sat, 14 Mar 2026 14:46:57 GMT",
-    "eventUtc": "2026-03-13T13:28:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Arrived at Progreso, Mexico at Mar 13, 09:15 AM EDT. The local time to the port is Mar 13, 08:15 AM EST",
-    "description": "Progreso, Mexico Arrival (UTC) Mar 13, 13:15 — ET: Mar 13, 09:15 AM EDT | Local: Mar 13, 08:15 AM EST",
-    "link": "https://www.vesselfinder.com/ports/MXPGO001",
-    "guid": "57f7e0ba977eeaf52cedf8636ca4e6324d22bc81",
-    "pubDate": "Sun, 15 Mar 2026 04:09:28 GMT",
-    "eventUtc": "2026-03-13T13:15:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
