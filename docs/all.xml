@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Wed, 29 Apr 2026 22:13:25 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 29 Apr 2026 23:14:19 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -153,6 +153,13 @@
     <guid isPermaLink="false">40cdac45cd2be0ebd036c59e27306224dd38ef05</guid>
     <pubDate>Wed, 29 Apr 2026 20:02:17 GMT</pubDate>
     <description><![CDATA[Singapore, Singapore Arrival (UTC) Apr 30, 00:30 — ET: Apr 29, 08:30 PM EDT | Local: Apr 29, 08:30 PM EDT]]></description>
+  </item>
+  <item>
+    <title>Disney Fantasy Departed from Nassau, Bahamas at Apr 29, 06:10 PM EDT. The local time to the port is Apr 29, 06:10 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/BSNAS001</link>
+    <guid isPermaLink="false">57333f286046f39d449f84df26d3bf723beddfaf</guid>
+    <pubDate>Wed, 29 Apr 2026 23:11:45 GMT</pubDate>
+    <description><![CDATA[Nassau, Bahamas Departure (UTC) Apr 29, 22:10 — ET: Apr 29, 06:10 PM EDT | Local: Apr 29, 06:10 PM EDT]]></description>
   </item>
   <item>
     <title>Disney Adventure Arrived at Singapore, Singapore at Apr 29, 05:20 PM EDT. The local time to the port is Apr 29, 05:20 PM EDT</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">b3e152b1c502fe6aaa736adaa481f5b891f8bd3a</guid>
     <pubDate>Fri, 13 Mar 2026 21:02:44 GMT</pubDate>
     <description><![CDATA[Cape Canaveral, United States (USA) Departure (UTC) Mar 13, 20:28 — ET: Mar 13, 04:28 PM EDT | Local: Mar 13, 04:28 PM EDT]]></description>
-  </item>
-  <item>
-    <title>Disney Wonder Arrived at San Diego, United States (USA) at Mar 13, 09:28 AM EDT. The local time to the port is Mar 13, 09:28 AM EDT</title>
-    <link>https://www.vesselfinder.com/ports/USSAN001</link>
-    <guid isPermaLink="false">9fc9ef1d8fd7803c21c6f7085c6b6f463e0f7ab6</guid>
-    <pubDate>Fri, 13 Mar 2026 14:12:03 GMT</pubDate>
-    <description><![CDATA[San Diego, United States (USA) Arrival (UTC) Mar 13, 13:28 — ET: Mar 13, 09:28 AM EDT | Local: Mar 13, 09:28 AM EDT]]></description>
   </item>
 </channel>
 </rss>
