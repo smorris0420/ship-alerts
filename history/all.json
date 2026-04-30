@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Gorda Cay, Bahamas at Apr 30, 05:04 PM EDT. The local time to the port is Apr 30, 05:04 PM EDT",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Apr 30, 21:04 — ET: Apr 30, 05:04 PM EDT | Local: Apr 30, 05:04 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "839559328c694b451a4aa1bb874ab51a1a2664ef",
+    "pubDate": "Thu, 30 Apr 2026 22:15:53 GMT",
+    "eventUtc": "2026-04-30T21:04:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Departed from Port Everglades, United States (USA) at Apr 30, 04:14 PM EDT. The local time to the port is Apr 30, 04:14 PM EDT",
     "description": "Port Everglades, United States (USA) Departure (UTC) Apr 30, 20:14 — ET: Apr 30, 04:14 PM EDT | Local: Apr 30, 04:14 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USPEF001",
@@ -5483,17 +5494,6 @@
     "link": "https://www.vesselfinder.com/ports/USSAN001",
     "guid": "7edaac96e8ec4c65ee94f0cc6b210f5cb84e9cb8",
     "pubDate": "Sat, 14 Mar 2026 02:51:36 GMT",
-    "eventUtc": "2026-03-14T00:26:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Departed from Avalon Anch., United States (USA) at Mar 13, 08:26 PM EDT. The local time to the port is Mar 13, 08:26 PM EDT",
-    "description": "Avalon Anch., United States (USA) Departure (UTC) Mar 14, 00:26 — ET: Mar 13, 08:26 PM EDT | Local: Mar 13, 08:26 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USAOU001",
-    "guid": "ff99cffd1b2604b2f3d7148040987dd16cd995a5",
-    "pubDate": "Sat, 14 Mar 2026 14:46:59 GMT",
     "eventUtc": "2026-03-14T00:26:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
