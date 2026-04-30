@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Departed from Port Everglades, United States (USA) at Apr 30, 04:14 PM EDT. The local time to the port is Apr 30, 04:14 PM EDT",
+    "description": "Port Everglades, United States (USA) Departure (UTC) Apr 30, 20:14 — ET: Apr 30, 04:14 PM EDT | Local: Apr 30, 04:14 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPEF001",
+    "guid": "0181206b4b8070bd925240e07037b8472ba4e38f",
+    "pubDate": "Thu, 30 Apr 2026 20:17:35 GMT",
+    "eventUtc": "2026-04-30T20:14:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Arrived at Gorda Cay, Bahamas at Apr 30, 07:08 AM EDT. The local time to the port is Apr 30, 07:08 AM EDT",
     "description": "Gorda Cay, Bahamas Arrival (UTC) Apr 30, 11:08 — ET: Apr 30, 07:08 AM EDT | Local: Apr 30, 07:08 AM EDT",
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-03-14T00:26:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Progreso, Mexico at Mar 13, 07:54 PM EDT. The local time to the port is Mar 13, 06:54 PM EST",
-    "description": "Progreso, Mexico Departure (UTC) Mar 13, 23:54 — ET: Mar 13, 07:54 PM EDT | Local: Mar 13, 06:54 PM EST",
-    "link": "https://www.vesselfinder.com/ports/MXPGO001",
-    "guid": "16a1525780850a727e735909a630fd7437116b14",
-    "pubDate": "Sun, 15 Mar 2026 04:09:30 GMT",
-    "eventUtc": "2026-03-13T23:54:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
