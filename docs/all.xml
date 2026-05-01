@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Fri, 01 May 2026 08:56:25 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 01 May 2026 10:20:33 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,13 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Fantasy Arrived at Cape Canaveral, United States (USA) at May 01, 04:42 AM EDT. The local time to the port is May 01, 04:42 AM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USPCV001</link>
+    <guid isPermaLink="false">5040f87ecb842a5188917a0bcc3570d96c75c40f</guid>
+    <pubDate>Fri, 01 May 2026 10:17:47 GMT</pubDate>
+    <description><![CDATA[Cape Canaveral, United States (USA) Arrival (UTC) May 1, 08:42 — ET: May 01, 04:42 AM EDT | Local: May 01, 04:42 AM EDT]]></description>
   </item>
   <item>
     <title>Disney Dream Departed from Gorda Cay, Bahamas at Apr 30, 05:04 PM EDT. The local time to the port is Apr 30, 05:04 PM EDT</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">4f45d7d835f08d4fccf99108aadbd8abb759e742</guid>
     <pubDate>Sat, 14 Mar 2026 09:38:40 GMT</pubDate>
     <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) Mar 14, 08:35 — ET: Mar 14, 04:35 AM EDT | Local: Mar 14, 04:35 AM EDT]]></description>
-  </item>
-  <item>
-    <title>Disney Wonder Departed from San Diego, United States (USA) at Mar 13, 08:26 PM EDT. The local time to the port is Mar 13, 08:26 PM EDT</title>
-    <link>https://www.vesselfinder.com/ports/USSAN001</link>
-    <guid isPermaLink="false">7edaac96e8ec4c65ee94f0cc6b210f5cb84e9cb8</guid>
-    <pubDate>Sat, 14 Mar 2026 02:51:36 GMT</pubDate>
-    <description><![CDATA[San Diego, United States (USA) Departure (UTC) Mar 14, 00:26 — ET: Mar 13, 08:26 PM EDT | Local: Mar 13, 08:26 PM EDT]]></description>
   </item>
 </channel>
 </rss>
