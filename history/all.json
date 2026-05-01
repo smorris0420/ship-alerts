@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Arrived at Cape Canaveral, United States (USA) at May 01, 06:07 AM EDT. The local time to the port is May 01, 06:07 AM EDT",
+    "description": "Cape Canaveral, United States (USA) Arrival (UTC) May 1, 10:07 — ET: May 01, 06:07 AM EDT | Local: May 01, 06:07 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "3325e06bb345c70cfd8f63f29b7bfd4837536e82",
+    "pubDate": "Fri, 01 May 2026 11:34:57 GMT",
+    "eventUtc": "2026-05-01T10:07:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Arrived at Cape Canaveral, United States (USA) at May 01, 04:42 AM EDT. The local time to the port is May 01, 04:42 AM EDT",
     "description": "Cape Canaveral, United States (USA) Arrival (UTC) May 1, 08:42 — ET: May 01, 04:42 AM EDT | Local: May 01, 04:42 AM EDT",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-03-14T09:57:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Arrived at Port Everglades, United States (USA) at Mar 14, 04:35 AM EDT. The local time to the port is Mar 14, 04:35 AM EDT",
-    "description": "Port Everglades, United States (USA) Arrival (UTC) Mar 14, 08:35 — ET: Mar 14, 04:35 AM EDT | Local: Mar 14, 04:35 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "4f45d7d835f08d4fccf99108aadbd8abb759e742",
-    "pubDate": "Sat, 14 Mar 2026 09:38:40 GMT",
-    "eventUtc": "2026-03-14T08:35:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
     "source": "vf_ship"
   }
 ]
