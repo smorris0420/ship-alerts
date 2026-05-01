@@ -44,6 +44,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Departed from Gorda Cay, Bahamas at May 01, 04:57 PM EDT. The local time to the port is May 01, 04:57 PM EDT",
+    "description": "Gorda Cay, Bahamas Departure (UTC) May 1, 20:57 — ET: May 01, 04:57 PM EDT | Local: May 01, 04:57 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "4b913fbf5b1bead3b4e040be46a1000299f0044e",
+    "pubDate": "Fri, 01 May 2026 23:31:29 GMT",
+    "eventUtc": "2026-05-01T20:57:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Treasure Arrived at Gorda Cay, Bahamas at May 01, 10:15 AM EDT. The local time to the port is May 01, 10:15 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) May 1, 14:15 — ET: May 01, 10:15 AM EDT | Local: May 01, 10:15 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "16a4c9022a6c6f4480293f2497a0be0d29dc1d5e",
+    "pubDate": "Fri, 01 May 2026 23:31:28 GMT",
+    "eventUtc": "2026-05-01T14:15:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Departed from Road Town, Tortola, British Virgin Islands at Apr 29, 02:27 PM EDT. The local time to the port is Apr 29, 02:27 PM AST",
     "description": "Road Town, Tortola, British Virgin Islands Departure (UTC) Apr 29, 18:27 — ET: Apr 29, 02:27 PM EDT | Local: Apr 29, 02:27 PM AST",
     "link": "https://www.vesselfinder.com/ports/VGRAD001",
