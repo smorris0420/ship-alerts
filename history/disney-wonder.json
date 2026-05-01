@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Arrived at San Diego, United States (USA) at May 01, 09:40 AM EDT. The local time to the port is May 01, 09:40 AM EDT",
+    "description": "San Diego, United States (USA) Arrival (UTC) May 1, 13:40 — ET: May 01, 09:40 AM EDT | Local: May 01, 09:40 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USSAN001",
+    "guid": "00879c5b0227e77d92fa1293edca3bfd54b4f581",
+    "pubDate": "Fri, 01 May 2026 16:14:56 GMT",
+    "eventUtc": "2026-05-01T13:40:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Departed from Puerto Vallarta, Mexico at Apr 27, 06:05 PM EDT. The local time to the port is Apr 27, 05:05 PM EST",
     "description": "Puerto Vallarta, Mexico Departure (UTC) Apr 27, 22:05 — ET: Apr 27, 06:05 PM EDT | Local: Apr 27, 05:05 PM EST",
     "link": "https://www.vesselfinder.com/ports/MXPVR001",
