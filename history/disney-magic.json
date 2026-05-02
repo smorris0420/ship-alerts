@@ -33,6 +33,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Arrived at Esquimalt, Canada at May 02, 09:20 AM EDT. The local time to the port is May 02, 06:20 AM PDT",
+    "description": "Esquimalt, Canada Arrival (UTC) May 2, 13:20 — ET: May 02, 09:20 AM EDT | Local: May 02, 06:20 AM PDT",
+    "link": "https://www.vesselfinder.com/ports/CAESQ001",
+    "guid": "30a478d5c9fd712960a011dfb4270124b3fa744f",
+    "pubDate": "Sat, 02 May 2026 14:35:44 GMT",
+    "eventUtc": "2026-05-02T13:20:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Departed from Vancouver, Canada at May 02, 03:25 AM EDT. The local time to the port is May 02, 12:25 AM PDT",
     "description": "Vancouver, Canada Departure (UTC) May 2, 07:25 — ET: May 02, 03:25 AM EDT | Local: May 02, 12:25 AM PDT",
     "link": "https://www.vesselfinder.com/ports/CAVAN001",
