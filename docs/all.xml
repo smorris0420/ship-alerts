@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Sat, 02 May 2026 15:32:34 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 02 May 2026 16:29:12 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -160,6 +160,13 @@
     <guid isPermaLink="false">a398622a43cb5754ce1b66cec975b7500a47ca95</guid>
     <pubDate>Sat, 02 May 2026 13:42:13 GMT</pubDate>
     <description><![CDATA[Nassau, Bahamas Arrival (UTC) May 2, 13:05 — ET: May 02, 09:05 AM EDT | Local: May 02, 09:05 AM EDT]]></description>
+  </item>
+  <item>
+    <title>Disney Destiny Arrived at Gorda Cay, Bahamas at May 02, 07:39 AM EDT. The local time to the port is May 02, 07:39 AM EDT</title>
+    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
+    <guid isPermaLink="false">b8588a280cf3f2e5d2cd1afc46cefde6cb74801c</guid>
+    <pubDate>Sat, 02 May 2026 16:29:09 GMT</pubDate>
+    <description><![CDATA[Gorda Cay, Bahamas Arrival (UTC) May 2, 11:39 — ET: May 02, 07:39 AM EDT | Local: May 02, 07:39 AM EDT]]></description>
   </item>
   <item>
     <title>Disney Treasure Arrived at Cape Canaveral, United States (USA) at May 02, 05:57 AM EDT. The local time to the port is May 02, 05:57 AM EDT</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">030a74470f4ee98985c465bcbe5f9c181ad45bbb</guid>
     <pubDate>Sun, 15 Mar 2026 19:05:26 GMT</pubDate>
     <description><![CDATA[Singapore, Singapore Departure (UTC) Mar 16, 00:30 — ET: Mar 15, 08:30 PM EDT | Local: Mar 15, 08:30 PM EDT]]></description>
-  </item>
-  <item>
-    <title>Disney Adventure Arrived at Singapore, Singapore at Mar 15, 08:30 PM EDT. The local time to the port is Mar 15, 08:30 PM EDT</title>
-    <link>https://www.vesselfinder.com/ports/SGSIN001</link>
-    <guid isPermaLink="false">0bce9a31cff6191d4292930038b4d89168900840</guid>
-    <pubDate>Sun, 15 Mar 2026 19:05:27 GMT</pubDate>
-    <description><![CDATA[Singapore, Singapore Arrival (UTC) Mar 16, 00:30 — ET: Mar 15, 08:30 PM EDT | Local: Mar 15, 08:30 PM EDT]]></description>
   </item>
 </channel>
 </rss>

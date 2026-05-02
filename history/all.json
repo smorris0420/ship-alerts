@@ -242,6 +242,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Arrived at Gorda Cay, Bahamas at May 02, 07:39 AM EDT. The local time to the port is May 02, 07:39 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) May 2, 11:39 — ET: May 02, 07:39 AM EDT | Local: May 02, 07:39 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "b8588a280cf3f2e5d2cd1afc46cefde6cb74801c",
+    "pubDate": "Sat, 02 May 2026 16:29:09 GMT",
+    "eventUtc": "2026-05-02T11:39:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Arrived at Cape Canaveral, United States (USA) at May 02, 05:57 AM EDT. The local time to the port is May 02, 05:57 AM EDT",
     "description": "Cape Canaveral, United States (USA) Arrival (UTC) May 2, 09:57 — ET: May 02, 05:57 AM EDT | Local: May 02, 05:57 AM EDT",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5483,17 +5494,6 @@
     "link": "https://www.vesselfinder.com/ports/SGSIN001",
     "guid": "030a74470f4ee98985c465bcbe5f9c181ad45bbb",
     "pubDate": "Sun, 15 Mar 2026 19:05:26 GMT",
-    "eventUtc": "2026-03-16T00:30:00+00:00",
-    "shipSlug": "disney-adventure",
-    "shipName": "Disney Adventure",
-    "source": "vf_port"
-  },
-  {
-    "title": "Disney Adventure Arrived at Singapore, Singapore at Mar 15, 08:30 PM EDT. The local time to the port is Mar 15, 08:30 PM EDT",
-    "description": "Singapore, Singapore Arrival (UTC) Mar 16, 00:30 — ET: Mar 15, 08:30 PM EDT | Local: Mar 15, 08:30 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/SGSIN001",
-    "guid": "0bce9a31cff6191d4292930038b4d89168900840",
-    "pubDate": "Sun, 15 Mar 2026 19:05:27 GMT",
     "eventUtc": "2026-03-16T00:30:00+00:00",
     "shipSlug": "disney-adventure",
     "shipName": "Disney Adventure",
