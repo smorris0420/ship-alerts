@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Port Everglades, United States (USA) at May 02, 05:03 AM EDT. The local time to the port is May 02, 05:03 AM EDT",
+    "description": "Port Everglades, United States (USA) Arrival (UTC) May 2, 09:03 — ET: May 02, 05:03 AM EDT | Local: May 02, 05:03 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPEF001",
+    "guid": "a82e3ce08d0fbdae19d29bd75e07c7ccfcbe90fa",
+    "pubDate": "Sat, 02 May 2026 10:18:00 GMT",
+    "eventUtc": "2026-05-02T09:03:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Departed from Vancouver, Canada at May 02, 03:25 AM EDT. The local time to the port is May 02, 12:25 AM PDT",
     "description": "Vancouver, Canada Departure (UTC) May 2, 07:25 — ET: May 02, 03:25 AM EDT | Local: May 02, 12:25 AM PDT",
     "link": "https://www.vesselfinder.com/ports/CAVAN001",
@@ -5487,16 +5498,5 @@
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
     "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Galveston, United States (USA) at Mar 15, 09:30 AM EDT. The local time to the port is Mar 15, 09:30 AM EDT",
-    "description": "Galveston, United States (USA) Departure (UTC) Mar 15, 13:30 — ET: Mar 15, 09:30 AM EDT | Local: Mar 15, 09:30 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/USGLS001",
-    "guid": "b578b556805e833bdb2f2076434b23cecc2db505",
-    "pubDate": "Sat, 14 Mar 2026 14:05:24 GMT",
-    "eventUtc": "2026-03-15T13:30:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
-    "source": "vf_port"
   }
 ]

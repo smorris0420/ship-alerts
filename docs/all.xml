@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Sat, 02 May 2026 09:25:20 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 02 May 2026 10:19:38 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,13 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Dream Arrived at Port Everglades, United States (USA) at May 02, 05:03 AM EDT. The local time to the port is May 02, 05:03 AM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USPEF001</link>
+    <guid isPermaLink="false">a82e3ce08d0fbdae19d29bd75e07c7ccfcbe90fa</guid>
+    <pubDate>Sat, 02 May 2026 10:18:00 GMT</pubDate>
+    <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) May 2, 09:03 — ET: May 02, 05:03 AM EDT | Local: May 02, 05:03 AM EDT]]></description>
   </item>
   <item>
     <title>Disney Magic Departed from Vancouver, Canada at May 02, 03:25 AM EDT. The local time to the port is May 02, 12:25 AM PDT</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">07253b7d0ab6866d113ec80a2e551c2c6ab088d3</guid>
     <pubDate>Sun, 15 Mar 2026 15:23:38 GMT</pubDate>
     <description><![CDATA[Ensenada, Mexico Arrival (UTC) Mar 15, 14:31 — ET: Mar 15, 10:31 AM EDT | Local: Mar 15, 09:31 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Magic Departed from Galveston, United States (USA) at Mar 15, 09:30 AM EDT. The local time to the port is Mar 15, 09:30 AM EDT</title>
-    <link>https://www.vesselfinder.com/ports/USGLS001</link>
-    <guid isPermaLink="false">b578b556805e833bdb2f2076434b23cecc2db505</guid>
-    <pubDate>Sat, 14 Mar 2026 14:05:24 GMT</pubDate>
-    <description><![CDATA[Galveston, United States (USA) Departure (UTC) Mar 15, 13:30 — ET: Mar 15, 09:30 AM EDT | Local: Mar 15, 09:30 AM EDT]]></description>
   </item>
 </channel>
 </rss>
