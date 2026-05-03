@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Departed from Gorda Cay, Bahamas at May 03, 04:46 PM EDT. The local time to the port is May 03, 04:46 PM EDT",
+    "description": "Gorda Cay, Bahamas Departure (UTC) May 3, 20:46 — ET: May 03, 04:46 PM EDT | Local: May 03, 04:46 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "a2981a4796583ac952e7b51a8797633f8d8199de",
+    "pubDate": "Sun, 03 May 2026 20:58:29 GMT",
+    "eventUtc": "2026-05-03T20:46:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Arrived at Gorda Cay, Bahamas at May 03, 07:30 AM EDT. The local time to the port is May 03, 07:30 AM EDT",
     "description": "Gorda Cay, Bahamas Arrival (UTC) May 3, 11:30 — ET: May 03, 07:30 AM EDT | Local: May 03, 07:30 AM EDT",
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
@@ -5487,16 +5498,5 @@
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
     "source": "vf_port"
-  },
-  {
-    "title": "Disney Destiny Arrived at Cozumel, Mexico at Mar 16, 08:17 AM EDT. The local time to the port is Mar 16, 07:17 AM EST",
-    "description": "Cozumel, Mexico Arrival (UTC) Mar 16, 12:17 — ET: Mar 16, 08:17 AM EDT | Local: Mar 16, 07:17 AM EST",
-    "link": "https://www.vesselfinder.com/ports/MXCZM001",
-    "guid": "c3e1770c533af0dcd683dfcde250143bfd59e363",
-    "pubDate": "Mon, 16 Mar 2026 13:51:41 GMT",
-    "eventUtc": "2026-03-16T12:17:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
-    "source": "vf_ship"
   }
 ]
