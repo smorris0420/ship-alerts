@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Mon, 04 May 2026 21:24:12 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 04 May 2026 22:34:45 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,13 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Treasure Departed from Cozumel, Mexico at May 04, 05:56 PM EDT. The local time to the port is May 04, 04:56 PM EST</title>
+    <link>https://www.vesselfinder.com/ports/MXCZM001</link>
+    <guid isPermaLink="false">e5732fbe5f5fc03c93b2913fa62ce679e17f20e8</guid>
+    <pubDate>Mon, 04 May 2026 22:30:34 GMT</pubDate>
+    <description><![CDATA[Cozumel, Mexico Departure (UTC) May 4, 21:56 — ET: May 04, 05:56 PM EDT | Local: May 04, 04:56 PM EST]]></description>
   </item>
   <item>
     <title>Disney Wish Departed from Cape Canaveral, United States (USA) at May 04, 04:36 PM EDT. The local time to the port is May 04, 04:36 PM EDT</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">a179894fd8f59d191a407177702b981d061524f4</guid>
     <pubDate>Tue, 17 Mar 2026 13:12:03 GMT</pubDate>
     <description><![CDATA[Nassau, Bahamas Arrival (UTC) Mar 17, 11:40 — ET: Mar 17, 07:40 AM EDT | Local: Mar 17, 07:40 AM EDT]]></description>
-  </item>
-  <item>
-    <title>Disney Treasure Arrived at Road Town, Tortola, British Virgin Islands at Mar 17, 07:00 AM EDT. The local time to the port is Mar 17, 07:00 AM AST</title>
-    <link>https://www.vesselfinder.com/ports/VGRAD001</link>
-    <guid isPermaLink="false">ad8e8ab0b582f2a4a9e8eee4793779d4b5e9f0ed</guid>
-    <pubDate>Tue, 17 Mar 2026 11:55:31 GMT</pubDate>
-    <description><![CDATA[Road Town, Tortola, British Virgin Islands Arrival (UTC) Mar 17, 11:00 — ET: Mar 17, 07:00 AM EDT | Local: Mar 17, 07:00 AM AST]]></description>
   </item>
 </channel>
 </rss>
