@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Departed from San Diego, United States (USA) at May 04, 08:32 PM EDT. The local time to the port is May 04, 08:32 PM EDT",
+    "description": "San Diego, United States (USA) Departure (UTC) May 5, 00:32 — ET: May 04, 08:32 PM EDT | Local: May 04, 08:32 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USSAN001",
+    "guid": "5cfaa54d3d8425546b7086a49ccca8867710a67c",
+    "pubDate": "Tue, 05 May 2026 01:16:23 GMT",
+    "eventUtc": "2026-05-05T00:32:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Departed from Cozumel, Mexico at May 04, 05:56 PM EDT. The local time to the port is May 04, 04:56 PM EST",
     "description": "Cozumel, Mexico Departure (UTC) May 4, 21:56 — ET: May 04, 05:56 PM EDT | Local: May 04, 04:56 PM EST",
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-03-17T11:44:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Arrived at Nassau, Bahamas at Mar 17, 07:40 AM EDT. The local time to the port is Mar 17, 07:40 AM EDT",
-    "description": "Nassau, Bahamas Arrival (UTC) Mar 17, 11:40 — ET: Mar 17, 07:40 AM EDT | Local: Mar 17, 07:40 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "a179894fd8f59d191a407177702b981d061524f4",
-    "pubDate": "Tue, 17 Mar 2026 13:12:03 GMT",
-    "eventUtc": "2026-03-17T11:40:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
     "source": "vf_ship"
   }
 ]
