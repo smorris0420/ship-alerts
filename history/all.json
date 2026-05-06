@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Departed from Ensenada, Mexico at May 05, 08:12 PM EDT. The local time to the port is May 05, 07:12 PM EST",
+    "description": "Ensenada, Mexico Departure (UTC) May 6, 00:12 — ET: May 05, 08:12 PM EDT | Local: May 05, 07:12 PM EST",
+    "link": "https://www.vesselfinder.com/ports/MXESE001",
+    "guid": "61ddd22863a6dae39ecbc7384cf388693ca49556",
+    "pubDate": "Wed, 06 May 2026 04:02:35 GMT",
+    "eventUtc": "2026-05-06T00:12:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Departed from Nassau, Bahamas at May 05, 05:51 PM EDT. The local time to the port is May 05, 05:51 PM EDT",
     "description": "Nassau, Bahamas Departure (UTC) May 5, 21:51 — ET: May 05, 05:51 PM EDT | Local: May 05, 05:51 PM EDT",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-03-18T12:17:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Saint Thomas, US Virgin Islands at Mar 18, 07:39 AM EDT. The local time to the port is Mar 18, 07:39 AM EDT",
-    "description": "Saint Thomas, US Virgin Islands Arrival (UTC) Mar 18, 11:39 — ET: Mar 18, 07:39 AM EDT | Local: Mar 18, 07:39 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/VISTT001",
-    "guid": "8c701cc86c80dbd302e21308e6e0a85ecb00ac0e",
-    "pubDate": "Wed, 18 Mar 2026 13:47:09 GMT",
-    "eventUtc": "2026-03-18T11:39:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
