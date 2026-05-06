@@ -22,6 +22,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Fantasy Departed from Gorda Cay, Bahamas at May 05, 05:00 PM EDT. The local time to the port is May 05, 05:00 PM EDT",
+    "description": "Gorda Cay, Bahamas Departure (UTC) May 5, 21:00 — ET: May 05, 05:00 PM EDT | Local: May 05, 05:00 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "c35407042906f33c97e3cb9a358e73f856d9f9e6",
+    "pubDate": "Wed, 06 May 2026 00:05:39 GMT",
+    "eventUtc": "2026-05-05T21:00:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Fantasy Arrived at Gorda Cay, Bahamas at May 05, 07:52 AM EDT. The local time to the port is May 05, 07:52 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) May 5, 11:52 — ET: May 05, 07:52 AM EDT | Local: May 05, 07:52 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "793a92674f4c728e96aad3af48c91a066fcf7dbc",
+    "pubDate": "Wed, 06 May 2026 00:05:38 GMT",
+    "eventUtc": "2026-05-05T11:52:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Departed from Nassau, Bahamas at May 02, 06:14 PM EDT. The local time to the port is May 02, 06:14 PM EDT",
     "description": "Nassau, Bahamas Departure (UTC) May 2, 22:14 — ET: May 02, 06:14 PM EDT | Local: May 02, 06:14 PM EDT",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
