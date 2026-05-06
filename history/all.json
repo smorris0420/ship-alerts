@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Arrived at Gorda Cay, Bahamas at May 06, 07:52 AM EDT. The local time to the port is May 06, 07:52 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) May 6, 11:52 — ET: May 06, 07:52 AM EDT | Local: May 06, 07:52 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "2db0d2eb664a21b4d56bae7961da9437d22e7ad7",
+    "pubDate": "Wed, 06 May 2026 13:05:34 GMT",
+    "eventUtc": "2026-05-06T11:52:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Destiny Arrived at Nassau, Bahamas at May 06, 07:38 AM EDT. The local time to the port is May 06, 07:38 AM EDT",
+    "description": "Nassau, Bahamas Arrival (UTC) May 6, 11:38 — ET: May 06, 07:38 AM EDT | Local: May 06, 07:38 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "c348e8b60197688d51b537912ce5fe4b67294f4a",
+    "pubDate": "Wed, 06 May 2026 13:09:59 GMT",
+    "eventUtc": "2026-05-06T11:38:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Arrived at Cape Canaveral, United States (USA) at May 06, 05:39 AM EDT. The local time to the port is May 06, 05:39 AM EDT",
     "description": "Cape Canaveral, United States (USA) Arrival (UTC) May 6, 09:39 — ET: May 06, 05:39 AM EDT | Local: May 06, 05:39 AM EDT",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-03-18T20:12:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Departed from Gorda Cay, Bahamas at Mar 18, 03:59 PM EDT. The local time to the port is Mar 18, 03:59 PM EDT",
-    "description": "Gorda Cay, Bahamas Departure (UTC) Mar 18, 19:59 — ET: Mar 18, 03:59 PM EDT | Local: Mar 18, 03:59 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "a28e4d40169eac7bf2e3b7458862f87d6ac87dff",
-    "pubDate": "Thu, 19 Mar 2026 06:07:34 GMT",
-    "eventUtc": "2026-03-18T19:59:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Arrived at Progreso, Mexico at Mar 18, 11:33 AM EDT. The local time to the port is Mar 18, 10:33 AM EST",
-    "description": "Progreso, Mexico Arrival (UTC) Mar 18, 15:33 — ET: Mar 18, 11:33 AM EDT | Local: Mar 18, 10:33 AM EST",
-    "link": "https://www.vesselfinder.com/ports/MXPGO001",
-    "guid": "e374c5a6e8681f3442a35259667dcf8f951a618a",
-    "pubDate": "Fri, 20 Mar 2026 04:30:23 GMT",
-    "eventUtc": "2026-03-18T15:33:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
