@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Adventure Departed from Singapore, Singapore at May 06, 08:30 PM EDT. The local time to the port is May 06, 08:30 PM EDT",
+    "description": "Singapore, Singapore Departure (UTC) May 07, 00:30 — ET: May 06, 08:30 PM EDT | Local: May 06, 08:30 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/SGSIN001",
+    "guid": "21da55043cae87fe00e70e72738be7ddb4d6a03a",
+    "pubDate": "Wed, 06 May 2026 19:00:23 GMT",
+    "eventUtc": "2026-05-07T00:30:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_port"
+  },
+  {
+    "title": "Disney Adventure Arrived at Singapore, Singapore at May 06, 08:30 PM EDT. The local time to the port is May 06, 08:30 PM EDT",
+    "description": "Singapore, Singapore Arrival (UTC) May 07, 00:30 — ET: May 06, 08:30 PM EDT | Local: May 06, 08:30 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/SGSIN001",
+    "guid": "45412442b2d72957d09bfd256f00f79e8e3e0f1a",
+    "pubDate": "Wed, 06 May 2026 19:00:24 GMT",
+    "eventUtc": "2026-05-07T00:30:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_port"
+  },
+  {
     "title": "Disney Wish Arrived at Gorda Cay, Bahamas at May 06, 07:52 AM EDT. The local time to the port is May 06, 07:52 AM EDT",
     "description": "Gorda Cay, Bahamas Arrival (UTC) May 6, 11:52 — ET: May 06, 07:52 AM EDT | Local: May 06, 07:52 AM EDT",
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-03-18T22:07:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Adventure Arrived at Singapore, Singapore at Mar 18, 05:14 PM EDT. The local time to the port is Mar 18, 05:14 PM EDT",
-    "description": "Singapore, Singapore Arrival (UTC) Mar 18, 21:14 — ET: Mar 18, 05:14 PM EDT | Local: Mar 18, 05:14 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/SGSIN001",
-    "guid": "c2e19928a0cd654c3ef62bd9713342ad80af61aa",
-    "pubDate": "Wed, 18 Mar 2026 21:57:41 GMT",
-    "eventUtc": "2026-03-18T21:14:00+00:00",
-    "shipSlug": "disney-adventure",
-    "shipName": "Disney Adventure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Saint Thomas, US Virgin Islands at Mar 18, 04:12 PM EDT. The local time to the port is Mar 18, 04:12 PM EDT",
-    "description": "Saint Thomas, US Virgin Islands Departure (UTC) Mar 18, 20:12 — ET: Mar 18, 04:12 PM EDT | Local: Mar 18, 04:12 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/VISTT001",
-    "guid": "3cbdf7a211b8636f5d740147347ec113e94f145a",
-    "pubDate": "Wed, 18 Mar 2026 20:41:49 GMT",
-    "eventUtc": "2026-03-18T20:12:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
