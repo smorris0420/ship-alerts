@@ -5,7 +5,7 @@
   <title>Disney Wish - Arrivals &amp; Departures</title>
   <link>https://www.vesselfinder.com/vessels/details/9834739</link>
   <description>Disney Wish - Arrivals &amp; Departures - Auto-generated</description>
-  <lastBuildDate>Fri, 08 May 2026 10:15:08 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 08 May 2026 11:47:57 GMT</lastBuildDate>
   
   <item>
     <title>Disney Wish Departed from Nassau, Bahamas at Dec 30, 05:59 PM EST. The local time to the port is Dec 30, 05:59 PM EST</title>
@@ -20,6 +20,13 @@
     <guid isPermaLink="false">c8fa95bf103d068f9b1c39c3aa7460598af04c5d</guid>
     <pubDate>Thu, 01 Jan 2026 00:00:41 GMT</pubDate>
     <description><![CDATA[Nassau, Bahamas Arrival (UTC) Dec 30, 13:49 — ET: Dec 30, 08:49 AM EST | Local: Dec 30, 08:49 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Wish Arrived at Cape Canaveral, United States (USA) at May 08, 05:40 AM EDT. The local time to the port is May 08, 05:40 AM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USPCV001</link>
+    <guid isPermaLink="false">3da07b2e6078e4f1faf4ffad22e23f0b65363a45</guid>
+    <pubDate>Fri, 08 May 2026 11:47:55 GMT</pubDate>
+    <description><![CDATA[Cape Canaveral, United States (USA) Arrival (UTC) May 8, 09:40 — ET: May 08, 05:40 AM EDT | Local: May 08, 05:40 AM EDT]]></description>
   </item>
   <item>
     <title>Disney Wish Departed from Gorda Cay, Bahamas at May 06, 04:57 PM EDT. The local time to the port is May 06, 04:57 PM EDT</title>
@@ -1749,13 +1756,6 @@
     <guid isPermaLink="false">22284b6cc29e129e097d8782d002ef0b064aadc7</guid>
     <pubDate>Thu, 04 Dec 2025 03:36:43 GMT</pubDate>
     <description><![CDATA[Gorda Cay, Bahamas Arrival (UTC) Dec 3, 12:37 — ET: Dec 03, 07:37 AM EST | Local: Dec 03, 07:37 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Wish Arrived at Unknown Port at Dec 03, 07:37 AM EST. The local time to the port is Dec 03, 07:37 AM EST</title>
-    <link>https://www.vesselfinder.com/vessels/details/9834739</link>
-    <guid isPermaLink="false">1ac4bce3bf255b572c354559865bf1a406bc34c7</guid>
-    <pubDate>Fri, 05 Dec 2025 05:36:01 GMT</pubDate>
-    <description><![CDATA[Unknown Port Arrival (UTC) Dec 3, 12:37 — ET: Dec 03, 07:37 AM EST | Local: Dec 03, 07:37 AM EST]]></description>
   </item>
 </channel>
 </rss>
