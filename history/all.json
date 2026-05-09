@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Departed from Port Everglades, United States (USA) at May 09, 04:17 PM EDT. The local time to the port is May 09, 04:17 PM EDT",
+    "description": "Port Everglades, United States (USA) Departure (UTC) May 9, 20:17 — ET: May 09, 04:17 PM EDT | Local: May 09, 04:17 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPEF001",
+    "guid": "5dfc626b2863da56ef387320858a97b315da0bbc",
+    "pubDate": "Sat, 09 May 2026 21:04:49 GMT",
+    "eventUtc": "2026-05-09T20:17:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Ponta Delgada, Portugal at May 09, 02:24 PM EDT. The local time to the port is May 09, 07:24 PM WEST",
     "description": "Ponta Delgada, Portugal Departure (UTC) May 9, 18:24 — ET: May 09, 02:24 PM EDT | Local: May 09, 07:24 PM WEST",
     "link": "https://www.vesselfinder.com/ports/PTPDL001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-03-20T21:56:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Gorda Cay, Bahamas at Mar 20, 05:11 PM EDT. The local time to the port is Mar 20, 05:11 PM EDT",
-    "description": "Gorda Cay, Bahamas Departure (UTC) Mar 20, 21:11 — ET: Mar 20, 05:11 PM EDT | Local: Mar 20, 05:11 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "5332f28ac8ce2f4561b0edb22878fa1afa80a58e",
-    "pubDate": "Sat, 21 Mar 2026 05:34:28 GMT",
-    "eventUtc": "2026-03-20T21:11:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
