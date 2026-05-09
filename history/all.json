@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Arrived at Cape Canaveral, United States (USA) at May 09, 06:05 AM EDT. The local time to the port is May 09, 06:05 AM EDT",
+    "description": "Cape Canaveral, United States (USA) Arrival (UTC) May 9, 10:05 — ET: May 09, 06:05 AM EDT | Local: May 09, 06:05 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "94a0eb301a71007273a621708457860cdef876c6",
+    "pubDate": "Sat, 09 May 2026 11:36:42 GMT",
+    "eventUtc": "2026-05-09T10:05:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Arrived at Port Everglades, United States (USA) at May 09, 04:37 AM EDT. The local time to the port is May 09, 04:37 AM EDT",
     "description": "Port Everglades, United States (USA) Arrival (UTC) May 9, 08:37 — ET: May 09, 04:37 AM EDT | Local: May 09, 04:37 AM EDT",
     "link": "https://www.vesselfinder.com/ports/USPEF001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-03-20T20:40:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Arrived at San Diego, United States (USA) at Mar 20, 09:29 AM EDT. The local time to the port is Mar 20, 09:29 AM EDT",
-    "description": "San Diego, United States (USA) Arrival (UTC) Mar 20, 13:29 — ET: Mar 20, 09:29 AM EDT | Local: Mar 20, 09:29 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/USSAN001",
-    "guid": "fa831ad77a80c422a1ee651cec699a7d12b00d3f",
-    "pubDate": "Fri, 20 Mar 2026 14:13:35 GMT",
-    "eventUtc": "2026-03-20T13:29:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
     "source": "vf_ship"
   }
 ]
