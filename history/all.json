@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Ponta Delgada, Portugal at May 09, 02:48 AM EDT. The local time to the port is May 09, 07:48 AM WEST",
+    "description": "Ponta Delgada, Portugal Arrival (UTC) May 9, 06:48 — ET: May 09, 02:48 AM EDT | Local: May 09, 07:48 AM WEST",
+    "link": "https://www.vesselfinder.com/ports/PTPDL001",
+    "guid": "fe3ce24139083a913d4730cfd1fe60b5384ea88f",
+    "pubDate": "Sat, 09 May 2026 08:17:19 GMT",
+    "eventUtc": "2026-05-09T06:48:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Departed from Gorda Cay, Bahamas at May 08, 04:57 PM EDT. The local time to the port is May 08, 04:57 PM EDT",
     "description": "Gorda Cay, Bahamas Departure (UTC) May 8, 20:57 — ET: May 08, 04:57 PM EDT | Local: May 08, 04:57 PM EDT",
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-03-20T13:29:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Gorda Cay, Bahamas at Mar 20, 09:24 AM EDT. The local time to the port is Mar 20, 09:24 AM EDT",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) Mar 20, 13:24 — ET: Mar 20, 09:24 AM EDT | Local: Mar 20, 09:24 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "50520d646549bf0d7cabbe5cdc84b95ebeaacf26",
-    "pubDate": "Sat, 21 Mar 2026 05:34:26 GMT",
-    "eventUtc": "2026-03-20T13:24:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
