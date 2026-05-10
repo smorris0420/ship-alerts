@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Fantasy Arrived at Cape Canaveral, United States (USA) at May 10, 04:20 AM EDT. The local time to the port is May 10, 04:20 AM EDT",
+    "description": "Cape Canaveral, United States (USA) Arrival (UTC) May 10, 08:20 — ET: May 10, 04:20 AM EDT | Local: May 10, 04:20 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "559d285e1c556f099e634d4720d54864a96fecc0",
+    "pubDate": "Sun, 10 May 2026 09:16:54 GMT",
+    "eventUtc": "2026-05-10T08:20:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Arrived at Singapore, Singapore at May 09, 07:14 PM EDT. The local time to the port is May 09, 07:14 PM EDT",
     "description": "Singapore, Singapore Arrival (UTC) May 9, 23:14 — ET: May 09, 07:14 PM EDT | Local: May 09, 07:14 PM EDT",
     "link": "https://www.vesselfinder.com/ports/SGSIN001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-03-21T11:59:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Cape Canaveral, United States (USA) at Mar 21, 06:02 AM EDT. The local time to the port is Mar 21, 06:02 AM EDT",
-    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Mar 21, 10:02 — ET: Mar 21, 06:02 AM EDT | Local: Mar 21, 06:02 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "5b94cfd193f05db5bd9e62e949f57e6119054520",
-    "pubDate": "Sat, 21 Mar 2026 10:47:59 GMT",
-    "eventUtc": "2026-03-21T10:02:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
