@@ -231,6 +231,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Adventure Departed from Singapore, Singapore at May 10, 05:14 PM EDT. The local time to the port is May 10, 05:14 PM EDT",
+    "description": "Singapore, Singapore Departure (UTC) May 10, 21:14 — ET: May 10, 05:14 PM EDT | Local: May 10, 05:14 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/SGSIN001",
+    "guid": "543329dc6b89a17a58e82720ef28e6285fe3e3c5",
+    "pubDate": "Sun, 10 May 2026 22:05:00 GMT",
+    "eventUtc": "2026-05-10T21:14:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Departed from Cape Canaveral, United States (USA) at May 10, 04:31 PM EDT. The local time to the port is May 10, 04:31 PM EDT",
     "description": "Cape Canaveral, United States (USA) Departure (UTC) May 10, 20:31 — ET: May 10, 04:31 PM EDT | Local: May 10, 04:31 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-03-21T22:33:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Cape Canaveral, United States (USA) at Mar 21, 05:13 PM EDT. The local time to the port is Mar 21, 05:13 PM EDT",
-    "description": "Cape Canaveral, United States (USA) Departure (UTC) Mar 21, 21:13 — ET: Mar 21, 05:13 PM EDT | Local: Mar 21, 05:13 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "a05e3dcfa5f30a4b5cc72eb62c9eb2676cbb7469",
-    "pubDate": "Sat, 21 Mar 2026 22:18:23 GMT",
-    "eventUtc": "2026-03-21T21:13:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
