@@ -209,6 +209,39 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Departed from Cozumel, Mexico at May 11, 06:08 PM EDT. The local time to the port is May 11, 05:08 PM EST",
+    "description": "Cozumel, Mexico Departure (UTC) May 11, 22:08 — ET: May 11, 06:08 PM EDT | Local: May 11, 05:08 PM EST",
+    "link": "https://www.vesselfinder.com/ports/MXCZM001",
+    "guid": "8e696ef4343312cc8da0c089f771f41697c9f709",
+    "pubDate": "Mon, 11 May 2026 22:45:22 GMT",
+    "eventUtc": "2026-05-11T22:08:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Fantasy Departed from Nassau, Bahamas at May 11, 06:06 PM EDT. The local time to the port is May 11, 06:06 PM EDT",
+    "description": "Nassau, Bahamas Departure (UTC) May 11, 22:06 — ET: May 11, 06:06 PM EDT | Local: May 11, 06:06 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "a1574d6125adb7fa09eaed2a77054a88ab24bbb2",
+    "pubDate": "Mon, 11 May 2026 22:42:35 GMT",
+    "eventUtc": "2026-05-11T22:06:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Wish Departed from Cape Canaveral, United States (USA) at May 11, 04:31 PM EDT. The local time to the port is May 11, 04:31 PM EDT",
+    "description": "Cape Canaveral, United States (USA) Departure (UTC) May 11, 20:31 — ET: May 11, 04:31 PM EDT | Local: May 11, 04:31 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "457af3451aeba14d9f4cf179fc4325a4c77171ba",
+    "pubDate": "Mon, 11 May 2026 22:41:48 GMT",
+    "eventUtc": "2026-05-11T20:31:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Arrived at Vancouver, Canada at May 11, 09:46 AM EDT. The local time to the port is May 11, 06:46 AM PDT",
     "description": "Vancouver, Canada Arrival (UTC) May 11, 13:46 — ET: May 11, 09:46 AM EDT | Local: May 11, 06:46 AM PDT",
     "link": "https://www.vesselfinder.com/ports/CAVAN001",
@@ -5464,39 +5497,6 @@
     "eventUtc": "2026-03-22T23:49:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Nassau, Bahamas at Mar 22, 05:53 PM EDT. The local time to the port is Mar 22, 05:53 PM EDT",
-    "description": "Nassau, Bahamas Departure (UTC) Mar 22, 21:53 — ET: Mar 22, 05:53 PM EDT | Local: Mar 22, 05:53 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "76217a90fea09b28f92bf112fdbae43583dd5be5",
-    "pubDate": "Sun, 22 Mar 2026 22:02:00 GMT",
-    "eventUtc": "2026-03-22T21:53:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Adventure Arrived at Singapore, Singapore at Mar 22, 05:03 PM EDT. The local time to the port is Mar 22, 05:03 PM EDT",
-    "description": "Singapore, Singapore Arrival (UTC) Mar 22, 21:03 — ET: Mar 22, 05:03 PM EDT | Local: Mar 22, 05:03 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/SGSIN001",
-    "guid": "8e25d86ae7c42a1a80172a67c4e5ad2188242f7b",
-    "pubDate": "Sun, 22 Mar 2026 21:48:10 GMT",
-    "eventUtc": "2026-03-22T21:03:00+00:00",
-    "shipSlug": "disney-adventure",
-    "shipName": "Disney Adventure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Departed from Gorda Cay, Bahamas at Mar 22, 04:52 PM EDT. The local time to the port is Mar 22, 04:52 PM EDT",
-    "description": "Gorda Cay, Bahamas Departure (UTC) Mar 22, 20:52 — ET: Mar 22, 04:52 PM EDT | Local: Mar 22, 04:52 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "3cd46c36d3db2dac5120475dff21dab72efe49d0",
-    "pubDate": "Sun, 22 Mar 2026 21:14:00 GMT",
-    "eventUtc": "2026-03-22T20:52:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
     "source": "vf_ship"
   }
 ]
