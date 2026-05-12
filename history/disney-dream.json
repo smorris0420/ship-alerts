@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Cadiz, Spain at May 12, 12:10 AM EDT. The local time to the port is May 12, 06:10 AM CEST",
+    "description": "Cadiz, Spain Arrival (UTC) May 12, 04:10 — ET: May 12, 12:10 AM EDT | Local: May 12, 06:10 AM CEST",
+    "link": "https://www.vesselfinder.com/ports/ESCAD001",
+    "guid": "33c8387b629746ba3101d1ea36137560f2329095",
+    "pubDate": "Tue, 12 May 2026 05:03:53 GMT",
+    "eventUtc": "2026-05-12T04:10:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Ponta Delgada, Portugal at May 09, 02:24 PM EDT. The local time to the port is May 09, 07:24 PM WEST",
     "description": "Ponta Delgada, Portugal Departure (UTC) May 9, 18:24 — ET: May 09, 02:24 PM EDT | Local: May 09, 07:24 PM WEST",
     "link": "https://www.vesselfinder.com/ports/PTPDL001",
