@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Malaga, Spain at May 13, 12:08 AM EDT. The local time to the port is May 13, 06:08 AM CEST",
+    "description": "Malaga, Spain Arrival (UTC) May 13, 04:08 — ET: May 13, 12:08 AM EDT | Local: May 13, 06:08 AM CEST",
+    "link": "https://www.vesselfinder.com/ports/ESAGP001",
+    "guid": "f5b34d4b1dfa97ee2db527b04393ed00cb4b52b1",
+    "pubDate": "Wed, 13 May 2026 07:33:56 GMT",
+    "eventUtc": "2026-05-13T04:08:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Cadiz, Spain at May 12, 12:33 PM EDT. The local time to the port is May 12, 06:33 PM CEST",
     "description": "Cadiz, Spain Departure (UTC) May 12, 16:33 — ET: May 12, 12:33 PM EDT | Local: May 12, 06:33 PM CEST",
     "link": "https://www.vesselfinder.com/ports/ESCAD001",
