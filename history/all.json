@@ -231,6 +231,28 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Treasure Departed from Saint Thomas, US Virgin Islands at May 13, 04:07 PM EDT. The local time to the port is May 13, 04:07 PM EDT",
+    "description": "Saint Thomas, US Virgin Islands Departure (UTC) May 13, 20:07 — ET: May 13, 04:07 PM EDT | Local: May 13, 04:07 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/VISTT001",
+    "guid": "bad03fd1a70549480f27e2a4863e1db9cd268a78",
+    "pubDate": "Wed, 13 May 2026 21:00:57 GMT",
+    "eventUtc": "2026-05-13T20:07:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Adventure Arrived at Singapore, Singapore at May 13, 03:25 PM EDT. The local time to the port is May 13, 03:25 PM EDT",
+    "description": "Singapore, Singapore Arrival (UTC) May 13, 19:25 — ET: May 13, 03:25 PM EDT | Local: May 13, 03:25 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/SGSIN001",
+    "guid": "9dae27825aa097c4b4f99b88ba2e0055bab76c6b",
+    "pubDate": "Wed, 13 May 2026 21:03:21 GMT",
+    "eventUtc": "2026-05-13T19:25:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Malaga, Spain at May 13, 12:40 PM EDT. The local time to the port is May 13, 06:40 PM CEST",
     "description": "Malaga, Spain Departure (UTC) May 13, 16:40 — ET: May 13, 12:40 PM EDT | Local: May 13, 06:40 PM CEST",
     "link": "https://www.vesselfinder.com/ports/ESAGP001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-03-23T20:25:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Port Everglades, United States (USA) at Mar 23, 04:11 PM EDT. The local time to the port is Mar 23, 04:11 PM EDT",
-    "description": "Port Everglades, United States (USA) Departure (UTC) Mar 23, 20:11 — ET: Mar 23, 04:11 PM EDT | Local: Mar 23, 04:11 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "849158497ccf96a04f2b50ff4bb61c721204840f",
-    "pubDate": "Mon, 23 Mar 2026 20:55:06 GMT",
-    "eventUtc": "2026-03-23T20:11:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Arrived at Progreso, Mexico at Mar 23, 11:42 AM EDT. The local time to the port is Mar 23, 10:42 AM EST",
-    "description": "Progreso, Mexico Arrival (UTC) Mar 23, 15:42 — ET: Mar 23, 11:42 AM EDT | Local: Mar 23, 10:42 AM EST",
-    "link": "https://www.vesselfinder.com/ports/MXPGO001",
-    "guid": "8ce74e178b800e18d09c97695cadb5f7d6cdffb6",
-    "pubDate": "Wed, 25 Mar 2026 02:46:47 GMT",
-    "eventUtc": "2026-03-23T15:42:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
