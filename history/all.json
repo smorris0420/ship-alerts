@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Arrived at Gorda Cay, Bahamas at May 13, 08:06 AM EDT. The local time to the port is May 13, 08:06 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) May 13, 12:06 — ET: May 13, 08:06 AM EDT | Local: May 13, 08:06 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "a75211e316778090b39009e78d7b39a28d7d589e",
+    "pubDate": "Wed, 13 May 2026 15:25:06 GMT",
+    "eventUtc": "2026-05-13T12:06:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Treasure Arrived at Saint Thomas, US Virgin Islands at May 13, 07:51 AM EDT. The local time to the port is May 13, 07:51 AM EDT",
+    "description": "Saint Thomas, US Virgin Islands Arrival (UTC) May 13, 11:51 — ET: May 13, 07:51 AM EDT | Local: May 13, 07:51 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/VISTT001",
+    "guid": "d981c8bd754aeae8cc9b6e1862f8a94cdb6a2ab0",
+    "pubDate": "Wed, 13 May 2026 15:21:32 GMT",
+    "eventUtc": "2026-05-13T11:51:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Arrived at Malaga, Spain at May 13, 12:08 AM EDT. The local time to the port is May 13, 06:08 AM CEST",
     "description": "Malaga, Spain Arrival (UTC) May 13, 04:08 — ET: May 13, 12:08 AM EDT | Local: May 13, 06:08 AM CEST",
     "link": "https://www.vesselfinder.com/ports/ESAGP001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-03-23T12:51:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Georgetown, Grand Cayman Anch., Cayman Islands at Mar 23, 08:51 AM EDT. The local time to the port is Mar 23, 07:51 AM EST",
-    "description": "Georgetown, Grand Cayman Anch., Cayman Islands Arrival (UTC) Mar 23, 12:51 — ET: Mar 23, 08:51 AM EDT | Local: Mar 23, 07:51 AM EST",
-    "link": "https://www.vesselfinder.com/ports/KYGEC001",
-    "guid": "793e6c245b8cf75f4c7e4c5078a290505c4863d2",
-    "pubDate": "Tue, 24 Mar 2026 15:46:45 GMT",
-    "eventUtc": "2026-03-23T12:51:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Arrived at Gorda Cay, Bahamas at Mar 23, 07:29 AM EDT. The local time to the port is Mar 23, 07:29 AM EDT",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) Mar 23, 11:29 — ET: Mar 23, 07:29 AM EDT | Local: Mar 23, 07:29 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "dc662357215e059a18c1168703e3bdd08ba56afb",
-    "pubDate": "Mon, 23 Mar 2026 13:47:00 GMT",
-    "eventUtc": "2026-03-23T11:29:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
     "source": "vf_ship"
   }
 ]
