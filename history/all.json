@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Malaga, Spain at May 13, 12:40 PM EDT. The local time to the port is May 13, 06:40 PM CEST",
+    "description": "Malaga, Spain Departure (UTC) May 13, 16:40 — ET: May 13, 12:40 PM EDT | Local: May 13, 06:40 PM CEST",
+    "link": "https://www.vesselfinder.com/ports/ESAGP001",
+    "guid": "9892e2034e7a99ca9c975bd6327706621451c6bc",
+    "pubDate": "Wed, 13 May 2026 17:32:56 GMT",
+    "eventUtc": "2026-05-13T16:40:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Arrived at Gorda Cay, Bahamas at May 13, 08:06 AM EDT. The local time to the port is May 13, 08:06 AM EDT",
     "description": "Gorda Cay, Bahamas Arrival (UTC) May 13, 12:06 — ET: May 13, 08:06 AM EDT | Local: May 13, 08:06 AM EDT",
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-03-23T13:41:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Cozumel, Mexico at Mar 23, 08:51 AM EDT. The local time to the port is Mar 23, 07:51 AM EST",
-    "description": "Cozumel, Mexico Arrival (UTC) Mar 23, 12:51 — ET: Mar 23, 08:51 AM EDT | Local: Mar 23, 07:51 AM EST",
-    "link": "https://www.vesselfinder.com/ports/MXCZM001",
-    "guid": "d32b2a2d2d90ae94db0d56cd5f798d3186c17bad",
-    "pubDate": "Mon, 23 Mar 2026 13:46:52 GMT",
-    "eventUtc": "2026-03-23T12:51:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
