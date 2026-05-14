@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Arrived at Port Everglades, United States (USA) at May 14, 05:52 AM EDT. The local time to the port is May 14, 05:52 AM EDT",
+    "description": "Port Everglades, United States (USA) Arrival (UTC) May 14, 09:52 — ET: May 14, 05:52 AM EDT | Local: May 14, 05:52 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPEF001",
+    "guid": "13b51618069b2a19c92ff69d9e14285815477958",
+    "pubDate": "Thu, 14 May 2026 10:39:19 GMT",
+    "eventUtc": "2026-05-14T09:52:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Adventure Departed from Singapore, Singapore at May 14, 05:10 AM EDT. The local time to the port is May 14, 05:10 AM EDT",
+    "description": "Singapore, Singapore Departure (UTC) May 14, 09:10 — ET: May 14, 05:10 AM EDT | Local: May 14, 05:10 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/SGSIN001",
+    "guid": "58762579edb88df3d375e21b614fc343fde8d4ea",
+    "pubDate": "Thu, 14 May 2026 10:39:06 GMT",
+    "eventUtc": "2026-05-14T09:10:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Arrived at Cartagena, Spain at May 14, 01:05 AM EDT. The local time to the port is May 14, 07:05 AM CEST",
     "description": "Cartagena, Spain Arrival (UTC) May 14, 05:05 — ET: May 14, 01:05 AM EDT | Local: May 14, 07:05 AM CEST",
     "link": "https://www.vesselfinder.com/ports/ESCAR001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-03-24T00:21:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Departed from Avalon Anch., United States (USA) at Mar 23, 08:21 PM EDT. The local time to the port is Mar 23, 08:21 PM EDT",
-    "description": "Avalon Anch., United States (USA) Departure (UTC) Mar 24, 00:21 — ET: Mar 23, 08:21 PM EDT | Local: Mar 23, 08:21 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USAOU001",
-    "guid": "098d68d0bb2d97d965600b2d2714f56451e89189",
-    "pubDate": "Tue, 24 Mar 2026 15:48:43 GMT",
-    "eventUtc": "2026-03-24T00:21:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Cozumel, Mexico at Mar 23, 06:11 PM EDT. The local time to the port is Mar 23, 05:11 PM EST",
-    "description": "Cozumel, Mexico Departure (UTC) Mar 23, 22:11 — ET: Mar 23, 06:11 PM EDT | Local: Mar 23, 05:11 PM EST",
-    "link": "https://www.vesselfinder.com/ports/MXCZM001",
-    "guid": "2e36f3a78f412e802db70c1ce2d6dd4d5aa29fe2",
-    "pubDate": "Mon, 23 Mar 2026 22:43:53 GMT",
-    "eventUtc": "2026-03-23T22:11:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
