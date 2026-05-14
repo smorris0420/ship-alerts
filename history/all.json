@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Cartagena, Spain at May 14, 01:05 AM EDT. The local time to the port is May 14, 07:05 AM CEST",
+    "description": "Cartagena, Spain Arrival (UTC) May 14, 05:05 — ET: May 14, 01:05 AM EDT | Local: May 14, 07:05 AM CEST",
+    "link": "https://www.vesselfinder.com/ports/ESCAR001",
+    "guid": "797d5df8e56520ce62677bfc19b2671cda9f05c4",
+    "pubDate": "Thu, 14 May 2026 08:13:44 GMT",
+    "eventUtc": "2026-05-14T05:05:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Departed from Nassau, Bahamas at May 13, 08:49 PM EDT. The local time to the port is May 13, 08:49 PM EDT",
     "description": "Nassau, Bahamas Departure (UTC) May 14, 00:49 — ET: May 13, 08:49 PM EDT | Local: May 13, 08:49 PM EDT",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -5483,17 +5494,6 @@
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
     "guid": "2e36f3a78f412e802db70c1ce2d6dd4d5aa29fe2",
     "pubDate": "Mon, 23 Mar 2026 22:43:53 GMT",
-    "eventUtc": "2026-03-23T22:11:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Georgetown, Grand Cayman Anch., Cayman Islands at Mar 23, 06:11 PM EDT. The local time to the port is Mar 23, 05:11 PM EST",
-    "description": "Georgetown, Grand Cayman Anch., Cayman Islands Departure (UTC) Mar 23, 22:11 — ET: Mar 23, 06:11 PM EDT | Local: Mar 23, 05:11 PM EST",
-    "link": "https://www.vesselfinder.com/ports/KYGEC001",
-    "guid": "f22b5040de1598a0b6d216d7fd5170ca7706a43b",
-    "pubDate": "Tue, 24 Mar 2026 15:46:46 GMT",
     "eventUtc": "2026-03-23T22:11:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",

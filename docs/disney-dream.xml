@@ -5,7 +5,7 @@
   <title>Disney Dream - Arrivals &amp; Departures</title>
   <link>https://www.vesselfinder.com/vessels/details/9434254</link>
   <description>Disney Dream - Arrivals &amp; Departures - Auto-generated</description>
-  <lastBuildDate>Thu, 14 May 2026 05:32:39 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 14 May 2026 08:13:46 GMT</lastBuildDate>
   
   <item>
     <title>Disney Dream Departed from Port Everglades, United States (USA) at Dec 29, 04:49 PM EST. The local time to the port is Dec 29, 04:49 PM EST</title>
@@ -20,6 +20,13 @@
     <guid isPermaLink="false">5f7fbac63c07edf9fb1d4a3dd01fd68927534e3b</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:30 GMT</pubDate>
     <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) Dec 29, 10:48 — ET: Dec 29, 05:48 AM EST | Local: Dec 29, 05:48 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Dream Arrived at Cartagena, Spain at May 14, 01:05 AM EDT. The local time to the port is May 14, 07:05 AM CEST</title>
+    <link>https://www.vesselfinder.com/ports/ESCAR001</link>
+    <guid isPermaLink="false">797d5df8e56520ce62677bfc19b2671cda9f05c4</guid>
+    <pubDate>Thu, 14 May 2026 08:13:44 GMT</pubDate>
+    <description><![CDATA[Cartagena, Spain Arrival (UTC) May 14, 05:05 — ET: May 14, 01:05 AM EDT | Local: May 14, 07:05 AM CEST]]></description>
   </item>
   <item>
     <title>Disney Dream Departed from Malaga, Spain at May 13, 12:40 PM EDT. The local time to the port is May 13, 06:40 PM CEST</title>
@@ -1749,13 +1756,6 @@
     <guid isPermaLink="false">e2e21828102af9a1f08c64b4bef9fec5968b4c28</guid>
     <pubDate>Sat, 08 Nov 2025 21:55:11 GMT</pubDate>
     <description><![CDATA[Port Everglades, United States (USA) Departure (UTC) Nov 8, 21:39 — ET: Nov 08, 04:39 PM EST | Local: Nov 08, 04:39 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Dream Departed from Port Everglades, United States (USA) at Jan 02, 10:00 AM EST. The local time to the port is Jan 02, 10:00 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/USPEF001</link>
-    <guid isPermaLink="false">4ef6b387df398aaa73286874dddc4448d1c9f15d</guid>
-    <pubDate>Wed, 31 Dec 2025 13:25:55 GMT</pubDate>
-    <description><![CDATA[Port Everglades, United States (USA) Departure (UTC) Jan 02, 15:00 — ET: Jan 02, 10:00 AM EST | Local: Jan 02, 10:00 AM EST]]></description>
   </item>
 </channel>
 </rss>

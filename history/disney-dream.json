@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Cartagena, Spain at May 14, 01:05 AM EDT. The local time to the port is May 14, 07:05 AM CEST",
+    "description": "Cartagena, Spain Arrival (UTC) May 14, 05:05 — ET: May 14, 01:05 AM EDT | Local: May 14, 07:05 AM CEST",
+    "link": "https://www.vesselfinder.com/ports/ESCAR001",
+    "guid": "797d5df8e56520ce62677bfc19b2671cda9f05c4",
+    "pubDate": "Thu, 14 May 2026 08:13:44 GMT",
+    "eventUtc": "2026-05-14T05:05:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Malaga, Spain at May 13, 12:40 PM EDT. The local time to the port is May 13, 06:40 PM CEST",
     "description": "Malaga, Spain Departure (UTC) May 13, 16:40 — ET: May 13, 12:40 PM EDT | Local: May 13, 06:40 PM CEST",
     "link": "https://www.vesselfinder.com/ports/ESAGP001",
@@ -2737,16 +2748,5 @@
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
     "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Port Everglades, United States (USA) at Jan 02, 10:00 AM EST. The local time to the port is Jan 02, 10:00 AM EST",
-    "description": "Port Everglades, United States (USA) Departure (UTC) Jan 02, 15:00 — ET: Jan 02, 10:00 AM EST | Local: Jan 02, 10:00 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "4ef6b387df398aaa73286874dddc4448d1c9f15d",
-    "pubDate": "Wed, 31 Dec 2025 13:25:55 GMT",
-    "eventUtc": "2025-01-02T15:00:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_port"
   }
 ]
