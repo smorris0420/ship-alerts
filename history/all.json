@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Arrived at Gorda Cay, Bahamas at May 15, 08:06 AM EDT. The local time to the port is May 15, 08:06 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) May 15, 12:06 — ET: May 15, 08:06 AM EDT | Local: May 15, 08:06 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "ef61fdebb4e9c8bec604e5842ea0b98c2c1bd067",
+    "pubDate": "Fri, 15 May 2026 20:12:06 GMT",
+    "eventUtc": "2026-05-15T12:06:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Arrived at Cape Canaveral, United States (USA) at May 15, 05:53 AM EDT. The local time to the port is May 15, 05:53 AM EDT",
     "description": "Cape Canaveral, United States (USA) Arrival (UTC) May 15, 09:53 — ET: May 15, 05:53 AM EDT | Local: May 15, 05:53 AM EDT",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-03-25T14:43:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Falmouth, Jamaica at Mar 25, 08:21 AM EDT. The local time to the port is Mar 25, 07:21 AM EST",
-    "description": "Falmouth, Jamaica Arrival (UTC) Mar 25, 12:21 — ET: Mar 25, 08:21 AM EDT | Local: Mar 25, 07:21 AM EST",
-    "link": "https://www.vesselfinder.com/ports/JMFMH001",
-    "guid": "63a63801f90808eedebd832c446d37aa6d3db0ad",
-    "pubDate": "Wed, 25 Mar 2026 23:55:01 GMT",
-    "eventUtc": "2026-03-25T12:21:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
