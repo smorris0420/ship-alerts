@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Vancouver, Canada at May 16, 04:40 PM EDT. The local time to the port is May 16, 01:40 PM PDT",
+    "description": "Vancouver, Canada Departure (UTC) May 16, 20:40 — ET: May 16, 04:40 PM EDT | Local: May 16, 01:40 PM PDT",
+    "link": "https://www.vesselfinder.com/ports/CAVAN001",
+    "guid": "e9e8006ff4a9f4cbd5f202d65efeaa00ec3865cd",
+    "pubDate": "Sat, 16 May 2026 21:06:46 GMT",
+    "eventUtc": "2026-05-16T20:40:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Barcelona, Spain at May 16, 01:26 PM EDT. The local time to the port is May 16, 07:26 PM CEST",
     "description": "Barcelona, Spain Departure (UTC) May 16, 17:26 — ET: May 16, 01:26 PM EDT | Local: May 16, 07:26 PM CEST",
     "link": "https://www.vesselfinder.com/ports/ESBCN001",
@@ -5487,16 +5498,5 @@
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
     "source": "vf_ship"
-  },
-  {
-    "title": "Disney Adventure Departed from Singapore, Singapore at Mar 25, 08:30 PM EDT. The local time to the port is Mar 25, 08:30 PM EDT",
-    "description": "Singapore, Singapore Departure (UTC) Mar 26, 00:30 — ET: Mar 25, 08:30 PM EDT | Local: Mar 25, 08:30 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/SGSIN001",
-    "guid": "fbc69d3548de3f25e0479f53f722f727ae7f9201",
-    "pubDate": "Wed, 25 Mar 2026 19:58:08 GMT",
-    "eventUtc": "2026-03-26T00:30:00+00:00",
-    "shipSlug": "disney-adventure",
-    "shipName": "Disney Adventure",
-    "source": "vf_port"
   }
 ]

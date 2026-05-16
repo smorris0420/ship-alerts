@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Sat, 16 May 2026 20:14:29 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 16 May 2026 21:09:30 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,13 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Magic Departed from Vancouver, Canada at May 16, 04:40 PM EDT. The local time to the port is May 16, 01:40 PM PDT</title>
+    <link>https://www.vesselfinder.com/ports/CAVAN001</link>
+    <guid isPermaLink="false">e9e8006ff4a9f4cbd5f202d65efeaa00ec3865cd</guid>
+    <pubDate>Sat, 16 May 2026 21:06:46 GMT</pubDate>
+    <description><![CDATA[Vancouver, Canada Departure (UTC) May 16, 20:40 — ET: May 16, 04:40 PM EDT | Local: May 16, 01:40 PM PDT]]></description>
   </item>
   <item>
     <title>Disney Dream Departed from Barcelona, Spain at May 16, 01:26 PM EDT. The local time to the port is May 16, 07:26 PM CEST</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">39a3869c5faac09093ba6780a30dee56b26a2583</guid>
     <pubDate>Thu, 26 Mar 2026 02:08:40 GMT</pubDate>
     <description><![CDATA[Ensenada, Mexico Departure (UTC) Mar 26, 00:34 — ET: Mar 25, 08:34 PM EDT | Local: Mar 25, 07:34 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Adventure Departed from Singapore, Singapore at Mar 25, 08:30 PM EDT. The local time to the port is Mar 25, 08:30 PM EDT</title>
-    <link>https://www.vesselfinder.com/ports/SGSIN001</link>
-    <guid isPermaLink="false">fbc69d3548de3f25e0479f53f722f727ae7f9201</guid>
-    <pubDate>Wed, 25 Mar 2026 19:58:08 GMT</pubDate>
-    <description><![CDATA[Singapore, Singapore Departure (UTC) Mar 26, 00:30 — ET: Mar 25, 08:30 PM EDT | Local: Mar 25, 08:30 PM EDT]]></description>
   </item>
 </channel>
 </rss>
