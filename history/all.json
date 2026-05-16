@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Barcelona, Spain at May 15, 10:15 PM EDT. The local time to the port is May 16, 04:15 AM CEST",
+    "description": "Barcelona, Spain Arrival (UTC) May 16, 02:15 — ET: May 15, 10:15 PM EDT | Local: May 16, 04:15 AM CEST",
+    "link": "https://www.vesselfinder.com/ports/ESBCN001",
+    "guid": "c8b6a805cfa9cc02ed8fe3d7767c628985f451c2",
+    "pubDate": "Sat, 16 May 2026 04:03:59 GMT",
+    "eventUtc": "2026-05-16T02:15:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Departed from Esquimalt, Canada at May 15, 07:16 PM EDT. The local time to the port is May 15, 04:16 PM PDT",
     "description": "Esquimalt, Canada Departure (UTC) May 15, 23:16 — ET: May 15, 07:16 PM EDT | Local: May 15, 04:16 PM PDT",
     "link": "https://www.vesselfinder.com/ports/CAESQ001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-03-25T21:58:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Falmouth, Jamaica at Mar 25, 05:49 PM EDT. The local time to the port is Mar 25, 04:49 PM EST",
-    "description": "Falmouth, Jamaica Departure (UTC) Mar 25, 21:49 — ET: Mar 25, 05:49 PM EDT | Local: Mar 25, 04:49 PM EST",
-    "link": "https://www.vesselfinder.com/ports/JMFMH001",
-    "guid": "1a5678bffa9d200be14fc358c253293d4abc70c1",
-    "pubDate": "Wed, 25 Mar 2026 23:55:03 GMT",
-    "eventUtc": "2026-03-25T21:49:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
