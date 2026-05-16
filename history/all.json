@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Esquimalt, Canada at May 15, 07:16 PM EDT. The local time to the port is May 15, 04:16 PM PDT",
+    "description": "Esquimalt, Canada Departure (UTC) May 15, 23:16 — ET: May 15, 07:16 PM EDT | Local: May 15, 04:16 PM PDT",
+    "link": "https://www.vesselfinder.com/ports/CAESQ001",
+    "guid": "a0452f715a7a5274e54f9fdf63f09481244e556c",
+    "pubDate": "Sat, 16 May 2026 00:11:39 GMT",
+    "eventUtc": "2026-05-15T23:16:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Departed from Gorda Cay, Bahamas at May 15, 04:59 PM EDT. The local time to the port is May 15, 04:59 PM EDT",
     "description": "Gorda Cay, Bahamas Departure (UTC) May 15, 20:59 — ET: May 15, 04:59 PM EDT | Local: May 15, 04:59 PM EDT",
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-03-25T21:49:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Adventure Arrived at Singapore, Singapore at Mar 25, 05:32 PM EDT. The local time to the port is Mar 25, 05:32 PM EDT",
-    "description": "Singapore, Singapore Arrival (UTC) Mar 25, 21:32 — ET: Mar 25, 05:32 PM EDT | Local: Mar 25, 05:32 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/SGSIN001",
-    "guid": "b70d65649a5a7820412df46dbf782c356fb354af",
-    "pubDate": "Wed, 25 Mar 2026 22:45:04 GMT",
-    "eventUtc": "2026-03-25T21:32:00+00:00",
-    "shipSlug": "disney-adventure",
-    "shipName": "Disney Adventure",
     "source": "vf_ship"
   }
 ]
