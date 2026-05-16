@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Barcelona, Spain at May 16, 01:26 PM EDT. The local time to the port is May 16, 07:26 PM CEST",
+    "description": "Barcelona, Spain Departure (UTC) May 16, 17:26 — ET: May 16, 01:26 PM EDT | Local: May 16, 07:26 PM CEST",
+    "link": "https://www.vesselfinder.com/ports/ESBCN001",
+    "guid": "8f054d125eef04610b042bbc5e39fdc1cfd901fb",
+    "pubDate": "Sat, 16 May 2026 18:01:54 GMT",
+    "eventUtc": "2026-05-16T17:26:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Arrived at Vancouver, Canada at May 16, 10:40 AM EDT. The local time to the port is May 16, 07:40 AM PDT",
     "description": "Vancouver, Canada Arrival (UTC) May 16, 14:40 — ET: May 16, 10:40 AM EDT | Local: May 16, 07:40 AM PDT",
     "link": "https://www.vesselfinder.com/ports/CAVAN001",
@@ -5483,17 +5494,6 @@
     "link": "https://www.vesselfinder.com/ports/SGSIN001",
     "guid": "fbc69d3548de3f25e0479f53f722f727ae7f9201",
     "pubDate": "Wed, 25 Mar 2026 19:58:08 GMT",
-    "eventUtc": "2026-03-26T00:30:00+00:00",
-    "shipSlug": "disney-adventure",
-    "shipName": "Disney Adventure",
-    "source": "vf_port"
-  },
-  {
-    "title": "Disney Adventure Arrived at Singapore, Singapore at Mar 25, 08:30 PM EDT. The local time to the port is Mar 25, 08:30 PM EDT",
-    "description": "Singapore, Singapore Arrival (UTC) Mar 26, 00:30 — ET: Mar 25, 08:30 PM EDT | Local: Mar 25, 08:30 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/SGSIN001",
-    "guid": "a1dfab5a24f7e71436513e61b9f9fa0f8604e43a",
-    "pubDate": "Wed, 25 Mar 2026 19:58:09 GMT",
     "eventUtc": "2026-03-26T00:30:00+00:00",
     "shipSlug": "disney-adventure",
     "shipName": "Disney Adventure",
