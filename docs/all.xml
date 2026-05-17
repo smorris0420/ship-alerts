@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Sun, 17 May 2026 07:22:18 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 17 May 2026 09:19:19 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -155,6 +155,13 @@
     <description><![CDATA[Vancouver, Canada Departure (UTC) May 17, 00:29 — ET: May 16, 08:29 PM EDT | Local: May 16, 05:29 PM PDT]]></description>
   </item>
   <item>
+    <title>Disney Wish Departed from Nassau, Bahamas at May 16, 06:18 PM EDT. The local time to the port is May 16, 06:18 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/BSNAS001</link>
+    <guid isPermaLink="false">0ef62e4606501873fc164c3047e4ade67d410d22</guid>
+    <pubDate>Sun, 17 May 2026 09:15:15 GMT</pubDate>
+    <description><![CDATA[Nassau, Bahamas Departure (UTC) May 16, 22:18 — ET: May 16, 06:18 PM EDT | Local: May 16, 06:18 PM EDT]]></description>
+  </item>
+  <item>
     <title>Disney Magic Arrived at Vancouver, Canada at May 16, 06:04 PM EDT. The local time to the port is May 16, 03:04 PM PDT</title>
     <link>https://www.vesselfinder.com/ports/CAVAN001</link>
     <guid isPermaLink="false">b96d8ff02c0b474f6483a6d42178fb752811c28a</guid>
@@ -209,6 +216,13 @@
     <guid isPermaLink="false">1c27fa1d82f56276a2c4776f781d2324822d9f5a</guid>
     <pubDate>Sat, 16 May 2026 15:56:48 GMT</pubDate>
     <description><![CDATA[Vancouver, Canada Arrival (UTC) May 16, 14:40 — ET: May 16, 10:40 AM EDT | Local: May 16, 07:40 AM PDT]]></description>
+  </item>
+  <item>
+    <title>Disney Wish Arrived at Nassau, Bahamas at May 16, 09:21 AM EDT. The local time to the port is May 16, 09:21 AM EDT</title>
+    <link>https://www.vesselfinder.com/ports/BSNAS001</link>
+    <guid isPermaLink="false">a6bbedddef2447e52707d0c17928a2d83e9e8095</guid>
+    <pubDate>Sun, 17 May 2026 09:15:14 GMT</pubDate>
+    <description><![CDATA[Nassau, Bahamas Arrival (UTC) May 16, 13:21 — ET: May 16, 09:21 AM EDT | Local: May 16, 09:21 AM EDT]]></description>
   </item>
   <item>
     <title>Disney Fantasy Arrived at Nassau, Bahamas at May 16, 09:18 AM EDT. The local time to the port is May 16, 09:18 AM EDT</title>
@@ -3492,20 +3506,6 @@
     <guid isPermaLink="false">1c7433ebfd69f72cfb01a34baaf609781aa290d3</guid>
     <pubDate>Fri, 27 Mar 2026 20:52:20 GMT</pubDate>
     <description><![CDATA[Port Everglades, United States (USA) Departure (UTC) Mar 27, 20:26 — ET: Mar 27, 04:26 PM EDT | Local: Mar 27, 04:26 PM EDT]]></description>
-  </item>
-  <item>
-    <title>Disney Magic Arrived at Progreso, Mexico at Mar 27, 09:50 AM EDT. The local time to the port is Mar 27, 08:50 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/MXPGO001</link>
-    <guid isPermaLink="false">5973e6a12786551885e997957706577673aee4b5</guid>
-    <pubDate>Sat, 28 Mar 2026 16:51:04 GMT</pubDate>
-    <description><![CDATA[Progreso, Mexico Arrival (UTC) Mar 27, 13:50 — ET: Mar 27, 09:50 AM EDT | Local: Mar 27, 08:50 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Wonder Arrived at San Diego, United States (USA) at Mar 27, 09:41 AM EDT. The local time to the port is Mar 27, 09:41 AM EDT</title>
-    <link>https://www.vesselfinder.com/ports/USSAN001</link>
-    <guid isPermaLink="false">bb69b2d66b5903143a50fc23ae5eed855c139abe</guid>
-    <pubDate>Fri, 27 Mar 2026 14:39:24 GMT</pubDate>
-    <description><![CDATA[San Diego, United States (USA) Arrival (UTC) Mar 27, 13:41 — ET: Mar 27, 09:41 AM EDT | Local: Mar 27, 09:41 AM EDT]]></description>
   </item>
 </channel>
 </rss>
