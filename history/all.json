@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Arrived at Gorda Cay, Bahamas at May 17, 07:41 AM EDT. The local time to the port is May 17, 07:41 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) May 17, 11:41 — ET: May 17, 07:41 AM EDT | Local: May 17, 07:41 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "a32ed1f29b39072a12e489fb86b3ac5a91efa8c0",
+    "pubDate": "Sun, 17 May 2026 12:42:58 GMT",
+    "eventUtc": "2026-05-17T11:41:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Departed from Ketchikan, United States (USA) at May 16, 10:14 PM EDT. The local time to the port is May 16, 10:14 PM EDT",
     "description": "Ketchikan, United States (USA) Departure (UTC) May 17, 02:14 — ET: May 16, 10:14 PM EDT | Local: May 16, 10:14 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USKTN001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-03-27T21:06:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Port Everglades, United States (USA) at Mar 27, 04:26 PM EDT. The local time to the port is Mar 27, 04:26 PM EDT",
-    "description": "Port Everglades, United States (USA) Departure (UTC) Mar 27, 20:26 — ET: Mar 27, 04:26 PM EDT | Local: Mar 27, 04:26 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "1c7433ebfd69f72cfb01a34baaf609781aa290d3",
-    "pubDate": "Fri, 27 Mar 2026 20:52:20 GMT",
-    "eventUtc": "2026-03-27T20:26:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
     "source": "vf_ship"
   }
 ]
