@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Arrived at Vancouver, Canada at May 18, 09:58 AM EDT. The local time to the port is May 18, 06:58 AM PDT",
+    "description": "Vancouver, Canada Arrival (UTC) May 18, 13:58 — ET: May 18, 09:58 AM EDT | Local: May 18, 06:58 AM PDT",
+    "link": "https://www.vesselfinder.com/ports/CAVAN001",
+    "guid": "c19953a9c7d0c4cc02a6053c7ced6000f3032bd3",
+    "pubDate": "Mon, 18 May 2026 16:28:33 GMT",
+    "eventUtc": "2026-05-18T13:58:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Treasure Arrived at Cozumel, Mexico at May 18, 09:03 AM EDT. The local time to the port is May 18, 08:03 AM EST",
+    "description": "Cozumel, Mexico Arrival (UTC) May 18, 13:03 — ET: May 18, 09:03 AM EDT | Local: May 18, 08:03 AM EST",
+    "link": "https://www.vesselfinder.com/ports/MXCZM001",
+    "guid": "65913ddf653599b4662f80ecc39cebbf490db217",
+    "pubDate": "Mon, 18 May 2026 16:26:28 GMT",
+    "eventUtc": "2026-05-18T13:03:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Arrived at Cape Canaveral, United States (USA) at May 18, 06:16 AM EDT. The local time to the port is May 18, 06:16 AM EDT",
     "description": "Cape Canaveral, United States (USA) Arrival (UTC) May 18, 10:16 — ET: May 18, 06:16 AM EDT | Local: May 18, 06:16 AM EDT",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-03-28T21:27:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Cape Canaveral, United States (USA) at Mar 28, 04:46 PM EDT. The local time to the port is Mar 28, 04:46 PM EDT",
-    "description": "Cape Canaveral, United States (USA) Departure (UTC) Mar 28, 20:46 — ET: Mar 28, 04:46 PM EDT | Local: Mar 28, 04:46 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "9723aff35f9a00044ded23378864a4a0fc029f27",
-    "pubDate": "Sat, 28 Mar 2026 21:15:32 GMT",
-    "eventUtc": "2026-03-28T20:46:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Departed from Port Everglades, United States (USA) at Mar 28, 04:28 PM EDT. The local time to the port is Mar 28, 04:28 PM EDT",
-    "description": "Port Everglades, United States (USA) Departure (UTC) Mar 28, 20:28 — ET: Mar 28, 04:28 PM EDT | Local: Mar 28, 04:28 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "2120a0f32bb917d7530e51ad30787e6a9afa8da0",
-    "pubDate": "Sat, 28 Mar 2026 20:48:40 GMT",
-    "eventUtc": "2026-03-28T20:28:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
     "source": "vf_ship"
   }
 ]
