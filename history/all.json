@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Livorno, Italy at May 17, 11:09 PM EDT. The local time to the port is May 18, 05:09 AM CEST",
+    "description": "Livorno, Italy Arrival (UTC) May 18, 03:09 — ET: May 17, 11:09 PM EDT | Local: May 18, 05:09 AM CEST",
+    "link": "https://www.vesselfinder.com/ports/ITLIV001",
+    "guid": "ed4d4f84f6c38911ab54928db67bf5b2b8a10190",
+    "pubDate": "Mon, 18 May 2026 05:54:47 GMT",
+    "eventUtc": "2026-05-18T03:09:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Departed from Singapore, Singapore at May 17, 08:30 PM EDT. The local time to the port is May 17, 08:30 PM EDT",
     "description": "Singapore, Singapore Departure (UTC) May 18, 00:30 — ET: May 17, 08:30 PM EDT | Local: May 17, 08:30 PM EDT",
     "link": "https://www.vesselfinder.com/ports/SGSIN001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-03-28T10:04:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Arrived at Port Everglades, United States (USA) at Mar 28, 04:38 AM EDT. The local time to the port is Mar 28, 04:38 AM EDT",
-    "description": "Port Everglades, United States (USA) Arrival (UTC) Mar 28, 08:38 — ET: Mar 28, 04:38 AM EDT | Local: Mar 28, 04:38 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "73e9d4f5bf88563c7500e4eb4398324a89953013",
-    "pubDate": "Sat, 28 Mar 2026 09:24:24 GMT",
-    "eventUtc": "2026-03-28T08:38:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
     "source": "vf_ship"
   }
 ]
