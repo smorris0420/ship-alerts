@@ -44,6 +44,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Departed from Cozumel, Mexico at May 18, 05:56 PM EDT. The local time to the port is May 18, 04:56 PM EST",
+    "description": "Cozumel, Mexico Departure (UTC) May 18, 21:56 — ET: May 18, 05:56 PM EDT | Local: May 18, 04:56 PM EST",
+    "link": "https://www.vesselfinder.com/ports/MXCZM001",
+    "guid": "91507e6f284beef13105e30ef219838945c8f8bb",
+    "pubDate": "Mon, 18 May 2026 22:37:26 GMT",
+    "eventUtc": "2026-05-18T21:56:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Arrived at Cozumel, Mexico at May 18, 09:03 AM EDT. The local time to the port is May 18, 08:03 AM EST",
     "description": "Cozumel, Mexico Arrival (UTC) May 18, 13:03 — ET: May 18, 09:03 AM EDT | Local: May 18, 08:03 AM EST",
     "link": "https://www.vesselfinder.com/ports/MXCZM001",

@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Departed from Cozumel, Mexico at May 18, 05:56 PM EDT. The local time to the port is May 18, 04:56 PM EST",
+    "description": "Cozumel, Mexico Departure (UTC) May 18, 21:56 — ET: May 18, 05:56 PM EDT | Local: May 18, 04:56 PM EST",
+    "link": "https://www.vesselfinder.com/ports/MXCZM001",
+    "guid": "91507e6f284beef13105e30ef219838945c8f8bb",
+    "pubDate": "Mon, 18 May 2026 22:37:26 GMT",
+    "eventUtc": "2026-05-18T21:56:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Departed from Cape Canaveral, United States (USA) at May 18, 04:32 PM EDT. The local time to the port is May 18, 04:32 PM EDT",
     "description": "Cape Canaveral, United States (USA) Departure (UTC) May 18, 20:32 — ET: May 18, 04:32 PM EDT | Local: May 18, 04:32 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5487,16 +5498,5 @@
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
     "source": "vf_port"
-  },
-  {
-    "title": "Disney Dream Arrived at Nassau, Bahamas at Mar 29, 07:25 AM EDT. The local time to the port is Mar 29, 07:25 AM EDT",
-    "description": "Nassau, Bahamas Arrival (UTC) Mar 29, 11:25 — ET: Mar 29, 07:25 AM EDT | Local: Mar 29, 07:25 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "cd88c32b2ecf8bf5103ab9bce0db8d833f0ed065",
-    "pubDate": "Sun, 29 Mar 2026 12:00:34 GMT",
-    "eventUtc": "2026-03-29T11:25:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
   }
 ]
