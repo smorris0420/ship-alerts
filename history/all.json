@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Arrived at Cape Canaveral, United States (USA) at May 18, 06:16 AM EDT. The local time to the port is May 18, 06:16 AM EDT",
+    "description": "Cape Canaveral, United States (USA) Arrival (UTC) May 18, 10:16 — ET: May 18, 06:16 AM EDT | Local: May 18, 06:16 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "8d4f13755b49212ff87d534fa13e84a409f27c0a",
+    "pubDate": "Mon, 18 May 2026 12:56:10 GMT",
+    "eventUtc": "2026-05-18T10:16:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Destiny Arrived at Port Everglades, United States (USA) at May 18, 05:31 AM EDT. The local time to the port is May 18, 05:31 AM EDT",
+    "description": "Port Everglades, United States (USA) Arrival (UTC) May 18, 09:31 — ET: May 18, 05:31 AM EDT | Local: May 18, 05:31 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPEF001",
+    "guid": "2c7e2762a9a9f0a38e230480102e6af46bc7d1bc",
+    "pubDate": "Mon, 18 May 2026 13:00:32 GMT",
+    "eventUtc": "2026-05-18T09:31:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Departed from Singapore, Singapore at May 18, 04:56 AM EDT. The local time to the port is May 18, 04:56 AM EDT",
     "description": "Singapore, Singapore Departure (UTC) May 18, 08:56 — ET: May 18, 04:56 AM EDT | Local: May 18, 04:56 AM EDT",
     "link": "https://www.vesselfinder.com/ports/SGSIN001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-03-28T20:28:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Arrived at Ensenada, Mexico at Mar 28, 10:09 AM EDT. The local time to the port is Mar 28, 09:09 AM EST",
-    "description": "Ensenada, Mexico Arrival (UTC) Mar 28, 14:09 — ET: Mar 28, 10:09 AM EDT | Local: Mar 28, 09:09 AM EST",
-    "link": "https://www.vesselfinder.com/ports/MXESE001",
-    "guid": "86041a511fafe6200d10a4657ab8520627bd4f9c",
-    "pubDate": "Sat, 28 Mar 2026 15:05:24 GMT",
-    "eventUtc": "2026-03-28T14:09:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Arrived at Gorda Cay, Bahamas at Mar 28, 07:50 AM EDT. The local time to the port is Mar 28, 07:50 AM EDT",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) Mar 28, 11:50 — ET: Mar 28, 07:50 AM EDT | Local: Mar 28, 07:50 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "c75f51f75f2ceb070651b00e7593e14dcd8d5e8e",
-    "pubDate": "Sat, 28 Mar 2026 13:08:36 GMT",
-    "eventUtc": "2026-03-28T11:50:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
     "source": "vf_ship"
   }
 ]
