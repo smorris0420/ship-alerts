@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Civitavecchia, Italy at May 19, 12:10 AM EDT. The local time to the port is May 19, 06:10 AM CEST",
+    "description": "Civitavecchia, Italy Arrival (UTC) May 19, 04:10 — ET: May 19, 12:10 AM EDT | Local: May 19, 06:10 AM CEST",
+    "link": "https://www.vesselfinder.com/ports/ITCVV001",
+    "guid": "fd1b0b851b14903db1876335e6eb770d0a6830e8",
+    "pubDate": "Tue, 19 May 2026 05:57:05 GMT",
+    "eventUtc": "2026-05-19T04:10:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Departed from Vancouver, Canada at May 18, 08:04 PM EDT. The local time to the port is May 18, 05:04 PM PDT",
     "description": "Vancouver, Canada Departure (UTC) May 19, 00:04 — ET: May 18, 08:04 PM EDT | Local: May 18, 05:04 PM PDT",
     "link": "https://www.vesselfinder.com/ports/CAVAN001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-03-29T21:06:00+00:00",
     "shipSlug": "disney-adventure",
     "shipName": "Disney Adventure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Departed from Cape Canaveral, United States (USA) at Mar 29, 04:36 PM EDT. The local time to the port is Mar 29, 04:36 PM EDT",
-    "description": "Cape Canaveral, United States (USA) Departure (UTC) Mar 29, 20:36 — ET: Mar 29, 04:36 PM EDT | Local: Mar 29, 04:36 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "08e610c72c326d42b67f5cd116a5f63e42d5d9fd",
-    "pubDate": "Sun, 29 Mar 2026 20:48:09 GMT",
-    "eventUtc": "2026-03-29T20:36:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
     "source": "vf_ship"
   }
 ]
