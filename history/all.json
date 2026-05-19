@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Departed from Vancouver, Canada at May 18, 08:04 PM EDT. The local time to the port is May 18, 05:04 PM PDT",
+    "description": "Vancouver, Canada Departure (UTC) May 19, 00:04 — ET: May 18, 08:04 PM EDT | Local: May 18, 05:04 PM PDT",
+    "link": "https://www.vesselfinder.com/ports/CAVAN001",
+    "guid": "b9d94abc8ab00107398a9a2f19e51181a5200b5c",
+    "pubDate": "Tue, 19 May 2026 01:53:10 GMT",
+    "eventUtc": "2026-05-19T00:04:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Departed from Cozumel, Mexico at May 18, 05:56 PM EDT. The local time to the port is May 18, 04:56 PM EST",
     "description": "Cozumel, Mexico Departure (UTC) May 18, 21:56 — ET: May 18, 05:56 PM EDT | Local: May 18, 04:56 PM EST",
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
@@ -5487,16 +5498,5 @@
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
     "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Galveston, United States (USA) at Mar 29, 09:30 AM EDT. The local time to the port is Mar 29, 09:30 AM EDT",
-    "description": "Galveston, United States (USA) Departure (UTC) Mar 29, 13:30 — ET: Mar 29, 09:30 AM EDT | Local: Mar 29, 09:30 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/USGLS001",
-    "guid": "7d9c088feebba375eaa716c9dd982375bffb2ef5",
-    "pubDate": "Fri, 27 Mar 2026 15:32:00 GMT",
-    "eventUtc": "2026-03-29T13:30:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
-    "source": "vf_port"
   }
 ]
