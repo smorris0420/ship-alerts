@@ -33,6 +33,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Ketchikan, United States (USA) at May 21, 01:15 PM EDT. The local time to the port is May 21, 01:15 PM EDT",
+    "description": "Ketchikan, United States (USA) Departure (UTC) May 21, 17:15 — ET: May 21, 01:15 PM EDT | Local: May 21, 01:15 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USKTN001",
+    "guid": "61bbd696607312701def25064a36e975b2a32eaf",
+    "pubDate": "Wed, 20 May 2026 09:48:09 GMT",
+    "eventUtc": "2026-05-21T17:15:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_port"
+  },
+  {
+    "title": "Disney Magic Arrived at Ketchikan, United States (USA) at May 21, 01:15 PM EDT. The local time to the port is May 21, 01:15 PM EDT",
+    "description": "Ketchikan, United States (USA) Arrival (UTC) May 21, 17:15 — ET: May 21, 01:15 PM EDT | Local: May 21, 01:15 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USKTN001",
+    "guid": "f74f02a1e9ff488f5bca1f8ad17b61c27d127931",
+    "pubDate": "Wed, 20 May 2026 09:48:10 GMT",
+    "eventUtc": "2026-05-21T17:15:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_port"
+  },
+  {
     "title": "Disney Magic Departed from Ketchikan, United States (USA) at May 19, 11:55 PM EDT. The local time to the port is May 19, 11:55 PM EDT",
     "description": "Ketchikan, United States (USA) Departure (UTC) May 20, 03:55 — ET: May 19, 11:55 PM EDT | Local: May 19, 11:55 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USKTN001",

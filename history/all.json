@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Ketchikan, United States (USA) at May 21, 01:15 PM EDT. The local time to the port is May 21, 01:15 PM EDT",
+    "description": "Ketchikan, United States (USA) Departure (UTC) May 21, 17:15 — ET: May 21, 01:15 PM EDT | Local: May 21, 01:15 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USKTN001",
+    "guid": "61bbd696607312701def25064a36e975b2a32eaf",
+    "pubDate": "Wed, 20 May 2026 09:48:09 GMT",
+    "eventUtc": "2026-05-21T17:15:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_port"
+  },
+  {
+    "title": "Disney Magic Arrived at Ketchikan, United States (USA) at May 21, 01:15 PM EDT. The local time to the port is May 21, 01:15 PM EDT",
+    "description": "Ketchikan, United States (USA) Arrival (UTC) May 21, 17:15 — ET: May 21, 01:15 PM EDT | Local: May 21, 01:15 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USKTN001",
+    "guid": "f74f02a1e9ff488f5bca1f8ad17b61c27d127931",
+    "pubDate": "Wed, 20 May 2026 09:48:10 GMT",
+    "eventUtc": "2026-05-21T17:15:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_port"
+  },
+  {
     "title": "Disney Dream Arrived at Napoli, Italy at May 20, 12:23 AM EDT. The local time to the port is May 20, 06:23 AM CEST",
     "description": "Napoli, Italy Arrival (UTC) May 20, 04:23 — ET: May 20, 12:23 AM EDT | Local: May 20, 06:23 AM CEST",
     "link": "https://www.vesselfinder.com/ports/ITNAP001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-03-30T13:39:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Arrived at Avalon Anch., United States (USA) at Mar 30, 09:39 AM EDT. The local time to the port is Mar 30, 09:39 AM EDT",
-    "description": "Avalon Anch., United States (USA) Arrival (UTC) Mar 30, 13:39 — ET: Mar 30, 09:39 AM EDT | Local: Mar 30, 09:39 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/USAOU001",
-    "guid": "1364393a45a01129237f333503fd37923a7ffb45",
-    "pubDate": "Tue, 31 Mar 2026 15:41:26 GMT",
-    "eventUtc": "2026-03-30T13:39:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Arrived at Cozumel, Mexico at Mar 30, 08:13 AM EDT. The local time to the port is Mar 30, 07:13 AM EST",
-    "description": "Cozumel, Mexico Arrival (UTC) Mar 30, 12:13 — ET: Mar 30, 08:13 AM EDT | Local: Mar 30, 07:13 AM EST",
-    "link": "https://www.vesselfinder.com/ports/MXCZM001",
-    "guid": "beb7a3f64731ceb0c77c394da2e464cb7dc999f0",
-    "pubDate": "Mon, 30 Mar 2026 14:07:00 GMT",
-    "eventUtc": "2026-03-30T12:13:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
     "source": "vf_ship"
   }
 ]

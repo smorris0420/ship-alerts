@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Wed, 20 May 2026 06:02:06 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 20 May 2026 09:51:19 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,20 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Magic Departed from Ketchikan, United States (USA) at May 21, 01:15 PM EDT. The local time to the port is May 21, 01:15 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USKTN001</link>
+    <guid isPermaLink="false">61bbd696607312701def25064a36e975b2a32eaf</guid>
+    <pubDate>Wed, 20 May 2026 09:48:09 GMT</pubDate>
+    <description><![CDATA[Ketchikan, United States (USA) Departure (UTC) May 21, 17:15 — ET: May 21, 01:15 PM EDT | Local: May 21, 01:15 PM EDT]]></description>
+  </item>
+  <item>
+    <title>Disney Magic Arrived at Ketchikan, United States (USA) at May 21, 01:15 PM EDT. The local time to the port is May 21, 01:15 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USKTN001</link>
+    <guid isPermaLink="false">f74f02a1e9ff488f5bca1f8ad17b61c27d127931</guid>
+    <pubDate>Wed, 20 May 2026 09:48:10 GMT</pubDate>
+    <description><![CDATA[Ketchikan, United States (USA) Arrival (UTC) May 21, 17:15 — ET: May 21, 01:15 PM EDT | Local: May 21, 01:15 PM EDT]]></description>
   </item>
   <item>
     <title>Disney Dream Arrived at Napoli, Italy at May 20, 12:23 AM EDT. The local time to the port is May 20, 06:23 AM CEST</title>
@@ -3492,20 +3506,6 @@
     <guid isPermaLink="false">5f3e54cb2feddbe03f3b1893d06a97f8ecba3307</guid>
     <pubDate>Mon, 30 Mar 2026 15:19:56 GMT</pubDate>
     <description><![CDATA[San Diego, United States (USA) Arrival (UTC) Mar 30, 13:39 — ET: Mar 30, 09:39 AM EDT | Local: Mar 30, 09:39 AM EDT]]></description>
-  </item>
-  <item>
-    <title>Disney Wonder Arrived at Avalon Anch., United States (USA) at Mar 30, 09:39 AM EDT. The local time to the port is Mar 30, 09:39 AM EDT</title>
-    <link>https://www.vesselfinder.com/ports/USAOU001</link>
-    <guid isPermaLink="false">1364393a45a01129237f333503fd37923a7ffb45</guid>
-    <pubDate>Tue, 31 Mar 2026 15:41:26 GMT</pubDate>
-    <description><![CDATA[Avalon Anch., United States (USA) Arrival (UTC) Mar 30, 13:39 — ET: Mar 30, 09:39 AM EDT | Local: Mar 30, 09:39 AM EDT]]></description>
-  </item>
-  <item>
-    <title>Disney Destiny Arrived at Cozumel, Mexico at Mar 30, 08:13 AM EDT. The local time to the port is Mar 30, 07:13 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/MXCZM001</link>
-    <guid isPermaLink="false">beb7a3f64731ceb0c77c394da2e464cb7dc999f0</guid>
-    <pubDate>Mon, 30 Mar 2026 14:07:00 GMT</pubDate>
-    <description><![CDATA[Cozumel, Mexico Arrival (UTC) Mar 30, 12:13 — ET: Mar 30, 08:13 AM EDT | Local: Mar 30, 07:13 AM EST]]></description>
   </item>
 </channel>
 </rss>
