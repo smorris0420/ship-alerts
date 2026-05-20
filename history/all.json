@@ -231,6 +231,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Dream Departed from Napoli, Italy at May 20, 01:24 PM EDT. The local time to the port is May 20, 07:24 PM CEST",
+    "description": "Napoli, Italy Departure (UTC) May 20, 17:24 — ET: May 20, 01:24 PM EDT | Local: May 20, 07:24 PM CEST",
+    "link": "https://www.vesselfinder.com/ports/ITNAP001",
+    "guid": "d24ec3f6439a6e219bcf0729bf6fa18b96e3ea13",
+    "pubDate": "Wed, 20 May 2026 18:25:25 GMT",
+    "eventUtc": "2026-05-20T17:24:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Arrived at Nassau, Bahamas at May 20, 07:13 AM EDT. The local time to the port is May 20, 07:13 AM EDT",
     "description": "Nassau, Bahamas Arrival (UTC) May 20, 11:13 — ET: May 20, 07:13 AM EDT | Local: May 20, 07:13 AM EDT",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-03-30T22:18:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Port Everglades, United States (USA) at Mar 30, 04:51 PM EDT. The local time to the port is Mar 30, 04:51 PM EDT",
-    "description": "Port Everglades, United States (USA) Departure (UTC) Mar 30, 20:51 — ET: Mar 30, 04:51 PM EDT | Local: Mar 30, 04:51 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "bfa9f95c4db99cc3a4d643de77dd269c5e7b897a",
-    "pubDate": "Mon, 30 Mar 2026 21:01:16 GMT",
-    "eventUtc": "2026-03-30T20:51:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
     "source": "vf_ship"
   }
 ]
