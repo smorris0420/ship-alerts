@@ -5,7 +5,7 @@
   <title>Disney Wish - Arrivals &amp; Departures</title>
   <link>https://www.vesselfinder.com/vessels/details/9834739</link>
   <description>Disney Wish - Arrivals &amp; Departures - Auto-generated</description>
-  <lastBuildDate>Thu, 21 May 2026 08:57:06 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 21 May 2026 12:16:37 GMT</lastBuildDate>
   
   <item>
     <title>Disney Wish Departed from Nassau, Bahamas at Dec 30, 05:59 PM EST. The local time to the port is Dec 30, 05:59 PM EST</title>
@@ -20,6 +20,13 @@
     <guid isPermaLink="false">c8fa95bf103d068f9b1c39c3aa7460598af04c5d</guid>
     <pubDate>Thu, 01 Jan 2026 00:00:41 GMT</pubDate>
     <description><![CDATA[Nassau, Bahamas Arrival (UTC) Dec 30, 13:49 — ET: Dec 30, 08:49 AM EST | Local: Dec 30, 08:49 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Wish Departed from Gorda Cay, Bahamas at May 20, 04:53 PM EDT. The local time to the port is May 20, 04:53 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
+    <guid isPermaLink="false">2ab48e8353df8b0096eb93561c73c3259d5c9015</guid>
+    <pubDate>Thu, 21 May 2026 12:16:35 GMT</pubDate>
+    <description><![CDATA[Gorda Cay, Bahamas Departure (UTC) May 20, 20:53 — ET: May 20, 04:53 PM EDT | Local: May 20, 04:53 PM EDT]]></description>
   </item>
   <item>
     <title>Disney Wish Arrived at Gorda Cay, Bahamas at May 20, 07:32 AM EDT. The local time to the port is May 20, 07:32 AM EDT</title>
@@ -1749,13 +1756,6 @@
     <guid isPermaLink="false">6fab52faa04e7bffceeb4b88df6f85da9f4cd03c</guid>
     <pubDate>Thu, 18 Dec 2025 13:23:41 GMT</pubDate>
     <description><![CDATA[Gorda Cay, Bahamas Arrival (UTC) Dec 18, 12:26 — ET: Dec 18, 07:26 AM EST | Local: Dec 18, 07:26 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Wish Departed from Cape Canaveral, United States (USA) at Dec 15, 04:28 PM EST. The local time to the port is Dec 15, 04:28 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/USPCV001</link>
-    <guid isPermaLink="false">2450601111e1fac7b0052c179121a1ced7c250b2</guid>
-    <pubDate>Mon, 15 Dec 2025 21:44:33 GMT</pubDate>
-    <description><![CDATA[Cape Canaveral, United States (USA) Departure (UTC) Dec 15, 21:28 — ET: Dec 15, 04:28 PM EST | Local: Dec 15, 04:28 PM EST]]></description>
   </item>
 </channel>
 </rss>
