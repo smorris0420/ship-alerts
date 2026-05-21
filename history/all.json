@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Cagliari, Italy at May 21, 01:39 PM EDT. The local time to the port is May 21, 07:39 PM CEST",
+    "description": "Cagliari, Italy Departure (UTC) May 21, 17:39 — ET: May 21, 01:39 PM EDT | Local: May 21, 07:39 PM CEST",
+    "link": "https://www.vesselfinder.com/ports/ITCAG001",
+    "guid": "ff267ce36746bf40ccbad4eb6d0bb930e5636f6b",
+    "pubDate": "Thu, 21 May 2026 17:56:20 GMT",
+    "eventUtc": "2026-05-21T17:39:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Departed from Ketchikan, United States (USA) at May 21, 01:15 PM EDT. The local time to the port is May 21, 01:15 PM EDT",
     "description": "Ketchikan, United States (USA) Departure (UTC) May 21, 17:15 — ET: May 21, 01:15 PM EDT | Local: May 21, 01:15 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USKTN001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-03-31T22:14:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Cozumel, Mexico at Mar 31, 06:14 PM EDT. The local time to the port is Mar 31, 05:14 PM EST",
-    "description": "Cozumel, Mexico Departure (UTC) Mar 31, 22:14 — ET: Mar 31, 06:14 PM EDT | Local: Mar 31, 05:14 PM EST",
-    "link": "https://www.vesselfinder.com/ports/MXCZM001",
-    "guid": "91a3cf321f9be5a541053d545d6894f67a4e23c3",
-    "pubDate": "Tue, 31 Mar 2026 22:27:44 GMT",
-    "eventUtc": "2026-03-31T22:14:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
