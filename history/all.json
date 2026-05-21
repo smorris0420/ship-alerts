@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Fantasy Departed from Nassau, Bahamas at May 21, 06:13 PM EDT. The local time to the port is May 21, 06:13 PM EDT",
+    "description": "Nassau, Bahamas Departure (UTC) May 21, 22:13 — ET: May 21, 06:13 PM EDT | Local: May 21, 06:13 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "35c8f440dd52b0fa10a57c9bfea66121b7923f35",
+    "pubDate": "Thu, 21 May 2026 22:47:14 GMT",
+    "eventUtc": "2026-05-21T22:13:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Cagliari, Italy at May 21, 01:39 PM EDT. The local time to the port is May 21, 07:39 PM CEST",
     "description": "Cagliari, Italy Departure (UTC) May 21, 17:39 — ET: May 21, 01:39 PM EDT | Local: May 21, 07:39 PM CEST",
     "link": "https://www.vesselfinder.com/ports/ITCAG001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-04-01T11:22:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Saint Thomas, US Virgin Islands at Mar 31, 06:14 PM EDT. The local time to the port is Mar 31, 06:14 PM EDT",
-    "description": "Saint Thomas, US Virgin Islands Departure (UTC) Mar 31, 22:14 — ET: Mar 31, 06:14 PM EDT | Local: Mar 31, 06:14 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/VISTT001",
-    "guid": "5d53ee3231eec77f580bb0ac1db39ec843c09952",
-    "pubDate": "Tue, 31 Mar 2026 22:26:50 GMT",
-    "eventUtc": "2026-03-31T22:14:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
