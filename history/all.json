@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Vancouver, Canada at May 21, 07:19 PM EDT. The local time to the port is May 21, 04:19 PM PDT",
+    "description": "Vancouver, Canada Departure (UTC) May 21, 23:19 — ET: May 21, 07:19 PM EDT | Local: May 21, 04:19 PM PDT",
+    "link": "https://www.vesselfinder.com/ports/CAVAN001",
+    "guid": "dd76fb25aa3a5ae7fb3ab6fec24dfea1c807997f",
+    "pubDate": "Thu, 21 May 2026 23:45:45 GMT",
+    "eventUtc": "2026-05-21T23:19:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Departed from Nassau, Bahamas at May 21, 06:13 PM EDT. The local time to the port is May 21, 06:13 PM EDT",
     "description": "Nassau, Bahamas Departure (UTC) May 21, 22:13 — ET: May 21, 06:13 PM EDT | Local: May 21, 06:13 PM EDT",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-04-01T11:38:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Arrived at Nassau, Bahamas at Apr 01, 07:22 AM EDT. The local time to the port is Apr 01, 07:22 AM EDT",
-    "description": "Nassau, Bahamas Arrival (UTC) Apr 1, 11:22 — ET: Apr 01, 07:22 AM EDT | Local: Apr 01, 07:22 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "cb16c99bdb31d30e20e97080cfeefa206a3ffe6f",
-    "pubDate": "Wed, 01 Apr 2026 12:04:42 GMT",
-    "eventUtc": "2026-04-01T11:22:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
     "source": "vf_ship"
   }
 ]
