@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Fri, 22 May 2026 11:50:10 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 22 May 2026 14:07:48 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,27 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Destiny Departed from Nassau, Bahamas at May 22, 08:53 AM EDT. The local time to the port is May 22, 08:53 AM EDT</title>
+    <link>https://www.vesselfinder.com/ports/BSNAS001</link>
+    <guid isPermaLink="false">6d47d316f637da9f157d52ddde0bf1318dc4d13a</guid>
+    <pubDate>Fri, 22 May 2026 14:07:46 GMT</pubDate>
+    <description><![CDATA[Nassau, Bahamas Departure (UTC) May 22, 12:53 — ET: May 22, 08:53 AM EDT | Local: May 22, 08:53 AM EDT]]></description>
+  </item>
+  <item>
+    <title>Disney Destiny Arrived at Nassau, Bahamas at May 22, 07:42 AM EDT. The local time to the port is May 22, 07:42 AM EDT</title>
+    <link>https://www.vesselfinder.com/ports/BSNAS001</link>
+    <guid isPermaLink="false">3261ab4230e99697239e97b4a27d214125245570</guid>
+    <pubDate>Fri, 22 May 2026 14:07:45 GMT</pubDate>
+    <description><![CDATA[Nassau, Bahamas Arrival (UTC) May 22, 11:42 — ET: May 22, 07:42 AM EDT | Local: May 22, 07:42 AM EDT]]></description>
+  </item>
+  <item>
+    <title>Disney Treasure Arrived at Gorda Cay, Bahamas at May 22, 07:15 AM EDT. The local time to the port is May 22, 07:15 AM EDT</title>
+    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
+    <guid isPermaLink="false">f1bd29d991abba3d2a2ed6a5579e07d591bf1f8e</guid>
+    <pubDate>Fri, 22 May 2026 14:04:07 GMT</pubDate>
+    <description><![CDATA[Gorda Cay, Bahamas Arrival (UTC) May 22, 11:15 — ET: May 22, 07:15 AM EDT | Local: May 22, 07:15 AM EDT]]></description>
   </item>
   <item>
     <title>Disney Wish Arrived at Cape Canaveral, United States (USA) at May 22, 05:39 AM EDT. The local time to the port is May 22, 05:39 AM EDT</title>
@@ -3485,27 +3506,6 @@
     <guid isPermaLink="false">dc6eb6fa54c5d85552b704fa8dc3bf43180ba246</guid>
     <pubDate>Thu, 02 Apr 2026 01:05:16 GMT</pubDate>
     <description><![CDATA[Singapore, Singapore Arrival (UTC) Apr 1, 21:18 — ET: Apr 01, 05:18 PM EDT | Local: Apr 01, 05:18 PM EDT]]></description>
-  </item>
-  <item>
-    <title>Disney Destiny Departed from Gorda Cay, Bahamas at Apr 01, 05:10 PM EDT. The local time to the port is Apr 01, 05:10 PM EDT</title>
-    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
-    <guid isPermaLink="false">417a6a14608e3a177f47f449f3881efe9278049b</guid>
-    <pubDate>Wed, 01 Apr 2026 22:02:16 GMT</pubDate>
-    <description><![CDATA[Gorda Cay, Bahamas Departure (UTC) Apr 1, 21:10 — ET: Apr 01, 05:10 PM EDT | Local: Apr 01, 05:10 PM EDT]]></description>
-  </item>
-  <item>
-    <title>Disney Treasure Departed from Road Town, Tortola, British Virgin Islands at Apr 01, 02:39 PM EDT. The local time to the port is Apr 01, 02:39 PM AST</title>
-    <link>https://www.vesselfinder.com/ports/VGRAD001</link>
-    <guid isPermaLink="false">c0012cc736d65ca06e808d5361584cb963c844f2</guid>
-    <pubDate>Wed, 01 Apr 2026 19:20:20 GMT</pubDate>
-    <description><![CDATA[Road Town, Tortola, British Virgin Islands Departure (UTC) Apr 1, 18:39 — ET: Apr 01, 02:39 PM EDT | Local: Apr 01, 02:39 PM AST]]></description>
-  </item>
-  <item>
-    <title>Disney Treasure Arrived at Road Town, Tortola, British Virgin Islands at Apr 01, 07:52 AM EDT. The local time to the port is Apr 01, 07:52 AM AST</title>
-    <link>https://www.vesselfinder.com/ports/VGRAD001</link>
-    <guid isPermaLink="false">d8f46d73ba728beb34f41a08a9dd602e69316002</guid>
-    <pubDate>Wed, 01 Apr 2026 14:01:20 GMT</pubDate>
-    <description><![CDATA[Road Town, Tortola, British Virgin Islands Arrival (UTC) Apr 1, 11:52 — ET: Apr 01, 07:52 AM EDT | Local: Apr 01, 07:52 AM AST]]></description>
   </item>
 </channel>
 </rss>

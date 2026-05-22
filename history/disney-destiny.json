@@ -22,6 +22,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Departed from Nassau, Bahamas at May 22, 08:53 AM EDT. The local time to the port is May 22, 08:53 AM EDT",
+    "description": "Nassau, Bahamas Departure (UTC) May 22, 12:53 — ET: May 22, 08:53 AM EDT | Local: May 22, 08:53 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "6d47d316f637da9f157d52ddde0bf1318dc4d13a",
+    "pubDate": "Fri, 22 May 2026 14:07:46 GMT",
+    "eventUtc": "2026-05-22T12:53:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Destiny Arrived at Nassau, Bahamas at May 22, 07:42 AM EDT. The local time to the port is May 22, 07:42 AM EDT",
+    "description": "Nassau, Bahamas Arrival (UTC) May 22, 11:42 — ET: May 22, 07:42 AM EDT | Local: May 22, 07:42 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "3261ab4230e99697239e97b4a27d214125245570",
+    "pubDate": "Fri, 22 May 2026 14:07:45 GMT",
+    "eventUtc": "2026-05-22T11:42:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Departed from Nassau, Bahamas at May 20, 06:04 PM EDT. The local time to the port is May 20, 06:04 PM EDT",
     "description": "Nassau, Bahamas Departure (UTC) May 20, 22:04 — ET: May 20, 06:04 PM EDT | Local: May 20, 06:04 PM EDT",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
