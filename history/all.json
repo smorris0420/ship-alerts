@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Arrived at Nassau, Bahamas at May 23, 09:01 AM EDT. The local time to the port is May 23, 09:01 AM EDT",
+    "description": "Nassau, Bahamas Arrival (UTC) May 23, 13:01 — ET: May 23, 09:01 AM EDT | Local: May 23, 09:01 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "d7012c896d4c28f3eeef9504aacade8de690fc6a",
+    "pubDate": "Sat, 23 May 2026 14:00:08 GMT",
+    "eventUtc": "2026-05-23T13:01:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Arrived at Cape Canaveral, United States (USA) at May 23, 05:59 AM EDT. The local time to the port is May 23, 05:59 AM EDT",
     "description": "Cape Canaveral, United States (USA) Arrival (UTC) May 23, 09:59 — ET: May 23, 05:59 AM EDT | Local: May 23, 05:59 AM EDT",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-04-02T09:02:00+00:00",
     "shipSlug": "disney-adventure",
     "shipName": "Disney Adventure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Departed from Nassau, Bahamas at Apr 01, 10:37 PM EDT. The local time to the port is Apr 01, 10:37 PM EDT",
-    "description": "Nassau, Bahamas Departure (UTC) Apr 2, 02:37 — ET: Apr 01, 10:37 PM EDT | Local: Apr 01, 10:37 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "b30dac5ee38d10b089bfcfdf04f6f4bd6e4ab8a0",
-    "pubDate": "Thu, 02 Apr 2026 03:51:43 GMT",
-    "eventUtc": "2026-04-02T02:37:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
     "source": "vf_ship"
   }
 ]
