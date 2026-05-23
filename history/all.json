@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Arrived at Cape Canaveral, United States (USA) at May 23, 05:59 AM EDT. The local time to the port is May 23, 05:59 AM EDT",
+    "description": "Cape Canaveral, United States (USA) Arrival (UTC) May 23, 09:59 — ET: May 23, 05:59 AM EDT | Local: May 23, 05:59 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "b0557a583d0b9a3f66351a84a6988842c59fffc5",
+    "pubDate": "Sat, 23 May 2026 11:02:36 GMT",
+    "eventUtc": "2026-05-23T09:59:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Arrived at Port Everglades, United States (USA) at May 23, 05:14 AM EDT. The local time to the port is May 23, 05:14 AM EDT",
     "description": "Port Everglades, United States (USA) Arrival (UTC) May 23, 09:14 — ET: May 23, 05:14 AM EDT | Local: May 23, 05:14 AM EDT",
     "link": "https://www.vesselfinder.com/ports/USPEF001",
@@ -5484,17 +5495,6 @@
     "guid": "b30dac5ee38d10b089bfcfdf04f6f4bd6e4ab8a0",
     "pubDate": "Thu, 02 Apr 2026 03:51:43 GMT",
     "eventUtc": "2026-04-02T02:37:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Arrived at Nassau, Bahamas at Apr 01, 09:18 PM EDT. The local time to the port is Apr 01, 09:18 PM EDT",
-    "description": "Nassau, Bahamas Arrival (UTC) Apr 2, 01:18 — ET: Apr 01, 09:18 PM EDT | Local: Apr 01, 09:18 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "8b8f9a68883c48da13b1376419ca4ed0ddd5dc63",
-    "pubDate": "Thu, 02 Apr 2026 03:51:42 GMT",
-    "eventUtc": "2026-04-02T01:18:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
     "source": "vf_ship"
