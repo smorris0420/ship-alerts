@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Departed from Port Everglades, United States (USA) at May 23, 04:15 PM EDT. The local time to the port is May 23, 04:15 PM EDT",
+    "description": "Port Everglades, United States (USA) Departure (UTC) May 23, 20:15 — ET: May 23, 04:15 PM EDT | Local: May 23, 04:15 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPEF001",
+    "guid": "4a8a47f000cbd097b06fb7622a803582d3874ee6",
+    "pubDate": "Sat, 23 May 2026 20:40:40 GMT",
+    "eventUtc": "2026-05-23T20:15:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Barcelona, Spain at May 23, 12:10 PM EDT. The local time to the port is May 23, 06:10 PM CEST",
     "description": "Barcelona, Spain Departure (UTC) May 23, 16:10 — ET: May 23, 12:10 PM EDT | Local: May 23, 06:10 PM CEST",
     "link": "https://www.vesselfinder.com/ports/ESBCN001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-04-02T11:42:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Arrived at Port Everglades, United States (USA) at Apr 02, 05:50 AM EDT. The local time to the port is Apr 02, 05:50 AM EDT",
-    "description": "Port Everglades, United States (USA) Arrival (UTC) Apr 2, 09:50 — ET: Apr 02, 05:50 AM EDT | Local: Apr 02, 05:50 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "33c71db2ccac879ef77f2b6d7ef909c9549a90a3",
-    "pubDate": "Thu, 02 Apr 2026 11:13:04 GMT",
-    "eventUtc": "2026-04-02T09:50:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
     "source": "vf_ship"
   }
 ]
