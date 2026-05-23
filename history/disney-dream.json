@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Barcelona, Spain at May 23, 12:10 PM EDT. The local time to the port is May 23, 06:10 PM CEST",
+    "description": "Barcelona, Spain Departure (UTC) May 23, 16:10 — ET: May 23, 12:10 PM EDT | Local: May 23, 06:10 PM CEST",
+    "link": "https://www.vesselfinder.com/ports/ESBCN001",
+    "guid": "de97ee05c86356bc8d97a58d3285aeef66e73ae2",
+    "pubDate": "Sat, 23 May 2026 17:31:50 GMT",
+    "eventUtc": "2026-05-23T16:10:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Arrived at Barcelona, Spain at May 23, 12:13 AM EDT. The local time to the port is May 23, 06:13 AM CEST",
     "description": "Barcelona, Spain Arrival (UTC) May 23, 04:13 — ET: May 23, 12:13 AM EDT | Local: May 23, 06:13 AM CEST",
     "link": "https://www.vesselfinder.com/ports/ESBCN001",
@@ -2734,17 +2745,6 @@
     "guid": "fe5e995c4c93c6f679bcd77288a9ec4a487900a7",
     "pubDate": "Thu, 20 Nov 2025 13:11:17 GMT",
     "eventUtc": "2025-11-20T12:31:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Gorda Cay, Bahamas at Nov 18, 05:02 PM EST. The local time to the port is Nov 18, 05:02 PM EST",
-    "description": "Gorda Cay, Bahamas Departure (UTC) Nov 18, 22:02 — ET: Nov 18, 05:02 PM EST | Local: Nov 18, 05:02 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "93d4afc786532093452116a6a41e4369f0dec0a0",
-    "pubDate": "Tue, 18 Nov 2025 23:01:45 GMT",
-    "eventUtc": "2025-11-18T22:02:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
     "source": "vf_ship"

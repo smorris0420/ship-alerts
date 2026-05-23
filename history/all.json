@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Barcelona, Spain at May 23, 12:10 PM EDT. The local time to the port is May 23, 06:10 PM CEST",
+    "description": "Barcelona, Spain Departure (UTC) May 23, 16:10 — ET: May 23, 12:10 PM EDT | Local: May 23, 06:10 PM CEST",
+    "link": "https://www.vesselfinder.com/ports/ESBCN001",
+    "guid": "de97ee05c86356bc8d97a58d3285aeef66e73ae2",
+    "pubDate": "Sat, 23 May 2026 17:31:50 GMT",
+    "eventUtc": "2026-05-23T16:10:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Arrived at Nassau, Bahamas at May 23, 09:01 AM EDT. The local time to the port is May 23, 09:01 AM EDT",
     "description": "Nassau, Bahamas Arrival (UTC) May 23, 13:01 — ET: May 23, 09:01 AM EDT | Local: May 23, 09:01 AM EDT",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-04-02T09:50:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Adventure Departed from Singapore, Singapore at Apr 02, 05:02 AM EDT. The local time to the port is Apr 02, 05:02 AM EDT",
-    "description": "Singapore, Singapore Departure (UTC) Apr 2, 09:02 — ET: Apr 02, 05:02 AM EDT | Local: Apr 02, 05:02 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/SGSIN001",
-    "guid": "fa5dccefd531fa844b9581372c2adc5ca32dacd1",
-    "pubDate": "Thu, 02 Apr 2026 10:12:08 GMT",
-    "eventUtc": "2026-04-02T09:02:00+00:00",
-    "shipSlug": "disney-adventure",
-    "shipName": "Disney Adventure",
     "source": "vf_ship"
   }
 ]
