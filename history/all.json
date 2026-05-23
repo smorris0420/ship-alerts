@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Barcelona, Spain at May 23, 12:13 AM EDT. The local time to the port is May 23, 06:13 AM CEST",
+    "description": "Barcelona, Spain Arrival (UTC) May 23, 04:13 — ET: May 23, 12:13 AM EDT | Local: May 23, 06:13 AM CEST",
+    "link": "https://www.vesselfinder.com/ports/ESBCN001",
+    "guid": "fd944171dc98023b243a9caece706375dbf5fed0",
+    "pubDate": "Sat, 23 May 2026 05:26:49 GMT",
+    "eventUtc": "2026-05-23T04:13:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Departed from Gorda Cay, Bahamas at May 22, 05:03 PM EDT. The local time to the port is May 22, 05:03 PM EDT",
     "description": "Gorda Cay, Bahamas Departure (UTC) May 22, 21:03 — ET: May 22, 05:03 PM EDT | Local: May 22, 05:03 PM EDT",
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
@@ -5487,16 +5498,5 @@
     "shipSlug": "disney-adventure",
     "shipName": "Disney Adventure",
     "source": "vf_port"
-  },
-  {
-    "title": "Disney Fantasy Departed from Nassau, Bahamas at Apr 01, 05:55 PM EDT. The local time to the port is Apr 01, 05:55 PM EDT",
-    "description": "Nassau, Bahamas Departure (UTC) Apr 1, 21:55 — ET: Apr 01, 05:55 PM EDT | Local: Apr 01, 05:55 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "9a1a74b70fbdbe9f8d9fc456ce034402cdf448e7",
-    "pubDate": "Wed, 01 Apr 2026 22:00:07 GMT",
-    "eventUtc": "2026-04-01T21:55:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
-    "source": "vf_ship"
   }
 ]
