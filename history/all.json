@@ -231,6 +231,17 @@
     "source": "vf_port"
   },
   {
+    "title": "Disney Adventure Arrived at Singapore, Singapore at May 24, 05:16 PM EDT. The local time to the port is May 24, 05:16 PM EDT",
+    "description": "Singapore, Singapore Arrival (UTC) May 24, 21:16 — ET: May 24, 05:16 PM EDT | Local: May 24, 05:16 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/SGSIN001",
+    "guid": "e10bc93c1fa0f9b453fde17ec3897c38942b7d12",
+    "pubDate": "Sun, 24 May 2026 22:11:29 GMT",
+    "eventUtc": "2026-05-24T21:16:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Departed from Gorda Cay, Bahamas at May 24, 04:49 PM EDT. The local time to the port is May 24, 04:49 PM EDT",
     "description": "Gorda Cay, Bahamas Departure (UTC) May 24, 20:49 — ET: May 24, 04:49 PM EDT | Local: May 24, 04:49 PM EDT",
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-04-03T20:45:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Port Everglades, United States (USA) at Apr 03, 04:37 PM EDT. The local time to the port is Apr 03, 04:37 PM EDT",
-    "description": "Port Everglades, United States (USA) Departure (UTC) Apr 3, 20:37 — ET: Apr 03, 04:37 PM EDT | Local: Apr 03, 04:37 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "ad4b16759eb17a56bc5f68d9e5361b23723447ef",
-    "pubDate": "Fri, 03 Apr 2026 21:01:52 GMT",
-    "eventUtc": "2026-04-03T20:37:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
     "source": "vf_ship"
   }
 ]
