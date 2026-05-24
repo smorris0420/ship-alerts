@@ -22,6 +22,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Departed from Miami, United States (USA) at May 23, 11:53 PM EDT. The local time to the port is May 23, 11:53 PM EDT",
+    "description": "Miami, United States (USA) Departure (UTC) May 24, 03:53 — ET: May 23, 11:53 PM EDT | Local: May 23, 11:53 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USMIA001",
+    "guid": "850ccfc245f7731d537b29cc9ccec541d833e675",
+    "pubDate": "Sun, 24 May 2026 05:49:33 GMT",
+    "eventUtc": "2026-05-24T03:53:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Destiny Arrived at Miami, United States (USA) at May 23, 10:36 PM EDT. The local time to the port is May 23, 10:36 PM EDT",
+    "description": "Miami, United States (USA) Arrival (UTC) May 24, 02:36 — ET: May 23, 10:36 PM EDT | Local: May 23, 10:36 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USMIA001",
+    "guid": "4207acd66041940ecee419e8093c8866f8c99884",
+    "pubDate": "Sun, 24 May 2026 05:49:32 GMT",
+    "eventUtc": "2026-05-24T02:36:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Departed from Port Everglades, United States (USA) at May 23, 04:15 PM EDT. The local time to the port is May 23, 04:15 PM EDT",
     "description": "Port Everglades, United States (USA) Departure (UTC) May 23, 20:15 — ET: May 23, 04:15 PM EDT | Local: May 23, 04:15 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USPEF001",
