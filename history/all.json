@@ -209,6 +209,39 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Adventure Departed from Singapore, Singapore at May 24, 08:30 PM EDT. The local time to the port is May 24, 08:30 PM EDT",
+    "description": "Singapore, Singapore Departure (UTC) May 25, 00:30 — ET: May 24, 08:30 PM EDT | Local: May 24, 08:30 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/SGSIN001",
+    "guid": "718f3502f631db79aff227938e47478f401685cd",
+    "pubDate": "Sun, 24 May 2026 20:01:43 GMT",
+    "eventUtc": "2026-05-25T00:30:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_port"
+  },
+  {
+    "title": "Disney Adventure Arrived at Singapore, Singapore at May 24, 08:30 PM EDT. The local time to the port is May 24, 08:30 PM EDT",
+    "description": "Singapore, Singapore Arrival (UTC) May 25, 00:30 — ET: May 24, 08:30 PM EDT | Local: May 24, 08:30 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/SGSIN001",
+    "guid": "82d257caba149ce469b933542abea87ca80cc19b",
+    "pubDate": "Sun, 24 May 2026 20:01:44 GMT",
+    "eventUtc": "2026-05-25T00:30:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_port"
+  },
+  {
+    "title": "Disney Wish Arrived at Gorda Cay, Bahamas at May 24, 07:36 AM EDT. The local time to the port is May 24, 07:36 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) May 24, 11:36 — ET: May 24, 07:36 AM EDT | Local: May 24, 07:36 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "d3bbfa2099999ac48944879ab8f67b42868dcbb2",
+    "pubDate": "Sun, 24 May 2026 19:57:51 GMT",
+    "eventUtc": "2026-05-24T11:36:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Arrived at Cape Canaveral, United States (USA) at May 24, 04:21 AM EDT. The local time to the port is May 24, 04:21 AM EDT",
     "description": "Cape Canaveral, United States (USA) Arrival (UTC) May 24, 08:21 — ET: May 24, 04:21 AM EDT | Local: May 24, 04:21 AM EDT",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5465,38 +5498,5 @@
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
     "source": "vf_port"
-  },
-  {
-    "title": "Disney Treasure Arrived at Gorda Cay, Bahamas at Apr 03, 10:04 AM EDT. The local time to the port is Apr 03, 10:04 AM EDT",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) Apr 3, 14:04 — ET: Apr 03, 10:04 AM EDT | Local: Apr 03, 10:04 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "ec5b76f690feabe8eb63c3fb94229d8e304715aa",
-    "pubDate": "Fri, 03 Apr 2026 15:25:27 GMT",
-    "eventUtc": "2026-04-03T14:04:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Arrived at Cape Canaveral, United States (USA) at Apr 03, 05:50 AM EDT. The local time to the port is Apr 03, 05:50 AM EDT",
-    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Apr 3, 09:50 — ET: Apr 03, 05:50 AM EDT | Local: Apr 03, 05:50 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "25435ded1b83b3b03bd15b080759ce6234a3c847",
-    "pubDate": "Fri, 03 Apr 2026 11:00:09 GMT",
-    "eventUtc": "2026-04-03T09:50:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Arrived at San Diego, United States (USA) at Apr 03, 05:20 AM EDT. The local time to the port is Apr 03, 05:20 AM EDT",
-    "description": "San Diego, United States (USA) Arrival (UTC) Apr 3, 09:20 — ET: Apr 03, 05:20 AM EDT | Local: Apr 03, 05:20 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/USSAN001",
-    "guid": "178c0bbfcaed9e7dfec6bdd03ca771bf28432bea",
-    "pubDate": "Fri, 03 Apr 2026 10:06:57 GMT",
-    "eventUtc": "2026-04-03T09:20:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
-    "source": "vf_ship"
   }
 ]
