@@ -209,6 +209,50 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Cagliari, Italy at May 25, 10:34 AM EDT. The local time to the port is May 25, 04:34 PM CEST",
+    "description": "Cagliari, Italy Departure (UTC) May 25, 14:34 — ET: May 25, 10:34 AM EDT | Local: May 25, 04:34 PM CEST",
+    "link": "https://www.vesselfinder.com/ports/ITCAG001",
+    "guid": "c8120e3cbdf5238733bb28158769d8414d3a5f0b",
+    "pubDate": "Mon, 25 May 2026 15:42:02 GMT",
+    "eventUtc": "2026-05-25T14:34:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Wonder Arrived at Vancouver, Canada at May 25, 10:06 AM EDT. The local time to the port is May 25, 07:06 AM PDT",
+    "description": "Vancouver, Canada Arrival (UTC) May 25, 14:06 — ET: May 25, 10:06 AM EDT | Local: May 25, 07:06 AM PDT",
+    "link": "https://www.vesselfinder.com/ports/CAVAN001",
+    "guid": "b14147489741266d4423f95787510f11c9689c19",
+    "pubDate": "Mon, 25 May 2026 15:42:08 GMT",
+    "eventUtc": "2026-05-25T14:06:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Destiny Arrived at Cozumel, Mexico at May 25, 09:41 AM EDT. The local time to the port is May 25, 08:41 AM EST",
+    "description": "Cozumel, Mexico Arrival (UTC) May 25, 13:41 — ET: May 25, 09:41 AM EDT | Local: May 25, 08:41 AM EST",
+    "link": "https://www.vesselfinder.com/ports/MXCZM001",
+    "guid": "8a12fc7781042eae8b97c973c252ce64aba3b82f",
+    "pubDate": "Mon, 25 May 2026 15:42:58 GMT",
+    "eventUtc": "2026-05-25T13:41:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Fantasy Arrived at Nassau, Bahamas at May 25, 08:47 AM EDT. The local time to the port is May 25, 08:47 AM EDT",
+    "description": "Nassau, Bahamas Arrival (UTC) May 25, 12:47 — ET: May 25, 08:47 AM EDT | Local: May 25, 08:47 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "a7a72696175d11311240be368d09ba23291acdca",
+    "pubDate": "Mon, 25 May 2026 15:41:09 GMT",
+    "eventUtc": "2026-05-25T12:47:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Arrived at Cape Canaveral, United States (USA) at May 25, 05:52 AM EDT. The local time to the port is May 25, 05:52 AM EDT",
     "description": "Cape Canaveral, United States (USA) Arrival (UTC) May 25, 09:52 — ET: May 25, 05:52 AM EDT | Local: May 25, 05:52 AM EDT",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5453,50 +5497,6 @@
     "eventUtc": "2026-04-04T13:03:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Arrived at Gorda Cay, Bahamas at Apr 04, 07:44 AM EDT. The local time to the port is Apr 04, 07:44 AM EDT",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) Apr 4, 11:44 — ET: Apr 04, 07:44 AM EDT | Local: Apr 04, 07:44 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "83f3faf7f75603404e919449848099efa51fbc07",
-    "pubDate": "Sat, 04 Apr 2026 13:19:46 GMT",
-    "eventUtc": "2026-04-04T11:44:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Cape Canaveral, United States (USA) at Apr 04, 05:55 AM EDT. The local time to the port is Apr 04, 05:55 AM EDT",
-    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Apr 4, 09:55 — ET: Apr 04, 05:55 AM EDT | Local: Apr 04, 05:55 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "f10b89a9285cee8ca63542df9e47c8815c7f412e",
-    "pubDate": "Sat, 04 Apr 2026 11:01:02 GMT",
-    "eventUtc": "2026-04-04T09:55:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Departed from San Diego, United States (USA) at Apr 03, 08:32 PM EDT. The local time to the port is Apr 03, 08:32 PM EDT",
-    "description": "San Diego, United States (USA) Departure (UTC) Apr 4, 00:32 — ET: Apr 03, 08:32 PM EDT | Local: Apr 03, 08:32 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USSAN001",
-    "guid": "43cc9d99107e97c4e03409e813c46b1a547b6c79",
-    "pubDate": "Sat, 04 Apr 2026 02:57:28 GMT",
-    "eventUtc": "2026-04-04T00:32:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Departed from Avalon Anch., United States (USA) at Apr 03, 08:32 PM EDT. The local time to the port is Apr 03, 08:32 PM EDT",
-    "description": "Avalon Anch., United States (USA) Departure (UTC) Apr 4, 00:32 — ET: Apr 03, 08:32 PM EDT | Local: Apr 03, 08:32 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USAOU001",
-    "guid": "b2f4bc2e8160641f28d4a953287e34ad219e8d4f",
-    "pubDate": "Sat, 04 Apr 2026 15:19:35 GMT",
-    "eventUtc": "2026-04-04T00:32:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
     "source": "vf_ship"
   }
 ]
