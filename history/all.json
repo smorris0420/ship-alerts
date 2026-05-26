@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Departed from Saint Thomas, US Virgin Islands at May 26, 06:17 PM EDT. The local time to the port is May 26, 06:17 PM EDT",
+    "description": "Saint Thomas, US Virgin Islands Departure (UTC) May 26, 22:17 — ET: May 26, 06:17 PM EDT | Local: May 26, 06:17 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/VISTT001",
+    "guid": "351c9cafc622a15fd28f059f437d18d9e43cb61b",
+    "pubDate": "Tue, 26 May 2026 22:26:40 GMT",
+    "eventUtc": "2026-05-26T22:17:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Magic Arrived at Ketchikan, United States (USA) at May 26, 05:26 PM EDT. The local time to the port is May 26, 05:26 PM EDT",
+    "description": "Ketchikan, United States (USA) Arrival (UTC) May 26, 21:26 — ET: May 26, 05:26 PM EDT | Local: May 26, 05:26 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USKTN001",
+    "guid": "7c19de15aba0b309920133004583e39df34f1cfa",
+    "pubDate": "Tue, 26 May 2026 22:27:31 GMT",
+    "eventUtc": "2026-05-26T21:26:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Napoli, Italy at May 26, 01:43 PM EDT. The local time to the port is May 26, 07:43 PM CEST",
     "description": "Napoli, Italy Departure (UTC) May 26, 17:43 — ET: May 26, 01:43 PM EDT | Local: May 26, 07:43 PM CEST",
     "link": "https://www.vesselfinder.com/ports/ITNAP001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-04-05T21:52:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Adventure Arrived at Singapore, Singapore at Apr 05, 05:07 PM EDT. The local time to the port is Apr 05, 05:07 PM EDT",
-    "description": "Singapore, Singapore Arrival (UTC) Apr 5, 21:07 — ET: Apr 05, 05:07 PM EDT | Local: Apr 05, 05:07 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/SGSIN001",
-    "guid": "54747d347e29472778d52551615ca6aeb3ed02a9",
-    "pubDate": "Sun, 05 Apr 2026 21:59:09 GMT",
-    "eventUtc": "2026-04-05T21:07:00+00:00",
-    "shipSlug": "disney-adventure",
-    "shipName": "Disney Adventure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Departed from Gorda Cay, Bahamas at Apr 05, 04:59 PM EDT. The local time to the port is Apr 05, 04:59 PM EDT",
-    "description": "Gorda Cay, Bahamas Departure (UTC) Apr 5, 20:59 — ET: Apr 05, 04:59 PM EDT | Local: Apr 05, 04:59 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "e73d98ab0eb9ccec5843e40e59bb0e2ef1fbd8b8",
-    "pubDate": "Sun, 05 Apr 2026 21:25:50 GMT",
-    "eventUtc": "2026-04-05T20:59:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
     "source": "vf_ship"
   }
 ]
