@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Arrived at Saint Thomas, US Virgin Islands at May 26, 06:51 AM EDT. The local time to the port is May 26, 06:51 AM EDT",
+    "description": "Saint Thomas, US Virgin Islands Arrival (UTC) May 26, 10:51 — ET: May 26, 06:51 AM EDT | Local: May 26, 06:51 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/VISTT001",
+    "guid": "0361c338befee86278e4b32aa8f8b171964c6b51",
+    "pubDate": "Tue, 26 May 2026 16:29:08 GMT",
+    "eventUtc": "2026-05-26T10:51:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Arrived at Napoli, Italy at May 26, 02:22 AM EDT. The local time to the port is May 26, 08:22 AM CEST",
     "description": "Napoli, Italy Arrival (UTC) May 26, 06:22 — ET: May 26, 02:22 AM EDT | Local: May 26, 08:22 AM CEST",
     "link": "https://www.vesselfinder.com/ports/ITNAP001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-04-05T11:32:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Arrived at Galveston, United States (USA) at Apr 05, 06:25 AM EDT. The local time to the port is Apr 05, 06:25 AM EDT",
-    "description": "Galveston, United States (USA) Arrival (UTC) Apr 5, 10:25 — ET: Apr 05, 06:25 AM EDT | Local: Apr 05, 06:25 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/USGLS001",
-    "guid": "33125b58ff905819237eff1f3023f176d3260722",
-    "pubDate": "Sun, 05 Apr 2026 11:40:16 GMT",
-    "eventUtc": "2026-04-05T10:25:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
