@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Departed from Vancouver, Canada at May 25, 08:16 PM EDT. The local time to the port is May 25, 05:16 PM PDT",
+    "description": "Vancouver, Canada Departure (UTC) May 26, 00:16 — ET: May 25, 08:16 PM EDT | Local: May 25, 05:16 PM PDT",
+    "link": "https://www.vesselfinder.com/ports/CAVAN001",
+    "guid": "8d02cf099aed8ebcf76c1457a72bfcaf47408a35",
+    "pubDate": "Tue, 26 May 2026 01:51:30 GMT",
+    "eventUtc": "2026-05-26T00:16:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Arrived at Vancouver, Canada at May 25, 10:06 AM EDT. The local time to the port is May 25, 07:06 AM PDT",
     "description": "Vancouver, Canada Arrival (UTC) May 25, 14:06 — ET: May 25, 10:06 AM EDT | Local: May 25, 07:06 AM PDT",
     "link": "https://www.vesselfinder.com/ports/CAVAN001",

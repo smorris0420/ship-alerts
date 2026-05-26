@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Departed from Vancouver, Canada at May 25, 08:16 PM EDT. The local time to the port is May 25, 05:16 PM PDT",
+    "description": "Vancouver, Canada Departure (UTC) May 26, 00:16 — ET: May 25, 08:16 PM EDT | Local: May 25, 05:16 PM PDT",
+    "link": "https://www.vesselfinder.com/ports/CAVAN001",
+    "guid": "8d02cf099aed8ebcf76c1457a72bfcaf47408a35",
+    "pubDate": "Tue, 26 May 2026 01:51:30 GMT",
+    "eventUtc": "2026-05-26T00:16:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Departed from Cozumel, Mexico at May 25, 06:06 PM EDT. The local time to the port is May 25, 05:06 PM EST",
     "description": "Cozumel, Mexico Departure (UTC) May 25, 22:06 — ET: May 25, 06:06 PM EDT | Local: May 25, 05:06 PM EST",
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-04-04T21:49:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Departed from Gorda Cay, Bahamas at Apr 04, 05:12 PM EDT. The local time to the port is Apr 04, 05:12 PM EDT",
-    "description": "Gorda Cay, Bahamas Departure (UTC) Apr 4, 21:12 — ET: Apr 04, 05:12 PM EDT | Local: Apr 04, 05:12 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "263c6760b20d737eee04e66ea95193e7bf60f4c7",
-    "pubDate": "Sat, 04 Apr 2026 21:20:09 GMT",
-    "eventUtc": "2026-04-04T21:12:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
     "source": "vf_ship"
   }
 ]
