@@ -33,6 +33,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Hoonah, United States (USA) at May 25, 09:19 PM EDT. The local time to the port is May 25, 09:19 PM EDT",
+    "description": "Hoonah, United States (USA) Departure (UTC) May 26, 01:19 — ET: May 25, 09:19 PM EDT | Local: May 25, 09:19 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USHNH001",
+    "guid": "06d276ae4875188787d9d73bd0c5a7cf27f87639",
+    "pubDate": "Tue, 26 May 2026 21:00:42 GMT",
+    "eventUtc": "2026-05-26T01:19:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Magic Arrived at Hoonah, United States (USA) at May 25, 10:45 AM EDT. The local time to the port is May 25, 10:45 AM EDT",
+    "description": "Hoonah, United States (USA) Arrival (UTC) May 25, 14:45 — ET: May 25, 10:45 AM EDT | Local: May 25, 10:45 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USHNH001",
+    "guid": "9284ab3bf107b13fd21b4722c6522a6347f592b4",
+    "pubDate": "Tue, 26 May 2026 21:00:41 GMT",
+    "eventUtc": "2026-05-25T14:45:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Departed from Vancouver, Canada at May 21, 07:19 PM EDT. The local time to the port is May 21, 04:19 PM PDT",
     "description": "Vancouver, Canada Departure (UTC) May 21, 23:19 — ET: May 21, 07:19 PM EDT | Local: May 21, 04:19 PM PDT",
     "link": "https://www.vesselfinder.com/ports/CAVAN001",
