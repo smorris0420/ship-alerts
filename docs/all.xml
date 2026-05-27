@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Wed, 27 May 2026 01:58:01 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 27 May 2026 06:16:23 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -141,6 +141,20 @@
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
   </item>
   <item>
+    <title>Disney Magic Departed from Ketchikan, United States (USA) at May 27, 12:16 AM EDT. The local time to the port is May 27, 12:16 AM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USKTN001</link>
+    <guid isPermaLink="false">da68e52c2c09fba0924a9701dcf438a4fa1bd0cc</guid>
+    <pubDate>Wed, 27 May 2026 06:13:57 GMT</pubDate>
+    <description><![CDATA[Ketchikan, United States (USA) Departure (UTC) May 27, 04:16 — ET: May 27, 12:16 AM EDT | Local: May 27, 12:16 AM EDT]]></description>
+  </item>
+  <item>
+    <title>Disney Dream Arrived at Civitavecchia, Italy at May 26, 11:36 PM EDT. The local time to the port is May 27, 05:36 AM CEST</title>
+    <link>https://www.vesselfinder.com/ports/ITCVV001</link>
+    <guid isPermaLink="false">157a27e18480040e2ddd0a085451a6970f41acad</guid>
+    <pubDate>Wed, 27 May 2026 06:14:11 GMT</pubDate>
+    <description><![CDATA[Civitavecchia, Italy Arrival (UTC) May 27, 03:36 — ET: May 26, 11:36 PM EDT | Local: May 27, 05:36 AM CEST]]></description>
+  </item>
+  <item>
     <title>Disney Treasure Departed from Saint Thomas, US Virgin Islands at May 26, 06:17 PM EDT. The local time to the port is May 26, 06:17 PM EDT</title>
     <link>https://www.vesselfinder.com/ports/VISTT001</link>
     <guid isPermaLink="false">351c9cafc622a15fd28f059f437d18d9e43cb61b</guid>
@@ -155,11 +169,25 @@
     <description><![CDATA[Ketchikan, United States (USA) Arrival (UTC) May 26, 21:26 — ET: May 26, 05:26 PM EDT | Local: May 26, 05:26 PM EDT]]></description>
   </item>
   <item>
+    <title>Disney Wish Departed from Gorda Cay, Bahamas at May 26, 04:50 PM EDT. The local time to the port is May 26, 04:50 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
+    <guid isPermaLink="false">407c5a93296f0dc8231e5f77f3c9fccf4b8e22e5</guid>
+    <pubDate>Wed, 27 May 2026 06:12:18 GMT</pubDate>
+    <description><![CDATA[Gorda Cay, Bahamas Departure (UTC) May 26, 20:50 — ET: May 26, 04:50 PM EDT | Local: May 26, 04:50 PM EDT]]></description>
+  </item>
+  <item>
     <title>Disney Dream Departed from Napoli, Italy at May 26, 01:43 PM EDT. The local time to the port is May 26, 07:43 PM CEST</title>
     <link>https://www.vesselfinder.com/ports/ITNAP001</link>
     <guid isPermaLink="false">90e03fdfe0f139c763072befe9e3965b509ad400</guid>
     <pubDate>Tue, 26 May 2026 19:05:18 GMT</pubDate>
     <description><![CDATA[Napoli, Italy Departure (UTC) May 26, 17:43 — ET: May 26, 01:43 PM EDT | Local: May 26, 07:43 PM CEST]]></description>
+  </item>
+  <item>
+    <title>Disney Wish Arrived at Gorda Cay, Bahamas at May 26, 07:56 AM EDT. The local time to the port is May 26, 07:56 AM EDT</title>
+    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
+    <guid isPermaLink="false">9ba730a42499db3e95ee8ab331d9175e738f5e58</guid>
+    <pubDate>Wed, 27 May 2026 06:12:16 GMT</pubDate>
+    <description><![CDATA[Gorda Cay, Bahamas Arrival (UTC) May 26, 11:56 — ET: May 26, 07:56 AM EDT | Local: May 26, 07:56 AM EDT]]></description>
   </item>
   <item>
     <title>Disney Treasure Arrived at Saint Thomas, US Virgin Islands at May 26, 06:51 AM EDT. The local time to the port is May 26, 06:51 AM EDT</title>
@@ -3478,34 +3506,6 @@
     <guid isPermaLink="false">b9826f17928e501a0fc48ea3c91588f45a178cba</guid>
     <pubDate>Sun, 05 Apr 2026 19:53:14 GMT</pubDate>
     <description><![CDATA[Singapore, Singapore Departure (UTC) Apr 06, 00:30 — ET: Apr 05, 08:30 PM EDT | Local: Apr 05, 08:30 PM EDT]]></description>
-  </item>
-  <item>
-    <title>Disney Adventure Arrived at Singapore, Singapore at Apr 05, 08:30 PM EDT. The local time to the port is Apr 05, 08:30 PM EDT</title>
-    <link>https://www.vesselfinder.com/ports/SGSIN001</link>
-    <guid isPermaLink="false">7256947a31bde567677e49662d1d341db2a52cea</guid>
-    <pubDate>Sun, 05 Apr 2026 19:53:15 GMT</pubDate>
-    <description><![CDATA[Singapore, Singapore Arrival (UTC) Apr 06, 00:30 — ET: Apr 05, 08:30 PM EDT | Local: Apr 05, 08:30 PM EDT]]></description>
-  </item>
-  <item>
-    <title>Disney Wonder Departed from Ensenada, Mexico at Apr 05, 08:29 PM EDT. The local time to the port is Apr 05, 07:29 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/MXESE001</link>
-    <guid isPermaLink="false">c8412a10c0b38ec7dd9aa80d624123247fe30cd6</guid>
-    <pubDate>Mon, 06 Apr 2026 01:08:57 GMT</pubDate>
-    <description><![CDATA[Ensenada, Mexico Departure (UTC) Apr 6, 00:29 — ET: Apr 05, 08:29 PM EDT | Local: Apr 05, 07:29 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Dream Departed from Nassau, Bahamas at Apr 05, 05:57 PM EDT. The local time to the port is Apr 05, 05:57 PM EDT</title>
-    <link>https://www.vesselfinder.com/ports/BSNAS001</link>
-    <guid isPermaLink="false">df937c3d9a0c64aa29b0d6d58330d383a12a59a4</guid>
-    <pubDate>Sun, 05 Apr 2026 22:35:26 GMT</pubDate>
-    <description><![CDATA[Nassau, Bahamas Departure (UTC) Apr 5, 21:57 — ET: Apr 05, 05:57 PM EDT | Local: Apr 05, 05:57 PM EDT]]></description>
-  </item>
-  <item>
-    <title>Disney Magic Departed from Galveston, United States (USA) at Apr 05, 05:52 PM EDT. The local time to the port is Apr 05, 05:52 PM EDT</title>
-    <link>https://www.vesselfinder.com/ports/USGLS001</link>
-    <guid isPermaLink="false">7c3e8d2142ba0a83d88e522bee2f47573891c948</guid>
-    <pubDate>Sun, 05 Apr 2026 21:57:35 GMT</pubDate>
-    <description><![CDATA[Galveston, United States (USA) Departure (UTC) Apr 5, 21:52 — ET: Apr 05, 05:52 PM EDT | Local: Apr 05, 05:52 PM EDT]]></description>
   </item>
 </channel>
 </rss>
