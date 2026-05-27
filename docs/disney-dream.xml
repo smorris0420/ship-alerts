@@ -5,7 +5,7 @@
   <title>Disney Dream - Arrivals &amp; Departures</title>
   <link>https://www.vesselfinder.com/vessels/details/9434254</link>
   <description>Disney Dream - Arrivals &amp; Departures - Auto-generated</description>
-  <lastBuildDate>Wed, 27 May 2026 17:30:46 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 27 May 2026 19:39:53 GMT</lastBuildDate>
   
   <item>
     <title>Disney Dream Departed from Port Everglades, United States (USA) at Dec 29, 04:49 PM EST. The local time to the port is Dec 29, 04:49 PM EST</title>
@@ -20,6 +20,13 @@
     <guid isPermaLink="false">5f7fbac63c07edf9fb1d4a3dd01fd68927534e3b</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:30 GMT</pubDate>
     <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) Dec 29, 10:48 — ET: Dec 29, 05:48 AM EST | Local: Dec 29, 05:48 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Dream Departed from Civitavecchia, Italy at May 27, 01:34 PM EDT. The local time to the port is May 27, 07:34 PM CEST</title>
+    <link>https://www.vesselfinder.com/ports/ITCVV001</link>
+    <guid isPermaLink="false">e10dcebc7d02cfae3e7438dccd269fdd6d77238d</guid>
+    <pubDate>Wed, 27 May 2026 19:39:51 GMT</pubDate>
+    <description><![CDATA[Civitavecchia, Italy Departure (UTC) May 27, 17:34 — ET: May 27, 01:34 PM EDT | Local: May 27, 07:34 PM CEST]]></description>
   </item>
   <item>
     <title>Disney Dream Arrived at Civitavecchia, Italy at May 26, 11:36 PM EDT. The local time to the port is May 27, 05:36 AM CEST</title>
@@ -1749,13 +1756,6 @@
     <guid isPermaLink="false">a8b88a9e3b0ed8609c2b9fc9fbb7200ce029a864</guid>
     <pubDate>Wed, 26 Nov 2025 11:45:38 GMT</pubDate>
     <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) Nov 26, 11:00 — ET: Nov 26, 06:00 AM EST | Local: Nov 26, 06:00 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Dream Departed from Nassau, Bahamas at Nov 23, 05:41 PM EST. The local time to the port is Nov 23, 05:41 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/BSNAS001</link>
-    <guid isPermaLink="false">1a5b5d514cb96e07705d2c9084ca52e9661f3bda</guid>
-    <pubDate>Mon, 24 Nov 2025 13:53:50 GMT</pubDate>
-    <description><![CDATA[Nassau, Bahamas Departure (UTC) Nov 23, 22:41 — ET: Nov 23, 05:41 PM EST | Local: Nov 23, 05:41 PM EST]]></description>
   </item>
 </channel>
 </rss>
