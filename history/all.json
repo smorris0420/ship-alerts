@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Adventure Arrived at Singapore, Singapore at May 27, 05:11 PM EDT. The local time to the port is May 27, 05:11 PM EDT",
+    "description": "Singapore, Singapore Arrival (UTC) May 27, 21:11 — ET: May 27, 05:11 PM EDT | Local: May 27, 05:11 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/SGSIN001",
+    "guid": "175d499856456c113c80d268c77975fb353861f5",
+    "pubDate": "Wed, 27 May 2026 23:00:57 GMT",
+    "eventUtc": "2026-05-27T21:11:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Departed from Road Town, Tortola, British Virgin Islands at May 27, 02:19 PM EDT. The local time to the port is May 27, 02:19 PM AST",
     "description": "Road Town, Tortola, British Virgin Islands Departure (UTC) May 27, 18:19 — ET: May 27, 02:19 PM EDT | Local: May 27, 02:19 PM AST",
     "link": "https://www.vesselfinder.com/ports/VGRAD001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-04-06T09:58:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Adventure Departed from Singapore, Singapore at Apr 06, 05:07 AM EDT. The local time to the port is Apr 06, 05:07 AM EDT",
-    "description": "Singapore, Singapore Departure (UTC) Apr 6, 09:07 — ET: Apr 06, 05:07 AM EDT | Local: Apr 06, 05:07 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/SGSIN001",
-    "guid": "8c376a62bd3edb143e18131317568d98af29d9a8",
-    "pubDate": "Mon, 06 Apr 2026 09:25:29 GMT",
-    "eventUtc": "2026-04-06T09:07:00+00:00",
-    "shipSlug": "disney-adventure",
-    "shipName": "Disney Adventure",
     "source": "vf_ship"
   }
 ]
