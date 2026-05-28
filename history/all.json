@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Arrived at Vancouver, Canada at May 28, 09:55 AM EDT. The local time to the port is May 28, 06:55 AM PDT",
+    "description": "Vancouver, Canada Arrival (UTC) May 28, 13:55 — ET: May 28, 09:55 AM EDT | Local: May 28, 06:55 AM PDT",
+    "link": "https://www.vesselfinder.com/ports/CAVAN001",
+    "guid": "5f93267c4f9cf61f0a84244eb99e3572a558ad1c",
+    "pubDate": "Thu, 28 May 2026 16:22:02 GMT",
+    "eventUtc": "2026-05-28T13:55:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Fantasy Arrived at Gorda Cay, Bahamas at May 28, 07:09 AM EDT. The local time to the port is May 28, 07:09 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) May 28, 11:09 — ET: May 28, 07:09 AM EDT | Local: May 28, 07:09 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "a5d54e403d67aa1f5f811d95528e186e0d5bedf2",
+    "pubDate": "Thu, 28 May 2026 16:21:50 GMT",
+    "eventUtc": "2026-05-28T11:09:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Arrived at Port Everglades, United States (USA) at May 28, 05:52 AM EDT. The local time to the port is May 28, 05:52 AM EDT",
     "description": "Port Everglades, United States (USA) Arrival (UTC) May 28, 09:52 — ET: May 28, 05:52 AM EDT | Local: May 28, 05:52 AM EDT",
     "link": "https://www.vesselfinder.com/ports/USPEF001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-04-06T21:08:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Departed from Cape Canaveral, United States (USA) at Apr 06, 04:49 PM EDT. The local time to the port is Apr 06, 04:49 PM EDT",
-    "description": "Cape Canaveral, United States (USA) Departure (UTC) Apr 6, 20:49 — ET: Apr 06, 04:49 PM EDT | Local: Apr 06, 04:49 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "7da8b47a38c0ce400880db8d777681206eb9c0ef",
-    "pubDate": "Mon, 06 Apr 2026 21:28:30 GMT",
-    "eventUtc": "2026-04-06T20:49:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Arrived at San Diego, United States (USA) at Apr 06, 09:53 AM EDT. The local time to the port is Apr 06, 09:53 AM EDT",
-    "description": "San Diego, United States (USA) Arrival (UTC) Apr 6, 13:53 — ET: Apr 06, 09:53 AM EDT | Local: Apr 06, 09:53 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/USSAN001",
-    "guid": "bf5d384e3c246fd3f06624a87fbbac07d657b271",
-    "pubDate": "Mon, 06 Apr 2026 14:40:49 GMT",
-    "eventUtc": "2026-04-06T13:53:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
     "source": "vf_ship"
   }
 ]

@@ -33,6 +33,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Arrived at Vancouver, Canada at May 28, 09:55 AM EDT. The local time to the port is May 28, 06:55 AM PDT",
+    "description": "Vancouver, Canada Arrival (UTC) May 28, 13:55 — ET: May 28, 09:55 AM EDT | Local: May 28, 06:55 AM PDT",
+    "link": "https://www.vesselfinder.com/ports/CAVAN001",
+    "guid": "5f93267c4f9cf61f0a84244eb99e3572a558ad1c",
+    "pubDate": "Thu, 28 May 2026 16:22:02 GMT",
+    "eventUtc": "2026-05-28T13:55:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Departed from Ketchikan, United States (USA) at May 27, 12:16 AM EDT. The local time to the port is May 27, 12:16 AM EDT",
     "description": "Ketchikan, United States (USA) Departure (UTC) May 27, 04:16 — ET: May 27, 12:16 AM EDT | Local: May 27, 12:16 AM EDT",
     "link": "https://www.vesselfinder.com/ports/USKTN001",
