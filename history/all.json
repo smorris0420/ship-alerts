@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Livorno, Italy at May 28, 01:26 AM EDT. The local time to the port is May 28, 07:26 AM CEST",
+    "description": "Livorno, Italy Arrival (UTC) May 28, 05:26 — ET: May 28, 01:26 AM EDT | Local: May 28, 07:26 AM CEST",
+    "link": "https://www.vesselfinder.com/ports/ITLIV001",
+    "guid": "46ac7708abdc5a07f76b7b5ddc7c487f84ad782d",
+    "pubDate": "Thu, 28 May 2026 08:31:19 GMT",
+    "eventUtc": "2026-05-28T05:26:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Arrived at Singapore, Singapore at May 27, 05:11 PM EDT. The local time to the port is May 27, 05:11 PM EDT",
     "description": "Singapore, Singapore Arrival (UTC) May 27, 21:11 — ET: May 27, 05:11 PM EDT | Local: May 27, 05:11 PM EDT",
     "link": "https://www.vesselfinder.com/ports/SGSIN001",
@@ -217,6 +228,17 @@
     "eventUtc": "2026-05-27T21:11:00+00:00",
     "shipSlug": "disney-adventure",
     "shipName": "Disney Adventure",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Destiny Departed from Gorda Cay, Bahamas at May 27, 04:55 PM EDT. The local time to the port is May 27, 04:55 PM EDT",
+    "description": "Gorda Cay, Bahamas Departure (UTC) May 27, 20:55 — ET: May 27, 04:55 PM EDT | Local: May 27, 04:55 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "eea5d49da90f54bbd96cfedf2539ba67e005afa4",
+    "pubDate": "Thu, 28 May 2026 08:32:59 GMT",
+    "eventUtc": "2026-05-27T20:55:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
     "source": "vf_ship"
   },
   {
@@ -239,6 +261,17 @@
     "eventUtc": "2026-05-27T17:34:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Destiny Arrived at Gorda Cay, Bahamas at May 27, 08:02 AM EDT. The local time to the port is May 27, 08:02 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) May 27, 12:02 — ET: May 27, 08:02 AM EDT | Local: May 27, 08:02 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "c7dad2632398b62d3e4dd32fb50facb24baa9e55",
+    "pubDate": "Thu, 28 May 2026 08:32:58 GMT",
+    "eventUtc": "2026-05-27T12:02:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
     "source": "vf_ship"
   },
   {
@@ -5464,39 +5497,6 @@
     "eventUtc": "2026-04-06T12:56:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Georgetown, Grand Cayman Anch., Cayman Islands at Apr 06, 08:56 AM EDT. The local time to the port is Apr 06, 07:56 AM EST",
-    "description": "Georgetown, Grand Cayman Anch., Cayman Islands Arrival (UTC) Apr 6, 12:56 — ET: Apr 06, 08:56 AM EDT | Local: Apr 06, 07:56 AM EST",
-    "link": "https://www.vesselfinder.com/ports/KYGEC001",
-    "guid": "499b63bb99cc9a92909db305b2c6280ff0c575e5",
-    "pubDate": "Tue, 07 Apr 2026 15:48:00 GMT",
-    "eventUtc": "2026-04-06T12:56:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Arrived at Gorda Cay, Bahamas at Apr 06, 07:39 AM EDT. The local time to the port is Apr 06, 07:39 AM EDT",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) Apr 6, 11:39 — ET: Apr 06, 07:39 AM EDT | Local: Apr 06, 07:39 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "d205583bed58eca3fd16627ebae9436e6976dba7",
-    "pubDate": "Mon, 06 Apr 2026 13:46:48 GMT",
-    "eventUtc": "2026-04-06T11:39:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Arrived at Cape Canaveral, United States (USA) at Apr 06, 05:58 AM EDT. The local time to the port is Apr 06, 05:58 AM EDT",
-    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Apr 6, 09:58 — ET: Apr 06, 05:58 AM EDT | Local: Apr 06, 05:58 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "bb7d0361439b50dd0c80461cb217c9375512da60",
-    "pubDate": "Mon, 06 Apr 2026 10:36:32 GMT",
-    "eventUtc": "2026-04-06T09:58:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
     "source": "vf_ship"
   }
 ]
