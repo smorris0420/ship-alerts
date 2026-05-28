@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Thu, 28 May 2026 21:06:36 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 28 May 2026 22:49:23 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,13 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Fantasy Departed from Gorda Cay, Bahamas at May 28, 04:32 PM EDT. The local time to the port is May 28, 04:32 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
+    <guid isPermaLink="false">62479fc6f332fbf5688b2d3f218cfa028d6d374b</guid>
+    <pubDate>Thu, 28 May 2026 22:45:56 GMT</pubDate>
+    <description><![CDATA[Gorda Cay, Bahamas Departure (UTC) May 28, 20:32 — ET: May 28, 04:32 PM EDT | Local: May 28, 04:32 PM EDT]]></description>
   </item>
   <item>
     <title>Disney Destiny Departed from Port Everglades, United States (USA) at May 28, 04:05 PM EDT. The local time to the port is May 28, 04:05 PM EDT</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">7a4bf3f472810c5136c35367792f726256e18c3f</guid>
     <pubDate>Mon, 06 Apr 2026 22:52:56 GMT</pubDate>
     <description><![CDATA[Cozumel, Mexico Departure (UTC) Apr 6, 22:05 — ET: Apr 06, 06:05 PM EDT | Local: Apr 06, 05:05 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Treasure Departed from Georgetown, Grand Cayman Anch., Cayman Islands at Apr 06, 06:05 PM EDT. The local time to the port is Apr 06, 05:05 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/KYGEC001</link>
-    <guid isPermaLink="false">1b83860fa8a828b29a815939121228164d6f1761</guid>
-    <pubDate>Tue, 07 Apr 2026 15:48:01 GMT</pubDate>
-    <description><![CDATA[Georgetown, Grand Cayman Anch., Cayman Islands Departure (UTC) Apr 6, 22:05 — ET: Apr 06, 06:05 PM EDT | Local: Apr 06, 05:05 PM EST]]></description>
   </item>
 </channel>
 </rss>
