@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Livorno, Italy at May 28, 02:31 PM EDT. The local time to the port is May 28, 08:31 PM CEST",
+    "description": "Livorno, Italy Departure (UTC) May 28, 18:31 — ET: May 28, 02:31 PM EDT | Local: May 28, 08:31 PM CEST",
+    "link": "https://www.vesselfinder.com/ports/ITLIV001",
+    "guid": "db443ccc4345523c8e12c75bdeaeb8c71b3501d2",
+    "pubDate": "Thu, 28 May 2026 18:49:02 GMT",
+    "eventUtc": "2026-05-28T18:31:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Arrived at Livorno, Italy at May 28, 01:26 AM EDT. The local time to the port is May 28, 07:26 AM CEST",
     "description": "Livorno, Italy Arrival (UTC) May 28, 05:26 — ET: May 28, 01:26 AM EDT | Local: May 28, 07:26 AM CEST",
     "link": "https://www.vesselfinder.com/ports/ITLIV001",
@@ -2734,17 +2745,6 @@
     "guid": "044be3a032ca57e7ddf6bca1c40cef92805c076f",
     "pubDate": "Thu, 27 Nov 2025 13:25:19 GMT",
     "eventUtc": "2025-11-27T12:43:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Port Everglades, United States (USA) at Nov 26, 04:49 PM EST. The local time to the port is Nov 26, 04:49 PM EST",
-    "description": "Port Everglades, United States (USA) Departure (UTC) Nov 26, 21:49 — ET: Nov 26, 04:49 PM EST | Local: Nov 26, 04:49 PM EST",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "c556fce2fb3372dc0a965cef2a5f13aadd0aa896",
-    "pubDate": "Wed, 26 Nov 2025 22:02:36 GMT",
-    "eventUtc": "2025-11-26T21:49:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
     "source": "vf_ship"
