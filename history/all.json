@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Vancouver, Canada at May 28, 07:16 PM EDT. The local time to the port is May 28, 04:16 PM PDT",
+    "description": "Vancouver, Canada Departure (UTC) May 28, 23:16 — ET: May 28, 07:16 PM EDT | Local: May 28, 04:16 PM PDT",
+    "link": "https://www.vesselfinder.com/ports/CAVAN001",
+    "guid": "ab889f159ae9670e4c71361f60c8f640eaa265cd",
+    "pubDate": "Thu, 28 May 2026 23:58:55 GMT",
+    "eventUtc": "2026-05-28T23:16:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Departed from Gorda Cay, Bahamas at May 28, 04:32 PM EDT. The local time to the port is May 28, 04:32 PM EDT",
     "description": "Gorda Cay, Bahamas Departure (UTC) May 28, 20:32 — ET: May 28, 04:32 PM EDT | Local: May 28, 04:32 PM EDT",
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-04-06T22:11:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Cozumel, Mexico at Apr 06, 06:05 PM EDT. The local time to the port is Apr 06, 05:05 PM EST",
-    "description": "Cozumel, Mexico Departure (UTC) Apr 6, 22:05 — ET: Apr 06, 06:05 PM EDT | Local: Apr 06, 05:05 PM EST",
-    "link": "https://www.vesselfinder.com/ports/MXCZM001",
-    "guid": "7a4bf3f472810c5136c35367792f726256e18c3f",
-    "pubDate": "Mon, 06 Apr 2026 22:52:56 GMT",
-    "eventUtc": "2026-04-06T22:05:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
