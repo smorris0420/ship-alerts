@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Fantasy Arrived at Cape Canaveral, United States (USA) at May 29, 05:58 AM EDT. The local time to the port is May 29, 05:58 AM EDT",
+    "description": "Cape Canaveral, United States (USA) Arrival (UTC) May 29, 09:58 — ET: May 29, 05:58 AM EDT | Local: May 29, 05:58 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "bcba038744114bfa3511c2b9b944a5b6a8daffc4",
+    "pubDate": "Fri, 29 May 2026 11:39:54 GMT",
+    "eventUtc": "2026-05-29T09:58:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Wish Arrived at Cape Canaveral, United States (USA) at May 29, 04:34 AM EDT. The local time to the port is May 29, 04:34 AM EDT",
+    "description": "Cape Canaveral, United States (USA) Arrival (UTC) May 29, 08:34 — ET: May 29, 04:34 AM EDT | Local: May 29, 04:34 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "3c6944eb290be6d1c5547e278d42350eaa4065a8",
+    "pubDate": "Fri, 29 May 2026 11:39:09 GMT",
+    "eventUtc": "2026-05-29T08:34:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Departed from Vancouver, Canada at May 28, 07:16 PM EDT. The local time to the port is May 28, 04:16 PM PDT",
     "description": "Vancouver, Canada Departure (UTC) May 28, 23:16 — ET: May 28, 07:16 PM EDT | Local: May 28, 04:16 PM PDT",
     "link": "https://www.vesselfinder.com/ports/CAVAN001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-04-07T00:36:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Departed from Avalon Anch., United States (USA) at Apr 06, 08:36 PM EDT. The local time to the port is Apr 06, 08:36 PM EDT",
-    "description": "Avalon Anch., United States (USA) Departure (UTC) Apr 7, 00:36 — ET: Apr 06, 08:36 PM EDT | Local: Apr 06, 08:36 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USAOU001",
-    "guid": "eeb579df5b4bb64d23a44ecc61a9f426b752af35",
-    "pubDate": "Wed, 08 Apr 2026 15:54:12 GMT",
-    "eventUtc": "2026-04-07T00:36:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Departed from Port Everglades, United States (USA) at Apr 06, 06:11 PM EDT. The local time to the port is Apr 06, 06:11 PM EDT",
-    "description": "Port Everglades, United States (USA) Departure (UTC) Apr 6, 22:11 — ET: Apr 06, 06:11 PM EDT | Local: Apr 06, 06:11 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "4b6a78adbd410283c0f532542ca6483f4397c2ae",
-    "pubDate": "Mon, 06 Apr 2026 22:56:01 GMT",
-    "eventUtc": "2026-04-06T22:11:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
     "source": "vf_ship"
   }
 ]
