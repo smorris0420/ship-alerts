@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Barcelona, Spain at May 30, 12:09 AM EDT. The local time to the port is May 30, 06:09 AM CEST",
+    "description": "Barcelona, Spain Arrival (UTC) May 30, 04:09 — ET: May 30, 12:09 AM EDT | Local: May 30, 06:09 AM CEST",
+    "link": "https://www.vesselfinder.com/ports/ESBCN001",
+    "guid": "b28b53fd3cd5993f803b8fa3cac8d14ad20bcd04",
+    "pubDate": "Sat, 30 May 2026 05:30:56 GMT",
+    "eventUtc": "2026-05-30T04:09:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Livorno, Italy at May 28, 02:31 PM EDT. The local time to the port is May 28, 08:31 PM CEST",
     "description": "Livorno, Italy Departure (UTC) May 28, 18:31 — ET: May 28, 02:31 PM EDT | Local: May 28, 08:31 PM CEST",
     "link": "https://www.vesselfinder.com/ports/ITLIV001",
@@ -2734,17 +2745,6 @@
     "guid": "d6dd53a70b80011744ba10c3d321c5141b646983",
     "pubDate": "Thu, 27 Nov 2025 22:21:36 GMT",
     "eventUtc": "2025-11-27T22:07:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Arrived at Gorda Cay, Bahamas at Nov 27, 07:43 AM EST. The local time to the port is Nov 27, 07:43 AM EST",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) Nov 27, 12:43 — ET: Nov 27, 07:43 AM EST | Local: Nov 27, 07:43 AM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "044be3a032ca57e7ddf6bca1c40cef92805c076f",
-    "pubDate": "Thu, 27 Nov 2025 13:25:19 GMT",
-    "eventUtc": "2025-11-27T12:43:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
     "source": "vf_ship"

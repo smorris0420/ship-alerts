@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Barcelona, Spain at May 30, 12:09 AM EDT. The local time to the port is May 30, 06:09 AM CEST",
+    "description": "Barcelona, Spain Arrival (UTC) May 30, 04:09 — ET: May 30, 12:09 AM EDT | Local: May 30, 06:09 AM CEST",
+    "link": "https://www.vesselfinder.com/ports/ESBCN001",
+    "guid": "b28b53fd3cd5993f803b8fa3cac8d14ad20bcd04",
+    "pubDate": "Sat, 30 May 2026 05:30:56 GMT",
+    "eventUtc": "2026-05-30T04:09:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Departed from Cape Canaveral, United States (USA) at May 29, 05:07 PM EDT. The local time to the port is May 29, 05:07 PM EDT",
     "description": "Cape Canaveral, United States (USA) Departure (UTC) May 29, 21:07 — ET: May 29, 05:07 PM EDT | Local: May 29, 05:07 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-04-08T09:04:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Cozumel, Mexico at Apr 07, 07:13 PM EDT. The local time to the port is Apr 07, 06:13 PM EST",
-    "description": "Cozumel, Mexico Departure (UTC) Apr 7, 23:13 — ET: Apr 07, 07:13 PM EDT | Local: Apr 07, 06:13 PM EST",
-    "link": "https://www.vesselfinder.com/ports/MXCZM001",
-    "guid": "f162b9ecc08265f5abd91646e025d3f5cb52d147",
-    "pubDate": "Tue, 07 Apr 2026 23:38:33 GMT",
-    "eventUtc": "2026-04-07T23:13:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
