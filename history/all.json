@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Arrived at Nassau, Bahamas at May 30, 09:13 AM EDT. The local time to the port is May 30, 09:13 AM EDT",
+    "description": "Nassau, Bahamas Arrival (UTC) May 30, 13:13 — ET: May 30, 09:13 AM EDT | Local: May 30, 09:13 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "13200f5ae9f0254d9cc70fa4b480526c68f93bc6",
+    "pubDate": "Sat, 30 May 2026 14:23:33 GMT",
+    "eventUtc": "2026-05-30T13:13:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Fantasy Arrived at Nassau, Bahamas at May 30, 09:01 AM EDT. The local time to the port is May 30, 09:01 AM EDT",
+    "description": "Nassau, Bahamas Arrival (UTC) May 30, 13:01 — ET: May 30, 09:01 AM EDT | Local: May 30, 09:01 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "f2aeddd0672f28b943ef33f9a36f4bdf74039076",
+    "pubDate": "Sat, 30 May 2026 14:24:27 GMT",
+    "eventUtc": "2026-05-30T13:01:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Arrived at Gorda Cay, Bahamas at May 30, 07:34 AM EDT. The local time to the port is May 30, 07:34 AM EDT",
     "description": "Gorda Cay, Bahamas Arrival (UTC) May 30, 11:34 — ET: May 30, 07:34 AM EDT | Local: May 30, 07:34 AM EDT",
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-04-08T20:30:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Arrived at Nassau, Bahamas at Apr 08, 08:48 AM EDT. The local time to the port is Apr 08, 08:48 AM EDT",
-    "description": "Nassau, Bahamas Arrival (UTC) Apr 8, 12:48 — ET: Apr 08, 08:48 AM EDT | Local: Apr 08, 08:48 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "a3b52beeb6bd08c83a66f9165882b61903ea49b9",
-    "pubDate": "Wed, 08 Apr 2026 14:19:36 GMT",
-    "eventUtc": "2026-04-08T12:48:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Falmouth, Jamaica at Apr 08, 07:53 AM EDT. The local time to the port is Apr 08, 06:53 AM EST",
-    "description": "Falmouth, Jamaica Arrival (UTC) Apr 8, 11:53 — ET: Apr 08, 07:53 AM EDT | Local: Apr 08, 06:53 AM EST",
-    "link": "https://www.vesselfinder.com/ports/JMFMH001",
-    "guid": "00feeef77ca84479a6b47bf7e7f1a53ed0f0a33e",
-    "pubDate": "Thu, 09 Apr 2026 17:21:01 GMT",
-    "eventUtc": "2026-04-08T11:53:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
