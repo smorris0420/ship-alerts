@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Arrived at Gorda Cay, Bahamas at May 30, 07:34 AM EDT. The local time to the port is May 30, 07:34 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) May 30, 11:34 — ET: May 30, 07:34 AM EDT | Local: May 30, 07:34 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "e1ccbaecd8e399fa77613f1e1a5f3f341648af2a",
+    "pubDate": "Sat, 30 May 2026 12:56:19 GMT",
+    "eventUtc": "2026-05-30T11:34:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Arrived at Cape Canaveral, United States (USA) at May 30, 05:55 AM EDT. The local time to the port is May 30, 05:55 AM EDT",
     "description": "Cape Canaveral, United States (USA) Arrival (UTC) May 30, 09:55 — ET: May 30, 05:55 AM EDT | Local: May 30, 05:55 AM EDT",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-04-08T11:53:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Arrived at Nassau, Bahamas at Apr 08, 07:19 AM EDT. The local time to the port is Apr 08, 07:19 AM EDT",
-    "description": "Nassau, Bahamas Arrival (UTC) Apr 8, 11:19 — ET: Apr 08, 07:19 AM EDT | Local: Apr 08, 07:19 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "6843e2249b676ecb1137e304e0d2e4ddfdea72ea",
-    "pubDate": "Wed, 08 Apr 2026 12:48:28 GMT",
-    "eventUtc": "2026-04-08T11:19:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
     "source": "vf_ship"
   }
 ]
