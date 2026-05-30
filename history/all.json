@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Fantasy Departed from Nassau, Bahamas at May 30, 06:12 PM EDT. The local time to the port is May 30, 06:12 PM EDT",
+    "description": "Nassau, Bahamas Departure (UTC) May 30, 22:12 — ET: May 30, 06:12 PM EDT | Local: May 30, 06:12 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "b9ee5e429bb254fae03a95821df4ccfd34bac38e",
+    "pubDate": "Sat, 30 May 2026 22:15:09 GMT",
+    "eventUtc": "2026-05-30T22:12:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Treasure Departed from Cape Canaveral, United States (USA) at May 30, 05:28 PM EDT. The local time to the port is May 30, 05:28 PM EDT",
+    "description": "Cape Canaveral, United States (USA) Departure (UTC) May 30, 21:28 — ET: May 30, 05:28 PM EDT | Local: May 30, 05:28 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "f13f2a7cf6be8d4ab48de745b9d01c3a99da78bf",
+    "pubDate": "Sat, 30 May 2026 22:14:57 GMT",
+    "eventUtc": "2026-05-30T21:28:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Barcelona, Spain at May 30, 12:53 PM EDT. The local time to the port is May 30, 06:53 PM CEST",
     "description": "Barcelona, Spain Departure (UTC) May 30, 16:53 — ET: May 30, 12:53 PM EDT | Local: May 30, 06:53 PM CEST",
     "link": "https://www.vesselfinder.com/ports/ESBCN001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-04-08T21:53:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Falmouth, Jamaica at Apr 08, 05:46 PM EDT. The local time to the port is Apr 08, 04:46 PM EST",
-    "description": "Falmouth, Jamaica Departure (UTC) Apr 8, 21:46 — ET: Apr 08, 05:46 PM EDT | Local: Apr 08, 04:46 PM EST",
-    "link": "https://www.vesselfinder.com/ports/JMFMH001",
-    "guid": "473021fac989cd1ce58f38f222d2fb48cec6530c",
-    "pubDate": "Thu, 09 Apr 2026 17:21:03 GMT",
-    "eventUtc": "2026-04-08T21:46:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Adventure Arrived at Singapore, Singapore at Apr 08, 05:24 PM EDT. The local time to the port is Apr 08, 05:24 PM EDT",
-    "description": "Singapore, Singapore Arrival (UTC) Apr 8, 21:24 — ET: Apr 08, 05:24 PM EDT | Local: Apr 08, 05:24 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/SGSIN001",
-    "guid": "faa40e2e47b06287ed2d98fe74105c0879cda9ad",
-    "pubDate": "Wed, 08 Apr 2026 22:38:42 GMT",
-    "eventUtc": "2026-04-08T21:24:00+00:00",
-    "shipSlug": "disney-adventure",
-    "shipName": "Disney Adventure",
     "source": "vf_ship"
   }
 ]
