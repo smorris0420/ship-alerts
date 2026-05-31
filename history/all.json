@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Departed from Ketchikan, United States (USA) at May 30, 10:09 PM EDT. The local time to the port is May 30, 10:09 PM EDT",
+    "description": "Ketchikan, United States (USA) Departure (UTC) May 31, 02:09 — ET: May 30, 10:09 PM EDT | Local: May 30, 10:09 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USKTN001",
+    "guid": "30258962a2568faadbb79ce5a11f03722640adf3",
+    "pubDate": "Sun, 31 May 2026 06:02:48 GMT",
+    "eventUtc": "2026-05-31T02:09:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Departed from Nassau, Bahamas at May 30, 06:29 PM EDT. The local time to the port is May 30, 06:29 PM EDT",
     "description": "Nassau, Bahamas Departure (UTC) May 30, 22:29 — ET: May 30, 06:29 PM EDT | Local: May 30, 06:29 PM EDT",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -250,6 +261,17 @@
     "eventUtc": "2026-05-30T21:05:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Wonder Arrived at Ketchikan, United States (USA) at May 30, 01:21 PM EDT. The local time to the port is May 30, 01:21 PM EDT",
+    "description": "Ketchikan, United States (USA) Arrival (UTC) May 30, 17:21 — ET: May 30, 01:21 PM EDT | Local: May 30, 01:21 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USKTN001",
+    "guid": "d8454e8b18c3ce99115901bb5c5035b8763ed8a9",
+    "pubDate": "Sun, 31 May 2026 06:02:47 GMT",
+    "eventUtc": "2026-05-30T17:21:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
     "source": "vf_ship"
   },
   {
@@ -5476,27 +5498,5 @@
     "shipSlug": "disney-adventure",
     "shipName": "Disney Adventure",
     "source": "vf_ship"
-  },
-  {
-    "title": "Disney Adventure Departed from Singapore, Singapore at Apr 08, 08:30 PM EDT. The local time to the port is Apr 08, 08:30 PM EDT",
-    "description": "Singapore, Singapore Departure (UTC) Apr 09, 00:30 — ET: Apr 08, 08:30 PM EDT | Local: Apr 08, 08:30 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/SGSIN001",
-    "guid": "2f29d21049024f21cc1738043591746f8e485162",
-    "pubDate": "Wed, 08 Apr 2026 20:09:29 GMT",
-    "eventUtc": "2026-04-09T00:30:00+00:00",
-    "shipSlug": "disney-adventure",
-    "shipName": "Disney Adventure",
-    "source": "vf_port"
-  },
-  {
-    "title": "Disney Adventure Arrived at Singapore, Singapore at Apr 08, 08:30 PM EDT. The local time to the port is Apr 08, 08:30 PM EDT",
-    "description": "Singapore, Singapore Arrival (UTC) Apr 09, 00:30 — ET: Apr 08, 08:30 PM EDT | Local: Apr 08, 08:30 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/SGSIN001",
-    "guid": "50e59020e8efda621c0e1112f75f5b0734285827",
-    "pubDate": "Wed, 08 Apr 2026 20:09:30 GMT",
-    "eventUtc": "2026-04-09T00:30:00+00:00",
-    "shipSlug": "disney-adventure",
-    "shipName": "Disney Adventure",
-    "source": "vf_port"
   }
 ]
