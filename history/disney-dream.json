@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Messina, Italy at Jun 01, 12:28 PM EDT. The local time to the port is Jun 01, 06:28 PM CEST",
+    "description": "Messina, Italy Departure (UTC) Jun 1, 16:28 — ET: Jun 01, 12:28 PM EDT | Local: Jun 01, 06:28 PM CEST",
+    "link": "https://www.vesselfinder.com/ports/ITMSN001",
+    "guid": "810ae84a1a197eaa9491e0eb24a52cd855fe286c",
+    "pubDate": "Mon, 01 Jun 2026 18:33:19 GMT",
+    "eventUtc": "2026-06-01T16:28:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Arrived at Messina, Italy at Jun 01, 03:29 AM EDT. The local time to the port is Jun 01, 09:29 AM CEST",
     "description": "Messina, Italy Arrival (UTC) Jun 1, 07:29 — ET: Jun 01, 03:29 AM EDT | Local: Jun 01, 09:29 AM CEST",
     "link": "https://www.vesselfinder.com/ports/ITMSN001",
@@ -2734,17 +2745,6 @@
     "guid": "177cb31bd33812270120f572649aef24922010c9",
     "pubDate": "Mon, 01 Dec 2025 11:27:23 GMT",
     "eventUtc": "2025-12-01T10:43:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Nassau, Bahamas at Nov 28, 05:52 PM EST. The local time to the port is Nov 28, 05:52 PM EST",
-    "description": "Nassau, Bahamas Departure (UTC) Nov 28, 22:52 — ET: Nov 28, 05:52 PM EST | Local: Nov 28, 05:52 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "8c93034b263e2f6b50a28bc34e6f05cd38d28b35",
-    "pubDate": "Sat, 29 Nov 2025 01:23:14 GMT",
-    "eventUtc": "2025-11-28T22:52:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
     "source": "vf_ship"
