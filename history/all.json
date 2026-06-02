@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Fantasy Departed from Gorda Cay, Bahamas at Jun 01, 09:14 PM EDT. The local time to the port is Jun 01, 09:14 PM EDT",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Jun 2, 01:14 — ET: Jun 01, 09:14 PM EDT | Local: Jun 01, 09:14 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "1b9aa02be0521c16df1ca69936681af9a4d44b89",
+    "pubDate": "Tue, 02 Jun 2026 06:24:30 GMT",
+    "eventUtc": "2026-06-02T01:14:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Departed from Vancouver, Canada at Jun 01, 07:51 PM EDT. The local time to the port is Jun 01, 04:51 PM PDT",
     "description": "Vancouver, Canada Departure (UTC) Jun 1, 23:51 — ET: Jun 01, 07:51 PM EDT | Local: Jun 01, 04:51 PM PDT",
     "link": "https://www.vesselfinder.com/ports/CAVAN001",
@@ -5487,16 +5498,5 @@
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
     "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Departed from Nassau, Bahamas at Apr 10, 10:45 AM EDT. The local time to the port is Apr 10, 10:45 AM EDT",
-    "description": "Nassau, Bahamas Departure (UTC) Apr 10, 14:45 — ET: Apr 10, 10:45 AM EDT | Local: Apr 10, 10:45 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "36d0c53e8c87ab517483aeece2a7688cdab83414",
-    "pubDate": "Thu, 09 Apr 2026 20:35:05 GMT",
-    "eventUtc": "2026-04-10T14:45:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
-    "source": "vf_port"
   }
 ]
