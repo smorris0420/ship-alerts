@@ -5,7 +5,7 @@
   <title>Disney Treasure - Arrivals &amp; Departures</title>
   <link>https://www.vesselfinder.com/vessels/details/9834753</link>
   <description>Disney Treasure - Arrivals &amp; Departures - Auto-generated</description>
-  <lastBuildDate>Tue, 02 Jun 2026 15:03:49 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 02 Jun 2026 18:52:36 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -43,11 +43,25 @@
     <description><![CDATA[Cozumel, Mexico Departure (UTC) Jun 1, 21:58 — ET: Jun 01, 05:58 PM EDT | Local: Jun 01, 04:58 PM EST]]></description>
   </item>
   <item>
+    <title>Disney Treasure Departed from Georgetown, Grand Cayman Anch., Cayman Islands at Jun 01, 05:58 PM EDT. The local time to the port is Jun 01, 04:58 PM EST</title>
+    <link>https://www.vesselfinder.com/ports/KYGEC001</link>
+    <guid isPermaLink="false">2fe8230416111a23ce2a0fd92bb1acdb95f50de9</guid>
+    <pubDate>Tue, 02 Jun 2026 18:52:02 GMT</pubDate>
+    <description><![CDATA[Georgetown, Grand Cayman Anch., Cayman Islands Departure (UTC) Jun 1, 21:58 — ET: Jun 01, 05:58 PM EDT | Local: Jun 01, 04:58 PM EST]]></description>
+  </item>
+  <item>
     <title>Disney Treasure Arrived at Cozumel, Mexico at Jun 01, 08:56 AM EDT. The local time to the port is Jun 01, 07:56 AM EST</title>
     <link>https://www.vesselfinder.com/ports/MXCZM001</link>
     <guid isPermaLink="false">5949f3d87c134472b837cb72d8430c735fc2fb24</guid>
     <pubDate>Mon, 01 Jun 2026 18:32:02 GMT</pubDate>
     <description><![CDATA[Cozumel, Mexico Arrival (UTC) Jun 1, 12:56 — ET: Jun 01, 08:56 AM EDT | Local: Jun 01, 07:56 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Treasure Arrived at Georgetown, Grand Cayman Anch., Cayman Islands at Jun 01, 08:56 AM EDT. The local time to the port is Jun 01, 07:56 AM EST</title>
+    <link>https://www.vesselfinder.com/ports/KYGEC001</link>
+    <guid isPermaLink="false">462a57c19005f46f7792b30ff23260b803ee9048</guid>
+    <pubDate>Tue, 02 Jun 2026 18:52:00 GMT</pubDate>
+    <description><![CDATA[Georgetown, Grand Cayman Anch., Cayman Islands Arrival (UTC) Jun 1, 12:56 — ET: Jun 01, 08:56 AM EDT | Local: Jun 01, 07:56 AM EST]]></description>
   </item>
   <item>
     <title>Disney Treasure Departed from Cape Canaveral, United States (USA) at May 30, 05:28 PM EDT. The local time to the port is May 30, 05:28 PM EDT</title>
@@ -1742,20 +1756,6 @@
     <guid isPermaLink="false">c8f1d61c260221246ea6c0e9224ef73c1b3453e6</guid>
     <pubDate>Mon, 17 Nov 2025 05:30:06 GMT</pubDate>
     <description><![CDATA[Unknown Port Departure (UTC) Nov 15, 22:18 — ET: Nov 15, 05:18 PM EST | Local: Nov 15, 05:18 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Treasure Arrived at Cape Canaveral, United States (USA) at Nov 15, 06:03 AM EST. The local time to the port is Nov 15, 06:03 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/USPCV001</link>
-    <guid isPermaLink="false">8e94af6d656971f9663b88dfd0b1b56266f05c53</guid>
-    <pubDate>Sat, 15 Nov 2025 11:52:34 GMT</pubDate>
-    <description><![CDATA[Cape Canaveral, United States (USA) Arrival (UTC) Nov 15, 11:03 — ET: Nov 15, 06:03 AM EST | Local: Nov 15, 06:03 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Treasure Arrived at Unknown Port at Nov 15, 06:03 AM EST. The local time to the port is Nov 15, 06:03 AM EST</title>
-    <link>https://www.vesselfinder.com/vessels/details/9834753</link>
-    <guid isPermaLink="false">a806d012ab92ae36c72dbc54b97a7473b83e52da</guid>
-    <pubDate>Mon, 17 Nov 2025 05:30:05 GMT</pubDate>
-    <description><![CDATA[Unknown Port Arrival (UTC) Nov 15, 11:03 — ET: Nov 15, 06:03 AM EST | Local: Nov 15, 06:03 AM EST]]></description>
   </item>
 </channel>
 </rss>
