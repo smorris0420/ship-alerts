@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Arrived at Nassau, Bahamas at Jun 02, 08:59 AM EDT. The local time to the port is Jun 02, 08:59 AM EDT",
+    "description": "Nassau, Bahamas Arrival (UTC) Jun 2, 12:59 — ET: Jun 02, 08:59 AM EDT | Local: Jun 02, 08:59 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "62b5b2f64bc77fa199300c2f64128d49636ebd0a",
+    "pubDate": "Tue, 02 Jun 2026 15:03:15 GMT",
+    "eventUtc": "2026-06-02T12:59:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Destiny Arrived at Gorda Cay, Bahamas at Jun 02, 07:39 AM EDT. The local time to the port is Jun 02, 07:39 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Jun 2, 11:39 — ET: Jun 02, 07:39 AM EDT | Local: Jun 02, 07:39 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "e96968d9c9c93de668076fd63a1cf53ba5ef5460",
+    "pubDate": "Tue, 02 Jun 2026 15:07:34 GMT",
+    "eventUtc": "2026-06-02T11:39:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Departed from Gorda Cay, Bahamas at Jun 01, 09:14 PM EDT. The local time to the port is Jun 01, 09:14 PM EDT",
     "description": "Gorda Cay, Bahamas Departure (UTC) Jun 2, 01:14 — ET: Jun 01, 09:14 PM EDT | Local: Jun 01, 09:14 PM EDT",
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-04-10T20:26:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Cartagena, Colombia at Apr 10, 03:44 PM EDT. The local time to the port is Apr 10, 02:44 PM -05",
-    "description": "Cartagena, Colombia Departure (UTC) Apr 10, 19:44 — ET: Apr 10, 03:44 PM EDT | Local: Apr 10, 02:44 PM -05",
-    "link": "https://www.vesselfinder.com/ports/COCTG001",
-    "guid": "217a2de6e4e48bd7b44dc67e2f5cf4c12107a780",
-    "pubDate": "Fri, 10 Apr 2026 19:57:32 GMT",
-    "eventUtc": "2026-04-10T19:44:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Cabo San Lucas Anch., Mexico at Apr 10, 03:44 PM EDT. The local time to the port is Apr 10, 02:44 PM EST",
-    "description": "Cabo San Lucas Anch., Mexico Departure (UTC) Apr 10, 19:44 — ET: Apr 10, 03:44 PM EDT | Local: Apr 10, 02:44 PM EST",
-    "link": "https://www.vesselfinder.com/ports/MXCSL001",
-    "guid": "1384fe52b8efb489460b7a3b15ece4ab1a9113be",
-    "pubDate": "Fri, 17 Apr 2026 04:24:09 GMT",
-    "eventUtc": "2026-04-10T19:44:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]

@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Tue, 02 Jun 2026 11:07:23 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 02 Jun 2026 15:07:36 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,20 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Wish Arrived at Nassau, Bahamas at Jun 02, 08:59 AM EDT. The local time to the port is Jun 02, 08:59 AM EDT</title>
+    <link>https://www.vesselfinder.com/ports/BSNAS001</link>
+    <guid isPermaLink="false">62b5b2f64bc77fa199300c2f64128d49636ebd0a</guid>
+    <pubDate>Tue, 02 Jun 2026 15:03:15 GMT</pubDate>
+    <description><![CDATA[Nassau, Bahamas Arrival (UTC) Jun 2, 12:59 — ET: Jun 02, 08:59 AM EDT | Local: Jun 02, 08:59 AM EDT]]></description>
+  </item>
+  <item>
+    <title>Disney Destiny Arrived at Gorda Cay, Bahamas at Jun 02, 07:39 AM EDT. The local time to the port is Jun 02, 07:39 AM EDT</title>
+    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
+    <guid isPermaLink="false">e96968d9c9c93de668076fd63a1cf53ba5ef5460</guid>
+    <pubDate>Tue, 02 Jun 2026 15:07:34 GMT</pubDate>
+    <description><![CDATA[Gorda Cay, Bahamas Arrival (UTC) Jun 2, 11:39 — ET: Jun 02, 07:39 AM EDT | Local: Jun 02, 07:39 AM EDT]]></description>
   </item>
   <item>
     <title>Disney Fantasy Departed from Gorda Cay, Bahamas at Jun 01, 09:14 PM EDT. The local time to the port is Jun 01, 09:14 PM EDT</title>
@@ -3492,20 +3506,6 @@
     <guid isPermaLink="false">41fac4139782b8109d1eab2f0b6c061eb2319ff4</guid>
     <pubDate>Fri, 10 Apr 2026 20:43:47 GMT</pubDate>
     <description><![CDATA[Port Everglades, United States (USA) Departure (UTC) Apr 10, 20:26 — ET: Apr 10, 04:26 PM EDT | Local: Apr 10, 04:26 PM EDT]]></description>
-  </item>
-  <item>
-    <title>Disney Magic Departed from Cartagena, Colombia at Apr 10, 03:44 PM EDT. The local time to the port is Apr 10, 02:44 PM -05</title>
-    <link>https://www.vesselfinder.com/ports/COCTG001</link>
-    <guid isPermaLink="false">217a2de6e4e48bd7b44dc67e2f5cf4c12107a780</guid>
-    <pubDate>Fri, 10 Apr 2026 19:57:32 GMT</pubDate>
-    <description><![CDATA[Cartagena, Colombia Departure (UTC) Apr 10, 19:44 — ET: Apr 10, 03:44 PM EDT | Local: Apr 10, 02:44 PM -05]]></description>
-  </item>
-  <item>
-    <title>Disney Magic Departed from Cabo San Lucas Anch., Mexico at Apr 10, 03:44 PM EDT. The local time to the port is Apr 10, 02:44 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/MXCSL001</link>
-    <guid isPermaLink="false">1384fe52b8efb489460b7a3b15ece4ab1a9113be</guid>
-    <pubDate>Fri, 17 Apr 2026 04:24:09 GMT</pubDate>
-    <description><![CDATA[Cabo San Lucas Anch., Mexico Departure (UTC) Apr 10, 19:44 — ET: Apr 10, 03:44 PM EDT | Local: Apr 10, 02:44 PM EST]]></description>
   </item>
 </channel>
 </rss>
