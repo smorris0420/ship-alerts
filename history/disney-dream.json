@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Piraeus, Greece at Jun 03, 01:29 PM EDT. The local time to the port is Jun 03, 08:29 PM EEST",
+    "description": "Piraeus, Greece Departure (UTC) Jun 3, 17:29 — ET: Jun 03, 01:29 PM EDT | Local: Jun 03, 08:29 PM EEST",
+    "link": "https://www.vesselfinder.com/ports/GRPIR001",
+    "guid": "cbd14c61ed12e6b4c4ffca9190dbb0684c3ca7cb",
+    "pubDate": "Wed, 03 Jun 2026 20:30:22 GMT",
+    "eventUtc": "2026-06-03T17:29:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Arrived at Piraeus, Greece at Jun 02, 09:28 PM EDT. The local time to the port is Jun 03, 04:28 AM EEST",
     "description": "Piraeus, Greece Arrival (UTC) Jun 3, 01:28 — ET: Jun 02, 09:28 PM EDT | Local: Jun 03, 04:28 AM EEST",
     "link": "https://www.vesselfinder.com/ports/GRPIR001",
@@ -2734,17 +2745,6 @@
     "guid": "a52a999076c0f70ae5ae2120f06953d9e3f7e3cb",
     "pubDate": "Fri, 05 Dec 2025 05:40:29 GMT",
     "eventUtc": "2025-12-04T12:49:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Port Everglades, United States (USA) at Dec 01, 05:07 PM EST. The local time to the port is Dec 01, 05:07 PM EST",
-    "description": "Port Everglades, United States (USA) Departure (UTC) Dec 1, 22:07 — ET: Dec 01, 05:07 PM EST | Local: Dec 01, 05:07 PM EST",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "fed3b3195cfb37da0d948403e4b69a70a0db6a00",
-    "pubDate": "Mon, 01 Dec 2025 22:33:06 GMT",
-    "eventUtc": "2025-12-01T22:07:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
     "source": "vf_ship"

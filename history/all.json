@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Piraeus, Greece at Jun 03, 01:29 PM EDT. The local time to the port is Jun 03, 08:29 PM EEST",
+    "description": "Piraeus, Greece Departure (UTC) Jun 3, 17:29 — ET: Jun 03, 01:29 PM EDT | Local: Jun 03, 08:29 PM EEST",
+    "link": "https://www.vesselfinder.com/ports/GRPIR001",
+    "guid": "cbd14c61ed12e6b4c4ffca9190dbb0684c3ca7cb",
+    "pubDate": "Wed, 03 Jun 2026 20:30:22 GMT",
+    "eventUtc": "2026-06-03T17:29:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Arrived at Nassau, Bahamas at Jun 03, 07:20 AM EDT. The local time to the port is Jun 03, 07:20 AM EDT",
     "description": "Nassau, Bahamas Arrival (UTC) Jun 3, 11:20 — ET: Jun 03, 07:20 AM EDT | Local: Jun 03, 07:20 AM EDT",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-04-11T22:35:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Cape Canaveral, United States (USA) at Apr 11, 05:04 PM EDT. The local time to the port is Apr 11, 05:04 PM EDT",
-    "description": "Cape Canaveral, United States (USA) Departure (UTC) Apr 11, 21:04 — ET: Apr 11, 05:04 PM EDT | Local: Apr 11, 05:04 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "036f4282b697eb35bc8a2048c4a002903fce1669",
-    "pubDate": "Sat, 11 Apr 2026 21:47:05 GMT",
-    "eventUtc": "2026-04-11T21:04:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
