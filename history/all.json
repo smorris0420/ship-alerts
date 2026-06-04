@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Fantasy Departed from Gorda Cay, Bahamas at Jun 04, 05:08 PM EDT. The local time to the port is Jun 04, 05:08 PM EDT",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Jun 4, 21:08 — ET: Jun 04, 05:08 PM EDT | Local: Jun 04, 05:08 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "230f9f3c0f9f39aa1cb35a4caf067d8a87eda9c4",
+    "pubDate": "Thu, 04 Jun 2026 21:58:26 GMT",
+    "eventUtc": "2026-06-04T21:08:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Arrived at Vancouver, Canada at Jun 04, 10:00 AM EDT. The local time to the port is Jun 04, 07:00 AM PDT",
     "description": "Vancouver, Canada Arrival (UTC) Jun 4, 14:00 — ET: Jun 04, 10:00 AM EDT | Local: Jun 04, 07:00 AM PDT",
     "link": "https://www.vesselfinder.com/ports/CAVAN001",
@@ -217,6 +228,17 @@
     "eventUtc": "2026-06-04T14:00:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Fantasy Arrived at Gorda Cay, Bahamas at Jun 04, 09:22 AM EDT. The local time to the port is Jun 04, 09:22 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Jun 4, 13:22 — ET: Jun 04, 09:22 AM EDT | Local: Jun 04, 09:22 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "cb663545c5a23296093590fad0ac008ae21cea13",
+    "pubDate": "Thu, 04 Jun 2026 21:58:25 GMT",
+    "eventUtc": "2026-06-04T13:22:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
     "source": "vf_ship"
   },
   {
@@ -5476,27 +5498,5 @@
     "shipSlug": "disney-adventure",
     "shipName": "Disney Adventure",
     "source": "vf_port"
-  },
-  {
-    "title": "Disney Adventure Arrived at Singapore, Singapore at Apr 12, 08:30 PM EDT. The local time to the port is Apr 12, 08:30 PM EDT",
-    "description": "Singapore, Singapore Arrival (UTC) Apr 13, 00:30 — ET: Apr 12, 08:30 PM EDT | Local: Apr 12, 08:30 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/SGSIN001",
-    "guid": "546a8b5441bf45a32b84698c4242a81dec6271d7",
-    "pubDate": "Sun, 12 Apr 2026 19:09:42 GMT",
-    "eventUtc": "2026-04-13T00:30:00+00:00",
-    "shipSlug": "disney-adventure",
-    "shipName": "Disney Adventure",
-    "source": "vf_port"
-  },
-  {
-    "title": "Disney Wonder Departed from Ensenada, Mexico at Apr 12, 07:56 PM EDT. The local time to the port is Apr 12, 06:56 PM EST",
-    "description": "Ensenada, Mexico Departure (UTC) Apr 12, 23:56 — ET: Apr 12, 07:56 PM EDT | Local: Apr 12, 06:56 PM EST",
-    "link": "https://www.vesselfinder.com/ports/MXESE001",
-    "guid": "a39e8cfef5e462ebf08550e1ee437c5f0d30ba82",
-    "pubDate": "Mon, 13 Apr 2026 08:36:10 GMT",
-    "eventUtc": "2026-04-12T23:56:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
-    "source": "vf_ship"
   }
 ]
