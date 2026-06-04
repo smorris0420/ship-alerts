@@ -231,6 +231,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Departed from Falmouth, Jamaica at Jun 03, 06:41 PM EDT. The local time to the port is Jun 03, 05:41 PM EST",
+    "description": "Falmouth, Jamaica Departure (UTC) Jun 3, 22:41 — ET: Jun 03, 06:41 PM EDT | Local: Jun 03, 05:41 PM EST",
+    "link": "https://www.vesselfinder.com/ports/JMFMH001",
+    "guid": "a59b6a044fdc4598011ee613afb778ea4c5ded97",
+    "pubDate": "Thu, 04 Jun 2026 20:19:54 GMT",
+    "eventUtc": "2026-06-03T22:41:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Departed from Nassau, Bahamas at Jun 03, 06:00 PM EDT. The local time to the port is Jun 03, 06:00 PM EDT",
     "description": "Nassau, Bahamas Departure (UTC) Jun 3, 22:00 — ET: Jun 03, 06:00 PM EDT | Local: Jun 03, 06:00 PM EDT",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -283,6 +294,17 @@
     "eventUtc": "2026-06-03T17:29:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Treasure Arrived at Falmouth, Jamaica at Jun 03, 08:25 AM EDT. The local time to the port is Jun 03, 07:25 AM EST",
+    "description": "Falmouth, Jamaica Arrival (UTC) Jun 3, 12:25 — ET: Jun 03, 08:25 AM EDT | Local: Jun 03, 07:25 AM EST",
+    "link": "https://www.vesselfinder.com/ports/JMFMH001",
+    "guid": "081231852afcd30d719527c52f98eaee508f49c1",
+    "pubDate": "Thu, 04 Jun 2026 20:19:53 GMT",
+    "eventUtc": "2026-06-03T12:25:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
     "source": "vf_ship"
   },
   {
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-04-12T23:56:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Nassau, Bahamas at Apr 12, 06:28 PM EDT. The local time to the port is Apr 12, 06:28 PM EDT",
-    "description": "Nassau, Bahamas Departure (UTC) Apr 12, 22:28 — ET: Apr 12, 06:28 PM EDT | Local: Apr 12, 06:28 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "981f75f6b5fb1fe5411df4871586842bfa679c42",
-    "pubDate": "Sun, 12 Apr 2026 23:00:13 GMT",
-    "eventUtc": "2026-04-12T22:28:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Adventure Arrived at Singapore, Singapore at Apr 12, 05:18 PM EDT. The local time to the port is Apr 12, 05:18 PM EDT",
-    "description": "Singapore, Singapore Arrival (UTC) Apr 12, 21:18 — ET: Apr 12, 05:18 PM EDT | Local: Apr 12, 05:18 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/SGSIN001",
-    "guid": "8da37cd7895f06d161a08f8659a07d406325bac6",
-    "pubDate": "Sun, 12 Apr 2026 22:21:06 GMT",
-    "eventUtc": "2026-04-12T21:18:00+00:00",
-    "shipSlug": "disney-adventure",
-    "shipName": "Disney Adventure",
     "source": "vf_ship"
   }
 ]
