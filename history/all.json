@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Mykonos, Greece at Jun 04, 11:16 PM EDT. The local time to the port is Jun 05, 06:16 AM EEST",
+    "description": "Mykonos, Greece Arrival (UTC) Jun 5, 03:16 — ET: Jun 04, 11:16 PM EDT | Local: Jun 05, 06:16 AM EEST",
+    "link": "https://www.vesselfinder.com/ports/GRJMK001",
+    "guid": "dd54e56903c28a78cc0f40ba16264e24f5100657",
+    "pubDate": "Fri, 05 Jun 2026 06:06:30 GMT",
+    "eventUtc": "2026-06-05T03:16:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Departed from Vancouver, Canada at Jun 04, 07:07 PM EDT. The local time to the port is Jun 04, 04:07 PM PDT",
     "description": "Vancouver, Canada Departure (UTC) Jun 4, 23:07 — ET: Jun 04, 07:07 PM EDT | Local: Jun 04, 04:07 PM PDT",
     "link": "https://www.vesselfinder.com/ports/CAVAN001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-04-13T09:44:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Arrived at Port Everglades, United States (USA) at Apr 13, 04:45 AM EDT. The local time to the port is Apr 13, 04:45 AM EDT",
-    "description": "Port Everglades, United States (USA) Arrival (UTC) Apr 13, 08:45 — ET: Apr 13, 04:45 AM EDT | Local: Apr 13, 04:45 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "716ec49a1fa12b8bde0e977c314335e911daab4e",
-    "pubDate": "Mon, 13 Apr 2026 11:48:29 GMT",
-    "eventUtc": "2026-04-13T08:45:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
     "source": "vf_ship"
   }
 ]

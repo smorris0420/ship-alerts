@@ -5,7 +5,7 @@
   <title>Disney Dream - Arrivals &amp; Departures</title>
   <link>https://www.vesselfinder.com/vessels/details/9434254</link>
   <description>Disney Dream - Arrivals &amp; Departures - Auto-generated</description>
-  <lastBuildDate>Fri, 05 Jun 2026 01:34:25 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 05 Jun 2026 06:06:32 GMT</lastBuildDate>
   
   <item>
     <title>Disney Dream Departed from Port Everglades, United States (USA) at Dec 29, 04:49 PM EST. The local time to the port is Dec 29, 04:49 PM EST</title>
@@ -20,6 +20,13 @@
     <guid isPermaLink="false">5f7fbac63c07edf9fb1d4a3dd01fd68927534e3b</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:30 GMT</pubDate>
     <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) Dec 29, 10:48 — ET: Dec 29, 05:48 AM EST | Local: Dec 29, 05:48 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Dream Arrived at Mykonos, Greece at Jun 04, 11:16 PM EDT. The local time to the port is Jun 05, 06:16 AM EEST</title>
+    <link>https://www.vesselfinder.com/ports/GRJMK001</link>
+    <guid isPermaLink="false">dd54e56903c28a78cc0f40ba16264e24f5100657</guid>
+    <pubDate>Fri, 05 Jun 2026 06:06:30 GMT</pubDate>
+    <description><![CDATA[Mykonos, Greece Arrival (UTC) Jun 5, 03:16 — ET: Jun 04, 11:16 PM EDT | Local: Jun 05, 06:16 AM EEST]]></description>
   </item>
   <item>
     <title>Disney Dream Departed from Piraeus, Greece at Jun 03, 01:29 PM EDT. The local time to the port is Jun 03, 08:29 PM EEST</title>
@@ -1749,13 +1756,6 @@
     <guid isPermaLink="false">9dfd876a770438c4da28fc8b92dcb5d51d57f76f</guid>
     <pubDate>Thu, 04 Dec 2025 17:43:23 GMT</pubDate>
     <description><![CDATA[Gorda Cay, Bahamas Arrival (UTC) Dec 4, 12:49 — ET: Dec 04, 07:49 AM EST | Local: Dec 04, 07:49 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Dream Arrived at Unknown Port at Dec 04, 07:49 AM EST. The local time to the port is Dec 04, 07:49 AM EST</title>
-    <link>https://www.vesselfinder.com/vessels/details/9434254</link>
-    <guid isPermaLink="false">a52a999076c0f70ae5ae2120f06953d9e3f7e3cb</guid>
-    <pubDate>Fri, 05 Dec 2025 05:40:29 GMT</pubDate>
-    <description><![CDATA[Unknown Port Arrival (UTC) Dec 4, 12:49 — ET: Dec 04, 07:49 AM EST | Local: Dec 04, 07:49 AM EST]]></description>
   </item>
 </channel>
 </rss>
