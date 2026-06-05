@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Mykonos, Greece at Jun 05, 11:24 AM EDT. The local time to the port is Jun 05, 06:24 PM EEST",
+    "description": "Mykonos, Greece Departure (UTC) Jun 5, 15:24 — ET: Jun 05, 11:24 AM EDT | Local: Jun 05, 06:24 PM EEST",
+    "link": "https://www.vesselfinder.com/ports/GRJMK001",
+    "guid": "0c07cc120fa0944bc61fa5a68c29c61e7f53a3fc",
+    "pubDate": "Fri, 05 Jun 2026 16:14:52 GMT",
+    "eventUtc": "2026-06-05T15:24:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Arrived at Mykonos, Greece at Jun 04, 11:16 PM EDT. The local time to the port is Jun 05, 06:16 AM EEST",
     "description": "Mykonos, Greece Arrival (UTC) Jun 5, 03:16 — ET: Jun 04, 11:16 PM EDT | Local: Jun 05, 06:16 AM EEST",
     "link": "https://www.vesselfinder.com/ports/GRJMK001",
@@ -2734,17 +2745,6 @@
     "guid": "58c05b0e452493829e34bd73c0fc2cb4003a1734",
     "pubDate": "Fri, 05 Dec 2025 05:40:30 GMT",
     "eventUtc": "2025-12-04T22:13:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Arrived at Gorda Cay, Bahamas at Dec 04, 07:49 AM EST. The local time to the port is Dec 04, 07:49 AM EST",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) Dec 4, 12:49 — ET: Dec 04, 07:49 AM EST | Local: Dec 04, 07:49 AM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "9dfd876a770438c4da28fc8b92dcb5d51d57f76f",
-    "pubDate": "Thu, 04 Dec 2025 17:43:23 GMT",
-    "eventUtc": "2025-12-04T12:49:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
     "source": "vf_ship"
