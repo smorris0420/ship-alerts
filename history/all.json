@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Vancouver, Canada at Jun 04, 07:07 PM EDT. The local time to the port is Jun 04, 04:07 PM PDT",
+    "description": "Vancouver, Canada Departure (UTC) Jun 4, 23:07 — ET: Jun 04, 07:07 PM EDT | Local: Jun 04, 04:07 PM PDT",
+    "link": "https://www.vesselfinder.com/ports/CAVAN001",
+    "guid": "ac0b79d6294c5758c56783a15cc5ef33df1db2af",
+    "pubDate": "Fri, 05 Jun 2026 01:33:37 GMT",
+    "eventUtc": "2026-06-04T23:07:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Departed from Gorda Cay, Bahamas at Jun 04, 05:08 PM EDT. The local time to the port is Jun 04, 05:08 PM EDT",
     "description": "Gorda Cay, Bahamas Departure (UTC) Jun 4, 21:08 — ET: Jun 04, 05:08 PM EDT | Local: Jun 04, 05:08 PM EDT",
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
@@ -5487,16 +5498,5 @@
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
     "source": "vf_ship"
-  },
-  {
-    "title": "Disney Adventure Departed from Singapore, Singapore at Apr 12, 08:30 PM EDT. The local time to the port is Apr 12, 08:30 PM EDT",
-    "description": "Singapore, Singapore Departure (UTC) Apr 13, 00:30 — ET: Apr 12, 08:30 PM EDT | Local: Apr 12, 08:30 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/SGSIN001",
-    "guid": "921a45b834f6d4fb26cea4790adc3905ef8534dc",
-    "pubDate": "Sun, 12 Apr 2026 19:09:41 GMT",
-    "eventUtc": "2026-04-13T00:30:00+00:00",
-    "shipSlug": "disney-adventure",
-    "shipName": "Disney Adventure",
-    "source": "vf_port"
   }
 ]
