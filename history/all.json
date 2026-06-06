@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Departed from Port Everglades, United States (USA) at Jun 06, 04:09 PM EDT. The local time to the port is Jun 06, 04:09 PM EDT",
+    "description": "Port Everglades, United States (USA) Departure (UTC) Jun 6, 20:09 — ET: Jun 06, 04:09 PM EDT | Local: Jun 06, 04:09 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPEF001",
+    "guid": "996f91c2deef8dcb352e779a019af6a049354058",
+    "pubDate": "Sat, 06 Jun 2026 20:43:24 GMT",
+    "eventUtc": "2026-06-06T20:09:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Souda, Greece at Jun 06, 07:41 AM EDT. The local time to the port is Jun 06, 02:41 PM EEST",
     "description": "Souda, Greece Departure (UTC) Jun 6, 11:41 — ET: Jun 06, 07:41 AM EDT | Local: Jun 06, 02:41 PM EEST",
     "link": "https://www.vesselfinder.com/ports/GRSDH001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-04-14T00:31:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Departed from Cozumel, Mexico at Apr 13, 06:12 PM EDT. The local time to the port is Apr 13, 05:12 PM EST",
-    "description": "Cozumel, Mexico Departure (UTC) Apr 13, 22:12 — ET: Apr 13, 06:12 PM EDT | Local: Apr 13, 05:12 PM EST",
-    "link": "https://www.vesselfinder.com/ports/MXCZM001",
-    "guid": "bf871e892ace9a90a3f8b620d097483c933e0540",
-    "pubDate": "Mon, 13 Apr 2026 22:29:05 GMT",
-    "eventUtc": "2026-04-13T22:12:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
     "source": "vf_ship"
   }
 ]

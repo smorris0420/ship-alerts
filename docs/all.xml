@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Sat, 06 Jun 2026 19:28:35 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 06 Jun 2026 20:43:26 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,13 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Destiny Departed from Port Everglades, United States (USA) at Jun 06, 04:09 PM EDT. The local time to the port is Jun 06, 04:09 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USPEF001</link>
+    <guid isPermaLink="false">996f91c2deef8dcb352e779a019af6a049354058</guid>
+    <pubDate>Sat, 06 Jun 2026 20:43:24 GMT</pubDate>
+    <description><![CDATA[Port Everglades, United States (USA) Departure (UTC) Jun 6, 20:09 — ET: Jun 06, 04:09 PM EDT | Local: Jun 06, 04:09 PM EDT]]></description>
   </item>
   <item>
     <title>Disney Dream Departed from Souda, Greece at Jun 06, 07:41 AM EDT. The local time to the port is Jun 06, 02:41 PM EEST</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">5f4e4bf66725d06c68ddfa46d7ab96e90d25df93</guid>
     <pubDate>Tue, 14 Apr 2026 15:51:15 GMT</pubDate>
     <description><![CDATA[Avalon Anch., United States (USA) Departure (UTC) Apr 14, 00:31 — ET: Apr 13, 08:31 PM EDT | Local: Apr 13, 08:31 PM EDT]]></description>
-  </item>
-  <item>
-    <title>Disney Destiny Departed from Cozumel, Mexico at Apr 13, 06:12 PM EDT. The local time to the port is Apr 13, 05:12 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/MXCZM001</link>
-    <guid isPermaLink="false">bf871e892ace9a90a3f8b620d097483c933e0540</guid>
-    <pubDate>Mon, 13 Apr 2026 22:29:05 GMT</pubDate>
-    <description><![CDATA[Cozumel, Mexico Departure (UTC) Apr 13, 22:12 — ET: Apr 13, 06:12 PM EDT | Local: Apr 13, 05:12 PM EST]]></description>
   </item>
 </channel>
 </rss>
