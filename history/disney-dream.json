@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Souda, Greece at Jun 06, 07:41 AM EDT. The local time to the port is Jun 06, 02:41 PM EEST",
+    "description": "Souda, Greece Departure (UTC) Jun 6, 11:41 — ET: Jun 06, 07:41 AM EDT | Local: Jun 06, 02:41 PM EEST",
+    "link": "https://www.vesselfinder.com/ports/GRSDH001",
+    "guid": "3fe41079c8879726a3c1d8bb7412212811b496d4",
+    "pubDate": "Sat, 06 Jun 2026 12:18:05 GMT",
+    "eventUtc": "2026-06-06T11:41:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Arrived at Souda, Greece at Jun 05, 11:34 PM EDT. The local time to the port is Jun 06, 06:34 AM EEST",
     "description": "Souda, Greece Arrival (UTC) Jun 6, 03:34 — ET: Jun 05, 11:34 PM EDT | Local: Jun 06, 06:34 AM EEST",
     "link": "https://www.vesselfinder.com/ports/GRSDH001",
@@ -2734,17 +2745,6 @@
     "guid": "24656571eae7f0d8164042e48e3329873769a7d5",
     "pubDate": "Fri, 05 Dec 2025 11:20:10 GMT",
     "eventUtc": "2025-12-05T10:43:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Gorda Cay, Bahamas at Dec 04, 05:13 PM EST. The local time to the port is Dec 04, 05:13 PM EST",
-    "description": "Gorda Cay, Bahamas Departure (UTC) Dec 4, 22:13 — ET: Dec 04, 05:13 PM EST | Local: Dec 04, 05:13 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "8452c39392ae1c48ce262d0bd08cac1fc8e0d623",
-    "pubDate": "Thu, 04 Dec 2025 22:20:13 GMT",
-    "eventUtc": "2025-12-04T22:13:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
     "source": "vf_ship"
