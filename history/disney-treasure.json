@@ -44,6 +44,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Departed from Cape Canaveral, United States (USA) at Jun 06, 05:00 PM EDT. The local time to the port is Jun 06, 05:00 PM EDT",
+    "description": "Cape Canaveral, United States (USA) Departure (UTC) Jun 6, 21:00 — ET: Jun 06, 05:00 PM EDT | Local: Jun 06, 05:00 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "0f25bc05311f70904bd59e8c8b626ea9eded42fb",
+    "pubDate": "Sat, 06 Jun 2026 21:44:52 GMT",
+    "eventUtc": "2026-06-06T21:00:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Arrived at Cape Canaveral, United States (USA) at Jun 06, 06:02 AM EDT. The local time to the port is Jun 06, 06:02 AM EDT",
     "description": "Cape Canaveral, United States (USA) Arrival (UTC) Jun 6, 10:02 — ET: Jun 06, 06:02 AM EDT | Local: Jun 06, 06:02 AM EDT",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -2734,17 +2745,6 @@
     "guid": "852abbbafd328f5ece3efb8425daf80b3e2f3910",
     "pubDate": "Fri, 21 Nov 2025 21:39:36 GMT",
     "eventUtc": "2025-11-21T12:12:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Cozumel, Mexico at Nov 17, 05:20 PM EST. The local time to the port is Nov 17, 05:20 PM EST",
-    "description": "Cozumel, Mexico Departure (UTC) Nov 17, 22:20 — ET: Nov 17, 05:20 PM EST | Local: Nov 17, 05:20 PM EST",
-    "link": "https://www.vesselfinder.com/ports/MXCZM001",
-    "guid": "4c283b77034e7bb987d453fbeaa46743da80a5bd",
-    "pubDate": "Mon, 17 Nov 2025 22:35:14 GMT",
-    "eventUtc": "2025-11-17T22:20:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
     "source": "vf_ship"
