@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Souda, Greece at Jun 05, 11:34 PM EDT. The local time to the port is Jun 06, 06:34 AM EEST",
+    "description": "Souda, Greece Arrival (UTC) Jun 6, 03:34 — ET: Jun 05, 11:34 PM EDT | Local: Jun 06, 06:34 AM EEST",
+    "link": "https://www.vesselfinder.com/ports/GRSDH001",
+    "guid": "2ff70965ac26b02c44b126665b01d33a736f4fe5",
+    "pubDate": "Sat, 06 Jun 2026 07:24:10 GMT",
+    "eventUtc": "2026-06-06T03:34:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Departed from Gorda Cay, Bahamas at Jun 05, 04:55 PM EDT. The local time to the port is Jun 05, 04:55 PM EDT",
     "description": "Gorda Cay, Bahamas Departure (UTC) Jun 5, 20:55 — ET: Jun 05, 04:55 PM EDT | Local: Jun 05, 04:55 PM EDT",
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-04-13T20:49:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Adventure Departed from Singapore, Singapore at Apr 13, 10:16 AM EDT. The local time to the port is Apr 13, 10:16 AM EDT",
-    "description": "Singapore, Singapore Departure (UTC) Apr 13, 14:16 — ET: Apr 13, 10:16 AM EDT | Local: Apr 13, 10:16 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/SGSIN001",
-    "guid": "990c6c1425cb387bddde1bb16f0d4811670f1b2c",
-    "pubDate": "Mon, 13 Apr 2026 14:30:07 GMT",
-    "eventUtc": "2026-04-13T14:16:00+00:00",
-    "shipSlug": "disney-adventure",
-    "shipName": "Disney Adventure",
     "source": "vf_ship"
   }
 ]

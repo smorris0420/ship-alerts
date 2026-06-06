@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Souda, Greece at Jun 05, 11:34 PM EDT. The local time to the port is Jun 06, 06:34 AM EEST",
+    "description": "Souda, Greece Arrival (UTC) Jun 6, 03:34 — ET: Jun 05, 11:34 PM EDT | Local: Jun 06, 06:34 AM EEST",
+    "link": "https://www.vesselfinder.com/ports/GRSDH001",
+    "guid": "2ff70965ac26b02c44b126665b01d33a736f4fe5",
+    "pubDate": "Sat, 06 Jun 2026 07:24:10 GMT",
+    "eventUtc": "2026-06-06T03:34:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Mykonos, Greece at Jun 05, 11:24 AM EDT. The local time to the port is Jun 05, 06:24 PM EEST",
     "description": "Mykonos, Greece Departure (UTC) Jun 5, 15:24 — ET: Jun 05, 11:24 AM EDT | Local: Jun 05, 06:24 PM EEST",
     "link": "https://www.vesselfinder.com/ports/GRJMK001",
@@ -2733,17 +2744,6 @@
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
     "guid": "8452c39392ae1c48ce262d0bd08cac1fc8e0d623",
     "pubDate": "Thu, 04 Dec 2025 22:20:13 GMT",
-    "eventUtc": "2025-12-04T22:13:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Unknown Port at Dec 04, 05:13 PM EST. The local time to the port is Dec 04, 05:13 PM EST",
-    "description": "Unknown Port Departure (UTC) Dec 4, 22:13 — ET: Dec 04, 05:13 PM EST | Local: Dec 04, 05:13 PM EST",
-    "link": "https://www.vesselfinder.com/vessels/details/9434254",
-    "guid": "58c05b0e452493829e34bd73c0fc2cb4003a1734",
-    "pubDate": "Fri, 05 Dec 2025 05:40:30 GMT",
     "eventUtc": "2025-12-04T22:13:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
