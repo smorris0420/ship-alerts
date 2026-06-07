@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Arrived at Gorda Cay, Bahamas at Jun 07, 07:28 AM EDT. The local time to the port is Jun 07, 07:28 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Jun 7, 11:28 — ET: Jun 07, 07:28 AM EDT | Local: Jun 07, 07:28 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "72b661d68b1973d7b18537419d43795d3a91c7a4",
+    "pubDate": "Sun, 07 Jun 2026 13:07:44 GMT",
+    "eventUtc": "2026-06-07T11:28:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Departed from Nassau, Bahamas at Jun 06, 06:16 PM EDT. The local time to the port is Jun 06, 06:16 PM EDT",
     "description": "Nassau, Bahamas Departure (UTC) Jun 6, 22:16 — ET: Jun 06, 06:16 PM EDT | Local: Jun 06, 06:16 PM EDT",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -2734,17 +2745,6 @@
     "guid": "db5fc3755014d49de338478e44868dd619b90c24",
     "pubDate": "Sat, 03 Jan 2026 23:13:36 GMT",
     "eventUtc": "2026-01-03T22:56:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Arrived at Nassau, Bahamas at Jan 03, 08:51 AM EST. The local time to the port is Jan 03, 08:51 AM EST",
-    "description": "Nassau, Bahamas Arrival (UTC) Jan 3, 13:51 — ET: Jan 03, 08:51 AM EST | Local: Jan 03, 08:51 AM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "f745577ea8e02878c3c1250a036c245c39af6da0",
-    "pubDate": "Sat, 03 Jan 2026 14:38:15 GMT",
-    "eventUtc": "2026-01-03T13:51:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
     "source": "vf_ship"
