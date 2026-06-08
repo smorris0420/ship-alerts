@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Arrived at Cape Canaveral, United States (USA) at Jun 08, 05:52 AM EDT. The local time to the port is Jun 08, 05:52 AM EDT",
+    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Jun 8, 09:52 — ET: Jun 08, 05:52 AM EDT | Local: Jun 08, 05:52 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "5f1ef245bac7909af286caf33ba2d6f848ffbc06",
+    "pubDate": "Mon, 08 Jun 2026 12:11:26 GMT",
+    "eventUtc": "2026-06-08T09:52:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Adventure Departed from Singapore, Singapore at Jun 08, 04:55 AM EDT. The local time to the port is Jun 08, 04:55 AM EDT",
+    "description": "Singapore, Singapore Departure (UTC) Jun 8, 08:55 — ET: Jun 08, 04:55 AM EDT | Local: Jun 08, 04:55 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/SGSIN001",
+    "guid": "881015b859bacaba00ed23a92e8c0dc7b6beeefd",
+    "pubDate": "Mon, 08 Jun 2026 12:14:49 GMT",
+    "eventUtc": "2026-06-08T08:55:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Arrived at Civitavecchia, Italy at Jun 08, 12:04 AM EDT. The local time to the port is Jun 08, 06:04 AM CEST",
     "description": "Civitavecchia, Italy Arrival (UTC) Jun 8, 04:04 — ET: Jun 08, 12:04 AM EDT | Local: Jun 08, 06:04 AM CEST",
     "link": "https://www.vesselfinder.com/ports/ITCVV001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-04-15T21:02:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Saint Thomas, US Virgin Islands at Apr 15, 04:13 PM EDT. The local time to the port is Apr 15, 04:13 PM EDT",
-    "description": "Saint Thomas, US Virgin Islands Departure (UTC) Apr 15, 20:13 — ET: Apr 15, 04:13 PM EDT | Local: Apr 15, 04:13 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/VISTT001",
-    "guid": "7872b086503c297840d94ec0d1249b30c6080922",
-    "pubDate": "Wed, 15 Apr 2026 21:04:31 GMT",
-    "eventUtc": "2026-04-15T20:13:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Arrived at Ensenada, Mexico at Apr 15, 10:37 AM EDT. The local time to the port is Apr 15, 09:37 AM EST",
-    "description": "Ensenada, Mexico Arrival (UTC) Apr 15, 14:37 — ET: Apr 15, 10:37 AM EDT | Local: Apr 15, 09:37 AM EST",
-    "link": "https://www.vesselfinder.com/ports/MXESE001",
-    "guid": "55219b9a39122a59c0009aff141759be0fef689c",
-    "pubDate": "Wed, 15 Apr 2026 15:44:51 GMT",
-    "eventUtc": "2026-04-15T14:37:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
     "source": "vf_ship"
   }
 ]
