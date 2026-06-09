@@ -5,7 +5,7 @@
   <title>Disney Treasure - Arrivals &amp; Departures</title>
   <link>https://www.vesselfinder.com/vessels/details/9834753</link>
   <description>Disney Treasure - Arrivals &amp; Departures - Auto-generated</description>
-  <lastBuildDate>Tue, 09 Jun 2026 22:09:03 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 09 Jun 2026 23:42:48 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -34,6 +34,13 @@
     <guid isPermaLink="false">82d28296f402cfdf1461b4ee7ddf9e1831c89886</guid>
     <pubDate>Thu, 01 Jan 2026 00:00:51 GMT</pubDate>
     <description><![CDATA[Georgetown, Grand Cayman Anch., Cayman Islands Arrival (UTC) Dec 29, 12:44 — ET: Dec 29, 07:44 AM EST | Local: Dec 29, 07:44 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Treasure Departed from Road Town, Tortola, British Virgin Islands at Jun 09, 06:00 PM EDT. The local time to the port is Jun 09, 06:00 PM AST</title>
+    <link>https://www.vesselfinder.com/ports/VGRAD001</link>
+    <guid isPermaLink="false">738a9557bff36658c325f4d58e83364b0573cfd3</guid>
+    <pubDate>Tue, 09 Jun 2026 23:42:47 GMT</pubDate>
+    <description><![CDATA[Road Town, Tortola, British Virgin Islands Departure (UTC) Jun 9, 22:00 — ET: Jun 09, 06:00 PM EDT | Local: Jun 09, 06:00 PM AST]]></description>
   </item>
   <item>
     <title>Disney Treasure Arrived at Road Town, Tortola, British Virgin Islands at Jun 09, 07:09 AM EDT. The local time to the port is Jun 09, 07:09 AM AST</title>
@@ -1749,13 +1756,6 @@
     <guid isPermaLink="false">4e0445fe0745626ccd31dfbc69ded9b93a693fa3</guid>
     <pubDate>Sat, 22 Nov 2025 12:16:05 GMT</pubDate>
     <description><![CDATA[Cape Canaveral, United States (USA) Arrival (UTC) Nov 22, 11:21 — ET: Nov 22, 06:21 AM EST | Local: Nov 22, 06:21 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Treasure Departed from Gorda Cay, Bahamas at Nov 21, 04:49 PM EST. The local time to the port is Nov 21, 04:49 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
-    <guid isPermaLink="false">9884a2692a3c58c0d7a02760d097cc6a48f7810d</guid>
-    <pubDate>Fri, 21 Nov 2025 22:01:51 GMT</pubDate>
-    <description><![CDATA[Gorda Cay, Bahamas Departure (UTC) Nov 21, 21:49 — ET: Nov 21, 04:49 PM EST | Local: Nov 21, 04:49 PM EST]]></description>
   </item>
 </channel>
 </rss>

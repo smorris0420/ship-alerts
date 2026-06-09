@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Departed from Road Town, Tortola, British Virgin Islands at Jun 09, 06:00 PM EDT. The local time to the port is Jun 09, 06:00 PM AST",
+    "description": "Road Town, Tortola, British Virgin Islands Departure (UTC) Jun 9, 22:00 — ET: Jun 09, 06:00 PM EDT | Local: Jun 09, 06:00 PM AST",
+    "link": "https://www.vesselfinder.com/ports/VGRAD001",
+    "guid": "738a9557bff36658c325f4d58e83364b0573cfd3",
+    "pubDate": "Tue, 09 Jun 2026 23:42:47 GMT",
+    "eventUtc": "2026-06-09T22:00:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Arrived at Road Town, Tortola, British Virgin Islands at Jun 09, 07:09 AM EDT. The local time to the port is Jun 09, 07:09 AM AST",
     "description": "Road Town, Tortola, British Virgin Islands Arrival (UTC) Jun 9, 11:09 — ET: Jun 09, 07:09 AM EDT | Local: Jun 09, 07:09 AM AST",
     "link": "https://www.vesselfinder.com/ports/VGRAD001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-04-16T21:04:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Departed from Port Everglades, United States (USA) at Apr 16, 04:17 PM EDT. The local time to the port is Apr 16, 04:17 PM EDT",
-    "description": "Port Everglades, United States (USA) Departure (UTC) Apr 16, 20:17 — ET: Apr 16, 04:17 PM EDT | Local: Apr 16, 04:17 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "f7fec25e7c78e9f333aac92ad679d5c19d244277",
-    "pubDate": "Thu, 16 Apr 2026 21:16:25 GMT",
-    "eventUtc": "2026-04-16T20:17:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
     "source": "vf_ship"
   }
 ]
