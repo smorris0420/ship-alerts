@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Arrived at Road Town, Tortola, British Virgin Islands at Jun 09, 07:09 AM EDT. The local time to the port is Jun 09, 07:09 AM AST",
+    "description": "Road Town, Tortola, British Virgin Islands Arrival (UTC) Jun 9, 11:09 — ET: Jun 09, 07:09 AM EDT | Local: Jun 09, 07:09 AM AST",
+    "link": "https://www.vesselfinder.com/ports/VGRAD001",
+    "guid": "864ea8b9f9e895aea0637dc2737a43f0bae721f2",
+    "pubDate": "Tue, 09 Jun 2026 13:24:55 GMT",
+    "eventUtc": "2026-06-09T11:09:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Departed from Vancouver, Canada at Jun 08, 07:09 PM EDT. The local time to the port is Jun 08, 04:09 PM PDT",
     "description": "Vancouver, Canada Departure (UTC) Jun 8, 23:09 — ET: Jun 08, 07:09 PM EDT | Local: Jun 08, 04:09 PM PDT",
     "link": "https://www.vesselfinder.com/ports/CAVAN001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-04-16T20:17:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Arrived at Gorda Cay, Bahamas at Apr 16, 07:34 AM EDT. The local time to the port is Apr 16, 07:34 AM EDT",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) Apr 16, 11:34 — ET: Apr 16, 07:34 AM EDT | Local: Apr 16, 07:34 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "1711a083faaba52b1f24186444578fb3224fd9ef",
-    "pubDate": "Thu, 16 Apr 2026 13:35:12 GMT",
-    "eventUtc": "2026-04-16T11:34:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
     "source": "vf_ship"
   }
 ]
