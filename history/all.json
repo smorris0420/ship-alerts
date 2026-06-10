@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Arrived at Gorda Cay, Bahamas at Jun 10, 07:55 AM EDT. The local time to the port is Jun 10, 07:55 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Jun 10, 11:55 — ET: Jun 10, 07:55 AM EDT | Local: Jun 10, 07:55 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "b50d02329e248afe6c50e012be91490bb6538ce2",
+    "pubDate": "Wed, 10 Jun 2026 14:03:46 GMT",
+    "eventUtc": "2026-06-10T11:55:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Treasure Arrived at Saint Thomas, US Virgin Islands at Jun 10, 07:18 AM EDT. The local time to the port is Jun 10, 07:18 AM EDT",
+    "description": "Saint Thomas, US Virgin Islands Arrival (UTC) Jun 10, 11:18 — ET: Jun 10, 07:18 AM EDT | Local: Jun 10, 07:18 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/VISTT001",
+    "guid": "dd67c11c39b10ca27cdea2f65464e9ae0852fc28",
+    "pubDate": "Wed, 10 Jun 2026 14:00:10 GMT",
+    "eventUtc": "2026-06-10T11:18:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Arrived at Cape Canaveral, United States (USA) at Jun 10, 05:38 AM EDT. The local time to the port is Jun 10, 05:38 AM EDT",
     "description": "Cape Canaveral, United States (USA) Arrival (UTC) Jun 10, 09:38 — ET: Jun 10, 05:38 AM EDT | Local: Jun 10, 05:38 AM EDT",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-04-17T13:45:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Arrived at Avalon Anch., United States (USA) at Apr 17, 09:45 AM EDT. The local time to the port is Apr 17, 09:45 AM EDT",
-    "description": "Avalon Anch., United States (USA) Arrival (UTC) Apr 17, 13:45 — ET: Apr 17, 09:45 AM EDT | Local: Apr 17, 09:45 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/USAOU001",
-    "guid": "f785f0594afcb526dbd1520efe526179ff619b6f",
-    "pubDate": "Sat, 18 Apr 2026 15:11:15 GMT",
-    "eventUtc": "2026-04-17T13:45:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Gorda Cay, Bahamas at Apr 17, 08:52 AM EDT. The local time to the port is Apr 17, 08:52 AM EDT",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) Apr 17, 12:52 — ET: Apr 17, 08:52 AM EDT | Local: Apr 17, 08:52 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "7878a5ba74e18455b2245ae24aabf672c1eccac6",
-    "pubDate": "Fri, 17 Apr 2026 14:10:16 GMT",
-    "eventUtc": "2026-04-17T12:52:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
