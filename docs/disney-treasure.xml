@@ -5,7 +5,7 @@
   <title>Disney Treasure - Arrivals &amp; Departures</title>
   <link>https://www.vesselfinder.com/vessels/details/9834753</link>
   <description>Disney Treasure - Arrivals &amp; Departures - Auto-generated</description>
-  <lastBuildDate>Wed, 10 Jun 2026 19:56:24 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 10 Jun 2026 22:01:29 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -34,6 +34,13 @@
     <guid isPermaLink="false">82d28296f402cfdf1461b4ee7ddf9e1831c89886</guid>
     <pubDate>Thu, 01 Jan 2026 00:00:51 GMT</pubDate>
     <description><![CDATA[Georgetown, Grand Cayman Anch., Cayman Islands Arrival (UTC) Dec 29, 12:44 — ET: Dec 29, 07:44 AM EST | Local: Dec 29, 07:44 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Treasure Departed from Saint Thomas, US Virgin Islands at Jun 10, 04:06 PM EDT. The local time to the port is Jun 10, 04:06 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/VISTT001</link>
+    <guid isPermaLink="false">cc3bd1a35e1e37b8e4d4804bc67c5afac80588b9</guid>
+    <pubDate>Wed, 10 Jun 2026 22:01:27 GMT</pubDate>
+    <description><![CDATA[Saint Thomas, US Virgin Islands Departure (UTC) Jun 10, 20:06 — ET: Jun 10, 04:06 PM EDT | Local: Jun 10, 04:06 PM EDT]]></description>
   </item>
   <item>
     <title>Disney Treasure Arrived at Saint Thomas, US Virgin Islands at Jun 10, 07:18 AM EDT. The local time to the port is Jun 10, 07:18 AM EDT</title>
@@ -1749,13 +1756,6 @@
     <guid isPermaLink="false">1116c0637ea21002ddc97b46cbbac39d7a6e332a</guid>
     <pubDate>Tue, 25 Nov 2025 11:45:18 GMT</pubDate>
     <description><![CDATA[Saint Thomas, US Virgin Islands Arrival (UTC) Nov 25, 10:57 — ET: Nov 25, 05:57 AM EST | Local: Nov 25, 05:57 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Treasure Departed from Cape Canaveral, United States (USA) at Nov 22, 05:10 PM EST. The local time to the port is Nov 22, 05:10 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/USPCV001</link>
-    <guid isPermaLink="false">a62665b8faeea000e5f05ba9de5cfbe810763e03</guid>
-    <pubDate>Sat, 22 Nov 2025 22:35:13 GMT</pubDate>
-    <description><![CDATA[Cape Canaveral, United States (USA) Departure (UTC) Nov 22, 22:10 — ET: Nov 22, 05:10 PM EST | Local: Nov 22, 05:10 PM EST]]></description>
   </item>
 </channel>
 </rss>
