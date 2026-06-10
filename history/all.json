@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Souda, Greece at Jun 10, 01:14 PM EDT. The local time to the port is Jun 10, 08:14 PM EEST",
+    "description": "Souda, Greece Departure (UTC) Jun 10, 17:14 — ET: Jun 10, 01:14 PM EDT | Local: Jun 10, 08:14 PM EEST",
+    "link": "https://www.vesselfinder.com/ports/GRSDH001",
+    "guid": "b2f7bc1cb9517df5bb39eb778d913fd0c3116f76",
+    "pubDate": "Wed, 10 Jun 2026 17:31:33 GMT",
+    "eventUtc": "2026-06-10T17:14:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Arrived at Gorda Cay, Bahamas at Jun 10, 07:55 AM EDT. The local time to the port is Jun 10, 07:55 AM EDT",
     "description": "Gorda Cay, Bahamas Arrival (UTC) Jun 10, 11:55 — ET: Jun 10, 07:55 AM EDT | Local: Jun 10, 07:55 AM EDT",
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-04-17T20:20:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Arrived at San Diego, United States (USA) at Apr 17, 09:45 AM EDT. The local time to the port is Apr 17, 09:45 AM EDT",
-    "description": "San Diego, United States (USA) Arrival (UTC) Apr 17, 13:45 — ET: Apr 17, 09:45 AM EDT | Local: Apr 17, 09:45 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/USSAN001",
-    "guid": "f0bf5fc3c093f1f46e4f2eba14c5f9d151c5ebe5",
-    "pubDate": "Fri, 17 Apr 2026 15:18:34 GMT",
-    "eventUtc": "2026-04-17T13:45:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
     "source": "vf_ship"
   }
 ]

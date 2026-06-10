@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Wed, 10 Jun 2026 14:03:48 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 10 Jun 2026 17:33:28 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,13 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Dream Departed from Souda, Greece at Jun 10, 01:14 PM EDT. The local time to the port is Jun 10, 08:14 PM EEST</title>
+    <link>https://www.vesselfinder.com/ports/GRSDH001</link>
+    <guid isPermaLink="false">b2f7bc1cb9517df5bb39eb778d913fd0c3116f76</guid>
+    <pubDate>Wed, 10 Jun 2026 17:31:33 GMT</pubDate>
+    <description><![CDATA[Souda, Greece Departure (UTC) Jun 10, 17:14 — ET: Jun 10, 01:14 PM EDT | Local: Jun 10, 08:14 PM EEST]]></description>
   </item>
   <item>
     <title>Disney Destiny Arrived at Gorda Cay, Bahamas at Jun 10, 07:55 AM EDT. The local time to the port is Jun 10, 07:55 AM EDT</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">154ac90deb253ff60344417919f1b5768b2b9d29</guid>
     <pubDate>Fri, 17 Apr 2026 21:03:17 GMT</pubDate>
     <description><![CDATA[Port Everglades, United States (USA) Departure (UTC) Apr 17, 20:20 — ET: Apr 17, 04:20 PM EDT | Local: Apr 17, 04:20 PM EDT]]></description>
-  </item>
-  <item>
-    <title>Disney Wonder Arrived at San Diego, United States (USA) at Apr 17, 09:45 AM EDT. The local time to the port is Apr 17, 09:45 AM EDT</title>
-    <link>https://www.vesselfinder.com/ports/USSAN001</link>
-    <guid isPermaLink="false">f0bf5fc3c093f1f46e4f2eba14c5f9d151c5ebe5</guid>
-    <pubDate>Fri, 17 Apr 2026 15:18:34 GMT</pubDate>
-    <description><![CDATA[San Diego, United States (USA) Arrival (UTC) Apr 17, 13:45 — ET: Apr 17, 09:45 AM EDT | Local: Apr 17, 09:45 AM EDT]]></description>
   </item>
 </channel>
 </rss>
