@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Souda, Greece at Jun 10, 04:18 AM EDT. The local time to the port is Jun 10, 11:18 AM EEST",
+    "description": "Souda, Greece Arrival (UTC) Jun 10, 08:18 — ET: Jun 10, 04:18 AM EDT | Local: Jun 10, 11:18 AM EEST",
+    "link": "https://www.vesselfinder.com/ports/GRSDH001",
+    "guid": "fbcb2e80b41d643694dd40f889422d60764090b4",
+    "pubDate": "Wed, 10 Jun 2026 10:39:27 GMT",
+    "eventUtc": "2026-06-10T08:18:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Civitavecchia, Italy at Jun 08, 11:39 AM EDT. The local time to the port is Jun 08, 05:39 PM CEST",
     "description": "Civitavecchia, Italy Departure (UTC) Jun 8, 15:39 — ET: Jun 08, 11:39 AM EDT | Local: Jun 08, 05:39 PM CEST",
     "link": "https://www.vesselfinder.com/ports/ITCVV001",
@@ -2734,17 +2745,6 @@
     "guid": "bb6bfc8e9437ad0cdda295536b672ce493b31b04",
     "pubDate": "Sun, 07 Dec 2025 22:36:52 GMT",
     "eventUtc": "2025-12-07T22:17:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Arrived at Nassau, Bahamas at Dec 07, 08:03 AM EST. The local time to the port is Dec 07, 08:03 AM EST",
-    "description": "Nassau, Bahamas Arrival (UTC) Dec 7, 13:03 — ET: Dec 07, 08:03 AM EST | Local: Dec 07, 08:03 AM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "ff050088a1a9abfbcaa306339b2cccf64ad9e96b",
-    "pubDate": "Sun, 07 Dec 2025 13:48:01 GMT",
-    "eventUtc": "2025-12-07T13:03:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
     "source": "vf_ship"

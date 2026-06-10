@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Wed, 10 Jun 2026 06:24:47 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 10 Jun 2026 10:41:40 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,20 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Fantasy Arrived at Cape Canaveral, United States (USA) at Jun 10, 05:38 AM EDT. The local time to the port is Jun 10, 05:38 AM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USPCV001</link>
+    <guid isPermaLink="false">5f84bd3d0253e59f01d6ea77252034d97a405bd1</guid>
+    <pubDate>Wed, 10 Jun 2026 10:38:31 GMT</pubDate>
+    <description><![CDATA[Cape Canaveral, United States (USA) Arrival (UTC) Jun 10, 09:38 — ET: Jun 10, 05:38 AM EDT | Local: Jun 10, 05:38 AM EDT]]></description>
+  </item>
+  <item>
+    <title>Disney Dream Arrived at Souda, Greece at Jun 10, 04:18 AM EDT. The local time to the port is Jun 10, 11:18 AM EEST</title>
+    <link>https://www.vesselfinder.com/ports/GRSDH001</link>
+    <guid isPermaLink="false">fbcb2e80b41d643694dd40f889422d60764090b4</guid>
+    <pubDate>Wed, 10 Jun 2026 10:39:27 GMT</pubDate>
+    <description><![CDATA[Souda, Greece Arrival (UTC) Jun 10, 08:18 — ET: Jun 10, 04:18 AM EDT | Local: Jun 10, 11:18 AM EEST]]></description>
   </item>
   <item>
     <title>Disney Magic Departed from Ketchikan, United States (USA) at Jun 09, 10:22 PM EDT. The local time to the port is Jun 09, 10:22 PM EDT</title>
@@ -3492,20 +3506,6 @@
     <guid isPermaLink="false">7878a5ba74e18455b2245ae24aabf672c1eccac6</guid>
     <pubDate>Fri, 17 Apr 2026 14:10:16 GMT</pubDate>
     <description><![CDATA[Gorda Cay, Bahamas Arrival (UTC) Apr 17, 12:52 — ET: Apr 17, 08:52 AM EDT | Local: Apr 17, 08:52 AM EDT]]></description>
-  </item>
-  <item>
-    <title>Disney Wish Arrived at Cape Canaveral, United States (USA) at Apr 17, 05:43 AM EDT. The local time to the port is Apr 17, 05:43 AM EDT</title>
-    <link>https://www.vesselfinder.com/ports/USPCV001</link>
-    <guid isPermaLink="false">c4292da3125088fd056ad39c195065d13f065b7c</guid>
-    <pubDate>Fri, 17 Apr 2026 10:43:14 GMT</pubDate>
-    <description><![CDATA[Cape Canaveral, United States (USA) Arrival (UTC) Apr 17, 09:43 — ET: Apr 17, 05:43 AM EDT | Local: Apr 17, 05:43 AM EDT]]></description>
-  </item>
-  <item>
-    <title>Disney Dream Arrived at Port Everglades, United States (USA) at Apr 17, 05:28 AM EDT. The local time to the port is Apr 17, 05:28 AM EDT</title>
-    <link>https://www.vesselfinder.com/ports/USPEF001</link>
-    <guid isPermaLink="false">0909244bd83f5f2ac7040084cb166e12549d65e1</guid>
-    <pubDate>Fri, 17 Apr 2026 10:45:32 GMT</pubDate>
-    <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) Apr 17, 09:28 — ET: Apr 17, 05:28 AM EDT | Local: Apr 17, 05:28 AM EDT]]></description>
   </item>
 </channel>
 </rss>

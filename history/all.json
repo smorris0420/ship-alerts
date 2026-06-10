@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Fantasy Arrived at Cape Canaveral, United States (USA) at Jun 10, 05:38 AM EDT. The local time to the port is Jun 10, 05:38 AM EDT",
+    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Jun 10, 09:38 — ET: Jun 10, 05:38 AM EDT | Local: Jun 10, 05:38 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "5f84bd3d0253e59f01d6ea77252034d97a405bd1",
+    "pubDate": "Wed, 10 Jun 2026 10:38:31 GMT",
+    "eventUtc": "2026-06-10T09:38:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Dream Arrived at Souda, Greece at Jun 10, 04:18 AM EDT. The local time to the port is Jun 10, 11:18 AM EEST",
+    "description": "Souda, Greece Arrival (UTC) Jun 10, 08:18 — ET: Jun 10, 04:18 AM EDT | Local: Jun 10, 11:18 AM EEST",
+    "link": "https://www.vesselfinder.com/ports/GRSDH001",
+    "guid": "fbcb2e80b41d643694dd40f889422d60764090b4",
+    "pubDate": "Wed, 10 Jun 2026 10:39:27 GMT",
+    "eventUtc": "2026-06-10T08:18:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Departed from Ketchikan, United States (USA) at Jun 09, 10:22 PM EDT. The local time to the port is Jun 09, 10:22 PM EDT",
     "description": "Ketchikan, United States (USA) Departure (UTC) Jun 10, 02:22 — ET: Jun 09, 10:22 PM EDT | Local: Jun 09, 10:22 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USKTN001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-04-17T12:52:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Arrived at Cape Canaveral, United States (USA) at Apr 17, 05:43 AM EDT. The local time to the port is Apr 17, 05:43 AM EDT",
-    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Apr 17, 09:43 — ET: Apr 17, 05:43 AM EDT | Local: Apr 17, 05:43 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "c4292da3125088fd056ad39c195065d13f065b7c",
-    "pubDate": "Fri, 17 Apr 2026 10:43:14 GMT",
-    "eventUtc": "2026-04-17T09:43:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Arrived at Port Everglades, United States (USA) at Apr 17, 05:28 AM EDT. The local time to the port is Apr 17, 05:28 AM EDT",
-    "description": "Port Everglades, United States (USA) Arrival (UTC) Apr 17, 09:28 — ET: Apr 17, 05:28 AM EDT | Local: Apr 17, 05:28 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "0909244bd83f5f2ac7040084cb166e12549d65e1",
-    "pubDate": "Fri, 17 Apr 2026 10:45:32 GMT",
-    "eventUtc": "2026-04-17T09:28:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
     "source": "vf_ship"
   }
 ]
