@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Fantasy Departed from Nassau, Bahamas at Jun 11, 06:13 PM EDT. The local time to the port is Jun 11, 06:13 PM EDT",
+    "description": "Nassau, Bahamas Departure (UTC) Jun 11, 22:13 — ET: Jun 11, 06:13 PM EDT | Local: Jun 11, 06:13 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "8568628b3179154783ce25aecd00f290258264aa",
+    "pubDate": "Thu, 11 Jun 2026 22:55:48 GMT",
+    "eventUtc": "2026-06-11T22:13:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Departed from Port Everglades, United States (USA) at Jun 11, 04:12 PM EDT. The local time to the port is Jun 11, 04:12 PM EDT",
     "description": "Port Everglades, United States (USA) Departure (UTC) Jun 11, 20:12 — ET: Jun 11, 04:12 PM EDT | Local: Jun 11, 04:12 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USPEF001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-04-18T17:41:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Arrived at Nassau, Bahamas at Apr 18, 09:06 AM EDT. The local time to the port is Apr 18, 09:06 AM EDT",
-    "description": "Nassau, Bahamas Arrival (UTC) Apr 18, 13:06 — ET: Apr 18, 09:06 AM EDT | Local: Apr 18, 09:06 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "b4efd4a8d9971dda2d582314d3b12e2b5276ab78",
-    "pubDate": "Sat, 18 Apr 2026 14:27:14 GMT",
-    "eventUtc": "2026-04-18T13:06:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
     "source": "vf_ship"
   }
 ]
