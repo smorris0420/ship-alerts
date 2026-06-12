@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Departed from Nassau, Bahamas at Jun 12, 05:48 PM EDT. The local time to the port is Jun 12, 05:48 PM EDT",
+    "description": "Nassau, Bahamas Departure (UTC) Jun 12, 21:48 — ET: Jun 12, 05:48 PM EDT | Local: Jun 12, 05:48 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "f3178009110d2d8dba04d5ae4ff588d112b49f07",
+    "pubDate": "Fri, 12 Jun 2026 22:05:56 GMT",
+    "eventUtc": "2026-06-12T21:48:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Wish Departed from Cape Canaveral, United States (USA) at Jun 12, 04:49 PM EDT. The local time to the port is Jun 12, 04:49 PM EDT",
+    "description": "Cape Canaveral, United States (USA) Departure (UTC) Jun 12, 20:49 — ET: Jun 12, 04:49 PM EDT | Local: Jun 12, 04:49 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "9c1426fef26b650bdad5f3bfe3536c7cfe463c57",
+    "pubDate": "Fri, 12 Jun 2026 22:01:22 GMT",
+    "eventUtc": "2026-06-12T20:49:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Arrived at Nassau, Bahamas at Jun 12, 07:25 AM EDT. The local time to the port is Jun 12, 07:25 AM EDT",
     "description": "Nassau, Bahamas Arrival (UTC) Jun 12, 11:25 — ET: Jun 12, 07:25 AM EDT | Local: Jun 12, 07:25 AM EDT",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-04-19T11:23:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Arrived at Nassau, Bahamas at Apr 19, 07:19 AM EDT. The local time to the port is Apr 19, 07:19 AM EDT",
-    "description": "Nassau, Bahamas Arrival (UTC) Apr 19, 11:19 — ET: Apr 19, 07:19 AM EDT | Local: Apr 19, 07:19 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "4059c42cb42449529b9ebd4f958559ca1e702c6b",
-    "pubDate": "Sun, 19 Apr 2026 12:03:56 GMT",
-    "eventUtc": "2026-04-19T11:19:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Ensenada, Mexico at Apr 18, 09:31 PM EDT. The local time to the port is Apr 18, 08:31 PM EST",
-    "description": "Ensenada, Mexico Departure (UTC) Apr 19, 01:31 — ET: Apr 18, 09:31 PM EDT | Local: Apr 18, 08:31 PM EST",
-    "link": "https://www.vesselfinder.com/ports/MXESE001",
-    "guid": "263a3702718cc601721006ccc57adc6d82045823",
-    "pubDate": "Sun, 19 Apr 2026 02:56:37 GMT",
-    "eventUtc": "2026-04-19T01:31:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
