@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Vancouver, Canada at Jun 11, 07:00 PM EDT. The local time to the port is Jun 11, 04:00 PM PDT",
+    "description": "Vancouver, Canada Departure (UTC) Jun 11, 23:00 — ET: Jun 11, 07:00 PM EDT | Local: Jun 11, 04:00 PM PDT",
+    "link": "https://www.vesselfinder.com/ports/CAVAN001",
+    "guid": "1785788dd03c1ccae79d7c3389a112bce89ac184",
+    "pubDate": "Fri, 12 Jun 2026 00:20:08 GMT",
+    "eventUtc": "2026-06-11T23:00:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Departed from Nassau, Bahamas at Jun 11, 06:13 PM EDT. The local time to the port is Jun 11, 06:13 PM EDT",
     "description": "Nassau, Bahamas Departure (UTC) Jun 11, 22:13 — ET: Jun 11, 06:13 PM EDT | Local: Jun 11, 06:13 PM EDT",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -217,6 +228,17 @@
     "eventUtc": "2026-06-11T22:13:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Wish Departed from Gorda Cay, Bahamas at Jun 11, 05:01 PM EDT. The local time to the port is Jun 11, 05:01 PM EDT",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Jun 11, 21:01 — ET: Jun 11, 05:01 PM EDT | Local: Jun 11, 05:01 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "1c972d1c2bc95fc43dd3ef78b1306e22d0482135",
+    "pubDate": "Fri, 12 Jun 2026 00:18:45 GMT",
+    "eventUtc": "2026-06-11T21:01:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
     "source": "vf_ship"
   },
   {
@@ -250,6 +272,17 @@
     "eventUtc": "2026-06-11T13:09:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Wish Arrived at Gorda Cay, Bahamas at Jun 11, 08:03 AM EDT. The local time to the port is Jun 11, 08:03 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Jun 11, 12:03 — ET: Jun 11, 08:03 AM EDT | Local: Jun 11, 08:03 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "28b291d7736e418c75288f708aea2873c9a07336",
+    "pubDate": "Fri, 12 Jun 2026 00:18:44 GMT",
+    "eventUtc": "2026-06-11T12:03:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
     "source": "vf_ship"
   },
   {
@@ -5464,39 +5497,6 @@
     "eventUtc": "2026-04-18T22:09:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Cape Canaveral, United States (USA) at Apr 18, 05:10 PM EDT. The local time to the port is Apr 18, 05:10 PM EDT",
-    "description": "Cape Canaveral, United States (USA) Departure (UTC) Apr 18, 21:10 — ET: Apr 18, 05:10 PM EDT | Local: Apr 18, 05:10 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "6511b03454f327d192afc86357cce84103307812",
-    "pubDate": "Sat, 18 Apr 2026 21:23:49 GMT",
-    "eventUtc": "2026-04-18T21:10:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Departed from Gorda Cay, Bahamas at Apr 18, 05:00 PM EDT. The local time to the port is Apr 18, 05:00 PM EDT",
-    "description": "Gorda Cay, Bahamas Departure (UTC) Apr 18, 21:00 — ET: Apr 18, 05:00 PM EDT | Local: Apr 18, 05:00 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "3e3188701b5bf7c8148320b3fc1a57b65365d72f",
-    "pubDate": "Sat, 18 Apr 2026 21:27:27 GMT",
-    "eventUtc": "2026-04-18T21:00:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Arrived at Ensenada, Mexico at Apr 18, 01:41 PM EDT. The local time to the port is Apr 18, 12:41 PM EST",
-    "description": "Ensenada, Mexico Arrival (UTC) Apr 18, 17:41 — ET: Apr 18, 01:41 PM EDT | Local: Apr 18, 12:41 PM EST",
-    "link": "https://www.vesselfinder.com/ports/MXESE001",
-    "guid": "0fa6a5c1aa754a377454dc664b7f2007ea09a4b7",
-    "pubDate": "Sat, 18 Apr 2026 18:43:54 GMT",
-    "eventUtc": "2026-04-18T17:41:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
