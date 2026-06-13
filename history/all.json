@@ -220,6 +220,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Departed from Gorda Cay, Bahamas at Jun 12, 05:00 PM EDT. The local time to the port is Jun 12, 05:00 PM EDT",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Jun 12, 21:00 — ET: Jun 12, 05:00 PM EDT | Local: Jun 12, 05:00 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "48eb5a6f6d46794056a13d17d516ab44e68ac5e3",
+    "pubDate": "Sat, 13 Jun 2026 06:12:31 GMT",
+    "eventUtc": "2026-06-12T21:00:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Departed from Cape Canaveral, United States (USA) at Jun 12, 04:49 PM EDT. The local time to the port is Jun 12, 04:49 PM EDT",
     "description": "Cape Canaveral, United States (USA) Departure (UTC) Jun 12, 20:49 — ET: Jun 12, 04:49 PM EDT | Local: Jun 12, 04:49 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -228,6 +239,17 @@
     "eventUtc": "2026-06-12T20:49:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Treasure Arrived at Gorda Cay, Bahamas at Jun 12, 07:59 AM EDT. The local time to the port is Jun 12, 07:59 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Jun 12, 11:59 — ET: Jun 12, 07:59 AM EDT | Local: Jun 12, 07:59 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "7d3dd6ef3fe50c193e60cc79b8370db819412482",
+    "pubDate": "Sat, 13 Jun 2026 06:12:30 GMT",
+    "eventUtc": "2026-06-12T11:59:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
     "source": "vf_ship"
   },
   {
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-04-19T13:29:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Arrived at Avalon Anch., United States (USA) at Apr 19, 09:29 AM EDT. The local time to the port is Apr 19, 09:29 AM EDT",
-    "description": "Avalon Anch., United States (USA) Arrival (UTC) Apr 19, 13:29 — ET: Apr 19, 09:29 AM EDT | Local: Apr 19, 09:29 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/USAOU001",
-    "guid": "d9d7cf46d128bbfaa2288ddaacdf8e00d515a038",
-    "pubDate": "Mon, 20 Apr 2026 16:00:58 GMT",
-    "eventUtc": "2026-04-19T13:29:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Arrived at Gorda Cay, Bahamas at Apr 19, 07:23 AM EDT. The local time to the port is Apr 19, 07:23 AM EDT",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) Apr 19, 11:23 — ET: Apr 19, 07:23 AM EDT | Local: Apr 19, 07:23 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "bd2c1195c97397df2b03bdba621b3be0c5ca2174",
-    "pubDate": "Sun, 19 Apr 2026 12:01:48 GMT",
-    "eventUtc": "2026-04-19T11:23:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
     "source": "vf_ship"
   }
 ]
