@@ -44,6 +44,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Departed from Cape Canaveral, United States (USA) at Jun 13, 05:02 PM EDT. The local time to the port is Jun 13, 05:02 PM EDT",
+    "description": "Cape Canaveral, United States (USA) Departure (UTC) Jun 13, 21:02 — ET: Jun 13, 05:02 PM EDT | Local: Jun 13, 05:02 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "66a11069b7d4ec39a83af3d160c5da0886df5239",
+    "pubDate": "Sat, 13 Jun 2026 22:09:42 GMT",
+    "eventUtc": "2026-06-13T21:02:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Arrived at Cape Canaveral, United States (USA) at Jun 13, 05:51 AM EDT. The local time to the port is Jun 13, 05:51 AM EDT",
     "description": "Cape Canaveral, United States (USA) Arrival (UTC) Jun 13, 09:51 — ET: Jun 13, 05:51 AM EDT | Local: Jun 13, 05:51 AM EDT",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -2734,17 +2745,6 @@
     "guid": "51b7ca47cfa8201cafa340f6723e5d34545eb4a0",
     "pubDate": "Sat, 29 Nov 2025 07:31:17 GMT",
     "eventUtc": "2025-11-28T15:05:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Road Town, Tortola, British Virgin Islands at Nov 26, 02:14 PM EST. The local time to the port is Nov 26, 03:14 PM AST",
-    "description": "Road Town, Tortola, British Virgin Islands Departure (UTC) Nov 26, 19:14 — ET: Nov 26, 02:14 PM EST | Local: Nov 26, 03:14 PM AST",
-    "link": "https://www.vesselfinder.com/ports/VGRAD001",
-    "guid": "c9fc0ffde9cbfea517f2ba0d3299f20fa870ce0d",
-    "pubDate": "Wed, 26 Nov 2025 19:21:21 GMT",
-    "eventUtc": "2025-11-26T19:14:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
     "source": "vf_ship"
