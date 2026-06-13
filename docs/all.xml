@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Sat, 13 Jun 2026 22:14:03 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 13 Jun 2026 23:25:52 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -141,6 +141,20 @@
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
   </item>
   <item>
+    <title>Disney Wish Departed from Nassau, Bahamas at Jun 13, 06:14 PM EDT. The local time to the port is Jun 13, 06:14 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/BSNAS001</link>
+    <guid isPermaLink="false">84f0ed0fd8fd9d7adee62cdaf383e7033b2fdfa8</guid>
+    <pubDate>Sat, 13 Jun 2026 23:21:05 GMT</pubDate>
+    <description><![CDATA[Nassau, Bahamas Departure (UTC) Jun 13, 22:14 — ET: Jun 13, 06:14 PM EDT | Local: Jun 13, 06:14 PM EDT]]></description>
+  </item>
+  <item>
+    <title>Disney Destiny Departed from Gorda Cay, Bahamas at Jun 13, 05:05 PM EDT. The local time to the port is Jun 13, 05:05 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
+    <guid isPermaLink="false">b4bef5ac40d8929f59c3177df7dd2cc72c39442f</guid>
+    <pubDate>Sat, 13 Jun 2026 23:25:50 GMT</pubDate>
+    <description><![CDATA[Gorda Cay, Bahamas Departure (UTC) Jun 13, 21:05 — ET: Jun 13, 05:05 PM EDT | Local: Jun 13, 05:05 PM EDT]]></description>
+  </item>
+  <item>
     <title>Disney Treasure Departed from Cape Canaveral, United States (USA) at Jun 13, 05:02 PM EDT. The local time to the port is Jun 13, 05:02 PM EDT</title>
     <link>https://www.vesselfinder.com/ports/USPCV001</link>
     <guid isPermaLink="false">66a11069b7d4ec39a83af3d160c5da0886df5239</guid>
@@ -160,6 +174,13 @@
     <guid isPermaLink="false">86d6a12f16bd111ff15404580fad6b6d8948883f</guid>
     <pubDate>Sat, 13 Jun 2026 15:09:39 GMT</pubDate>
     <description><![CDATA[Nassau, Bahamas Arrival (UTC) Jun 13, 13:06 — ET: Jun 13, 09:06 AM EDT | Local: Jun 13, 09:06 AM EDT]]></description>
+  </item>
+  <item>
+    <title>Disney Destiny Arrived at Gorda Cay, Bahamas at Jun 13, 07:56 AM EDT. The local time to the port is Jun 13, 07:56 AM EDT</title>
+    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
+    <guid isPermaLink="false">f4883fad854d9eaaa07f3a3fc761652cf2093e90</guid>
+    <pubDate>Sat, 13 Jun 2026 23:25:49 GMT</pubDate>
+    <description><![CDATA[Gorda Cay, Bahamas Arrival (UTC) Jun 13, 11:56 — ET: Jun 13, 07:56 AM EDT | Local: Jun 13, 07:56 AM EDT]]></description>
   </item>
   <item>
     <title>Disney Treasure Arrived at Cape Canaveral, United States (USA) at Jun 13, 05:51 AM EDT. The local time to the port is Jun 13, 05:51 AM EDT</title>
@@ -3485,27 +3506,6 @@
     <guid isPermaLink="false">7956e1920c84576ca4b8edda6d66c68f1d8ebe38</guid>
     <pubDate>Mon, 20 Apr 2026 16:01:00 GMT</pubDate>
     <description><![CDATA[Avalon Anch., United States (USA) Departure (UTC) Apr 20, 00:40 — ET: Apr 19, 08:40 PM EDT | Local: Apr 19, 08:40 PM EDT]]></description>
-  </item>
-  <item>
-    <title>Disney Adventure Departed from Singapore, Singapore at Apr 19, 08:30 PM EDT. The local time to the port is Apr 19, 08:30 PM EDT</title>
-    <link>https://www.vesselfinder.com/ports/SGSIN001</link>
-    <guid isPermaLink="false">2fad57f363a02ebc2fa44d49d2125b84f96db87a</guid>
-    <pubDate>Sun, 19 Apr 2026 19:30:28 GMT</pubDate>
-    <description><![CDATA[Singapore, Singapore Departure (UTC) Apr 20, 00:30 — ET: Apr 19, 08:30 PM EDT | Local: Apr 19, 08:30 PM EDT]]></description>
-  </item>
-  <item>
-    <title>Disney Adventure Arrived at Singapore, Singapore at Apr 19, 08:30 PM EDT. The local time to the port is Apr 19, 08:30 PM EDT</title>
-    <link>https://www.vesselfinder.com/ports/SGSIN001</link>
-    <guid isPermaLink="false">f4c811e674120ddbb19f28600cfbce94fe6a2404</guid>
-    <pubDate>Sun, 19 Apr 2026 19:30:29 GMT</pubDate>
-    <description><![CDATA[Singapore, Singapore Arrival (UTC) Apr 20, 00:30 — ET: Apr 19, 08:30 PM EDT | Local: Apr 19, 08:30 PM EDT]]></description>
-  </item>
-  <item>
-    <title>Disney Wonder Departed from Ensenada, Mexico at Apr 19, 08:07 PM EDT. The local time to the port is Apr 19, 07:07 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/MXESE001</link>
-    <guid isPermaLink="false">edad87717bafc795bd13d6f623b23910e01310af</guid>
-    <pubDate>Mon, 20 Apr 2026 03:48:25 GMT</pubDate>
-    <description><![CDATA[Ensenada, Mexico Departure (UTC) Apr 20, 00:07 — ET: Apr 19, 08:07 PM EDT | Local: Apr 19, 07:07 PM EST]]></description>
   </item>
 </channel>
 </rss>

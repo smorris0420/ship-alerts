@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Departed from Nassau, Bahamas at Jun 13, 06:14 PM EDT. The local time to the port is Jun 13, 06:14 PM EDT",
+    "description": "Nassau, Bahamas Departure (UTC) Jun 13, 22:14 — ET: Jun 13, 06:14 PM EDT | Local: Jun 13, 06:14 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "84f0ed0fd8fd9d7adee62cdaf383e7033b2fdfa8",
+    "pubDate": "Sat, 13 Jun 2026 23:21:05 GMT",
+    "eventUtc": "2026-06-13T22:14:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Destiny Departed from Gorda Cay, Bahamas at Jun 13, 05:05 PM EDT. The local time to the port is Jun 13, 05:05 PM EDT",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Jun 13, 21:05 — ET: Jun 13, 05:05 PM EDT | Local: Jun 13, 05:05 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "b4bef5ac40d8929f59c3177df7dd2cc72c39442f",
+    "pubDate": "Sat, 13 Jun 2026 23:25:50 GMT",
+    "eventUtc": "2026-06-13T21:05:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Departed from Cape Canaveral, United States (USA) at Jun 13, 05:02 PM EDT. The local time to the port is Jun 13, 05:02 PM EDT",
     "description": "Cape Canaveral, United States (USA) Departure (UTC) Jun 13, 21:02 — ET: Jun 13, 05:02 PM EDT | Local: Jun 13, 05:02 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -239,6 +261,17 @@
     "eventUtc": "2026-06-13T13:06:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Destiny Arrived at Gorda Cay, Bahamas at Jun 13, 07:56 AM EDT. The local time to the port is Jun 13, 07:56 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Jun 13, 11:56 — ET: Jun 13, 07:56 AM EDT | Local: Jun 13, 07:56 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "f4883fad854d9eaaa07f3a3fc761652cf2093e90",
+    "pubDate": "Sat, 13 Jun 2026 23:25:49 GMT",
+    "eventUtc": "2026-06-13T11:56:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
     "source": "vf_ship"
   },
   {
@@ -5464,39 +5497,6 @@
     "eventUtc": "2026-04-20T00:40:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Adventure Departed from Singapore, Singapore at Apr 19, 08:30 PM EDT. The local time to the port is Apr 19, 08:30 PM EDT",
-    "description": "Singapore, Singapore Departure (UTC) Apr 20, 00:30 — ET: Apr 19, 08:30 PM EDT | Local: Apr 19, 08:30 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/SGSIN001",
-    "guid": "2fad57f363a02ebc2fa44d49d2125b84f96db87a",
-    "pubDate": "Sun, 19 Apr 2026 19:30:28 GMT",
-    "eventUtc": "2026-04-20T00:30:00+00:00",
-    "shipSlug": "disney-adventure",
-    "shipName": "Disney Adventure",
-    "source": "vf_port"
-  },
-  {
-    "title": "Disney Adventure Arrived at Singapore, Singapore at Apr 19, 08:30 PM EDT. The local time to the port is Apr 19, 08:30 PM EDT",
-    "description": "Singapore, Singapore Arrival (UTC) Apr 20, 00:30 — ET: Apr 19, 08:30 PM EDT | Local: Apr 19, 08:30 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/SGSIN001",
-    "guid": "f4c811e674120ddbb19f28600cfbce94fe6a2404",
-    "pubDate": "Sun, 19 Apr 2026 19:30:29 GMT",
-    "eventUtc": "2026-04-20T00:30:00+00:00",
-    "shipSlug": "disney-adventure",
-    "shipName": "Disney Adventure",
-    "source": "vf_port"
-  },
-  {
-    "title": "Disney Wonder Departed from Ensenada, Mexico at Apr 19, 08:07 PM EDT. The local time to the port is Apr 19, 07:07 PM EST",
-    "description": "Ensenada, Mexico Departure (UTC) Apr 20, 00:07 — ET: Apr 19, 08:07 PM EDT | Local: Apr 19, 07:07 PM EST",
-    "link": "https://www.vesselfinder.com/ports/MXESE001",
-    "guid": "edad87717bafc795bd13d6f623b23910e01310af",
-    "pubDate": "Mon, 20 Apr 2026 03:48:25 GMT",
-    "eventUtc": "2026-04-20T00:07:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
     "source": "vf_ship"
   }
 ]
