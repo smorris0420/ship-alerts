@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Arrived at Nassau, Bahamas at Jun 13, 09:06 AM EDT. The local time to the port is Jun 13, 09:06 AM EDT",
+    "description": "Nassau, Bahamas Arrival (UTC) Jun 13, 13:06 — ET: Jun 13, 09:06 AM EDT | Local: Jun 13, 09:06 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "86d6a12f16bd111ff15404580fad6b6d8948883f",
+    "pubDate": "Sat, 13 Jun 2026 15:09:39 GMT",
+    "eventUtc": "2026-06-13T13:06:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Arrived at Cape Canaveral, United States (USA) at Jun 13, 05:51 AM EDT. The local time to the port is Jun 13, 05:51 AM EDT",
     "description": "Cape Canaveral, United States (USA) Arrival (UTC) Jun 13, 09:51 — ET: Jun 13, 05:51 AM EDT | Local: Jun 13, 05:51 AM EDT",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-04-19T22:00:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Adventure Arrived at Singapore, Singapore at Apr 19, 05:23 PM EDT. The local time to the port is Apr 19, 05:23 PM EDT",
-    "description": "Singapore, Singapore Arrival (UTC) Apr 19, 21:23 — ET: Apr 19, 05:23 PM EDT | Local: Apr 19, 05:23 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/SGSIN001",
-    "guid": "d037f9513314bf9b1c3b431339809db0f28d10ef",
-    "pubDate": "Sun, 19 Apr 2026 22:43:49 GMT",
-    "eventUtc": "2026-04-19T21:23:00+00:00",
-    "shipSlug": "disney-adventure",
-    "shipName": "Disney Adventure",
     "source": "vf_ship"
   }
 ]
