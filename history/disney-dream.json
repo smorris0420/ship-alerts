@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Dubrovnik, Croatia at Jun 13, 12:31 AM EDT. The local time to the port is Jun 13, 06:31 AM CEST",
+    "description": "Dubrovnik, Croatia Arrival (UTC) Jun 13, 04:31 — ET: Jun 13, 12:31 AM EDT | Local: Jun 13, 06:31 AM CEST",
+    "link": "https://www.vesselfinder.com/ports/HRDBV001",
+    "guid": "e61617e07ce822878e82dcc47a6ab459ae20597c",
+    "pubDate": "Sat, 13 Jun 2026 09:37:53 GMT",
+    "eventUtc": "2026-06-13T04:31:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Souda, Greece at Jun 10, 01:14 PM EDT. The local time to the port is Jun 10, 08:14 PM EEST",
     "description": "Souda, Greece Departure (UTC) Jun 10, 17:14 — ET: Jun 10, 01:14 PM EDT | Local: Jun 10, 08:14 PM EEST",
     "link": "https://www.vesselfinder.com/ports/GRSDH001",
@@ -2737,16 +2748,5 @@
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
     "source": "vf_port"
-  },
-  {
-    "title": "Disney Dream Arrived at Port Everglades, United States (USA) at Dec 08, 05:48 AM EST. The local time to the port is Dec 08, 05:48 AM EST",
-    "description": "Port Everglades, United States (USA) Arrival (UTC) Dec 8, 10:48 — ET: Dec 08, 05:48 AM EST | Local: Dec 08, 05:48 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "b873da887e7b763bbe322a55ccc13d51dbca6cc9",
-    "pubDate": "Mon, 08 Dec 2025 11:34:48 GMT",
-    "eventUtc": "2025-12-08T10:48:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
   }
 ]

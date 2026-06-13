@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Dubrovnik, Croatia at Jun 13, 12:31 AM EDT. The local time to the port is Jun 13, 06:31 AM CEST",
+    "description": "Dubrovnik, Croatia Arrival (UTC) Jun 13, 04:31 — ET: Jun 13, 12:31 AM EDT | Local: Jun 13, 06:31 AM CEST",
+    "link": "https://www.vesselfinder.com/ports/HRDBV001",
+    "guid": "e61617e07ce822878e82dcc47a6ab459ae20597c",
+    "pubDate": "Sat, 13 Jun 2026 09:37:53 GMT",
+    "eventUtc": "2026-06-13T04:31:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Departed from Nassau, Bahamas at Jun 12, 05:48 PM EDT. The local time to the port is Jun 12, 05:48 PM EDT",
     "description": "Nassau, Bahamas Departure (UTC) Jun 12, 21:48 — ET: Jun 12, 05:48 PM EDT | Local: Jun 12, 05:48 PM EDT",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-04-19T20:45:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Arrived at San Diego, United States (USA) at Apr 19, 09:29 AM EDT. The local time to the port is Apr 19, 09:29 AM EDT",
-    "description": "San Diego, United States (USA) Arrival (UTC) Apr 19, 13:29 — ET: Apr 19, 09:29 AM EDT | Local: Apr 19, 09:29 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/USSAN001",
-    "guid": "d5c35c3d619db259d527a0ffb4fae89b93c4ce5a",
-    "pubDate": "Sun, 19 Apr 2026 14:59:09 GMT",
-    "eventUtc": "2026-04-19T13:29:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
