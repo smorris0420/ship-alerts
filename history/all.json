@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Arrived at Cape Canaveral, United States (USA) at Jun 13, 05:51 AM EDT. The local time to the port is Jun 13, 05:51 AM EDT",
+    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Jun 13, 09:51 — ET: Jun 13, 05:51 AM EDT | Local: Jun 13, 05:51 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "70f865556416f795a0c8889f9f8548046723badd",
+    "pubDate": "Sat, 13 Jun 2026 11:31:26 GMT",
+    "eventUtc": "2026-06-13T09:51:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Arrived at Dubrovnik, Croatia at Jun 13, 12:31 AM EDT. The local time to the port is Jun 13, 06:31 AM CEST",
     "description": "Dubrovnik, Croatia Arrival (UTC) Jun 13, 04:31 — ET: Jun 13, 12:31 AM EDT | Local: Jun 13, 06:31 AM CEST",
     "link": "https://www.vesselfinder.com/ports/HRDBV001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-04-19T21:23:00+00:00",
     "shipSlug": "disney-adventure",
     "shipName": "Disney Adventure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Departed from Gorda Cay, Bahamas at Apr 19, 04:45 PM EDT. The local time to the port is Apr 19, 04:45 PM EDT",
-    "description": "Gorda Cay, Bahamas Departure (UTC) Apr 19, 20:45 — ET: Apr 19, 04:45 PM EDT | Local: Apr 19, 04:45 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "55cb4adb53a526a9f915815314ecfe12d35e4434",
-    "pubDate": "Sun, 19 Apr 2026 22:41:24 GMT",
-    "eventUtc": "2026-04-19T20:45:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
     "source": "vf_ship"
   }
 ]
