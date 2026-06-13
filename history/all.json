@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Dubrovnik, Croatia at Jun 13, 12:08 PM EDT. The local time to the port is Jun 13, 06:08 PM CEST",
+    "description": "Dubrovnik, Croatia Departure (UTC) Jun 13, 16:08 — ET: Jun 13, 12:08 PM EDT | Local: Jun 13, 06:08 PM CEST",
+    "link": "https://www.vesselfinder.com/ports/HRDBV001",
+    "guid": "818a69698e76c2fde7c54287b334fcd3c886ae2e",
+    "pubDate": "Sat, 13 Jun 2026 16:48:01 GMT",
+    "eventUtc": "2026-06-13T16:08:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Arrived at Nassau, Bahamas at Jun 13, 09:06 AM EDT. The local time to the port is Jun 13, 09:06 AM EDT",
     "description": "Nassau, Bahamas Arrival (UTC) Jun 13, 13:06 — ET: Jun 13, 09:06 AM EDT | Local: Jun 13, 09:06 AM EDT",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-04-19T23:18:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Nassau, Bahamas at Apr 19, 06:00 PM EDT. The local time to the port is Apr 19, 06:00 PM EDT",
-    "description": "Nassau, Bahamas Departure (UTC) Apr 19, 22:00 — ET: Apr 19, 06:00 PM EDT | Local: Apr 19, 06:00 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "decf9c19848bc02461175183e1b3defa556b86c3",
-    "pubDate": "Sun, 19 Apr 2026 22:43:11 GMT",
-    "eventUtc": "2026-04-19T22:00:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
     "source": "vf_ship"
   }
 ]
