@@ -5,7 +5,7 @@
   <title>Disney Dream - Arrivals &amp; Departures</title>
   <link>https://www.vesselfinder.com/vessels/details/9434254</link>
   <description>Disney Dream - Arrivals &amp; Departures - Auto-generated</description>
-  <lastBuildDate>Sun, 14 Jun 2026 01:43:11 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 14 Jun 2026 06:24:15 GMT</lastBuildDate>
   
   <item>
     <title>Disney Dream Departed from Port Everglades, United States (USA) at Dec 29, 04:49 PM EST. The local time to the port is Dec 29, 04:49 PM EST</title>
@@ -20,6 +20,13 @@
     <guid isPermaLink="false">5f7fbac63c07edf9fb1d4a3dd01fd68927534e3b</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:30 GMT</pubDate>
     <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) Dec 29, 10:48 — ET: Dec 29, 05:48 AM EST | Local: Dec 29, 05:48 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Dream Arrived at Kerkira (Corfu), Greece at Jun 14, 12:03 AM EDT. The local time to the port is Jun 14, 07:03 AM EEST</title>
+    <link>https://www.vesselfinder.com/ports/GRCFU001</link>
+    <guid isPermaLink="false">96491230689c8da78baae1616c5183d2a043bf86</guid>
+    <pubDate>Sun, 14 Jun 2026 06:24:13 GMT</pubDate>
+    <description><![CDATA[Kerkira (Corfu), Greece Arrival (UTC) Jun 14, 04:03 — ET: Jun 14, 12:03 AM EDT | Local: Jun 14, 07:03 AM EEST]]></description>
   </item>
   <item>
     <title>Disney Dream Departed from Dubrovnik, Croatia at Jun 13, 12:08 PM EDT. The local time to the port is Jun 13, 06:08 PM CEST</title>
@@ -1749,13 +1756,6 @@
     <guid isPermaLink="false">c3a6e28a8ac2bc0f794ec285a6dfcfd391b7745f</guid>
     <pubDate>Mon, 08 Dec 2025 21:52:46 GMT</pubDate>
     <description><![CDATA[Port Everglades, United States (USA) Departure (UTC) Dec 8, 21:40 — ET: Dec 08, 04:40 PM EST | Local: Dec 08, 04:40 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Dream Departed from Port Everglades, United States (USA) at Dec 08, 10:00 AM EST. The local time to the port is Dec 08, 10:00 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/USPEF001</link>
-    <guid isPermaLink="false">bc32ee6660a94391b92bfc9065764260bd3fdfd8</guid>
-    <pubDate>Sun, 07 Dec 2025 13:36:10 GMT</pubDate>
-    <description><![CDATA[Port Everglades, United States (USA) Departure (UTC) Dec 08, 15:00 — ET: Dec 08, 10:00 AM EST | Local: Dec 08, 10:00 AM EST]]></description>
   </item>
 </channel>
 </rss>

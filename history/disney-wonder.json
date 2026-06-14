@@ -22,6 +22,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Departed from Ketchikan, United States (USA) at Jun 13, 11:12 PM EDT. The local time to the port is Jun 13, 11:12 PM EDT",
+    "description": "Ketchikan, United States (USA) Departure (UTC) Jun 14, 03:12 — ET: Jun 13, 11:12 PM EDT | Local: Jun 13, 11:12 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USKTN001",
+    "guid": "898d392a26b35d7ebd44955801436363f403a296",
+    "pubDate": "Sun, 14 Jun 2026 06:24:28 GMT",
+    "eventUtc": "2026-06-14T03:12:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Wonder Arrived at Ketchikan, United States (USA) at Jun 13, 02:06 PM EDT. The local time to the port is Jun 13, 02:06 PM EDT",
+    "description": "Ketchikan, United States (USA) Arrival (UTC) Jun 13, 18:06 — ET: Jun 13, 02:06 PM EDT | Local: Jun 13, 02:06 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USKTN001",
+    "guid": "c853d284104652cd198a02593f195b2ef067715f",
+    "pubDate": "Sun, 14 Jun 2026 06:24:27 GMT",
+    "eventUtc": "2026-06-13T18:06:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Departed from Vancouver, Canada at Jun 08, 07:09 PM EDT. The local time to the port is Jun 08, 04:09 PM PDT",
     "description": "Vancouver, Canada Departure (UTC) Jun 8, 23:09 — ET: Jun 08, 07:09 PM EDT | Local: Jun 08, 04:09 PM PDT",
     "link": "https://www.vesselfinder.com/ports/CAVAN001",
