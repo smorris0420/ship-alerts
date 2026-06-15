@@ -44,6 +44,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Departed from Cozumel, Mexico at Jun 15, 06:01 PM EDT. The local time to the port is Jun 15, 05:01 PM EST",
+    "description": "Cozumel, Mexico Departure (UTC) Jun 15, 22:01 — ET: Jun 15, 06:01 PM EDT | Local: Jun 15, 05:01 PM EST",
+    "link": "https://www.vesselfinder.com/ports/MXCZM001",
+    "guid": "885b4b3ebf72ea328d524b72b89d42f0d7f22a0c",
+    "pubDate": "Mon, 15 Jun 2026 22:26:57 GMT",
+    "eventUtc": "2026-06-15T22:01:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Arrived at Cozumel, Mexico at Jun 15, 08:59 AM EDT. The local time to the port is Jun 15, 07:59 AM EST",
     "description": "Cozumel, Mexico Arrival (UTC) Jun 15, 12:59 — ET: Jun 15, 08:59 AM EDT | Local: Jun 15, 07:59 AM EST",
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
@@ -2734,17 +2745,6 @@
     "guid": "993a839915462ccca602213165b7f5215e9269fd",
     "pubDate": "Sat, 29 Nov 2025 11:42:30 GMT",
     "eventUtc": "2025-11-29T11:00:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Gorda Cay, Bahamas at Nov 28, 04:51 PM EST. The local time to the port is Nov 28, 04:51 PM EST",
-    "description": "Gorda Cay, Bahamas Departure (UTC) Nov 28, 21:51 — ET: Nov 28, 04:51 PM EST | Local: Nov 28, 04:51 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "9528307fdefcc352a162c3d4dba0be4529fa69a0",
-    "pubDate": "Sat, 29 Nov 2025 07:31:18 GMT",
-    "eventUtc": "2025-11-28T21:51:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
     "source": "vf_ship"

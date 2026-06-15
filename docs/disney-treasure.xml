@@ -5,7 +5,7 @@
   <title>Disney Treasure - Arrivals &amp; Departures</title>
   <link>https://www.vesselfinder.com/vessels/details/9834753</link>
   <description>Disney Treasure - Arrivals &amp; Departures - Auto-generated</description>
-  <lastBuildDate>Mon, 15 Jun 2026 20:06:02 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 15 Jun 2026 22:26:59 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -34,6 +34,13 @@
     <guid isPermaLink="false">82d28296f402cfdf1461b4ee7ddf9e1831c89886</guid>
     <pubDate>Thu, 01 Jan 2026 00:00:51 GMT</pubDate>
     <description><![CDATA[Georgetown, Grand Cayman Anch., Cayman Islands Arrival (UTC) Dec 29, 12:44 — ET: Dec 29, 07:44 AM EST | Local: Dec 29, 07:44 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Treasure Departed from Cozumel, Mexico at Jun 15, 06:01 PM EDT. The local time to the port is Jun 15, 05:01 PM EST</title>
+    <link>https://www.vesselfinder.com/ports/MXCZM001</link>
+    <guid isPermaLink="false">885b4b3ebf72ea328d524b72b89d42f0d7f22a0c</guid>
+    <pubDate>Mon, 15 Jun 2026 22:26:57 GMT</pubDate>
+    <description><![CDATA[Cozumel, Mexico Departure (UTC) Jun 15, 22:01 — ET: Jun 15, 06:01 PM EDT | Local: Jun 15, 05:01 PM EST]]></description>
   </item>
   <item>
     <title>Disney Treasure Arrived at Cozumel, Mexico at Jun 15, 08:59 AM EDT. The local time to the port is Jun 15, 07:59 AM EST</title>
@@ -1749,13 +1756,6 @@
     <guid isPermaLink="false">993a839915462ccca602213165b7f5215e9269fd</guid>
     <pubDate>Sat, 29 Nov 2025 11:42:30 GMT</pubDate>
     <description><![CDATA[Cape Canaveral, United States (USA) Arrival (UTC) Nov 29, 11:00 — ET: Nov 29, 06:00 AM EST | Local: Nov 29, 06:00 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Treasure Departed from Gorda Cay, Bahamas at Nov 28, 04:51 PM EST. The local time to the port is Nov 28, 04:51 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
-    <guid isPermaLink="false">9528307fdefcc352a162c3d4dba0be4529fa69a0</guid>
-    <pubDate>Sat, 29 Nov 2025 07:31:18 GMT</pubDate>
-    <description><![CDATA[Gorda Cay, Bahamas Departure (UTC) Nov 28, 21:51 — ET: Nov 28, 04:51 PM EST | Local: Nov 28, 04:51 PM EST]]></description>
   </item>
 </channel>
 </rss>
