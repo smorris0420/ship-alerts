@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Mon, 15 Jun 2026 11:36:20 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 15 Jun 2026 16:34:43 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,27 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Wonder Arrived at Vancouver, Canada at Jun 15, 10:00 AM EDT. The local time to the port is Jun 15, 07:00 AM PDT</title>
+    <link>https://www.vesselfinder.com/ports/CAVAN001</link>
+    <guid isPermaLink="false">a118a8cfae356102682969f6064cce9ac0f5bd4f</guid>
+    <pubDate>Mon, 15 Jun 2026 16:33:09 GMT</pubDate>
+    <description><![CDATA[Vancouver, Canada Arrival (UTC) Jun 15, 14:00 — ET: Jun 15, 10:00 AM EDT | Local: Jun 15, 07:00 AM PDT]]></description>
+  </item>
+  <item>
+    <title>Disney Treasure Arrived at Cozumel, Mexico at Jun 15, 08:59 AM EDT. The local time to the port is Jun 15, 07:59 AM EST</title>
+    <link>https://www.vesselfinder.com/ports/MXCZM001</link>
+    <guid isPermaLink="false">7c1fefff211832effef9e8d4807af865604a6a70</guid>
+    <pubDate>Mon, 15 Jun 2026 16:31:17 GMT</pubDate>
+    <description><![CDATA[Cozumel, Mexico Arrival (UTC) Jun 15, 12:59 — ET: Jun 15, 08:59 AM EDT | Local: Jun 15, 07:59 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Fantasy Arrived at Nassau, Bahamas at Jun 15, 08:48 AM EDT. The local time to the port is Jun 15, 08:48 AM EDT</title>
+    <link>https://www.vesselfinder.com/ports/BSNAS001</link>
+    <guid isPermaLink="false">e4d8479b6c418b7ba924ee5a4b1f0d60c3ca3e3d</guid>
+    <pubDate>Mon, 15 Jun 2026 16:31:32 GMT</pubDate>
+    <description><![CDATA[Nassau, Bahamas Arrival (UTC) Jun 15, 12:48 — ET: Jun 15, 08:48 AM EDT | Local: Jun 15, 08:48 AM EDT]]></description>
   </item>
   <item>
     <title>Disney Dream Arrived at Valletta, Malta at Jun 15, 06:28 AM EDT. The local time to the port is Jun 15, 12:28 PM CEST</title>
@@ -3485,27 +3506,6 @@
     <guid isPermaLink="false">2e3acfa67af5067399bd286e8e7a196b7274d6e7</guid>
     <pubDate>Mon, 20 Apr 2026 22:03:39 GMT</pubDate>
     <description><![CDATA[Cozumel, Mexico Departure (UTC) Apr 20, 21:58 — ET: Apr 20, 05:58 PM EDT | Local: Apr 20, 04:58 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Treasure Departed from Georgetown, Grand Cayman Anch., Cayman Islands at Apr 20, 05:58 PM EDT. The local time to the port is Apr 20, 04:58 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/KYGEC001</link>
-    <guid isPermaLink="false">723e197aa672725f83fd1106c8e940a752cc30a1</guid>
-    <pubDate>Tue, 21 Apr 2026 15:51:41 GMT</pubDate>
-    <description><![CDATA[Georgetown, Grand Cayman Anch., Cayman Islands Departure (UTC) Apr 20, 21:58 — ET: Apr 20, 05:58 PM EDT | Local: Apr 20, 04:58 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Fantasy Departed from Gorda Cay, Bahamas at Apr 20, 05:05 PM EDT. The local time to the port is Apr 20, 05:05 PM EDT</title>
-    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
-    <guid isPermaLink="false">f177bf7294a466e868a68b802e455c8c4302f107</guid>
-    <pubDate>Mon, 20 Apr 2026 22:03:47 GMT</pubDate>
-    <description><![CDATA[Gorda Cay, Bahamas Departure (UTC) Apr 20, 21:05 — ET: Apr 20, 05:05 PM EDT | Local: Apr 20, 05:05 PM EDT]]></description>
-  </item>
-  <item>
-    <title>Disney Dream Departed from Port Everglades, United States (USA) at Apr 20, 04:56 PM EDT. The local time to the port is Apr 20, 04:56 PM EDT</title>
-    <link>https://www.vesselfinder.com/ports/USPEF001</link>
-    <guid isPermaLink="false">91fe89c8095b4cab9655f9db30e8eddb621d93dc</guid>
-    <pubDate>Mon, 20 Apr 2026 21:11:22 GMT</pubDate>
-    <description><![CDATA[Port Everglades, United States (USA) Departure (UTC) Apr 20, 20:56 — ET: Apr 20, 04:56 PM EDT | Local: Apr 20, 04:56 PM EDT]]></description>
   </item>
 </channel>
 </rss>
