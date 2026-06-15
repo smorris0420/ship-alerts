@@ -220,6 +220,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Departed from Gorda Cay, Bahamas at Jun 14, 04:54 PM EDT. The local time to the port is Jun 14, 04:54 PM EDT",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Jun 14, 20:54 — ET: Jun 14, 04:54 PM EDT | Local: Jun 14, 04:54 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "29c1fb00493e441849283966322cfb4ab612717f",
+    "pubDate": "Mon, 15 Jun 2026 05:30:09 GMT",
+    "eventUtc": "2026-06-14T20:54:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Departed from Cape Canaveral, United States (USA) at Jun 14, 04:46 PM EDT. The local time to the port is Jun 14, 04:46 PM EDT",
     "description": "Cape Canaveral, United States (USA) Departure (UTC) Jun 14, 20:46 — ET: Jun 14, 04:46 PM EDT | Local: Jun 14, 04:46 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -239,6 +250,17 @@
     "eventUtc": "2026-06-14T13:30:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Wish Arrived at Gorda Cay, Bahamas at Jun 14, 07:42 AM EDT. The local time to the port is Jun 14, 07:42 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Jun 14, 11:42 — ET: Jun 14, 07:42 AM EDT | Local: Jun 14, 07:42 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "297e69c06c7bcc8bffc1f305289110150e02c90d",
+    "pubDate": "Mon, 15 Jun 2026 05:30:07 GMT",
+    "eventUtc": "2026-06-14T11:42:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
     "source": "vf_ship"
   },
   {
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-04-20T13:39:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Cozumel, Mexico at Apr 20, 08:48 AM EDT. The local time to the port is Apr 20, 07:48 AM EST",
-    "description": "Cozumel, Mexico Arrival (UTC) Apr 20, 12:48 — ET: Apr 20, 08:48 AM EDT | Local: Apr 20, 07:48 AM EST",
-    "link": "https://www.vesselfinder.com/ports/MXCZM001",
-    "guid": "c8d9255f7768715b53a9ff7e8717ce3a25ebc028",
-    "pubDate": "Mon, 20 Apr 2026 14:50:24 GMT",
-    "eventUtc": "2026-04-20T12:48:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Georgetown, Grand Cayman Anch., Cayman Islands at Apr 20, 08:48 AM EDT. The local time to the port is Apr 20, 07:48 AM EST",
-    "description": "Georgetown, Grand Cayman Anch., Cayman Islands Arrival (UTC) Apr 20, 12:48 — ET: Apr 20, 08:48 AM EDT | Local: Apr 20, 07:48 AM EST",
-    "link": "https://www.vesselfinder.com/ports/KYGEC001",
-    "guid": "7dd017e7253fcfc5efdd77d9e0128418c07275b5",
-    "pubDate": "Tue, 21 Apr 2026 15:51:40 GMT",
-    "eventUtc": "2026-04-20T12:48:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
