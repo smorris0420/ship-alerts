@@ -209,6 +209,39 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Arrived at Nassau, Bahamas at Jun 16, 09:02 AM EDT. The local time to the port is Jun 16, 09:02 AM EDT",
+    "description": "Nassau, Bahamas Arrival (UTC) Jun 16, 13:02 — ET: Jun 16, 09:02 AM EDT | Local: Jun 16, 09:02 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "22bbe41d202b6c7bd2d28df5750bf0f12338fc71",
+    "pubDate": "Tue, 16 Jun 2026 15:30:16 GMT",
+    "eventUtc": "2026-06-16T13:02:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Destiny Arrived at Gorda Cay, Bahamas at Jun 16, 07:31 AM EDT. The local time to the port is Jun 16, 07:31 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Jun 16, 11:31 — ET: Jun 16, 07:31 AM EDT | Local: Jun 16, 07:31 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "aceecf5c33b3e4a64f48be2bf85190a07f995043",
+    "pubDate": "Tue, 16 Jun 2026 15:34:03 GMT",
+    "eventUtc": "2026-06-16T11:31:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Magic Departed from Hoonah, United States (USA) at Jun 15, 09:13 PM EDT. The local time to the port is Jun 15, 09:13 PM EDT",
+    "description": "Hoonah, United States (USA) Departure (UTC) Jun 16, 01:13 — ET: Jun 15, 09:13 PM EDT | Local: Jun 15, 09:13 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USHNH001",
+    "guid": "68f4018472865b0cf2425605442774a224f4f1ae",
+    "pubDate": "Tue, 16 Jun 2026 15:31:50 GMT",
+    "eventUtc": "2026-06-16T01:13:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Valletta, Malta at Jun 15, 09:05 PM EDT. The local time to the port is Jun 16, 03:05 AM CEST",
     "description": "Valletta, Malta Departure (UTC) Jun 16, 01:05 — ET: Jun 15, 09:05 PM EDT | Local: Jun 16, 03:05 AM CEST",
     "link": "https://www.vesselfinder.com/ports/MTMLA001",
@@ -272,6 +305,17 @@
     "eventUtc": "2026-06-15T20:29:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Magic Arrived at Hoonah, United States (USA) at Jun 15, 10:16 AM EDT. The local time to the port is Jun 15, 10:16 AM EDT",
+    "description": "Hoonah, United States (USA) Arrival (UTC) Jun 15, 14:16 — ET: Jun 15, 10:16 AM EDT | Local: Jun 15, 10:16 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USHNH001",
+    "guid": "31766fe3322922cd290df557f758b49725f9e376",
+    "pubDate": "Tue, 16 Jun 2026 15:31:49 GMT",
+    "eventUtc": "2026-06-15T14:16:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
     "source": "vf_ship"
   },
   {
@@ -5453,50 +5497,6 @@
     "eventUtc": "2026-04-22T13:11:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Falmouth, Jamaica at Apr 22, 07:57 AM EDT. The local time to the port is Apr 22, 06:57 AM EST",
-    "description": "Falmouth, Jamaica Arrival (UTC) Apr 22, 11:57 — ET: Apr 22, 07:57 AM EDT | Local: Apr 22, 06:57 AM EST",
-    "link": "https://www.vesselfinder.com/ports/JMFMH001",
-    "guid": "72aca2adf5d2a1c1117083f7425d951951f3b948",
-    "pubDate": "Thu, 23 Apr 2026 08:16:22 GMT",
-    "eventUtc": "2026-04-22T11:57:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Arrived at Nassau, Bahamas at Apr 22, 07:25 AM EDT. The local time to the port is Apr 22, 07:25 AM EDT",
-    "description": "Nassau, Bahamas Arrival (UTC) Apr 22, 11:25 — ET: Apr 22, 07:25 AM EDT | Local: Apr 22, 07:25 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "707e5b37d316754fe5e776ce1e3c8f33926e1882",
-    "pubDate": "Wed, 22 Apr 2026 12:09:13 GMT",
-    "eventUtc": "2026-04-22T11:25:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Arrived at Cape Canaveral, United States (USA) at Apr 22, 05:38 AM EDT. The local time to the port is Apr 22, 05:38 AM EDT",
-    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Apr 22, 09:38 — ET: Apr 22, 05:38 AM EDT | Local: Apr 22, 05:38 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "5f405270ef09b38547c96714937e18aaa17dd075",
-    "pubDate": "Wed, 22 Apr 2026 11:00:40 GMT",
-    "eventUtc": "2026-04-22T09:38:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Ensenada, Mexico at Apr 21, 09:21 PM EDT. The local time to the port is Apr 21, 08:21 PM EST",
-    "description": "Ensenada, Mexico Departure (UTC) Apr 22, 01:21 — ET: Apr 21, 09:21 PM EDT | Local: Apr 21, 08:21 PM EST",
-    "link": "https://www.vesselfinder.com/ports/MXESE001",
-    "guid": "545e7e42df77d95903ecd5b3652381a5eaac53d7",
-    "pubDate": "Wed, 22 Apr 2026 04:23:22 GMT",
-    "eventUtc": "2026-04-22T01:21:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
