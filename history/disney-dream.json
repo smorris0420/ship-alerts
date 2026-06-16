@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Valletta, Malta at Jun 15, 09:05 PM EDT. The local time to the port is Jun 16, 03:05 AM CEST",
+    "description": "Valletta, Malta Departure (UTC) Jun 16, 01:05 — ET: Jun 15, 09:05 PM EDT | Local: Jun 16, 03:05 AM CEST",
+    "link": "https://www.vesselfinder.com/ports/MTMLA001",
+    "guid": "cc47a1923a7548761640447310bfd2e107f76569",
+    "pubDate": "Tue, 16 Jun 2026 05:38:30 GMT",
+    "eventUtc": "2026-06-16T01:05:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Arrived at Valletta, Malta at Jun 15, 06:28 AM EDT. The local time to the port is Jun 15, 12:28 PM CEST",
     "description": "Valletta, Malta Arrival (UTC) Jun 15, 10:28 — ET: Jun 15, 06:28 AM EDT | Local: Jun 15, 12:28 PM CEST",
     "link": "https://www.vesselfinder.com/ports/MTMLA001",
@@ -2734,17 +2745,6 @@
     "guid": "e8d0fad4ab9bd8f682b795db820bd921c28908b3",
     "pubDate": "Thu, 11 Dec 2025 13:49:57 GMT",
     "eventUtc": "2025-12-11T12:32:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Nassau, Bahamas at Dec 10, 05:49 PM EST. The local time to the port is Dec 10, 05:49 PM EST",
-    "description": "Nassau, Bahamas Departure (UTC) Dec 10, 22:49 — ET: Dec 10, 05:49 PM EST | Local: Dec 10, 05:49 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "3b378e6954cb766ab7792fa95f6c7cf47e95007c",
-    "pubDate": "Wed, 10 Dec 2025 23:01:02 GMT",
-    "eventUtc": "2025-12-10T22:49:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
     "source": "vf_ship"

@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Valletta, Malta at Jun 15, 09:05 PM EDT. The local time to the port is Jun 16, 03:05 AM CEST",
+    "description": "Valletta, Malta Departure (UTC) Jun 16, 01:05 — ET: Jun 15, 09:05 PM EDT | Local: Jun 16, 03:05 AM CEST",
+    "link": "https://www.vesselfinder.com/ports/MTMLA001",
+    "guid": "cc47a1923a7548761640447310bfd2e107f76569",
+    "pubDate": "Tue, 16 Jun 2026 05:38:30 GMT",
+    "eventUtc": "2026-06-16T01:05:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Departed from Vancouver, Canada at Jun 15, 07:52 PM EDT. The local time to the port is Jun 15, 04:52 PM PDT",
     "description": "Vancouver, Canada Departure (UTC) Jun 15, 23:52 — ET: Jun 15, 07:52 PM EDT | Local: Jun 15, 04:52 PM PDT",
     "link": "https://www.vesselfinder.com/ports/CAVAN001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-04-22T01:21:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Departed from Nassau, Bahamas at Apr 21, 05:49 PM EDT. The local time to the port is Apr 21, 05:49 PM EDT",
-    "description": "Nassau, Bahamas Departure (UTC) Apr 21, 21:49 — ET: Apr 21, 05:49 PM EDT | Local: Apr 21, 05:49 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "4e692c8ae6e2370508874791db7de5a702eff8f6",
-    "pubDate": "Tue, 21 Apr 2026 22:25:42 GMT",
-    "eventUtc": "2026-04-21T21:49:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
     "source": "vf_ship"
   }
 ]
