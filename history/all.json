@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Arrived at Nassau, Bahamas at Jun 17, 07:23 AM EDT. The local time to the port is Jun 17, 07:23 AM EDT",
+    "description": "Nassau, Bahamas Arrival (UTC) Jun 17, 11:23 — ET: Jun 17, 07:23 AM EDT | Local: Jun 17, 07:23 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "cad94b6f3c6e1960e6886907fd9e486d7535342b",
+    "pubDate": "Wed, 17 Jun 2026 14:42:57 GMT",
+    "eventUtc": "2026-06-17T11:23:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Departed from Ketchikan, United States (USA) at Jun 16, 11:24 PM EDT. The local time to the port is Jun 16, 11:24 PM EDT",
     "description": "Ketchikan, United States (USA) Departure (UTC) Jun 17, 03:24 — ET: Jun 16, 11:24 PM EDT | Local: Jun 16, 11:24 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USKTN001",
@@ -5487,16 +5498,5 @@
     "shipSlug": "disney-adventure",
     "shipName": "Disney Adventure",
     "source": "vf_port"
-  },
-  {
-    "title": "Disney Destiny Departed from Nassau, Bahamas at Apr 22, 06:19 PM EDT. The local time to the port is Apr 22, 06:19 PM EDT",
-    "description": "Nassau, Bahamas Departure (UTC) Apr 22, 22:19 — ET: Apr 22, 06:19 PM EDT | Local: Apr 22, 06:19 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "30fee2947b815262617b3adee238b2e62f38ae78",
-    "pubDate": "Wed, 22 Apr 2026 22:49:12 GMT",
-    "eventUtc": "2026-04-22T22:19:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
-    "source": "vf_ship"
   }
 ]
