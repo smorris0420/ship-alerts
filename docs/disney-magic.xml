@@ -5,7 +5,7 @@
   <title>Disney Magic - Arrivals &amp; Departures</title>
   <link>https://www.vesselfinder.com/vessels/details/9126807</link>
   <description>Disney Magic - Arrivals &amp; Departures - Auto-generated</description>
-  <lastBuildDate>Wed, 17 Jun 2026 01:45:33 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 17 Jun 2026 06:54:57 GMT</lastBuildDate>
   
   <item>
     <title>Disney Magic Arrived at Progreso, Mexico at Dec 31, 10:27 AM EST. The local time to the port is Dec 31, 10:27 AM EST</title>
@@ -27,6 +27,20 @@
     <guid isPermaLink="false">e3f33dd1a2a99877e5076290efe2ecc4b5fa0861</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:16 GMT</pubDate>
     <description><![CDATA[Cozumel, Mexico Arrival (UTC) Dec 30, 16:33 — ET: Dec 30, 11:33 AM EST | Local: Dec 30, 11:33 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Magic Departed from Ketchikan, United States (USA) at Jun 16, 11:24 PM EDT. The local time to the port is Jun 16, 11:24 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USKTN001</link>
+    <guid isPermaLink="false">ecd5bd732919e9e36e7ec913515eb1320a7e61c7</guid>
+    <pubDate>Wed, 17 Jun 2026 06:54:56 GMT</pubDate>
+    <description><![CDATA[Ketchikan, United States (USA) Departure (UTC) Jun 17, 03:24 — ET: Jun 16, 11:24 PM EDT | Local: Jun 16, 11:24 PM EDT]]></description>
+  </item>
+  <item>
+    <title>Disney Magic Arrived at Ketchikan, United States (USA) at Jun 16, 05:29 PM EDT. The local time to the port is Jun 16, 05:29 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USKTN001</link>
+    <guid isPermaLink="false">3aa75e2831dba6437431e5f689415c8111e6a7e9</guid>
+    <pubDate>Wed, 17 Jun 2026 06:54:55 GMT</pubDate>
+    <description><![CDATA[Ketchikan, United States (USA) Arrival (UTC) Jun 16, 21:29 — ET: Jun 16, 05:29 PM EDT | Local: Jun 16, 05:29 PM EDT]]></description>
   </item>
   <item>
     <title>Disney Magic Departed from Hoonah, United States (USA) at Jun 15, 09:13 PM EDT. The local time to the port is Jun 15, 09:13 PM EDT</title>
@@ -1742,20 +1756,6 @@
     <guid isPermaLink="false">2d43025447df286d2dec564e44032adb5ef59060</guid>
     <pubDate>Mon, 10 Nov 2025 12:45:00 GMT</pubDate>
     <description><![CDATA[Willemstad, Curacao Arrival (UTC) Nov 10, 11:27 — ET: Nov 10, 06:27 AM EST | Local: Nov 10, 07:27 AM AST]]></description>
-  </item>
-  <item>
-    <title>Disney Magic Departed from Oranjestad, Aruba at Nov 09, 08:55 PM EST. The local time to the port is Nov 09, 09:55 PM AST</title>
-    <link>https://www.vesselfinder.com/ports/AWORJ001</link>
-    <guid isPermaLink="false">ead0bad3d4adc81e9ec2474d5bfec9f712836fc5</guid>
-    <pubDate>Mon, 10 Nov 2025 02:59:05 GMT</pubDate>
-    <description><![CDATA[Oranjestad, Aruba Departure (UTC) Nov 10, 01:55 — ET: Nov 09, 08:55 PM EST | Local: Nov 09, 09:55 PM AST]]></description>
-  </item>
-  <item>
-    <title>Disney Magic Arrived at Oranjestad, Aruba at Nov 09, 06:53 AM EST. The local time to the port is Nov 09, 07:53 AM AST</title>
-    <link>https://www.vesselfinder.com/ports/AWORJ001</link>
-    <guid isPermaLink="false">7e60b39863f777d302f5f54d2e5909c5935f4142</guid>
-    <pubDate>Sun, 09 Nov 2025 12:58:16 GMT</pubDate>
-    <description><![CDATA[Oranjestad, Aruba Arrival (UTC) Nov 9, 11:53 — ET: Nov 09, 06:53 AM EST | Local: Nov 09, 07:53 AM AST]]></description>
   </item>
 </channel>
 </rss>
