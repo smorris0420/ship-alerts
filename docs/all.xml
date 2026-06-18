@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Thu, 18 Jun 2026 14:18:41 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 18 Jun 2026 17:39:17 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,13 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Magic Arrived at Vancouver, Canada at Jun 18, 10:02 AM EDT. The local time to the port is Jun 18, 07:02 AM PDT</title>
+    <link>https://www.vesselfinder.com/ports/CAVAN001</link>
+    <guid isPermaLink="false">781ab64ead8679e89fa0a1ee0d3fa8577ac569fe</guid>
+    <pubDate>Thu, 18 Jun 2026 17:36:12 GMT</pubDate>
+    <description><![CDATA[Vancouver, Canada Arrival (UTC) Jun 18, 14:02 — ET: Jun 18, 10:02 AM EDT | Local: Jun 18, 07:02 AM PDT]]></description>
   </item>
   <item>
     <title>Disney Adventure Departed from Singapore, Singapore at Jun 18, 04:57 AM EDT. The local time to the port is Jun 18, 04:57 AM EDT</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">c2a0d6405dc5fb82c063c264cfd50673f62f33f3</guid>
     <pubDate>Fri, 24 Apr 2026 01:12:52 GMT</pubDate>
     <description><![CDATA[Gorda Cay, Bahamas Departure (UTC) Apr 23, 21:02 — ET: Apr 23, 05:02 PM EDT | Local: Apr 23, 05:02 PM EDT]]></description>
-  </item>
-  <item>
-    <title>Disney Wonder Arrived at Ensenada, Mexico at Apr 23, 10:15 AM EDT. The local time to the port is Apr 23, 09:15 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/MXESE001</link>
-    <guid isPermaLink="false">977011ce28eb49094893388c8efc5d8bcd55205c</guid>
-    <pubDate>Thu, 23 Apr 2026 20:01:35 GMT</pubDate>
-    <description><![CDATA[Ensenada, Mexico Arrival (UTC) Apr 23, 14:15 — ET: Apr 23, 10:15 AM EDT | Local: Apr 23, 09:15 AM EST]]></description>
   </item>
 </channel>
 </rss>
