@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Fri, 19 Jun 2026 02:37:45 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 19 Jun 2026 08:21:52 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -148,11 +148,25 @@
     <description><![CDATA[Vancouver, Canada Departure (UTC) Jun 18, 23:34 — ET: Jun 18, 07:34 PM EDT | Local: Jun 18, 04:34 PM PDT]]></description>
   </item>
   <item>
+    <title>Disney Fantasy Departed from Gorda Cay, Bahamas at Jun 18, 05:00 PM EDT. The local time to the port is Jun 18, 05:00 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
+    <guid isPermaLink="false">6a556b566ce5f681966b77e6babe5e19f97e0e4d</guid>
+    <pubDate>Fri, 19 Jun 2026 08:18:22 GMT</pubDate>
+    <description><![CDATA[Gorda Cay, Bahamas Departure (UTC) Jun 18, 21:00 — ET: Jun 18, 05:00 PM EDT | Local: Jun 18, 05:00 PM EDT]]></description>
+  </item>
+  <item>
     <title>Disney Magic Arrived at Vancouver, Canada at Jun 18, 10:02 AM EDT. The local time to the port is Jun 18, 07:02 AM PDT</title>
     <link>https://www.vesselfinder.com/ports/CAVAN001</link>
     <guid isPermaLink="false">781ab64ead8679e89fa0a1ee0d3fa8577ac569fe</guid>
     <pubDate>Thu, 18 Jun 2026 17:36:12 GMT</pubDate>
     <description><![CDATA[Vancouver, Canada Arrival (UTC) Jun 18, 14:02 — ET: Jun 18, 10:02 AM EDT | Local: Jun 18, 07:02 AM PDT]]></description>
+  </item>
+  <item>
+    <title>Disney Fantasy Arrived at Gorda Cay, Bahamas at Jun 18, 06:56 AM EDT. The local time to the port is Jun 18, 06:56 AM EDT</title>
+    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
+    <guid isPermaLink="false">f1b4236d23c3dccdfdb2d69a59f053b7346a478a</guid>
+    <pubDate>Fri, 19 Jun 2026 08:18:21 GMT</pubDate>
+    <description><![CDATA[Gorda Cay, Bahamas Arrival (UTC) Jun 18, 10:56 — ET: Jun 18, 06:56 AM EDT | Local: Jun 18, 06:56 AM EDT]]></description>
   </item>
   <item>
     <title>Disney Adventure Departed from Singapore, Singapore at Jun 18, 04:57 AM EDT. The local time to the port is Jun 18, 04:57 AM EDT</title>
@@ -3492,20 +3506,6 @@
     <guid isPermaLink="false">ae51aa3660b8804f983aff9ec231b642388798f6</guid>
     <pubDate>Fri, 24 Apr 2026 01:12:45 GMT</pubDate>
     <description><![CDATA[San Diego, United States (USA) Departure (UTC) Apr 24, 00:37 — ET: Apr 23, 08:37 PM EDT | Local: Apr 23, 08:37 PM EDT]]></description>
-  </item>
-  <item>
-    <title>Disney Wonder Departed from Ensenada, Mexico at Apr 23, 08:36 PM EDT. The local time to the port is Apr 23, 07:36 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/MXESE001</link>
-    <guid isPermaLink="false">6b22d4170320cb1ce58469d99417932d2c70e775</guid>
-    <pubDate>Fri, 24 Apr 2026 01:13:07 GMT</pubDate>
-    <description><![CDATA[Ensenada, Mexico Departure (UTC) Apr 24, 00:36 — ET: Apr 23, 08:36 PM EDT | Local: Apr 23, 07:36 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Fantasy Departed from Nassau, Bahamas at Apr 23, 06:05 PM EDT. The local time to the port is Apr 23, 06:05 PM EDT</title>
-    <link>https://www.vesselfinder.com/ports/BSNAS001</link>
-    <guid isPermaLink="false">0a118245720c2534710a5bb91460da1912512295</guid>
-    <pubDate>Thu, 23 Apr 2026 22:46:53 GMT</pubDate>
-    <description><![CDATA[Nassau, Bahamas Departure (UTC) Apr 23, 22:05 — ET: Apr 23, 06:05 PM EDT | Local: Apr 23, 06:05 PM EDT]]></description>
   </item>
 </channel>
 </rss>
