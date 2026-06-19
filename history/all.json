@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Departed from Cape Canaveral, United States (USA) at Jun 19, 04:51 PM EDT. The local time to the port is Jun 19, 04:51 PM EDT",
+    "description": "Cape Canaveral, United States (USA) Departure (UTC) Jun 19, 20:51 — ET: Jun 19, 04:51 PM EDT | Local: Jun 19, 04:51 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "f77ba59d5cae327404fa833fd8c543bc6ae1b07d",
+    "pubDate": "Fri, 19 Jun 2026 21:56:17 GMT",
+    "eventUtc": "2026-06-19T20:51:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Departed from Cape Canaveral, United States (USA) at Jun 19, 04:37 PM EDT. The local time to the port is Jun 19, 04:37 PM EDT",
     "description": "Cape Canaveral, United States (USA) Departure (UTC) Jun 19, 20:37 — ET: Jun 19, 04:37 PM EDT | Local: Jun 19, 04:37 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5487,16 +5498,5 @@
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
     "source": "vf_port"
-  },
-  {
-    "title": "Disney Treasure Arrived at Gorda Cay, Bahamas at Apr 24, 07:13 AM EDT. The local time to the port is Apr 24, 07:13 AM EDT",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) Apr 24, 11:13 — ET: Apr 24, 07:13 AM EDT | Local: Apr 24, 07:13 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "f8adefc1b00d2ef3740682a835a8ec93404ee1ca",
-    "pubDate": "Fri, 24 Apr 2026 23:41:40 GMT",
-    "eventUtc": "2026-04-24T11:13:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
   }
 ]
