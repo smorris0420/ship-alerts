@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Mykonos, Greece at Jun 19, 11:07 PM EDT. The local time to the port is Jun 20, 06:07 AM EEST",
+    "description": "Mykonos, Greece Arrival (UTC) Jun 20, 03:07 — ET: Jun 19, 11:07 PM EDT | Local: Jun 20, 06:07 AM EEST",
+    "link": "https://www.vesselfinder.com/ports/GRJMK001",
+    "guid": "df1c097ac80986733b13cf29b0f70693d711f822",
+    "pubDate": "Sat, 20 Jun 2026 04:47:24 GMT",
+    "eventUtc": "2026-06-20T03:07:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Treasure Departed from Gorda Cay, Bahamas at Jun 19, 04:57 PM EDT. The local time to the port is Jun 19, 04:57 PM EDT",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Jun 19, 20:57 — ET: Jun 19, 04:57 PM EDT | Local: Jun 19, 04:57 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "e02eaba332431a511c9cea6b15cb47f54a944912",
+    "pubDate": "Sat, 20 Jun 2026 04:45:55 GMT",
+    "eventUtc": "2026-06-19T20:57:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Departed from Cape Canaveral, United States (USA) at Jun 19, 04:51 PM EDT. The local time to the port is Jun 19, 04:51 PM EDT",
     "description": "Cape Canaveral, United States (USA) Departure (UTC) Jun 19, 20:51 — ET: Jun 19, 04:51 PM EDT | Local: Jun 19, 04:51 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -228,6 +250,17 @@
     "eventUtc": "2026-06-19T20:37:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Treasure Arrived at Gorda Cay, Bahamas at Jun 19, 07:17 AM EDT. The local time to the port is Jun 19, 07:17 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Jun 19, 11:17 — ET: Jun 19, 07:17 AM EDT | Local: Jun 19, 07:17 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "bb303e39335f24f15f2e5567f5071b7909fdee4a",
+    "pubDate": "Sat, 20 Jun 2026 04:45:54 GMT",
+    "eventUtc": "2026-06-19T11:17:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
     "source": "vf_ship"
   },
   {
@@ -5465,38 +5498,5 @@
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
     "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Arrived at San Diego, United States (USA) at Apr 24, 09:42 AM EDT. The local time to the port is Apr 24, 09:42 AM EDT",
-    "description": "San Diego, United States (USA) Arrival (UTC) Apr 24, 13:42 — ET: Apr 24, 09:42 AM EDT | Local: Apr 24, 09:42 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/USSAN001",
-    "guid": "ea22ab0e816375985ef3448fe9ec1348e0caf23b",
-    "pubDate": "Fri, 24 Apr 2026 14:22:22 GMT",
-    "eventUtc": "2026-04-24T13:42:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Gorda Cay, Bahamas at Apr 24, 09:00 AM EDT. The local time to the port is Apr 24, 09:00 AM EDT",
-    "description": "Gorda Cay, Bahamas Departure (UTC) Apr 24, 13:00 — ET: Apr 24, 09:00 AM EDT | Local: Apr 24, 09:00 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "8f54474c5f31a70d77171a195702e6363e97b3c9",
-    "pubDate": "Thu, 23 Apr 2026 16:13:19 GMT",
-    "eventUtc": "2026-04-24T13:00:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_port"
-  },
-  {
-    "title": "Disney Dream Arrived at Gorda Cay, Bahamas at Apr 24, 09:00 AM EDT. The local time to the port is Apr 24, 09:00 AM EDT",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) Apr 24, 13:00 — ET: Apr 24, 09:00 AM EDT | Local: Apr 24, 09:00 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "1591e519909c146d29b9db88c148ad2731b6cf9b",
-    "pubDate": "Thu, 23 Apr 2026 16:13:21 GMT",
-    "eventUtc": "2026-04-24T13:00:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_port"
   }
 ]

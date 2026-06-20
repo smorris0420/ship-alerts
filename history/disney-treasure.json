@@ -44,6 +44,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Departed from Gorda Cay, Bahamas at Jun 19, 04:57 PM EDT. The local time to the port is Jun 19, 04:57 PM EDT",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Jun 19, 20:57 — ET: Jun 19, 04:57 PM EDT | Local: Jun 19, 04:57 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "e02eaba332431a511c9cea6b15cb47f54a944912",
+    "pubDate": "Sat, 20 Jun 2026 04:45:55 GMT",
+    "eventUtc": "2026-06-19T20:57:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Treasure Arrived at Gorda Cay, Bahamas at Jun 19, 07:17 AM EDT. The local time to the port is Jun 19, 07:17 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Jun 19, 11:17 — ET: Jun 19, 07:17 AM EDT | Local: Jun 19, 07:17 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "bb303e39335f24f15f2e5567f5071b7909fdee4a",
+    "pubDate": "Sat, 20 Jun 2026 04:45:54 GMT",
+    "eventUtc": "2026-06-19T11:17:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Departed from Cozumel, Mexico at Jun 15, 06:01 PM EDT. The local time to the port is Jun 15, 05:01 PM EST",
     "description": "Cozumel, Mexico Departure (UTC) Jun 15, 22:01 — ET: Jun 15, 06:01 PM EDT | Local: Jun 15, 05:01 PM EST",
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
@@ -2723,28 +2745,6 @@
     "guid": "8555fffadc9c9d5f7d502c86d74935cc8fe4abf6",
     "pubDate": "Tue, 02 Dec 2025 15:43:32 GMT",
     "eventUtc": "2025-12-01T22:06:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Cozumel, Mexico at Dec 01, 07:14 AM EST. The local time to the port is Dec 01, 07:14 AM EST",
-    "description": "Cozumel, Mexico Arrival (UTC) Dec 1, 12:14 — ET: Dec 01, 07:14 AM EST | Local: Dec 01, 07:14 AM EST",
-    "link": "https://www.vesselfinder.com/ports/MXCZM001",
-    "guid": "29d0880df9c6046860fbdebc072ac9dde3c6f8c1",
-    "pubDate": "Mon, 01 Dec 2025 13:02:59 GMT",
-    "eventUtc": "2025-12-01T12:14:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Georgetown, Grand Cayman Anch., Cayman Islands at Dec 01, 07:14 AM EST. The local time to the port is Dec 01, 07:14 AM EST",
-    "description": "Georgetown, Grand Cayman Anch., Cayman Islands Arrival (UTC) Dec 1, 12:14 — ET: Dec 01, 07:14 AM EST | Local: Dec 01, 07:14 AM EST",
-    "link": "https://www.vesselfinder.com/ports/KYGEC001",
-    "guid": "aba97eda2d520ff4187a4990e7fd380863e8a74d",
-    "pubDate": "Tue, 02 Dec 2025 15:43:31 GMT",
-    "eventUtc": "2025-12-01T12:14:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
     "source": "vf_ship"
