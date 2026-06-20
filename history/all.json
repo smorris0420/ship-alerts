@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Departed from Port Everglades, United States (USA) at Jun 20, 04:05 PM EDT. The local time to the port is Jun 20, 04:05 PM EDT",
+    "description": "Port Everglades, United States (USA) Departure (UTC) Jun 20, 20:05 — ET: Jun 20, 04:05 PM EDT | Local: Jun 20, 04:05 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPEF001",
+    "guid": "70b94ff1c43d9931b5f948a2a4d70f6b2d14af3a",
+    "pubDate": "Sat, 20 Jun 2026 20:27:26 GMT",
+    "eventUtc": "2026-06-20T20:05:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Mykonos, Greece at Jun 20, 12:21 PM EDT. The local time to the port is Jun 20, 07:21 PM EEST",
     "description": "Mykonos, Greece Departure (UTC) Jun 20, 16:21 — ET: Jun 20, 12:21 PM EDT | Local: Jun 20, 07:21 PM EEST",
     "link": "https://www.vesselfinder.com/ports/GRJMK001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-04-25T00:36:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Gorda Cay, Bahamas at Apr 24, 04:55 PM EDT. The local time to the port is Apr 24, 04:55 PM EDT",
-    "description": "Gorda Cay, Bahamas Departure (UTC) Apr 24, 20:55 — ET: Apr 24, 04:55 PM EDT | Local: Apr 24, 04:55 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "b830cfc402a233675b37a657dcc4a029783ce51b",
-    "pubDate": "Fri, 24 Apr 2026 23:41:42 GMT",
-    "eventUtc": "2026-04-24T20:55:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
