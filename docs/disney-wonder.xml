@@ -5,7 +5,7 @@
   <title>Disney Wonder - Arrivals &amp; Departures</title>
   <link>https://www.vesselfinder.com/vessels/details/9126819</link>
   <description>Disney Wonder - Arrivals &amp; Departures - Auto-generated</description>
-  <lastBuildDate>Sun, 21 Jun 2026 00:05:01 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 21 Jun 2026 05:12:59 GMT</lastBuildDate>
   
   <item>
     <title>Disney Wonder Departed from Hobart, Australia at Dec 31, 08:48 AM EST. The local time to the port is Jan 01, 12:48 AM AEDT</title>
@@ -20,6 +20,20 @@
     <guid isPermaLink="false">17aff6dc63c1d854034dba404a0bb7bbc9de0818</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:40 GMT</pubDate>
     <description><![CDATA[Hobart, Australia Arrival (UTC) Dec 30, 20:45 — ET: Dec 30, 03:45 PM EST | Local: Dec 31, 07:45 AM AEDT]]></description>
+  </item>
+  <item>
+    <title>Disney Wonder Departed from Ketchikan, United States (USA) at Jun 20, 11:13 PM EDT. The local time to the port is Jun 20, 11:13 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USKTN001</link>
+    <guid isPermaLink="false">93d5bd9cefcf2d8e78a11f932a5133846ed87719</guid>
+    <pubDate>Sun, 21 Jun 2026 05:12:58 GMT</pubDate>
+    <description><![CDATA[Ketchikan, United States (USA) Departure (UTC) Jun 21, 03:13 — ET: Jun 20, 11:13 PM EDT | Local: Jun 20, 11:13 PM EDT]]></description>
+  </item>
+  <item>
+    <title>Disney Wonder Arrived at Ketchikan, United States (USA) at Jun 20, 01:50 PM EDT. The local time to the port is Jun 20, 01:50 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USKTN001</link>
+    <guid isPermaLink="false">d6df44347d90226182ad4c15752da730b9abaf38</guid>
+    <pubDate>Sun, 21 Jun 2026 05:12:57 GMT</pubDate>
+    <description><![CDATA[Ketchikan, United States (USA) Arrival (UTC) Jun 20, 17:50 — ET: Jun 20, 01:50 PM EDT | Local: Jun 20, 01:50 PM EDT]]></description>
   </item>
   <item>
     <title>Disney Wonder Departed from Vancouver, Canada at Jun 15, 07:52 PM EDT. The local time to the port is Jun 15, 04:52 PM PDT</title>
@@ -1742,20 +1756,6 @@
     <guid isPermaLink="false">fc957cbc415fed0ee7582fd50f9cb72164a4280c</guid>
     <pubDate>Mon, 10 Nov 2025 21:19:08 GMT</pubDate>
     <description><![CDATA[Hobart, Australia Arrival (UTC) Nov 10, 20:26 — ET: Nov 10, 03:26 PM EST | Local: Nov 11, 07:26 AM AEDT]]></description>
-  </item>
-  <item>
-    <title>Disney Wonder Departed from Melbourne, Australia at Nov 09, 01:25 AM EST. The local time to the port is Nov 09, 05:25 PM AEDT</title>
-    <link>https://www.vesselfinder.com/ports/AUMEL001</link>
-    <guid isPermaLink="false">7aa37517993d438c7242d9ae8a94234cb8ad5415</guid>
-    <pubDate>Sun, 09 Nov 2025 06:42:02 GMT</pubDate>
-    <description><![CDATA[Melbourne, Australia Departure (UTC) Nov 9, 06:25 — ET: Nov 09, 01:25 AM EST | Local: Nov 09, 05:25 PM AEDT]]></description>
-  </item>
-  <item>
-    <title>Disney Wonder Arrived at Melbourne, Australia at Nov 08, 01:57 PM EST. The local time to the port is Nov 09, 05:57 AM AEDT</title>
-    <link>https://www.vesselfinder.com/ports/AUMEL001</link>
-    <guid isPermaLink="false">faebcbe1f53c19dca1747b0e4c842003b519a3e7</guid>
-    <pubDate>Sat, 08 Nov 2025 19:44:08 GMT</pubDate>
-    <description><![CDATA[Melbourne, Australia Arrival (UTC) Nov 8, 18:57 — ET: Nov 08, 01:57 PM EST | Local: Nov 09, 05:57 AM AEDT]]></description>
   </item>
 </channel>
 </rss>
