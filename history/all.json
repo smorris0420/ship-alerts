@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Adventure Arrived at Singapore, Singapore at Jun 21, 05:36 PM EDT. The local time to the port is Jun 21, 05:36 PM EDT",
+    "description": "Singapore, Singapore Arrival (UTC) Jun 21, 21:36 — ET: Jun 21, 05:36 PM EDT | Local: Jun 21, 05:36 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/SGSIN001",
+    "guid": "62356c142f44e15d0fc031cf350dde982a3df6c7",
+    "pubDate": "Sun, 21 Jun 2026 22:57:43 GMT",
+    "eventUtc": "2026-06-21T21:36:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Souda, Greece at Jun 21, 12:10 PM EDT. The local time to the port is Jun 21, 07:10 PM EEST",
     "description": "Souda, Greece Departure (UTC) Jun 21, 16:10 — ET: Jun 21, 12:10 PM EDT | Local: Jun 21, 07:10 PM EEST",
     "link": "https://www.vesselfinder.com/ports/GRSDH001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-04-25T21:03:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Departed from Port Everglades, United States (USA) at Apr 25, 04:14 PM EDT. The local time to the port is Apr 25, 04:14 PM EDT",
-    "description": "Port Everglades, United States (USA) Departure (UTC) Apr 25, 20:14 — ET: Apr 25, 04:14 PM EDT | Local: Apr 25, 04:14 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "b0cf28b0b46b11963cc670702c739b67e513a032",
-    "pubDate": "Sat, 25 Apr 2026 20:31:37 GMT",
-    "eventUtc": "2026-04-25T20:14:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
     "source": "vf_ship"
   }
 ]
