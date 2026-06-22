@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Arrived at Vancouver, Canada at Jun 22, 10:03 AM EDT. The local time to the port is Jun 22, 07:03 AM PDT",
+    "description": "Vancouver, Canada Arrival (UTC) Jun 22, 14:03 — ET: Jun 22, 10:03 AM EDT | Local: Jun 22, 07:03 AM PDT",
+    "link": "https://www.vesselfinder.com/ports/CAVAN001",
+    "guid": "cc1bdf8facc199ab856c81fc7fdd40ea69f65777",
+    "pubDate": "Mon, 22 Jun 2026 16:06:18 GMT",
+    "eventUtc": "2026-06-22T14:03:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Arrived at Cape Canaveral, United States (USA) at Jun 22, 05:51 AM EDT. The local time to the port is Jun 22, 05:51 AM EDT",
     "description": "Cape Canaveral, United States (USA) Arrival (UTC) Jun 22, 09:51 — ET: Jun 22, 05:51 AM EDT | Local: Jun 22, 05:51 AM EDT",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-04-26T11:15:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Arrived at Cape Canaveral, United States (USA) at Apr 26, 04:27 AM EDT. The local time to the port is Apr 26, 04:27 AM EDT",
-    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Apr 26, 08:27 — ET: Apr 26, 04:27 AM EDT | Local: Apr 26, 04:27 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "fcfac3c1111ea328d839aadd0cb00de0904b4b99",
-    "pubDate": "Sun, 26 Apr 2026 09:37:11 GMT",
-    "eventUtc": "2026-04-26T08:27:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
     "source": "vf_ship"
   }
 ]

@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Arrived at Vancouver, Canada at Jun 22, 10:03 AM EDT. The local time to the port is Jun 22, 07:03 AM PDT",
+    "description": "Vancouver, Canada Arrival (UTC) Jun 22, 14:03 — ET: Jun 22, 10:03 AM EDT | Local: Jun 22, 07:03 AM PDT",
+    "link": "https://www.vesselfinder.com/ports/CAVAN001",
+    "guid": "cc1bdf8facc199ab856c81fc7fdd40ea69f65777",
+    "pubDate": "Mon, 22 Jun 2026 16:06:18 GMT",
+    "eventUtc": "2026-06-22T14:03:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Departed from Ketchikan, United States (USA) at Jun 20, 11:13 PM EDT. The local time to the port is Jun 20, 11:13 PM EDT",
     "description": "Ketchikan, United States (USA) Departure (UTC) Jun 21, 03:13 — ET: Jun 20, 11:13 PM EDT | Local: Jun 20, 11:13 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USKTN001",
@@ -2734,17 +2745,6 @@
     "guid": "9856ee11070c98388d73ca3f3c496fe78606a231",
     "pubDate": "Tue, 11 Nov 2025 07:31:13 GMT",
     "eventUtc": "2025-11-11T07:24:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Arrived at Hobart, Australia at Nov 10, 03:26 PM EST. The local time to the port is Nov 11, 07:26 AM AEDT",
-    "description": "Hobart, Australia Arrival (UTC) Nov 10, 20:26 — ET: Nov 10, 03:26 PM EST | Local: Nov 11, 07:26 AM AEDT",
-    "link": "https://www.vesselfinder.com/ports/AUHBA001",
-    "guid": "fc957cbc415fed0ee7582fd50f9cb72164a4280c",
-    "pubDate": "Mon, 10 Nov 2025 21:19:08 GMT",
-    "eventUtc": "2025-11-10T20:26:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
     "source": "vf_ship"
