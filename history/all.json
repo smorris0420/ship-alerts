@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Napoli, Italy at Jun 23, 01:18 AM EDT. The local time to the port is Jun 23, 07:18 AM CEST",
+    "description": "Napoli, Italy Arrival (UTC) Jun 23, 05:18 — ET: Jun 23, 01:18 AM EDT | Local: Jun 23, 07:18 AM CEST",
+    "link": "https://www.vesselfinder.com/ports/ITNAP001",
+    "guid": "9b27b838a24ee07b586f2382502bc131ae5c924d",
+    "pubDate": "Tue, 23 Jun 2026 08:20:47 GMT",
+    "eventUtc": "2026-06-23T05:18:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Departed from Vancouver, Canada at Jun 22, 07:32 PM EDT. The local time to the port is Jun 22, 04:32 PM PDT",
     "description": "Vancouver, Canada Departure (UTC) Jun 22, 23:32 — ET: Jun 22, 07:32 PM EDT | Local: Jun 22, 04:32 PM PDT",
     "link": "https://www.vesselfinder.com/ports/CAVAN001",
@@ -5487,16 +5498,5 @@
     "shipSlug": "disney-adventure",
     "shipName": "Disney Adventure",
     "source": "vf_port"
-  },
-  {
-    "title": "Disney Dream Departed from Nassau, Bahamas at Apr 26, 06:03 PM EDT. The local time to the port is Apr 26, 06:03 PM EDT",
-    "description": "Nassau, Bahamas Departure (UTC) Apr 26, 22:03 — ET: Apr 26, 06:03 PM EDT | Local: Apr 26, 06:03 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "7d469826a9878a4c1df839405157cc8f4770c03e",
-    "pubDate": "Sun, 26 Apr 2026 22:22:30 GMT",
-    "eventUtc": "2026-04-26T22:03:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
   }
 ]

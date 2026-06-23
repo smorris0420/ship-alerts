@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Tue, 23 Jun 2026 04:41:48 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 23 Jun 2026 08:22:57 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,13 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Dream Arrived at Napoli, Italy at Jun 23, 01:18 AM EDT. The local time to the port is Jun 23, 07:18 AM CEST</title>
+    <link>https://www.vesselfinder.com/ports/ITNAP001</link>
+    <guid isPermaLink="false">9b27b838a24ee07b586f2382502bc131ae5c924d</guid>
+    <pubDate>Tue, 23 Jun 2026 08:20:47 GMT</pubDate>
+    <description><![CDATA[Napoli, Italy Arrival (UTC) Jun 23, 05:18 — ET: Jun 23, 01:18 AM EDT | Local: Jun 23, 07:18 AM CEST]]></description>
   </item>
   <item>
     <title>Disney Wonder Departed from Vancouver, Canada at Jun 22, 07:32 PM EDT. The local time to the port is Jun 22, 04:32 PM PDT</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">1e561296712867508eba1c6d69138054eb2d74cb</guid>
     <pubDate>Sun, 26 Apr 2026 19:34:42 GMT</pubDate>
     <description><![CDATA[Singapore, Singapore Arrival (UTC) Apr 27, 00:30 — ET: Apr 26, 08:30 PM EDT | Local: Apr 26, 08:30 PM EDT]]></description>
-  </item>
-  <item>
-    <title>Disney Dream Departed from Nassau, Bahamas at Apr 26, 06:03 PM EDT. The local time to the port is Apr 26, 06:03 PM EDT</title>
-    <link>https://www.vesselfinder.com/ports/BSNAS001</link>
-    <guid isPermaLink="false">7d469826a9878a4c1df839405157cc8f4770c03e</guid>
-    <pubDate>Sun, 26 Apr 2026 22:22:30 GMT</pubDate>
-    <description><![CDATA[Nassau, Bahamas Departure (UTC) Apr 26, 22:03 — ET: Apr 26, 06:03 PM EDT | Local: Apr 26, 06:03 PM EDT]]></description>
   </item>
 </channel>
 </rss>
