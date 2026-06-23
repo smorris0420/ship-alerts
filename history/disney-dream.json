@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Napoli, Italy at Jun 23, 02:08 PM EDT. The local time to the port is Jun 23, 08:08 PM CEST",
+    "description": "Napoli, Italy Departure (UTC) Jun 23, 18:08 — ET: Jun 23, 02:08 PM EDT | Local: Jun 23, 08:08 PM CEST",
+    "link": "https://www.vesselfinder.com/ports/ITNAP001",
+    "guid": "b2326bd08f500ac920af3b0e9ed2618492df1fe0",
+    "pubDate": "Tue, 23 Jun 2026 18:30:38 GMT",
+    "eventUtc": "2026-06-23T18:08:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Arrived at Napoli, Italy at Jun 23, 01:18 AM EDT. The local time to the port is Jun 23, 07:18 AM CEST",
     "description": "Napoli, Italy Arrival (UTC) Jun 23, 05:18 — ET: Jun 23, 01:18 AM EDT | Local: Jun 23, 07:18 AM CEST",
     "link": "https://www.vesselfinder.com/ports/ITNAP001",
@@ -2734,17 +2745,6 @@
     "guid": "99109dfde02a077e35548989054a11b2f5aa0182",
     "pubDate": "Wed, 17 Dec 2025 13:42:38 GMT",
     "eventUtc": "2025-12-17T12:42:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Port Everglades, United States (USA) at Dec 15, 04:33 PM EST. The local time to the port is Dec 15, 04:33 PM EST",
-    "description": "Port Everglades, United States (USA) Departure (UTC) Dec 15, 21:33 — ET: Dec 15, 04:33 PM EST | Local: Dec 15, 04:33 PM EST",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "0d5c807060f09e92916cc94285fd5670fb004c30",
-    "pubDate": "Mon, 15 Dec 2025 21:47:00 GMT",
-    "eventUtc": "2025-12-15T21:33:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
     "source": "vf_ship"
