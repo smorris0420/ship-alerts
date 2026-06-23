@@ -44,6 +44,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Departed from Road Town, Tortola, British Virgin Islands at Jun 23, 06:00 PM EDT. The local time to the port is Jun 23, 06:00 PM AST",
+    "description": "Road Town, Tortola, British Virgin Islands Departure (UTC) Jun 23, 22:00 — ET: Jun 23, 06:00 PM EDT | Local: Jun 23, 06:00 PM AST",
+    "link": "https://www.vesselfinder.com/ports/VGRAD001",
+    "guid": "545d20c3dfa90ec608fe78296f6a7bec78679d31",
+    "pubDate": "Tue, 23 Jun 2026 23:19:18 GMT",
+    "eventUtc": "2026-06-23T22:00:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Arrived at Road Town, Tortola, British Virgin Islands at Jun 23, 07:27 AM EDT. The local time to the port is Jun 23, 07:27 AM AST",
     "description": "Road Town, Tortola, British Virgin Islands Arrival (UTC) Jun 23, 11:27 — ET: Jun 23, 07:27 AM EDT | Local: Jun 23, 07:27 AM AST",
     "link": "https://www.vesselfinder.com/ports/VGRAD001",
@@ -2734,17 +2745,6 @@
     "guid": "7661308336f1f7456538a8dcc647caea0992bf54",
     "pubDate": "Fri, 05 Dec 2025 13:24:37 GMT",
     "eventUtc": "2025-12-05T12:26:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Unknown Port at Dec 02, 05:03 PM EST. The local time to the port is Dec 02, 05:03 PM EST",
-    "description": "Unknown Port Departure (UTC) Dec 2, 22:03 — ET: Dec 02, 05:03 PM EST | Local: Dec 02, 05:03 PM EST",
-    "link": "https://www.vesselfinder.com/vessels/details/9834753",
-    "guid": "efcb63a49505cac64d896064b92ae91c8fd28a04",
-    "pubDate": "Fri, 05 Dec 2025 05:37:15 GMT",
-    "eventUtc": "2025-12-02T22:03:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
     "source": "vf_ship"

@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Departed from Road Town, Tortola, British Virgin Islands at Jun 23, 06:00 PM EDT. The local time to the port is Jun 23, 06:00 PM AST",
+    "description": "Road Town, Tortola, British Virgin Islands Departure (UTC) Jun 23, 22:00 — ET: Jun 23, 06:00 PM EDT | Local: Jun 23, 06:00 PM AST",
+    "link": "https://www.vesselfinder.com/ports/VGRAD001",
+    "guid": "545d20c3dfa90ec608fe78296f6a7bec78679d31",
+    "pubDate": "Tue, 23 Jun 2026 23:19:18 GMT",
+    "eventUtc": "2026-06-23T22:00:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Napoli, Italy at Jun 23, 02:08 PM EDT. The local time to the port is Jun 23, 08:08 PM CEST",
     "description": "Napoli, Italy Departure (UTC) Jun 23, 18:08 — ET: Jun 23, 02:08 PM EDT | Local: Jun 23, 08:08 PM CEST",
     "link": "https://www.vesselfinder.com/ports/ITNAP001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-04-27T09:35:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Adventure Departed from Singapore, Singapore at Apr 27, 05:14 AM EDT. The local time to the port is Apr 27, 05:14 AM EDT",
-    "description": "Singapore, Singapore Departure (UTC) Apr 27, 09:14 — ET: Apr 27, 05:14 AM EDT | Local: Apr 27, 05:14 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/SGSIN001",
-    "guid": "434865a0ee1fe7355294789b53cd255571c38716",
-    "pubDate": "Mon, 27 Apr 2026 10:17:03 GMT",
-    "eventUtc": "2026-04-27T09:14:00+00:00",
-    "shipSlug": "disney-adventure",
-    "shipName": "Disney Adventure",
     "source": "vf_ship"
   }
 ]
