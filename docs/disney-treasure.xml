@@ -5,7 +5,7 @@
   <title>Disney Treasure - Arrivals &amp; Departures</title>
   <link>https://www.vesselfinder.com/vessels/details/9834753</link>
   <description>Disney Treasure - Arrivals &amp; Departures - Auto-generated</description>
-  <lastBuildDate>Tue, 23 Jun 2026 11:34:50 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 23 Jun 2026 14:03:25 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -34,6 +34,13 @@
     <guid isPermaLink="false">82d28296f402cfdf1461b4ee7ddf9e1831c89886</guid>
     <pubDate>Thu, 01 Jan 2026 00:00:51 GMT</pubDate>
     <description><![CDATA[Georgetown, Grand Cayman Anch., Cayman Islands Arrival (UTC) Dec 29, 12:44 — ET: Dec 29, 07:44 AM EST | Local: Dec 29, 07:44 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Treasure Arrived at Road Town, Tortola, British Virgin Islands at Jun 23, 07:27 AM EDT. The local time to the port is Jun 23, 07:27 AM AST</title>
+    <link>https://www.vesselfinder.com/ports/VGRAD001</link>
+    <guid isPermaLink="false">06a06c3834a65560e11d23f230b9bf40958f1e0e</guid>
+    <pubDate>Tue, 23 Jun 2026 14:03:22 GMT</pubDate>
+    <description><![CDATA[Road Town, Tortola, British Virgin Islands Arrival (UTC) Jun 23, 11:27 — ET: Jun 23, 07:27 AM EDT | Local: Jun 23, 07:27 AM AST]]></description>
   </item>
   <item>
     <title>Disney Treasure Departed from Cape Canaveral, United States (USA) at Jun 20, 05:11 PM EDT. The local time to the port is Jun 20, 05:11 PM EDT</title>
@@ -1749,13 +1756,6 @@
     <guid isPermaLink="false">efcb63a49505cac64d896064b92ae91c8fd28a04</guid>
     <pubDate>Fri, 05 Dec 2025 05:37:15 GMT</pubDate>
     <description><![CDATA[Unknown Port Departure (UTC) Dec 2, 22:03 — ET: Dec 02, 05:03 PM EST | Local: Dec 02, 05:03 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Treasure Arrived at Unknown Port at Dec 02, 09:54 AM EST. The local time to the port is Dec 02, 09:54 AM EST</title>
-    <link>https://www.vesselfinder.com/vessels/details/9834753</link>
-    <guid isPermaLink="false">0776f2e55b3aa0d344886ca196c3fb506eaa7cbc</guid>
-    <pubDate>Fri, 05 Dec 2025 05:37:14 GMT</pubDate>
-    <description><![CDATA[Unknown Port Arrival (UTC) Dec 2, 14:54 — ET: Dec 02, 09:54 AM EST | Local: Dec 02, 09:54 AM EST]]></description>
   </item>
 </channel>
 </rss>
