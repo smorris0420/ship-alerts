@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Wed, 24 Jun 2026 04:45:02 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 24 Jun 2026 08:10:43 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -253,11 +253,25 @@
     <description><![CDATA[Singapore, Singapore Arrival (UTC) Jun 21, 21:36 — ET: Jun 21, 05:36 PM EDT | Local: Jun 21, 05:36 PM EDT]]></description>
   </item>
   <item>
+    <title>Disney Fantasy Departed from Gorda Cay, Bahamas at Jun 21, 05:10 PM EDT. The local time to the port is Jun 21, 05:10 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
+    <guid isPermaLink="false">29ffd27592552c9fa8a60ef6b79fe7f7d8c1cc1d</guid>
+    <pubDate>Wed, 24 Jun 2026 08:06:37 GMT</pubDate>
+    <description><![CDATA[Gorda Cay, Bahamas Departure (UTC) Jun 21, 21:10 — ET: Jun 21, 05:10 PM EDT | Local: Jun 21, 05:10 PM EDT]]></description>
+  </item>
+  <item>
     <title>Disney Dream Departed from Souda, Greece at Jun 21, 12:10 PM EDT. The local time to the port is Jun 21, 07:10 PM EEST</title>
     <link>https://www.vesselfinder.com/ports/GRSDH001</link>
     <guid isPermaLink="false">1362fc0808451c8ca14901609d9f0b9c366fdee3</guid>
     <pubDate>Sun, 21 Jun 2026 17:10:37 GMT</pubDate>
     <description><![CDATA[Souda, Greece Departure (UTC) Jun 21, 16:10 — ET: Jun 21, 12:10 PM EDT | Local: Jun 21, 07:10 PM EEST]]></description>
+  </item>
+  <item>
+    <title>Disney Fantasy Arrived at Gorda Cay, Bahamas at Jun 21, 07:45 AM EDT. The local time to the port is Jun 21, 07:45 AM EDT</title>
+    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
+    <guid isPermaLink="false">4fdbc121650b2c9b0c7a6bafa281120a1721c8b0</guid>
+    <pubDate>Wed, 24 Jun 2026 08:06:35 GMT</pubDate>
+    <description><![CDATA[Gorda Cay, Bahamas Arrival (UTC) Jun 21, 11:45 — ET: Jun 21, 07:45 AM EDT | Local: Jun 21, 07:45 AM EDT]]></description>
   </item>
   <item>
     <title>Disney Dream Arrived at Souda, Greece at Jun 20, 11:46 PM EDT. The local time to the port is Jun 21, 06:46 AM EEST</title>
@@ -3492,20 +3506,6 @@
     <guid isPermaLink="false">d4d091f29154e752294bfc8abfa6aa822c9da731</guid>
     <pubDate>Tue, 28 Apr 2026 18:58:21 GMT</pubDate>
     <description><![CDATA[Cabo San Lucas Anch., Mexico Arrival (UTC) Apr 27, 13:25 — ET: Apr 27, 09:25 AM EDT | Local: Apr 27, 08:25 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Magic Arrived at San Diego, United States (USA) at Apr 27, 09:15 AM EDT. The local time to the port is Apr 27, 09:15 AM EDT</title>
-    <link>https://www.vesselfinder.com/ports/USSAN001</link>
-    <guid isPermaLink="false">4f29644f6ec426a0aeb3cf93a732cb746558c6d0</guid>
-    <pubDate>Mon, 27 Apr 2026 14:24:11 GMT</pubDate>
-    <description><![CDATA[San Diego, United States (USA) Arrival (UTC) Apr 27, 13:15 — ET: Apr 27, 09:15 AM EDT | Local: Apr 27, 09:15 AM EDT]]></description>
-  </item>
-  <item>
-    <title>Disney Destiny Arrived at Cozumel, Mexico at Apr 27, 08:10 AM EDT. The local time to the port is Apr 27, 07:10 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/MXCZM001</link>
-    <guid isPermaLink="false">5d121b4fb0ed8d5a98e206761d4c7daa7f35a042</guid>
-    <pubDate>Mon, 27 Apr 2026 14:25:35 GMT</pubDate>
-    <description><![CDATA[Cozumel, Mexico Arrival (UTC) Apr 27, 12:10 — ET: Apr 27, 08:10 AM EDT | Local: Apr 27, 07:10 AM EST]]></description>
   </item>
 </channel>
 </rss>
