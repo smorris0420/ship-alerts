@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Fantasy Departed from Cape Canaveral, United States (USA) at Jun 24, 04:57 PM EDT. The local time to the port is Jun 24, 04:57 PM EDT",
+    "description": "Cape Canaveral, United States (USA) Departure (UTC) Jun 24, 20:57 — ET: Jun 24, 04:57 PM EDT | Local: Jun 24, 04:57 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "51309a58fb745cb8938a119f8ae7d22d189e8376",
+    "pubDate": "Wed, 24 Jun 2026 21:14:30 GMT",
+    "eventUtc": "2026-06-24T20:57:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Arrived at Cape Canaveral, United States (USA) at Jun 24, 05:52 AM EDT. The local time to the port is Jun 24, 05:52 AM EDT",
     "description": "Cape Canaveral, United States (USA) Arrival (UTC) Jun 24, 09:52 — ET: Jun 24, 05:52 AM EDT | Local: Jun 24, 05:52 AM EDT",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -2734,17 +2745,6 @@
     "guid": "0360d439449d7971da71378b223e46df0a8e42a3",
     "pubDate": "Thu, 27 Nov 2025 03:01:52 GMT",
     "eventUtc": "2025-11-26T13:36:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Departed from Cape Canaveral, United States (USA) at Nov 25, 05:00 PM EST. The local time to the port is Nov 25, 05:00 PM EST",
-    "description": "Cape Canaveral, United States (USA) Departure (UTC) Nov 25, 22:00 — ET: Nov 25, 05:00 PM EST | Local: Nov 25, 05:00 PM EST",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "22134fca80bcea9812b611e720ce52556bbe1ed1",
-    "pubDate": "Tue, 25 Nov 2025 22:36:57 GMT",
-    "eventUtc": "2025-11-25T22:00:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
     "source": "vf_ship"
