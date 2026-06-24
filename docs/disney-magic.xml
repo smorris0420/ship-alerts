@@ -5,7 +5,7 @@
   <title>Disney Magic - Arrivals &amp; Departures</title>
   <link>https://www.vesselfinder.com/vessels/details/9126807</link>
   <description>Disney Magic - Arrivals &amp; Departures - Auto-generated</description>
-  <lastBuildDate>Wed, 24 Jun 2026 00:17:47 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 24 Jun 2026 04:42:41 GMT</lastBuildDate>
   
   <item>
     <title>Disney Magic Arrived at Progreso, Mexico at Dec 31, 10:27 AM EST. The local time to the port is Dec 31, 10:27 AM EST</title>
@@ -27,6 +27,20 @@
     <guid isPermaLink="false">e3f33dd1a2a99877e5076290efe2ecc4b5fa0861</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:16 GMT</pubDate>
     <description><![CDATA[Cozumel, Mexico Arrival (UTC) Dec 30, 16:33 — ET: Dec 30, 11:33 AM EST | Local: Dec 30, 11:33 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Magic Departed from Ketchikan, United States (USA) at Jun 23, 10:15 PM EDT. The local time to the port is Jun 23, 10:15 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USKTN001</link>
+    <guid isPermaLink="false">42b284873569692004f44919e5f6515a046a2277</guid>
+    <pubDate>Wed, 24 Jun 2026 04:42:40 GMT</pubDate>
+    <description><![CDATA[Ketchikan, United States (USA) Departure (UTC) Jun 24, 02:15 — ET: Jun 23, 10:15 PM EDT | Local: Jun 23, 10:15 PM EDT]]></description>
+  </item>
+  <item>
+    <title>Disney Magic Arrived at Ketchikan, United States (USA) at Jun 23, 01:41 PM EDT. The local time to the port is Jun 23, 01:41 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USKTN001</link>
+    <guid isPermaLink="false">4e033ea7300ef6ba906e87951dfd226f053aa3a8</guid>
+    <pubDate>Wed, 24 Jun 2026 04:42:39 GMT</pubDate>
+    <description><![CDATA[Ketchikan, United States (USA) Arrival (UTC) Jun 23, 17:41 — ET: Jun 23, 01:41 PM EDT | Local: Jun 23, 01:41 PM EDT]]></description>
   </item>
   <item>
     <title>Disney Magic Arrived at Hoonah, United States (USA) at Jun 22, 10:20 AM EDT. The local time to the port is Jun 22, 10:20 AM EDT</title>
@@ -1742,20 +1756,6 @@
     <guid isPermaLink="false">1d34dc27a71118f96112cc7e67d6a98a9e8ea450</guid>
     <pubDate>Thu, 13 Nov 2025 20:42:31 GMT</pubDate>
     <description><![CDATA[Basseterre, St Kitts & Nevis Departure (UTC) Nov 13, 20:18 — ET: Nov 13, 03:18 PM EST | Local: Nov 13, 04:18 PM AST]]></description>
-  </item>
-  <item>
-    <title>Disney Magic Arrived at Basseterre, St Kitts &amp; Nevis at Nov 13, 05:17 AM EST. The local time to the port is Nov 13, 06:17 AM AST</title>
-    <link>https://www.vesselfinder.com/ports/KNBAS001</link>
-    <guid isPermaLink="false">b99d0803caa64ce182ce513483e8b1e2ef79ce5f</guid>
-    <pubDate>Thu, 13 Nov 2025 11:04:11 GMT</pubDate>
-    <description><![CDATA[Basseterre, St Kitts & Nevis Arrival (UTC) Nov 13, 10:17 — ET: Nov 13, 05:17 AM EST | Local: Nov 13, 06:17 AM AST]]></description>
-  </item>
-  <item>
-    <title>Disney Magic Departed from St Johns, Antigua &amp; Barbuda at Nov 12, 05:24 PM EST. The local time to the port is Nov 12, 06:24 PM AST</title>
-    <link>https://www.vesselfinder.com/ports/AGSJO001</link>
-    <guid isPermaLink="false">6767de83f1e9339cc5758b528623b6bcdd82c58d</guid>
-    <pubDate>Wed, 12 Nov 2025 22:44:44 GMT</pubDate>
-    <description><![CDATA[St Johns, Antigua & Barbuda Departure (UTC) Nov 12, 22:24 — ET: Nov 12, 05:24 PM EST | Local: Nov 12, 06:24 PM AST]]></description>
   </item>
 </channel>
 </rss>

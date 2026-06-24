@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Civitavecchia, Italy at Jun 23, 11:32 PM EDT. The local time to the port is Jun 24, 05:32 AM CEST",
+    "description": "Civitavecchia, Italy Arrival (UTC) Jun 24, 03:32 — ET: Jun 23, 11:32 PM EDT | Local: Jun 24, 05:32 AM CEST",
+    "link": "https://www.vesselfinder.com/ports/ITCVV001",
+    "guid": "05b5d9772672d351079c69f5793bbdbbd7bd3842",
+    "pubDate": "Wed, 24 Jun 2026 04:42:52 GMT",
+    "eventUtc": "2026-06-24T03:32:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Napoli, Italy at Jun 23, 02:08 PM EDT. The local time to the port is Jun 23, 08:08 PM CEST",
     "description": "Napoli, Italy Departure (UTC) Jun 23, 18:08 — ET: Jun 23, 02:08 PM EDT | Local: Jun 23, 08:08 PM CEST",
     "link": "https://www.vesselfinder.com/ports/ITNAP001",
@@ -2734,17 +2745,6 @@
     "guid": "b0c7c6e64f0fcde5912fbb238d763044d73638c3",
     "pubDate": "Wed, 17 Dec 2025 22:23:25 GMT",
     "eventUtc": "2025-12-17T22:09:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Arrived at Gorda Cay, Bahamas at Dec 17, 07:42 AM EST. The local time to the port is Dec 17, 07:42 AM EST",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) Dec 17, 12:42 — ET: Dec 17, 07:42 AM EST | Local: Dec 17, 07:42 AM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "99109dfde02a077e35548989054a11b2f5aa0182",
-    "pubDate": "Wed, 17 Dec 2025 13:42:38 GMT",
-    "eventUtc": "2025-12-17T12:42:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
     "source": "vf_ship"
