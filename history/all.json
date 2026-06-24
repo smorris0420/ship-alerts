@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Adventure Arrived at Singapore, Singapore at Jun 24, 05:33 PM EDT. The local time to the port is Jun 24, 05:33 PM EDT",
+    "description": "Singapore, Singapore Arrival (UTC) Jun 24, 21:33 — ET: Jun 24, 05:33 PM EDT | Local: Jun 24, 05:33 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/SGSIN001",
+    "guid": "2f87936551c932cbb5c83823c81a9ca21800567b",
+    "pubDate": "Wed, 24 Jun 2026 22:45:31 GMT",
+    "eventUtc": "2026-06-24T21:33:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Departed from Cozumel, Mexico at Jun 24, 05:07 PM EDT. The local time to the port is Jun 24, 04:07 PM EST",
     "description": "Cozumel, Mexico Departure (UTC) Jun 24, 21:07 — ET: Jun 24, 05:07 PM EDT | Local: Jun 24, 04:07 PM EST",
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-04-28T01:13:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Departed from Cozumel, Mexico at Apr 27, 06:10 PM EDT. The local time to the port is Apr 27, 05:10 PM EST",
-    "description": "Cozumel, Mexico Departure (UTC) Apr 27, 22:10 — ET: Apr 27, 06:10 PM EDT | Local: Apr 27, 05:10 PM EST",
-    "link": "https://www.vesselfinder.com/ports/MXCZM001",
-    "guid": "d2be806dffd0a1605b8e4566d227b35d320232eb",
-    "pubDate": "Mon, 27 Apr 2026 23:14:39 GMT",
-    "eventUtc": "2026-04-27T22:10:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
     "source": "vf_ship"
   }
 ]
