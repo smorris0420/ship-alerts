@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Civitavecchia, Italy at Jun 24, 11:53 AM EDT. The local time to the port is Jun 24, 05:53 PM CEST",
+    "description": "Civitavecchia, Italy Departure (UTC) Jun 24, 15:53 — ET: Jun 24, 11:53 AM EDT | Local: Jun 24, 05:53 PM CEST",
+    "link": "https://www.vesselfinder.com/ports/ITCVV001",
+    "guid": "ab2f4095f8260633226284df0bad828555704d5d",
+    "pubDate": "Wed, 24 Jun 2026 17:57:57 GMT",
+    "eventUtc": "2026-06-24T15:53:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Arrived at Cozumel, Mexico at Jun 24, 08:25 AM EDT. The local time to the port is Jun 24, 07:25 AM EST",
     "description": "Cozumel, Mexico Arrival (UTC) Jun 24, 12:25 — ET: Jun 24, 08:25 AM EDT | Local: Jun 24, 07:25 AM EST",
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-04-27T20:55:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Departed from Cape Canaveral, United States (USA) at Apr 27, 04:38 PM EDT. The local time to the port is Apr 27, 04:38 PM EDT",
-    "description": "Cape Canaveral, United States (USA) Departure (UTC) Apr 27, 20:38 — ET: Apr 27, 04:38 PM EDT | Local: Apr 27, 04:38 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "556fe326f963d63b9634353e2e8bea2efeb9a20a",
-    "pubDate": "Mon, 27 Apr 2026 21:16:15 GMT",
-    "eventUtc": "2026-04-27T20:38:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
     "source": "vf_ship"
   }
 ]

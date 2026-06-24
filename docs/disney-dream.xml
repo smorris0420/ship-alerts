@@ -5,7 +5,7 @@
   <title>Disney Dream - Arrivals &amp; Departures</title>
   <link>https://www.vesselfinder.com/vessels/details/9434254</link>
   <description>Disney Dream - Arrivals &amp; Departures - Auto-generated</description>
-  <lastBuildDate>Wed, 24 Jun 2026 15:58:55 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 24 Jun 2026 17:57:59 GMT</lastBuildDate>
   
   <item>
     <title>Disney Dream Departed from Port Everglades, United States (USA) at Dec 29, 04:49 PM EST. The local time to the port is Dec 29, 04:49 PM EST</title>
@@ -20,6 +20,13 @@
     <guid isPermaLink="false">5f7fbac63c07edf9fb1d4a3dd01fd68927534e3b</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:30 GMT</pubDate>
     <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) Dec 29, 10:48 — ET: Dec 29, 05:48 AM EST | Local: Dec 29, 05:48 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Dream Departed from Civitavecchia, Italy at Jun 24, 11:53 AM EDT. The local time to the port is Jun 24, 05:53 PM CEST</title>
+    <link>https://www.vesselfinder.com/ports/ITCVV001</link>
+    <guid isPermaLink="false">ab2f4095f8260633226284df0bad828555704d5d</guid>
+    <pubDate>Wed, 24 Jun 2026 17:57:57 GMT</pubDate>
+    <description><![CDATA[Civitavecchia, Italy Departure (UTC) Jun 24, 15:53 — ET: Jun 24, 11:53 AM EDT | Local: Jun 24, 05:53 PM CEST]]></description>
   </item>
   <item>
     <title>Disney Dream Arrived at Civitavecchia, Italy at Jun 23, 11:32 PM EDT. The local time to the port is Jun 24, 05:32 AM CEST</title>
@@ -1749,13 +1756,6 @@
     <guid isPermaLink="false">e1c5f7a9515b603676f4c708dc73512d95cba3de</guid>
     <pubDate>Fri, 19 Dec 2025 11:26:05 GMT</pubDate>
     <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) Dec 19, 10:48 — ET: Dec 19, 05:48 AM EST | Local: Dec 19, 05:48 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Dream Departed from Gorda Cay, Bahamas at Dec 17, 05:09 PM EST. The local time to the port is Dec 17, 05:09 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
-    <guid isPermaLink="false">b0c7c6e64f0fcde5912fbb238d763044d73638c3</guid>
-    <pubDate>Wed, 17 Dec 2025 22:23:25 GMT</pubDate>
-    <description><![CDATA[Gorda Cay, Bahamas Departure (UTC) Dec 17, 22:09 — ET: Dec 17, 05:09 PM EST | Local: Dec 17, 05:09 PM EST]]></description>
   </item>
 </channel>
 </rss>
