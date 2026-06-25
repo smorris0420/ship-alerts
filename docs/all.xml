@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Thu, 25 Jun 2026 09:43:56 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 25 Jun 2026 12:11:02 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -225,6 +225,13 @@
     <description><![CDATA[Road Town, Tortola, British Virgin Islands Departure (UTC) Jun 23, 22:00 — ET: Jun 23, 06:00 PM EDT | Local: Jun 23, 06:00 PM AST]]></description>
   </item>
   <item>
+    <title>Disney Wish Departed from Gorda Cay, Bahamas at Jun 23, 04:45 PM EDT. The local time to the port is Jun 23, 04:45 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
+    <guid isPermaLink="false">f3588aab9eef43bc0f4b99db12e44d67526d6284</guid>
+    <pubDate>Thu, 25 Jun 2026 12:05:34 GMT</pubDate>
+    <description><![CDATA[Gorda Cay, Bahamas Departure (UTC) Jun 23, 20:45 — ET: Jun 23, 04:45 PM EDT | Local: Jun 23, 04:45 PM EDT]]></description>
+  </item>
+  <item>
     <title>Disney Dream Departed from Napoli, Italy at Jun 23, 02:08 PM EDT. The local time to the port is Jun 23, 08:08 PM CEST</title>
     <link>https://www.vesselfinder.com/ports/ITNAP001</link>
     <guid isPermaLink="false">b2326bd08f500ac920af3b0e9ed2618492df1fe0</guid>
@@ -237,6 +244,13 @@
     <guid isPermaLink="false">4e033ea7300ef6ba906e87951dfd226f053aa3a8</guid>
     <pubDate>Wed, 24 Jun 2026 04:42:39 GMT</pubDate>
     <description><![CDATA[Ketchikan, United States (USA) Arrival (UTC) Jun 23, 17:41 — ET: Jun 23, 01:41 PM EDT | Local: Jun 23, 01:41 PM EDT]]></description>
+  </item>
+  <item>
+    <title>Disney Wish Arrived at Gorda Cay, Bahamas at Jun 23, 07:30 AM EDT. The local time to the port is Jun 23, 07:30 AM EDT</title>
+    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
+    <guid isPermaLink="false">4922e05e8f66629933eeae25832adee8e7998497</guid>
+    <pubDate>Thu, 25 Jun 2026 12:05:32 GMT</pubDate>
+    <description><![CDATA[Gorda Cay, Bahamas Arrival (UTC) Jun 23, 11:30 — ET: Jun 23, 07:30 AM EDT | Local: Jun 23, 07:30 AM EDT]]></description>
   </item>
   <item>
     <title>Disney Treasure Arrived at Road Town, Tortola, British Virgin Islands at Jun 23, 07:27 AM EDT. The local time to the port is Jun 23, 07:27 AM AST</title>
@@ -3492,20 +3506,6 @@
     <guid isPermaLink="false">f7ad43769ac2ca4eaee46f3af6de9bfe0ea84c7b</guid>
     <pubDate>Tue, 28 Apr 2026 13:02:08 GMT</pubDate>
     <description><![CDATA[Nassau, Bahamas Arrival (UTC) Apr 28, 11:24 — ET: Apr 28, 07:24 AM EDT | Local: Apr 28, 07:24 AM EDT]]></description>
-  </item>
-  <item>
-    <title>Disney Wish Arrived at Gorda Cay, Bahamas at Apr 28, 07:13 AM EDT. The local time to the port is Apr 28, 07:13 AM EDT</title>
-    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
-    <guid isPermaLink="false">2f635b2552578f44df5de979feba16bafc71dcdb</guid>
-    <pubDate>Tue, 28 Apr 2026 13:00:33 GMT</pubDate>
-    <description><![CDATA[Gorda Cay, Bahamas Arrival (UTC) Apr 28, 11:13 — ET: Apr 28, 07:13 AM EDT | Local: Apr 28, 07:13 AM EDT]]></description>
-  </item>
-  <item>
-    <title>Disney Treasure Arrived at Saint Thomas, US Virgin Islands at Apr 28, 06:46 AM EDT. The local time to the port is Apr 28, 06:46 AM EDT</title>
-    <link>https://www.vesselfinder.com/ports/VISTT001</link>
-    <guid isPermaLink="false">fd23fb4cf102c68431753a043eb5c277856051dc</guid>
-    <pubDate>Tue, 28 Apr 2026 13:00:43 GMT</pubDate>
-    <description><![CDATA[Saint Thomas, US Virgin Islands Arrival (UTC) Apr 28, 10:46 — ET: Apr 28, 06:46 AM EDT | Local: Apr 28, 06:46 AM EDT]]></description>
   </item>
 </channel>
 </rss>
