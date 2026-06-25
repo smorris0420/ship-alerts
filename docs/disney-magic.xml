@@ -5,7 +5,7 @@
   <title>Disney Magic - Arrivals &amp; Departures</title>
   <link>https://www.vesselfinder.com/vessels/details/9126807</link>
   <description>Disney Magic - Arrivals &amp; Departures - Auto-generated</description>
-  <lastBuildDate>Thu, 25 Jun 2026 21:07:57 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 25 Jun 2026 22:44:52 GMT</lastBuildDate>
   
   <item>
     <title>Disney Magic Arrived at Progreso, Mexico at Dec 31, 10:27 AM EST. The local time to the port is Dec 31, 10:27 AM EST</title>
@@ -27,6 +27,13 @@
     <guid isPermaLink="false">e3f33dd1a2a99877e5076290efe2ecc4b5fa0861</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:16 GMT</pubDate>
     <description><![CDATA[Cozumel, Mexico Arrival (UTC) Dec 30, 16:33 — ET: Dec 30, 11:33 AM EST | Local: Dec 30, 11:33 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Magic Departed from Vancouver, Canada at Jun 25, 06:22 PM EDT. The local time to the port is Jun 25, 03:22 PM PDT</title>
+    <link>https://www.vesselfinder.com/ports/CAVAN001</link>
+    <guid isPermaLink="false">b64f72fd9ebeda962e63378a37460dc9e3afb0d7</guid>
+    <pubDate>Thu, 25 Jun 2026 22:44:50 GMT</pubDate>
+    <description><![CDATA[Vancouver, Canada Departure (UTC) Jun 25, 22:22 — ET: Jun 25, 06:22 PM EDT | Local: Jun 25, 03:22 PM PDT]]></description>
   </item>
   <item>
     <title>Disney Magic Arrived at Vancouver, Canada at Jun 25, 09:56 AM EDT. The local time to the port is Jun 25, 06:56 AM PDT</title>
@@ -1749,13 +1756,6 @@
     <guid isPermaLink="false">04a07cc0dc09d70abfcd47a16ab0e0035836388e</guid>
     <pubDate>Mon, 17 Nov 2025 10:01:59 GMT</pubDate>
     <description><![CDATA[San Juan, Puerto Rico Departure (UTC) Nov 14, 21:28 — ET: Nov 14, 04:28 PM EST | Local: Nov 14, 05:28 PM AST]]></description>
-  </item>
-  <item>
-    <title>Disney Magic Arrived at San Juan, Puerto Rico at Nov 14, 05:15 AM EST. The local time to the port is Nov 14, 06:15 AM AST</title>
-    <link>https://www.vesselfinder.com/ports/PRSJU001</link>
-    <guid isPermaLink="false">b5d17318a11a06720d78fbab7b6e8430bcf11fe7</guid>
-    <pubDate>Mon, 17 Nov 2025 10:01:58 GMT</pubDate>
-    <description><![CDATA[San Juan, Puerto Rico Arrival (UTC) Nov 14, 10:15 — ET: Nov 14, 05:15 AM EST | Local: Nov 14, 06:15 AM AST]]></description>
   </item>
 </channel>
 </rss>

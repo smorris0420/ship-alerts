@@ -33,6 +33,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Vancouver, Canada at Jun 25, 06:22 PM EDT. The local time to the port is Jun 25, 03:22 PM PDT",
+    "description": "Vancouver, Canada Departure (UTC) Jun 25, 22:22 — ET: Jun 25, 06:22 PM EDT | Local: Jun 25, 03:22 PM PDT",
+    "link": "https://www.vesselfinder.com/ports/CAVAN001",
+    "guid": "b64f72fd9ebeda962e63378a37460dc9e3afb0d7",
+    "pubDate": "Thu, 25 Jun 2026 22:44:50 GMT",
+    "eventUtc": "2026-06-25T22:22:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Arrived at Vancouver, Canada at Jun 25, 09:56 AM EDT. The local time to the port is Jun 25, 06:56 AM PDT",
     "description": "Vancouver, Canada Arrival (UTC) Jun 25, 13:56 — ET: Jun 25, 09:56 AM EDT | Local: Jun 25, 06:56 AM PDT",
     "link": "https://www.vesselfinder.com/ports/CAVAN001",
@@ -2734,17 +2745,6 @@
     "guid": "04a07cc0dc09d70abfcd47a16ab0e0035836388e",
     "pubDate": "Mon, 17 Nov 2025 10:01:59 GMT",
     "eventUtc": "2025-11-14T21:28:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Arrived at San Juan, Puerto Rico at Nov 14, 05:15 AM EST. The local time to the port is Nov 14, 06:15 AM AST",
-    "description": "San Juan, Puerto Rico Arrival (UTC) Nov 14, 10:15 — ET: Nov 14, 05:15 AM EST | Local: Nov 14, 06:15 AM AST",
-    "link": "https://www.vesselfinder.com/ports/PRSJU001",
-    "guid": "b5d17318a11a06720d78fbab7b6e8430bcf11fe7",
-    "pubDate": "Mon, 17 Nov 2025 10:01:58 GMT",
-    "eventUtc": "2025-11-14T10:15:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
     "source": "vf_ship"
