@@ -253,6 +253,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Departed from Georgetown, Grand Cayman Anch., Cayman Islands at Jun 24, 05:07 PM EDT. The local time to the port is Jun 24, 04:07 PM EST",
+    "description": "Georgetown, Grand Cayman Anch., Cayman Islands Departure (UTC) Jun 24, 21:07 — ET: Jun 24, 05:07 PM EDT | Local: Jun 24, 04:07 PM EST",
+    "link": "https://www.vesselfinder.com/ports/KYGEC001",
+    "guid": "da56046c4d6e985c3041737132e206a37d41a6ba",
+    "pubDate": "Thu, 25 Jun 2026 17:09:43 GMT",
+    "eventUtc": "2026-06-24T21:07:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Departed from Cape Canaveral, United States (USA) at Jun 24, 04:57 PM EDT. The local time to the port is Jun 24, 04:57 PM EDT",
     "description": "Cape Canaveral, United States (USA) Departure (UTC) Jun 24, 20:57 — ET: Jun 24, 04:57 PM EDT | Local: Jun 24, 04:57 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -291,6 +302,17 @@
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
     "guid": "510bde9279a6509afde3d13607c9d21ffeb95775",
     "pubDate": "Wed, 24 Jun 2026 13:36:30 GMT",
+    "eventUtc": "2026-06-24T12:25:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Destiny Arrived at Georgetown, Grand Cayman Anch., Cayman Islands at Jun 24, 08:25 AM EDT. The local time to the port is Jun 24, 07:25 AM EST",
+    "description": "Georgetown, Grand Cayman Anch., Cayman Islands Arrival (UTC) Jun 24, 12:25 — ET: Jun 24, 08:25 AM EDT | Local: Jun 24, 07:25 AM EST",
+    "link": "https://www.vesselfinder.com/ports/KYGEC001",
+    "guid": "70b252c8a920c1c9ff1372a77f7c27847a06ae09",
+    "pubDate": "Thu, 25 Jun 2026 17:09:41 GMT",
     "eventUtc": "2026-06-24T12:25:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-04-28T23:32:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Saint Thomas, US Virgin Islands at Apr 28, 06:19 PM EDT. The local time to the port is Apr 28, 06:19 PM EDT",
-    "description": "Saint Thomas, US Virgin Islands Departure (UTC) Apr 28, 22:19 — ET: Apr 28, 06:19 PM EDT | Local: Apr 28, 06:19 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/VISTT001",
-    "guid": "682fa96ccadbf8dc83ec6d922819656385e116e7",
-    "pubDate": "Tue, 28 Apr 2026 22:35:12 GMT",
-    "eventUtc": "2026-04-28T22:19:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Departed from Gorda Cay, Bahamas at Apr 28, 04:51 PM EDT. The local time to the port is Apr 28, 04:51 PM EDT",
-    "description": "Gorda Cay, Bahamas Departure (UTC) Apr 28, 20:51 — ET: Apr 28, 04:51 PM EDT | Local: Apr 28, 04:51 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "28fbf24de4925c0d32ac2f6050d513aff27cddbd",
-    "pubDate": "Tue, 28 Apr 2026 21:32:40 GMT",
-    "eventUtc": "2026-04-28T20:51:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
     "source": "vf_ship"
   }
 ]

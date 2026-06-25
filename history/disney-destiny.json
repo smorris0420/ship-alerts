@@ -33,11 +33,33 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Departed from Georgetown, Grand Cayman Anch., Cayman Islands at Jun 24, 05:07 PM EDT. The local time to the port is Jun 24, 04:07 PM EST",
+    "description": "Georgetown, Grand Cayman Anch., Cayman Islands Departure (UTC) Jun 24, 21:07 — ET: Jun 24, 05:07 PM EDT | Local: Jun 24, 04:07 PM EST",
+    "link": "https://www.vesselfinder.com/ports/KYGEC001",
+    "guid": "da56046c4d6e985c3041737132e206a37d41a6ba",
+    "pubDate": "Thu, 25 Jun 2026 17:09:43 GMT",
+    "eventUtc": "2026-06-24T21:07:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Arrived at Cozumel, Mexico at Jun 24, 08:25 AM EDT. The local time to the port is Jun 24, 07:25 AM EST",
     "description": "Cozumel, Mexico Arrival (UTC) Jun 24, 12:25 — ET: Jun 24, 08:25 AM EDT | Local: Jun 24, 07:25 AM EST",
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
     "guid": "510bde9279a6509afde3d13607c9d21ffeb95775",
     "pubDate": "Wed, 24 Jun 2026 13:36:30 GMT",
+    "eventUtc": "2026-06-24T12:25:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Destiny Arrived at Georgetown, Grand Cayman Anch., Cayman Islands at Jun 24, 08:25 AM EDT. The local time to the port is Jun 24, 07:25 AM EST",
+    "description": "Georgetown, Grand Cayman Anch., Cayman Islands Arrival (UTC) Jun 24, 12:25 — ET: Jun 24, 08:25 AM EDT | Local: Jun 24, 07:25 AM EST",
+    "link": "https://www.vesselfinder.com/ports/KYGEC001",
+    "guid": "70b252c8a920c1c9ff1372a77f7c27847a06ae09",
+    "pubDate": "Thu, 25 Jun 2026 17:09:41 GMT",
     "eventUtc": "2026-06-24T12:25:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
@@ -2726,27 +2748,5 @@
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
     "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Departed from Port Everglades, United States (USA) at Nov 14, 12:15 PM EST. The local time to the port is Nov 14, 12:15 PM EST",
-    "description": "Port Everglades, United States (USA) Departure (UTC) Nov 14, 17:15 — ET: Nov 14, 12:15 PM EST | Local: Nov 14, 12:15 PM EST",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "2e9e00ef8007104db9a2cef85905aa5b9c81b79e",
-    "pubDate": "Thu, 13 Nov 2025 19:18:54 GMT",
-    "eventUtc": "2025-11-14T17:15:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
-    "source": "vf_port"
-  },
-  {
-    "title": "Disney Destiny Arrived at Port Everglades, United States (USA) at Nov 14, 12:15 PM EST. The local time to the port is Nov 14, 12:15 PM EST",
-    "description": "Port Everglades, United States (USA) Arrival (UTC) Nov 14, 17:15 — ET: Nov 14, 12:15 PM EST | Local: Nov 14, 12:15 PM EST",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "af7479f3af6b40cc3a8303d7bac3c137c0765ed0",
-    "pubDate": "Thu, 13 Nov 2025 19:18:55 GMT",
-    "eventUtc": "2025-11-14T17:15:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
-    "source": "vf_port"
   }
 ]
