@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Departed from Gorda Cay, Bahamas at Jun 26, 04:57 PM EDT. The local time to the port is Jun 26, 04:57 PM EDT",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Jun 26, 20:57 — ET: Jun 26, 04:57 PM EDT | Local: Jun 26, 04:57 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "4b90bbc4452e27d2cef217d438b49e7221643286",
+    "pubDate": "Fri, 26 Jun 2026 22:19:06 GMT",
+    "eventUtc": "2026-06-26T20:57:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Departed from Cape Canaveral, United States (USA) at Jun 26, 04:31 PM EDT. The local time to the port is Jun 26, 04:31 PM EDT",
     "description": "Cape Canaveral, United States (USA) Departure (UTC) Jun 26, 20:31 — ET: Jun 26, 04:31 PM EDT | Local: Jun 26, 04:31 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-04-29T22:10:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Adventure Arrived at Singapore, Singapore at Apr 29, 05:20 PM EDT. The local time to the port is Apr 29, 05:20 PM EDT",
-    "description": "Singapore, Singapore Arrival (UTC) Apr 29, 21:20 — ET: Apr 29, 05:20 PM EDT | Local: Apr 29, 05:20 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/SGSIN001",
-    "guid": "483674571262d11915cd67d5ede5be04ed6e1d70",
-    "pubDate": "Wed, 29 Apr 2026 22:13:11 GMT",
-    "eventUtc": "2026-04-29T21:20:00+00:00",
-    "shipSlug": "disney-adventure",
-    "shipName": "Disney Adventure",
     "source": "vf_ship"
   }
 ]
