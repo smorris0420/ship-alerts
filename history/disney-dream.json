@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Messina, Italy at Jun 26, 10:21 AM EDT. The local time to the port is Jun 26, 04:21 PM CEST",
+    "description": "Messina, Italy Departure (UTC) Jun 26, 14:21 — ET: Jun 26, 10:21 AM EDT | Local: Jun 26, 04:21 PM CEST",
+    "link": "https://www.vesselfinder.com/ports/ITMSN001",
+    "guid": "afc7b6037a3af6ec65241c5277f4470b17d07cb0",
+    "pubDate": "Fri, 26 Jun 2026 15:40:01 GMT",
+    "eventUtc": "2026-06-26T14:21:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Arrived at Messina, Italy at Jun 26, 12:33 AM EDT. The local time to the port is Jun 26, 06:33 AM CEST",
     "description": "Messina, Italy Arrival (UTC) Jun 26, 04:33 — ET: Jun 26, 12:33 AM EDT | Local: Jun 26, 06:33 AM CEST",
     "link": "https://www.vesselfinder.com/ports/ITMSN001",
@@ -2734,17 +2745,6 @@
     "guid": "ffd8526625573c733f2e143a67618a4bb2487a3c",
     "pubDate": "Sun, 21 Dec 2025 12:58:02 GMT",
     "eventUtc": "2025-12-21T12:10:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Port Everglades, United States (USA) at Dec 19, 04:56 PM EST. The local time to the port is Dec 19, 04:56 PM EST",
-    "description": "Port Everglades, United States (USA) Departure (UTC) Dec 19, 21:56 — ET: Dec 19, 04:56 PM EST | Local: Dec 19, 04:56 PM EST",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "bfca129b25be88c0a7c328f6c69600cddd21c1a7",
-    "pubDate": "Fri, 19 Dec 2025 22:17:08 GMT",
-    "eventUtc": "2025-12-19T21:56:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
     "source": "vf_ship"
