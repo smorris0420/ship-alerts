@@ -5,7 +5,7 @@
   <title>Disney Treasure - Arrivals &amp; Departures</title>
   <link>https://www.vesselfinder.com/vessels/details/9834753</link>
   <description>Disney Treasure - Arrivals &amp; Departures - Auto-generated</description>
-  <lastBuildDate>Sat, 27 Jun 2026 20:02:17 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 27 Jun 2026 21:15:58 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -34,6 +34,13 @@
     <guid isPermaLink="false">82d28296f402cfdf1461b4ee7ddf9e1831c89886</guid>
     <pubDate>Thu, 01 Jan 2026 00:00:51 GMT</pubDate>
     <description><![CDATA[Georgetown, Grand Cayman Anch., Cayman Islands Arrival (UTC) Dec 29, 12:44 — ET: Dec 29, 07:44 AM EST | Local: Dec 29, 07:44 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Treasure Departed from Cape Canaveral, United States (USA) at Jun 27, 04:50 PM EDT. The local time to the port is Jun 27, 04:50 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USPCV001</link>
+    <guid isPermaLink="false">a935d402ad8940391b6d740044f0691765e5c690</guid>
+    <pubDate>Sat, 27 Jun 2026 21:15:56 GMT</pubDate>
+    <description><![CDATA[Cape Canaveral, United States (USA) Departure (UTC) Jun 27, 20:50 — ET: Jun 27, 04:50 PM EDT | Local: Jun 27, 04:50 PM EDT]]></description>
   </item>
   <item>
     <title>Disney Treasure Arrived at Cape Canaveral, United States (USA) at Jun 27, 05:52 AM EDT. The local time to the port is Jun 27, 05:52 AM EDT</title>
@@ -1749,13 +1756,6 @@
     <guid isPermaLink="false">345b5380278e3eff0277aacf6c545d7af0693cd9</guid>
     <pubDate>Wed, 10 Dec 2025 11:43:01 GMT</pubDate>
     <description><![CDATA[Road Town, Tortola, British Virgin Islands Arrival (UTC) Dec 10, 11:09 — ET: Dec 10, 06:09 AM EST | Local: Dec 10, 07:09 AM AST]]></description>
-  </item>
-  <item>
-    <title>Disney Treasure Departed from Saint Thomas, US Virgin Islands at Dec 09, 04:43 PM EST. The local time to the port is Dec 09, 04:43 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/VISTT001</link>
-    <guid isPermaLink="false">a4753d74bb1654af72d776184cf8c6c7bfc84786</guid>
-    <pubDate>Tue, 09 Dec 2025 21:53:42 GMT</pubDate>
-    <description><![CDATA[Saint Thomas, US Virgin Islands Departure (UTC) Dec 9, 21:43 — ET: Dec 09, 04:43 PM EST | Local: Dec 09, 04:43 PM EST]]></description>
   </item>
 </channel>
 </rss>

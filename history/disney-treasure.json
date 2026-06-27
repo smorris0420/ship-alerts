@@ -44,6 +44,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Departed from Cape Canaveral, United States (USA) at Jun 27, 04:50 PM EDT. The local time to the port is Jun 27, 04:50 PM EDT",
+    "description": "Cape Canaveral, United States (USA) Departure (UTC) Jun 27, 20:50 — ET: Jun 27, 04:50 PM EDT | Local: Jun 27, 04:50 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "a935d402ad8940391b6d740044f0691765e5c690",
+    "pubDate": "Sat, 27 Jun 2026 21:15:56 GMT",
+    "eventUtc": "2026-06-27T20:50:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Arrived at Cape Canaveral, United States (USA) at Jun 27, 05:52 AM EDT. The local time to the port is Jun 27, 05:52 AM EDT",
     "description": "Cape Canaveral, United States (USA) Arrival (UTC) Jun 27, 09:52 — ET: Jun 27, 05:52 AM EDT | Local: Jun 27, 05:52 AM EDT",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -2734,17 +2745,6 @@
     "guid": "345b5380278e3eff0277aacf6c545d7af0693cd9",
     "pubDate": "Wed, 10 Dec 2025 11:43:01 GMT",
     "eventUtc": "2025-12-10T11:09:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Saint Thomas, US Virgin Islands at Dec 09, 04:43 PM EST. The local time to the port is Dec 09, 04:43 PM EST",
-    "description": "Saint Thomas, US Virgin Islands Departure (UTC) Dec 9, 21:43 — ET: Dec 09, 04:43 PM EST | Local: Dec 09, 04:43 PM EST",
-    "link": "https://www.vesselfinder.com/ports/VISTT001",
-    "guid": "a4753d74bb1654af72d776184cf8c6c7bfc84786",
-    "pubDate": "Tue, 09 Dec 2025 21:53:42 GMT",
-    "eventUtc": "2025-12-09T21:43:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
     "source": "vf_ship"
