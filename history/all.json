@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Arrived at Nassau, Bahamas at Jun 27, 09:24 AM EDT. The local time to the port is Jun 27, 09:24 AM EDT",
+    "description": "Nassau, Bahamas Arrival (UTC) Jun 27, 13:24 — ET: Jun 27, 09:24 AM EDT | Local: Jun 27, 09:24 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "f757e93f6af198c79eccfcc2be4d464e2884e8d8",
+    "pubDate": "Sat, 27 Jun 2026 15:01:53 GMT",
+    "eventUtc": "2026-06-27T13:24:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Arrived at Port Everglades, United States (USA) at Jun 27, 06:00 AM EDT. The local time to the port is Jun 27, 06:00 AM EDT",
     "description": "Port Everglades, United States (USA) Arrival (UTC) Jun 27, 10:00 — ET: Jun 27, 06:00 AM EDT | Local: Jun 27, 06:00 AM EDT",
     "link": "https://www.vesselfinder.com/ports/USPEF001",
@@ -319,6 +330,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Fantasy Departed from Gorda Cay, Bahamas at Jun 25, 05:06 PM EDT. The local time to the port is Jun 25, 05:06 PM EDT",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Jun 25, 21:06 — ET: Jun 25, 05:06 PM EDT | Local: Jun 25, 05:06 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "66eae13bf7d9509fb2603beded87ba3b46f0d1f7",
+    "pubDate": "Sat, 27 Jun 2026 15:02:54 GMT",
+    "eventUtc": "2026-06-25T21:06:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Arrived at Vancouver, Canada at Jun 25, 09:56 AM EDT. The local time to the port is Jun 25, 06:56 AM PDT",
     "description": "Vancouver, Canada Arrival (UTC) Jun 25, 13:56 — ET: Jun 25, 09:56 AM EDT | Local: Jun 25, 06:56 AM PDT",
     "link": "https://www.vesselfinder.com/ports/CAVAN001",
@@ -327,6 +349,17 @@
     "eventUtc": "2026-06-25T13:56:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Fantasy Arrived at Gorda Cay, Bahamas at Jun 25, 07:56 AM EDT. The local time to the port is Jun 25, 07:56 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Jun 25, 11:56 — ET: Jun 25, 07:56 AM EDT | Local: Jun 25, 07:56 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "fefebf2427a1a3b5046e638368745e559dd0bb66",
+    "pubDate": "Sat, 27 Jun 2026 15:02:52 GMT",
+    "eventUtc": "2026-06-25T11:56:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
     "source": "vf_ship"
   },
   {
@@ -5464,39 +5497,6 @@
     "eventUtc": "2026-04-30T20:14:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Arrived at Gorda Cay, Bahamas at Apr 30, 07:08 AM EDT. The local time to the port is Apr 30, 07:08 AM EDT",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) Apr 30, 11:08 — ET: Apr 30, 07:08 AM EDT | Local: Apr 30, 07:08 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "e1cb28a5c545a79bf837feafe5b6e1018231df10",
-    "pubDate": "Thu, 30 Apr 2026 12:22:53 GMT",
-    "eventUtc": "2026-04-30T11:08:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Arrived at Port Everglades, United States (USA) at Apr 30, 05:48 AM EDT. The local time to the port is Apr 30, 05:48 AM EDT",
-    "description": "Port Everglades, United States (USA) Arrival (UTC) Apr 30, 09:48 — ET: Apr 30, 05:48 AM EDT | Local: Apr 30, 05:48 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "f54aa24ddf8d7b456ec865cea719c04d45174386",
-    "pubDate": "Thu, 30 Apr 2026 11:04:53 GMT",
-    "eventUtc": "2026-04-30T09:48:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Adventure Departed from Singapore, Singapore at Apr 30, 05:08 AM EDT. The local time to the port is Apr 30, 05:08 AM EDT",
-    "description": "Singapore, Singapore Departure (UTC) Apr 30, 09:08 — ET: Apr 30, 05:08 AM EDT | Local: Apr 30, 05:08 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/SGSIN001",
-    "guid": "aa3c888741976564e693145675996c9d92d4e0fb",
-    "pubDate": "Thu, 30 Apr 2026 11:04:46 GMT",
-    "eventUtc": "2026-04-30T09:08:00+00:00",
-    "shipSlug": "disney-adventure",
-    "shipName": "Disney Adventure",
     "source": "vf_ship"
   }
 ]
