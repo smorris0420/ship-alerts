@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Departed from Port Everglades, United States (USA) at Jun 27, 04:00 PM EDT. The local time to the port is Jun 27, 04:00 PM EDT",
+    "description": "Port Everglades, United States (USA) Departure (UTC) Jun 27, 20:00 — ET: Jun 27, 04:00 PM EDT | Local: Jun 27, 04:00 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPEF001",
+    "guid": "ff8f67bab0c9fc827b95345a5f10701393f68d30",
+    "pubDate": "Sat, 27 Jun 2026 20:06:04 GMT",
+    "eventUtc": "2026-06-27T20:00:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Kerkira (Corfu), Greece at Jun 27, 12:18 PM EDT. The local time to the port is Jun 27, 07:18 PM EEST",
     "description": "Kerkira (Corfu), Greece Departure (UTC) Jun 27, 16:18 — ET: Jun 27, 12:18 PM EDT | Local: Jun 27, 07:18 PM EEST",
     "link": "https://www.vesselfinder.com/ports/GRCFU001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-05-01T08:42:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Gorda Cay, Bahamas at Apr 30, 05:04 PM EDT. The local time to the port is Apr 30, 05:04 PM EDT",
-    "description": "Gorda Cay, Bahamas Departure (UTC) Apr 30, 21:04 — ET: Apr 30, 05:04 PM EDT | Local: Apr 30, 05:04 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "839559328c694b451a4aa1bb874ab51a1a2664ef",
-    "pubDate": "Thu, 30 Apr 2026 22:15:53 GMT",
-    "eventUtc": "2026-04-30T21:04:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
     "source": "vf_ship"
   }
 ]

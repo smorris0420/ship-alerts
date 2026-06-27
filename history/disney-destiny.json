@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Departed from Port Everglades, United States (USA) at Jun 27, 04:00 PM EDT. The local time to the port is Jun 27, 04:00 PM EDT",
+    "description": "Port Everglades, United States (USA) Departure (UTC) Jun 27, 20:00 — ET: Jun 27, 04:00 PM EDT | Local: Jun 27, 04:00 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPEF001",
+    "guid": "ff8f67bab0c9fc827b95345a5f10701393f68d30",
+    "pubDate": "Sat, 27 Jun 2026 20:06:04 GMT",
+    "eventUtc": "2026-06-27T20:00:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Arrived at Port Everglades, United States (USA) at Jun 27, 06:00 AM EDT. The local time to the port is Jun 27, 06:00 AM EDT",
     "description": "Port Everglades, United States (USA) Arrival (UTC) Jun 27, 10:00 — ET: Jun 27, 06:00 AM EDT | Local: Jun 27, 06:00 AM EDT",
     "link": "https://www.vesselfinder.com/ports/USPEF001",
@@ -2733,17 +2744,6 @@
     "link": "https://www.vesselfinder.com/ports/USPEF001",
     "guid": "06d9134b89f26f24b24d441e9fc013c235f22bf0",
     "pubDate": "Sat, 15 Nov 2025 02:08:34 GMT",
-    "eventUtc": "2025-11-16T14:00:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
-    "source": "vf_port"
-  },
-  {
-    "title": "Disney Destiny Arrived at Port Everglades, United States (USA) at Nov 16, 09:00 AM EST. The local time to the port is Nov 16, 09:00 AM EST",
-    "description": "Port Everglades, United States (USA) Arrival (UTC) Nov 16, 14:00 — ET: Nov 16, 09:00 AM EST | Local: Nov 16, 09:00 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "1b2bfe21688c80a7639482097f77be2173bda413",
-    "pubDate": "Sat, 15 Nov 2025 02:08:36 GMT",
     "eventUtc": "2025-11-16T14:00:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
