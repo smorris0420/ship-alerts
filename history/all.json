@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Kerkira (Corfu), Greece at Jun 27, 02:44 AM EDT. The local time to the port is Jun 27, 09:44 AM EEST",
+    "description": "Kerkira (Corfu), Greece Arrival (UTC) Jun 27, 06:44 — ET: Jun 27, 02:44 AM EDT | Local: Jun 27, 09:44 AM EEST",
+    "link": "https://www.vesselfinder.com/ports/GRCFU001",
+    "guid": "2a6b97d7a7fb2715cc8d2163f0cf486b9e685d46",
+    "pubDate": "Sat, 27 Jun 2026 08:17:07 GMT",
+    "eventUtc": "2026-06-27T06:44:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Departed from Gorda Cay, Bahamas at Jun 26, 04:57 PM EDT. The local time to the port is Jun 26, 04:57 PM EDT",
     "description": "Gorda Cay, Bahamas Departure (UTC) Jun 26, 20:57 — ET: Jun 26, 04:57 PM EDT | Local: Jun 26, 04:57 PM EDT",
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
@@ -5487,16 +5498,5 @@
     "shipSlug": "disney-adventure",
     "shipName": "Disney Adventure",
     "source": "vf_port"
-  },
-  {
-    "title": "Disney Fantasy Departed from Nassau, Bahamas at Apr 29, 06:10 PM EDT. The local time to the port is Apr 29, 06:10 PM EDT",
-    "description": "Nassau, Bahamas Departure (UTC) Apr 29, 22:10 — ET: Apr 29, 06:10 PM EDT | Local: Apr 29, 06:10 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "57333f286046f39d449f84df26d3bf723beddfaf",
-    "pubDate": "Wed, 29 Apr 2026 23:11:45 GMT",
-    "eventUtc": "2026-04-29T22:10:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
-    "source": "vf_ship"
   }
 ]
