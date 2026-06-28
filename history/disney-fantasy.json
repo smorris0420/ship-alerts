@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Fantasy Departed from Cape Canaveral, United States (USA) at Jun 28, 04:32 PM EDT. The local time to the port is Jun 28, 04:32 PM EDT",
+    "description": "Cape Canaveral, United States (USA) Departure (UTC) Jun 28, 20:32 — ET: Jun 28, 04:32 PM EDT | Local: Jun 28, 04:32 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "6e7c1a01eaf75cb5e993ebca047188433689fff3",
+    "pubDate": "Sun, 28 Jun 2026 21:14:06 GMT",
+    "eventUtc": "2026-06-28T20:32:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Arrived at Cape Canaveral, United States (USA) at Jun 28, 04:22 AM EDT. The local time to the port is Jun 28, 04:22 AM EDT",
     "description": "Cape Canaveral, United States (USA) Arrival (UTC) Jun 28, 08:22 — ET: Jun 28, 04:22 AM EDT | Local: Jun 28, 04:22 AM EDT",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -2734,17 +2745,6 @@
     "guid": "8dcd5a2ae81cba78f5c2276673e1fc7206cf3b13",
     "pubDate": "Sun, 30 Nov 2025 11:24:22 GMT",
     "eventUtc": "2025-11-30T10:47:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Departed from Gorda Cay, Bahamas at Nov 29, 04:47 PM EST. The local time to the port is Nov 29, 04:47 PM EST",
-    "description": "Gorda Cay, Bahamas Departure (UTC) Nov 29, 21:47 — ET: Nov 29, 04:47 PM EST | Local: Nov 29, 04:47 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "c71dcc72077a434578a4b738b4f4f14bb48464b0",
-    "pubDate": "Sun, 30 Nov 2025 08:54:20 GMT",
-    "eventUtc": "2025-11-29T21:47:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
     "source": "vf_ship"
