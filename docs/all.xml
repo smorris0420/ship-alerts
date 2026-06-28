@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Sun, 28 Jun 2026 01:55:57 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 28 Jun 2026 06:09:18 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -141,6 +141,13 @@
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
   </item>
   <item>
+    <title>Disney Wonder Departed from Ketchikan, United States (USA) at Jun 27, 11:10 PM EDT. The local time to the port is Jun 27, 11:10 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USKTN001</link>
+    <guid isPermaLink="false">e4628fa1630012dafe1cb5aafefb5ebbc4ce2aad</guid>
+    <pubDate>Sun, 28 Jun 2026 06:07:43 GMT</pubDate>
+    <description><![CDATA[Ketchikan, United States (USA) Departure (UTC) Jun 28, 03:10 — ET: Jun 27, 11:10 PM EDT | Local: Jun 27, 11:10 PM EDT]]></description>
+  </item>
+  <item>
     <title>Disney Wish Departed from Nassau, Bahamas at Jun 27, 06:02 PM EDT. The local time to the port is Jun 27, 06:02 PM EDT</title>
     <link>https://www.vesselfinder.com/ports/BSNAS001</link>
     <guid isPermaLink="false">e76469a137b4e5fe480b5c1d77a42c347d08ebdf</guid>
@@ -160,6 +167,13 @@
     <guid isPermaLink="false">ff8f67bab0c9fc827b95345a5f10701393f68d30</guid>
     <pubDate>Sat, 27 Jun 2026 20:06:04 GMT</pubDate>
     <description><![CDATA[Port Everglades, United States (USA) Departure (UTC) Jun 27, 20:00 — ET: Jun 27, 04:00 PM EDT | Local: Jun 27, 04:00 PM EDT]]></description>
+  </item>
+  <item>
+    <title>Disney Wonder Arrived at Ketchikan, United States (USA) at Jun 27, 01:50 PM EDT. The local time to the port is Jun 27, 01:50 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USKTN001</link>
+    <guid isPermaLink="false">eb9736a1a8767c59907b8489e839421fd8e4b3b0</guid>
+    <pubDate>Sun, 28 Jun 2026 06:07:41 GMT</pubDate>
+    <description><![CDATA[Ketchikan, United States (USA) Arrival (UTC) Jun 27, 17:50 — ET: Jun 27, 01:50 PM EDT | Local: Jun 27, 01:50 PM EDT]]></description>
   </item>
   <item>
     <title>Disney Dream Departed from Kerkira (Corfu), Greece at Jun 27, 12:18 PM EDT. The local time to the port is Jun 27, 07:18 PM EEST</title>
@@ -3492,20 +3506,6 @@
     <guid isPermaLink="false">16a4c9022a6c6f4480293f2497a0be0d29dc1d5e</guid>
     <pubDate>Fri, 01 May 2026 23:31:28 GMT</pubDate>
     <description><![CDATA[Gorda Cay, Bahamas Arrival (UTC) May 1, 14:15 — ET: May 01, 10:15 AM EDT | Local: May 01, 10:15 AM EDT]]></description>
-  </item>
-  <item>
-    <title>Disney Wonder Arrived at San Diego, United States (USA) at May 01, 09:40 AM EDT. The local time to the port is May 01, 09:40 AM EDT</title>
-    <link>https://www.vesselfinder.com/ports/USSAN001</link>
-    <guid isPermaLink="false">00879c5b0227e77d92fa1293edca3bfd54b4f581</guid>
-    <pubDate>Fri, 01 May 2026 16:14:56 GMT</pubDate>
-    <description><![CDATA[San Diego, United States (USA) Arrival (UTC) May 1, 13:40 — ET: May 01, 09:40 AM EDT | Local: May 01, 09:40 AM EDT]]></description>
-  </item>
-  <item>
-    <title>Disney Magic Arrived at Vancouver, Canada at May 01, 09:23 AM EDT. The local time to the port is May 01, 06:23 AM PDT</title>
-    <link>https://www.vesselfinder.com/ports/CAVAN001</link>
-    <guid isPermaLink="false">e96761d24249a77c7f7df6770c445615c5ddbe3d</guid>
-    <pubDate>Fri, 01 May 2026 14:07:28 GMT</pubDate>
-    <description><![CDATA[Vancouver, Canada Arrival (UTC) May 1, 13:23 — ET: May 01, 09:23 AM EDT | Local: May 01, 06:23 AM PDT]]></description>
   </item>
 </channel>
 </rss>
