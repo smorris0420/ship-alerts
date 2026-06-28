@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Fantasy Arrived at Cape Canaveral, United States (USA) at Jun 28, 04:22 AM EDT. The local time to the port is Jun 28, 04:22 AM EDT",
+    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Jun 28, 08:22 — ET: Jun 28, 04:22 AM EDT | Local: Jun 28, 04:22 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "10d3218e29c0f93b2c5957880a55b385e33cb668",
+    "pubDate": "Sun, 28 Jun 2026 09:30:25 GMT",
+    "eventUtc": "2026-06-28T08:22:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Departed from Ketchikan, United States (USA) at Jun 27, 11:10 PM EDT. The local time to the port is Jun 27, 11:10 PM EDT",
     "description": "Ketchikan, United States (USA) Departure (UTC) Jun 28, 03:10 — ET: Jun 27, 11:10 PM EDT | Local: Jun 27, 11:10 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USKTN001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-05-01T20:43:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Gorda Cay, Bahamas at May 01, 10:15 AM EDT. The local time to the port is May 01, 10:15 AM EDT",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) May 1, 14:15 — ET: May 01, 10:15 AM EDT | Local: May 01, 10:15 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "16a4c9022a6c6f4480293f2497a0be0d29dc1d5e",
-    "pubDate": "Fri, 01 May 2026 23:31:28 GMT",
-    "eventUtc": "2026-05-01T14:15:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
