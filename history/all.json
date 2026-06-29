@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Mykonos, Greece at Jun 28, 11:15 PM EDT. The local time to the port is Jun 29, 06:15 AM EEST",
+    "description": "Mykonos, Greece Arrival (UTC) Jun 29, 03:15 — ET: Jun 28, 11:15 PM EDT | Local: Jun 29, 06:15 AM EEST",
+    "link": "https://www.vesselfinder.com/ports/GRJMK001",
+    "guid": "4e5ddc387a7da15d6b8fe3fbd630857b2cd32a38",
+    "pubDate": "Mon, 29 Jun 2026 06:26:09 GMT",
+    "eventUtc": "2026-06-29T03:15:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Arrived at Singapore, Singapore at Jun 28, 05:23 PM EDT. The local time to the port is Jun 28, 05:23 PM EDT",
     "description": "Singapore, Singapore Arrival (UTC) Jun 28, 21:23 — ET: Jun 28, 05:23 PM EDT | Local: Jun 28, 05:23 PM EDT",
     "link": "https://www.vesselfinder.com/ports/SGSIN001",
@@ -5483,17 +5494,6 @@
     "link": "https://www.vesselfinder.com/ports/USSAN001",
     "guid": "ea8580511e2f3e7ecd97949740e3bc3742aafc18",
     "pubDate": "Sat, 02 May 2026 04:31:59 GMT",
-    "eventUtc": "2026-05-02T02:05:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Arrived at Avalon Anch., United States (USA) at May 01, 10:05 PM EDT. The local time to the port is May 01, 10:05 PM EDT",
-    "description": "Avalon Anch., United States (USA) Arrival (UTC) May 2, 02:05 — ET: May 01, 10:05 PM EDT | Local: May 01, 10:05 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USAOU001",
-    "guid": "424bd8bfe2ab0822d32ebf9470c8d0ef3628523f",
-    "pubDate": "Sat, 02 May 2026 15:31:31 GMT",
     "eventUtc": "2026-05-02T02:05:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
