@@ -5,7 +5,7 @@
   <title>Disney Wonder - Arrivals &amp; Departures</title>
   <link>https://www.vesselfinder.com/vessels/details/9126819</link>
   <description>Disney Wonder - Arrivals &amp; Departures - Auto-generated</description>
-  <lastBuildDate>Mon, 29 Jun 2026 11:33:39 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 29 Jun 2026 15:03:19 GMT</lastBuildDate>
   
   <item>
     <title>Disney Wonder Departed from Hobart, Australia at Dec 31, 08:48 AM EST. The local time to the port is Jan 01, 12:48 AM AEDT</title>
@@ -20,6 +20,13 @@
     <guid isPermaLink="false">17aff6dc63c1d854034dba404a0bb7bbc9de0818</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:40 GMT</pubDate>
     <description><![CDATA[Hobart, Australia Arrival (UTC) Dec 30, 20:45 — ET: Dec 30, 03:45 PM EST | Local: Dec 31, 07:45 AM AEDT]]></description>
+  </item>
+  <item>
+    <title>Disney Wonder Arrived at Vancouver, Canada at Jun 29, 10:02 AM EDT. The local time to the port is Jun 29, 07:02 AM PDT</title>
+    <link>https://www.vesselfinder.com/ports/CAVAN001</link>
+    <guid isPermaLink="false">0eae8659ffeb85ba20016d4e7736344cce83c21a</guid>
+    <pubDate>Mon, 29 Jun 2026 15:03:17 GMT</pubDate>
+    <description><![CDATA[Vancouver, Canada Arrival (UTC) Jun 29, 14:02 — ET: Jun 29, 10:02 AM EDT | Local: Jun 29, 07:02 AM PDT]]></description>
   </item>
   <item>
     <title>Disney Wonder Departed from Ketchikan, United States (USA) at Jun 27, 11:10 PM EDT. The local time to the port is Jun 27, 11:10 PM EDT</title>
@@ -1749,13 +1756,6 @@
     <guid isPermaLink="false">d964dfecc4d311ba65ef24ffb2ff2fd830a4a814</guid>
     <pubDate>Sun, 16 Nov 2025 06:35:25 GMT</pubDate>
     <description><![CDATA[Melbourne, Australia Departure (UTC) Nov 16, 06:19 — ET: Nov 16, 01:19 AM EST | Local: Nov 16, 05:19 PM AEDT]]></description>
-  </item>
-  <item>
-    <title>Disney Wonder Arrived at Melbourne, Australia at Nov 15, 02:07 PM EST. The local time to the port is Nov 16, 06:07 AM AEDT</title>
-    <link>https://www.vesselfinder.com/ports/AUMEL001</link>
-    <guid isPermaLink="false">fe6b50c3ce32ab4e6dbbb50f0de2097015e74091</guid>
-    <pubDate>Sat, 15 Nov 2025 19:50:56 GMT</pubDate>
-    <description><![CDATA[Melbourne, Australia Arrival (UTC) Nov 15, 19:07 — ET: Nov 15, 02:07 PM EST | Local: Nov 16, 06:07 AM AEDT]]></description>
   </item>
 </channel>
 </rss>

@@ -209,6 +209,39 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Arrived at Vancouver, Canada at Jun 29, 10:02 AM EDT. The local time to the port is Jun 29, 07:02 AM PDT",
+    "description": "Vancouver, Canada Arrival (UTC) Jun 29, 14:02 — ET: Jun 29, 10:02 AM EDT | Local: Jun 29, 07:02 AM PDT",
+    "link": "https://www.vesselfinder.com/ports/CAVAN001",
+    "guid": "0eae8659ffeb85ba20016d4e7736344cce83c21a",
+    "pubDate": "Mon, 29 Jun 2026 15:03:17 GMT",
+    "eventUtc": "2026-06-29T14:02:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Treasure Arrived at Cozumel, Mexico at Jun 29, 08:59 AM EDT. The local time to the port is Jun 29, 07:59 AM EST",
+    "description": "Cozumel, Mexico Arrival (UTC) Jun 29, 12:59 — ET: Jun 29, 08:59 AM EDT | Local: Jun 29, 07:59 AM EST",
+    "link": "https://www.vesselfinder.com/ports/MXCZM001",
+    "guid": "f3f88b66c1c6428b7660e7bf4c58850fcef526c4",
+    "pubDate": "Mon, 29 Jun 2026 15:01:20 GMT",
+    "eventUtc": "2026-06-29T12:59:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Fantasy Arrived at Nassau, Bahamas at Jun 29, 08:51 AM EDT. The local time to the port is Jun 29, 08:51 AM EDT",
+    "description": "Nassau, Bahamas Arrival (UTC) Jun 29, 12:51 — ET: Jun 29, 08:51 AM EDT | Local: Jun 29, 08:51 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "4dd1b49a8dacab88c30bbae604ab42f825ef962e",
+    "pubDate": "Mon, 29 Jun 2026 15:01:35 GMT",
+    "eventUtc": "2026-06-29T12:51:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Arrived at Cape Canaveral, United States (USA) at Jun 29, 06:05 AM EDT. The local time to the port is Jun 29, 06:05 AM EDT",
     "description": "Cape Canaveral, United States (USA) Arrival (UTC) Jun 29, 10:05 — ET: Jun 29, 06:05 AM EDT | Local: Jun 29, 06:05 AM EDT",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5464,39 +5497,6 @@
     "eventUtc": "2026-05-02T09:57:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Arrived at Port Everglades, United States (USA) at May 02, 05:03 AM EDT. The local time to the port is May 02, 05:03 AM EDT",
-    "description": "Port Everglades, United States (USA) Arrival (UTC) May 2, 09:03 — ET: May 02, 05:03 AM EDT | Local: May 02, 05:03 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "a82e3ce08d0fbdae19d29bd75e07c7ccfcbe90fa",
-    "pubDate": "Sat, 02 May 2026 10:18:00 GMT",
-    "eventUtc": "2026-05-02T09:03:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Vancouver, Canada at May 02, 03:25 AM EDT. The local time to the port is May 02, 12:25 AM PDT",
-    "description": "Vancouver, Canada Departure (UTC) May 2, 07:25 — ET: May 02, 03:25 AM EDT | Local: May 02, 12:25 AM PDT",
-    "link": "https://www.vesselfinder.com/ports/CAVAN001",
-    "guid": "07e010c48ccac2ffaea4d22dbf547a1e6333f693",
-    "pubDate": "Sat, 02 May 2026 09:23:11 GMT",
-    "eventUtc": "2026-05-02T07:25:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Departed from San Diego, United States (USA) at May 01, 11:27 PM EDT. The local time to the port is May 01, 11:27 PM EDT",
-    "description": "San Diego, United States (USA) Departure (UTC) May 2, 03:27 — ET: May 01, 11:27 PM EDT | Local: May 01, 11:27 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USSAN001",
-    "guid": "7ca5ae4a0775ad294503c937f0ee6a9e1b793bb3",
-    "pubDate": "Sat, 02 May 2026 04:32:01 GMT",
-    "eventUtc": "2026-05-02T03:27:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
     "source": "vf_ship"
   }
 ]
