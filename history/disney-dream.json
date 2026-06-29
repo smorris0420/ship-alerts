@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Mykonos, Greece at Jun 29, 12:05 PM EDT. The local time to the port is Jun 29, 07:05 PM EEST",
+    "description": "Mykonos, Greece Departure (UTC) Jun 29, 16:05 — ET: Jun 29, 12:05 PM EDT | Local: Jun 29, 07:05 PM EEST",
+    "link": "https://www.vesselfinder.com/ports/GRJMK001",
+    "guid": "6e24d2cffba559fb46367d085b4d61e42e77262f",
+    "pubDate": "Mon, 29 Jun 2026 17:49:13 GMT",
+    "eventUtc": "2026-06-29T16:05:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Arrived at Mykonos, Greece at Jun 28, 11:15 PM EDT. The local time to the port is Jun 29, 06:15 AM EEST",
     "description": "Mykonos, Greece Arrival (UTC) Jun 29, 03:15 — ET: Jun 28, 11:15 PM EDT | Local: Jun 29, 06:15 AM EEST",
     "link": "https://www.vesselfinder.com/ports/GRJMK001",
@@ -2734,17 +2745,6 @@
     "guid": "ebc90520d15db7efb3947bce2a844ea03c9285df",
     "pubDate": "Wed, 24 Dec 2025 13:21:33 GMT",
     "eventUtc": "2025-12-24T12:30:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Port Everglades, United States (USA) at Dec 22, 04:33 PM EST. The local time to the port is Dec 22, 04:33 PM EST",
-    "description": "Port Everglades, United States (USA) Departure (UTC) Dec 22, 21:33 — ET: Dec 22, 04:33 PM EST | Local: Dec 22, 04:33 PM EST",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "aa45aa3bdbb3e5d29e3e45ea3507a93261368cd1",
-    "pubDate": "Mon, 22 Dec 2025 21:35:21 GMT",
-    "eventUtc": "2025-12-22T21:33:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
     "source": "vf_ship"
