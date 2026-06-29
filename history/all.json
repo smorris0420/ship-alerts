@@ -220,6 +220,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Departed from Gorda Cay, Bahamas at Jun 28, 04:52 PM EDT. The local time to the port is Jun 28, 04:52 PM EDT",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Jun 28, 20:52 — ET: Jun 28, 04:52 PM EDT | Local: Jun 28, 04:52 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "45fd28276f33c9771221996c3215b004d7260818",
+    "pubDate": "Mon, 29 Jun 2026 01:39:15 GMT",
+    "eventUtc": "2026-06-28T20:52:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Departed from Cape Canaveral, United States (USA) at Jun 28, 04:32 PM EDT. The local time to the port is Jun 28, 04:32 PM EDT",
     "description": "Cape Canaveral, United States (USA) Departure (UTC) Jun 28, 20:32 — ET: Jun 28, 04:32 PM EDT | Local: Jun 28, 04:32 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -228,6 +239,17 @@
     "eventUtc": "2026-06-28T20:32:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Wish Arrived at Gorda Cay, Bahamas at Jun 28, 07:43 AM EDT. The local time to the port is Jun 28, 07:43 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Jun 28, 11:43 — ET: Jun 28, 07:43 AM EDT | Local: Jun 28, 07:43 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "029385ed4ec250a74fb7c12c80548c1ad499c361",
+    "pubDate": "Mon, 29 Jun 2026 01:39:14 GMT",
+    "eventUtc": "2026-06-28T11:43:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
     "source": "vf_ship"
   },
   {
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-05-02T02:05:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Departed from San Diego, United States (USA) at May 01, 08:32 PM EDT. The local time to the port is May 01, 08:32 PM EDT",
-    "description": "San Diego, United States (USA) Departure (UTC) May 2, 00:32 — ET: May 01, 08:32 PM EDT | Local: May 01, 08:32 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USSAN001",
-    "guid": "393664ab15fa10d3f3691c5257bf2e9f606b4c1e",
-    "pubDate": "Sat, 02 May 2026 01:17:13 GMT",
-    "eventUtc": "2026-05-02T00:32:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Gorda Cay, Bahamas at May 01, 04:57 PM EDT. The local time to the port is May 01, 04:57 PM EDT",
-    "description": "Gorda Cay, Bahamas Departure (UTC) May 1, 20:57 — ET: May 01, 04:57 PM EDT | Local: May 01, 04:57 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "4b913fbf5b1bead3b4e040be46a1000299f0044e",
-    "pubDate": "Fri, 01 May 2026 23:31:29 GMT",
-    "eventUtc": "2026-05-01T20:57:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
