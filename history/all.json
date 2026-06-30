@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Departed from Nassau, Bahamas at Jun 30, 05:48 PM EDT. The local time to the port is Jun 30, 05:48 PM EDT",
+    "description": "Nassau, Bahamas Departure (UTC) Jun 30, 21:48 — ET: Jun 30, 05:48 PM EDT | Local: Jun 30, 05:48 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "950346b27c567d8e319ee2bbc22449a28d8718b9",
+    "pubDate": "Tue, 30 Jun 2026 21:51:51 GMT",
+    "eventUtc": "2026-06-30T21:48:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Magic Arrived at Ketchikan, United States (USA) at Jun 30, 05:10 PM EDT. The local time to the port is Jun 30, 05:10 PM EDT",
+    "description": "Ketchikan, United States (USA) Arrival (UTC) Jun 30, 21:10 — ET: Jun 30, 05:10 PM EDT | Local: Jun 30, 05:10 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USKTN001",
+    "guid": "f175d205971e703ce507c279e2e658f35e8e0112",
+    "pubDate": "Tue, 30 Jun 2026 21:53:30 GMT",
+    "eventUtc": "2026-06-30T21:10:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Piraeus, Greece at Jun 30, 01:46 PM EDT. The local time to the port is Jun 30, 08:46 PM EEST",
     "description": "Piraeus, Greece Departure (UTC) Jun 30, 17:46 — ET: Jun 30, 01:46 PM EDT | Local: Jun 30, 08:46 PM EEST",
     "link": "https://www.vesselfinder.com/ports/GRPIR001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-05-04T00:40:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Adventure Arrived at Singapore, Singapore at May 03, 05:23 PM EDT. The local time to the port is May 03, 05:23 PM EDT",
-    "description": "Singapore, Singapore Arrival (UTC) May 3, 21:23 — ET: May 03, 05:23 PM EDT | Local: May 03, 05:23 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/SGSIN001",
-    "guid": "86ae01f366bc20b388d37989372b5418ef777e63",
-    "pubDate": "Sun, 03 May 2026 22:40:43 GMT",
-    "eventUtc": "2026-05-03T21:23:00+00:00",
-    "shipSlug": "disney-adventure",
-    "shipName": "Disney Adventure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Departed from Gorda Cay, Bahamas at May 03, 04:46 PM EDT. The local time to the port is May 03, 04:46 PM EDT",
-    "description": "Gorda Cay, Bahamas Departure (UTC) May 3, 20:46 — ET: May 03, 04:46 PM EDT | Local: May 03, 04:46 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "a2981a4796583ac952e7b51a8797633f8d8199de",
-    "pubDate": "Sun, 03 May 2026 20:58:29 GMT",
-    "eventUtc": "2026-05-03T20:46:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
     "source": "vf_ship"
   }
 ]
