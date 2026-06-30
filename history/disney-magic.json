@@ -33,6 +33,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Hoonah, United States (USA) at Jun 29, 09:11 PM EDT. The local time to the port is Jun 29, 09:11 PM EDT",
+    "description": "Hoonah, United States (USA) Departure (UTC) Jun 30, 01:11 — ET: Jun 29, 09:11 PM EDT | Local: Jun 29, 09:11 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USHNH001",
+    "guid": "5a4df85b088000b3de6c12bfe82e7ed4335a4583",
+    "pubDate": "Tue, 30 Jun 2026 20:23:31 GMT",
+    "eventUtc": "2026-06-30T01:11:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Magic Arrived at Hoonah, United States (USA) at Jun 29, 10:24 AM EDT. The local time to the port is Jun 29, 10:24 AM EDT",
+    "description": "Hoonah, United States (USA) Arrival (UTC) Jun 29, 14:24 — ET: Jun 29, 10:24 AM EDT | Local: Jun 29, 10:24 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USHNH001",
+    "guid": "d8d03cecb0ea8543face61785bd362fc794a6e8e",
+    "pubDate": "Tue, 30 Jun 2026 20:23:29 GMT",
+    "eventUtc": "2026-06-29T14:24:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Departed from Vancouver, Canada at Jun 25, 06:22 PM EDT. The local time to the port is Jun 25, 03:22 PM PDT",
     "description": "Vancouver, Canada Departure (UTC) Jun 25, 22:22 — ET: Jun 25, 06:22 PM EDT | Local: Jun 25, 03:22 PM PDT",
     "link": "https://www.vesselfinder.com/ports/CAVAN001",
@@ -2723,28 +2745,6 @@
     "guid": "9cb5963a9315d507acb1caef90ada27576793995",
     "pubDate": "Mon, 17 Nov 2025 22:35:59 GMT",
     "eventUtc": "2025-11-17T20:02:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Arrived at Gorda Cay, Bahamas at Nov 17, 07:25 AM EST. The local time to the port is Nov 17, 07:25 AM EST",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) Nov 17, 12:25 — ET: Nov 17, 07:25 AM EST | Local: Nov 17, 07:25 AM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "25a09a274f5ac3fa16ad570f41e1e9f1ac9c5935",
-    "pubDate": "Mon, 17 Nov 2025 13:22:30 GMT",
-    "eventUtc": "2025-11-17T12:25:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from San Juan, Puerto Rico at Nov 14, 04:28 PM EST. The local time to the port is Nov 14, 05:28 PM AST",
-    "description": "San Juan, Puerto Rico Departure (UTC) Nov 14, 21:28 — ET: Nov 14, 04:28 PM EST | Local: Nov 14, 05:28 PM AST",
-    "link": "https://www.vesselfinder.com/ports/PRSJU001",
-    "guid": "04a07cc0dc09d70abfcd47a16ab0e0035836388e",
-    "pubDate": "Mon, 17 Nov 2025 10:01:59 GMT",
-    "eventUtc": "2025-11-14T21:28:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
     "source": "vf_ship"

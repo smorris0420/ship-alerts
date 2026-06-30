@@ -242,6 +242,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Hoonah, United States (USA) at Jun 29, 09:11 PM EDT. The local time to the port is Jun 29, 09:11 PM EDT",
+    "description": "Hoonah, United States (USA) Departure (UTC) Jun 30, 01:11 — ET: Jun 29, 09:11 PM EDT | Local: Jun 29, 09:11 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USHNH001",
+    "guid": "5a4df85b088000b3de6c12bfe82e7ed4335a4583",
+    "pubDate": "Tue, 30 Jun 2026 20:23:31 GMT",
+    "eventUtc": "2026-06-30T01:11:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Departed from Vancouver, Canada at Jun 29, 07:14 PM EDT. The local time to the port is Jun 29, 04:14 PM PDT",
     "description": "Vancouver, Canada Departure (UTC) Jun 29, 23:14 — ET: Jun 29, 07:14 PM EDT | Local: Jun 29, 04:14 PM PDT",
     "link": "https://www.vesselfinder.com/ports/CAVAN001",
@@ -305,6 +316,17 @@
     "eventUtc": "2026-06-29T16:05:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Magic Arrived at Hoonah, United States (USA) at Jun 29, 10:24 AM EDT. The local time to the port is Jun 29, 10:24 AM EDT",
+    "description": "Hoonah, United States (USA) Arrival (UTC) Jun 29, 14:24 — ET: Jun 29, 10:24 AM EDT | Local: Jun 29, 10:24 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USHNH001",
+    "guid": "d8d03cecb0ea8543face61785bd362fc794a6e8e",
+    "pubDate": "Tue, 30 Jun 2026 20:23:29 GMT",
+    "eventUtc": "2026-06-29T14:24:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
     "source": "vf_ship"
   },
   {
@@ -5473,28 +5495,6 @@
     "guid": "a2981a4796583ac952e7b51a8797633f8d8199de",
     "pubDate": "Sun, 03 May 2026 20:58:29 GMT",
     "eventUtc": "2026-05-03T20:46:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Arrived at Ensenada, Mexico at May 03, 01:54 PM EDT. The local time to the port is May 03, 12:54 PM EST",
-    "description": "Ensenada, Mexico Arrival (UTC) May 3, 17:54 — ET: May 03, 01:54 PM EDT | Local: May 03, 12:54 PM EST",
-    "link": "https://www.vesselfinder.com/ports/MXESE001",
-    "guid": "425b88f74609d7d78a1941a38d1e5e3b53f1bc66",
-    "pubDate": "Sun, 03 May 2026 22:40:35 GMT",
-    "eventUtc": "2026-05-03T17:54:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Arrived at Gorda Cay, Bahamas at May 03, 07:30 AM EDT. The local time to the port is May 03, 07:30 AM EDT",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) May 3, 11:30 — ET: May 03, 07:30 AM EDT | Local: May 03, 07:30 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "7990f9b7dc4532f04850b3c7846ec27d5249cebb",
-    "pubDate": "Sun, 03 May 2026 13:47:29 GMT",
-    "eventUtc": "2026-05-03T11:30:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
     "source": "vf_ship"

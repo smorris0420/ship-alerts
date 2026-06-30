@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Tue, 30 Jun 2026 18:19:11 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 30 Jun 2026 20:26:50 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -162,6 +162,13 @@
     <description><![CDATA[Piraeus, Greece Arrival (UTC) Jun 30, 01:16 — ET: Jun 29, 09:16 PM EDT | Local: Jun 30, 04:16 AM EEST]]></description>
   </item>
   <item>
+    <title>Disney Magic Departed from Hoonah, United States (USA) at Jun 29, 09:11 PM EDT. The local time to the port is Jun 29, 09:11 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USHNH001</link>
+    <guid isPermaLink="false">5a4df85b088000b3de6c12bfe82e7ed4335a4583</guid>
+    <pubDate>Tue, 30 Jun 2026 20:23:31 GMT</pubDate>
+    <description><![CDATA[Hoonah, United States (USA) Departure (UTC) Jun 30, 01:11 — ET: Jun 29, 09:11 PM EDT | Local: Jun 29, 09:11 PM EDT]]></description>
+  </item>
+  <item>
     <title>Disney Wonder Departed from Vancouver, Canada at Jun 29, 07:14 PM EDT. The local time to the port is Jun 29, 04:14 PM PDT</title>
     <link>https://www.vesselfinder.com/ports/CAVAN001</link>
     <guid isPermaLink="false">45a5d3028fa5b19a4a57ecb0398b0460371ef0e8</guid>
@@ -202,6 +209,13 @@
     <guid isPermaLink="false">6e24d2cffba559fb46367d085b4d61e42e77262f</guid>
     <pubDate>Mon, 29 Jun 2026 17:49:13 GMT</pubDate>
     <description><![CDATA[Mykonos, Greece Departure (UTC) Jun 29, 16:05 — ET: Jun 29, 12:05 PM EDT | Local: Jun 29, 07:05 PM EEST]]></description>
+  </item>
+  <item>
+    <title>Disney Magic Arrived at Hoonah, United States (USA) at Jun 29, 10:24 AM EDT. The local time to the port is Jun 29, 10:24 AM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USHNH001</link>
+    <guid isPermaLink="false">d8d03cecb0ea8543face61785bd362fc794a6e8e</guid>
+    <pubDate>Tue, 30 Jun 2026 20:23:29 GMT</pubDate>
+    <description><![CDATA[Hoonah, United States (USA) Arrival (UTC) Jun 29, 14:24 — ET: Jun 29, 10:24 AM EDT | Local: Jun 29, 10:24 AM EDT]]></description>
   </item>
   <item>
     <title>Disney Wonder Arrived at Vancouver, Canada at Jun 29, 10:02 AM EDT. The local time to the port is Jun 29, 07:02 AM PDT</title>
@@ -3492,20 +3506,6 @@
     <guid isPermaLink="false">a2981a4796583ac952e7b51a8797633f8d8199de</guid>
     <pubDate>Sun, 03 May 2026 20:58:29 GMT</pubDate>
     <description><![CDATA[Gorda Cay, Bahamas Departure (UTC) May 3, 20:46 — ET: May 03, 04:46 PM EDT | Local: May 03, 04:46 PM EDT]]></description>
-  </item>
-  <item>
-    <title>Disney Wonder Arrived at Ensenada, Mexico at May 03, 01:54 PM EDT. The local time to the port is May 03, 12:54 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/MXESE001</link>
-    <guid isPermaLink="false">425b88f74609d7d78a1941a38d1e5e3b53f1bc66</guid>
-    <pubDate>Sun, 03 May 2026 22:40:35 GMT</pubDate>
-    <description><![CDATA[Ensenada, Mexico Arrival (UTC) May 3, 17:54 — ET: May 03, 01:54 PM EDT | Local: May 03, 12:54 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Wish Arrived at Gorda Cay, Bahamas at May 03, 07:30 AM EDT. The local time to the port is May 03, 07:30 AM EDT</title>
-    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
-    <guid isPermaLink="false">7990f9b7dc4532f04850b3c7846ec27d5249cebb</guid>
-    <pubDate>Sun, 03 May 2026 13:47:29 GMT</pubDate>
-    <description><![CDATA[Gorda Cay, Bahamas Arrival (UTC) May 3, 11:30 — ET: May 03, 07:30 AM EDT | Local: May 03, 07:30 AM EDT]]></description>
   </item>
 </channel>
 </rss>
