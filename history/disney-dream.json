@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Piraeus, Greece at Jun 30, 01:46 PM EDT. The local time to the port is Jun 30, 08:46 PM EEST",
+    "description": "Piraeus, Greece Departure (UTC) Jun 30, 17:46 — ET: Jun 30, 01:46 PM EDT | Local: Jun 30, 08:46 PM EEST",
+    "link": "https://www.vesselfinder.com/ports/GRPIR001",
+    "guid": "a5abcd41061c51c14f6ded9e4cbefbecc3bc0b51",
+    "pubDate": "Tue, 30 Jun 2026 18:16:49 GMT",
+    "eventUtc": "2026-06-30T17:46:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Arrived at Piraeus, Greece at Jun 29, 09:16 PM EDT. The local time to the port is Jun 30, 04:16 AM EEST",
     "description": "Piraeus, Greece Arrival (UTC) Jun 30, 01:16 — ET: Jun 29, 09:16 PM EDT | Local: Jun 30, 04:16 AM EEST",
     "link": "https://www.vesselfinder.com/ports/GRPIR001",
@@ -2734,17 +2745,6 @@
     "guid": "1ff50ad7403b38b4475c40c0830fb4b3b818548e",
     "pubDate": "Thu, 25 Dec 2025 20:34:07 GMT",
     "eventUtc": "2025-12-25T12:34:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Nassau, Bahamas at Dec 24, 06:06 PM EST. The local time to the port is Dec 24, 06:06 PM EST",
-    "description": "Nassau, Bahamas Departure (UTC) Dec 24, 23:06 — ET: Dec 24, 06:06 PM EST | Local: Dec 24, 06:06 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "2de67e14e3fa28929dbccceafbf291223deac81b",
-    "pubDate": "Wed, 24 Dec 2025 23:15:18 GMT",
-    "eventUtc": "2025-12-24T23:06:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
     "source": "vf_ship"

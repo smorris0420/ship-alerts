@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Piraeus, Greece at Jun 30, 01:46 PM EDT. The local time to the port is Jun 30, 08:46 PM EEST",
+    "description": "Piraeus, Greece Departure (UTC) Jun 30, 17:46 — ET: Jun 30, 01:46 PM EDT | Local: Jun 30, 08:46 PM EEST",
+    "link": "https://www.vesselfinder.com/ports/GRPIR001",
+    "guid": "a5abcd41061c51c14f6ded9e4cbefbecc3bc0b51",
+    "pubDate": "Tue, 30 Jun 2026 18:16:49 GMT",
+    "eventUtc": "2026-06-30T17:46:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Arrived at Nassau, Bahamas at Jun 30, 09:13 AM EDT. The local time to the port is Jun 30, 09:13 AM EDT",
     "description": "Nassau, Bahamas Arrival (UTC) Jun 30, 13:13 — ET: Jun 30, 09:13 AM EDT | Local: Jun 30, 09:13 AM EDT",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -5484,17 +5495,6 @@
     "guid": "7990f9b7dc4532f04850b3c7846ec27d5249cebb",
     "pubDate": "Sun, 03 May 2026 13:47:29 GMT",
     "eventUtc": "2026-05-03T11:30:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Departed from Nassau, Bahamas at May 02, 06:26 PM EDT. The local time to the port is May 02, 06:26 PM EDT",
-    "description": "Nassau, Bahamas Departure (UTC) May 2, 22:26 — ET: May 02, 06:26 PM EDT | Local: May 02, 06:26 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "f6efb0fac25720a4182cc12667a9bff1abc33b41",
-    "pubDate": "Sat, 02 May 2026 23:08:08 GMT",
-    "eventUtc": "2026-05-02T22:26:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
     "source": "vf_ship"
