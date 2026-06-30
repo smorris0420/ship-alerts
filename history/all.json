@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Piraeus, Greece at Jun 29, 09:16 PM EDT. The local time to the port is Jun 30, 04:16 AM EEST",
+    "description": "Piraeus, Greece Arrival (UTC) Jun 30, 01:16 — ET: Jun 29, 09:16 PM EDT | Local: Jun 30, 04:16 AM EEST",
+    "link": "https://www.vesselfinder.com/ports/GRPIR001",
+    "guid": "d3ec8f5cb3da4dcdae3f23e5dea7d9e7c1e9e7c6",
+    "pubDate": "Tue, 30 Jun 2026 05:54:42 GMT",
+    "eventUtc": "2026-06-30T01:16:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Departed from Vancouver, Canada at Jun 29, 07:14 PM EDT. The local time to the port is Jun 29, 04:14 PM PDT",
     "description": "Vancouver, Canada Departure (UTC) Jun 29, 23:14 — ET: Jun 29, 07:14 PM EDT | Local: Jun 29, 04:14 PM PDT",
     "link": "https://www.vesselfinder.com/ports/CAVAN001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-05-02T21:07:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Departed from Gorda Cay, Bahamas at May 02, 05:04 PM EDT. The local time to the port is May 02, 05:04 PM EDT",
-    "description": "Gorda Cay, Bahamas Departure (UTC) May 2, 21:04 — ET: May 02, 05:04 PM EDT | Local: May 02, 05:04 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "e3fcdf665b429cf4ad91f79fd88b112a6b670860",
-    "pubDate": "Sat, 02 May 2026 21:43:12 GMT",
-    "eventUtc": "2026-05-02T21:04:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
     "source": "vf_ship"
   }
 ]
