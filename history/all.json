@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Arrived at Nassau, Bahamas at Jun 30, 09:13 AM EDT. The local time to the port is Jun 30, 09:13 AM EDT",
+    "description": "Nassau, Bahamas Arrival (UTC) Jun 30, 13:13 — ET: Jun 30, 09:13 AM EDT | Local: Jun 30, 09:13 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "0e8e40db5e3d0ccb75ab05aa92a0cbf8f63e29d1",
+    "pubDate": "Tue, 30 Jun 2026 16:09:05 GMT",
+    "eventUtc": "2026-06-30T13:13:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Arrived at Piraeus, Greece at Jun 29, 09:16 PM EDT. The local time to the port is Jun 30, 04:16 AM EEST",
     "description": "Piraeus, Greece Arrival (UTC) Jun 30, 01:16 — ET: Jun 29, 09:16 PM EDT | Local: Jun 30, 04:16 AM EEST",
     "link": "https://www.vesselfinder.com/ports/GRPIR001",
@@ -253,6 +264,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Departed from Georgetown, Grand Cayman Anch., Cayman Islands at Jun 29, 05:54 PM EDT. The local time to the port is Jun 29, 04:54 PM EST",
+    "description": "Georgetown, Grand Cayman Anch., Cayman Islands Departure (UTC) Jun 29, 21:54 — ET: Jun 29, 05:54 PM EDT | Local: Jun 29, 04:54 PM EST",
+    "link": "https://www.vesselfinder.com/ports/KYGEC001",
+    "guid": "951561519ce8ceff0337f5a3fd8ceccfae5e8276",
+    "pubDate": "Tue, 30 Jun 2026 16:09:21 GMT",
+    "eventUtc": "2026-06-29T21:54:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Departed from Cape Canaveral, United States (USA) at Jun 29, 04:22 PM EDT. The local time to the port is Jun 29, 04:22 PM EDT",
     "description": "Cape Canaveral, United States (USA) Departure (UTC) Jun 29, 20:22 — ET: Jun 29, 04:22 PM EDT | Local: Jun 29, 04:22 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -291,6 +313,17 @@
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
     "guid": "f3f88b66c1c6428b7660e7bf4c58850fcef526c4",
     "pubDate": "Mon, 29 Jun 2026 15:01:20 GMT",
+    "eventUtc": "2026-06-29T12:59:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Treasure Arrived at Georgetown, Grand Cayman Anch., Cayman Islands at Jun 29, 08:59 AM EDT. The local time to the port is Jun 29, 07:59 AM EST",
+    "description": "Georgetown, Grand Cayman Anch., Cayman Islands Arrival (UTC) Jun 29, 12:59 — ET: Jun 29, 08:59 AM EDT | Local: Jun 29, 07:59 AM EST",
+    "link": "https://www.vesselfinder.com/ports/KYGEC001",
+    "guid": "07685b57c8121624bbc30e2b898d3ec5811b0443",
+    "pubDate": "Tue, 30 Jun 2026 16:09:20 GMT",
     "eventUtc": "2026-06-29T12:59:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
@@ -5464,39 +5497,6 @@
     "eventUtc": "2026-05-02T22:26:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Departed from Nassau, Bahamas at May 02, 06:14 PM EDT. The local time to the port is May 02, 06:14 PM EDT",
-    "description": "Nassau, Bahamas Departure (UTC) May 2, 22:14 — ET: May 02, 06:14 PM EDT | Local: May 02, 06:14 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "340810c813335620660565ec2a09f01a53a7b7f8",
-    "pubDate": "Sat, 02 May 2026 22:24:21 GMT",
-    "eventUtc": "2026-05-02T22:14:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Port Everglades, United States (USA) at May 02, 05:55 PM EDT. The local time to the port is May 02, 05:55 PM EDT",
-    "description": "Port Everglades, United States (USA) Departure (UTC) May 2, 21:55 — ET: May 02, 05:55 PM EDT | Local: May 02, 05:55 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "626d1c93b512e7e1eaffcd2fb753156a210cdebd",
-    "pubDate": "Sat, 02 May 2026 22:24:58 GMT",
-    "eventUtc": "2026-05-02T21:55:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Cape Canaveral, United States (USA) at May 02, 05:07 PM EDT. The local time to the port is May 02, 05:07 PM EDT",
-    "description": "Cape Canaveral, United States (USA) Departure (UTC) May 2, 21:07 — ET: May 02, 05:07 PM EDT | Local: May 02, 05:07 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "8820de9ea736fa3e0f9215325c099c2a93a8cd2b",
-    "pubDate": "Sat, 02 May 2026 21:40:22 GMT",
-    "eventUtc": "2026-05-02T21:07:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
