@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Rhodes, Greece at Jul 01, 03:14 AM EDT. The local time to the port is Jul 01, 10:14 AM EEST",
+    "description": "Rhodes, Greece Arrival (UTC) Jul 1, 07:14 — ET: Jul 01, 03:14 AM EDT | Local: Jul 01, 10:14 AM EEST",
+    "link": "https://www.vesselfinder.com/ports/GRRHO001",
+    "guid": "eabf1dcce234a97ce95512de213d4b6f6f578286",
+    "pubDate": "Wed, 01 Jul 2026 08:55:28 GMT",
+    "eventUtc": "2026-07-01T07:14:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Departed from Ketchikan, United States (USA) at Jun 30, 11:11 PM EDT. The local time to the port is Jun 30, 11:11 PM EDT",
     "description": "Ketchikan, United States (USA) Departure (UTC) Jul 1, 03:11 — ET: Jun 30, 11:11 PM EDT | Local: Jun 30, 11:11 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USKTN001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-05-04T13:00:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Arrived at Port Everglades, United States (USA) at May 04, 05:50 AM EDT. The local time to the port is May 04, 05:50 AM EDT",
-    "description": "Port Everglades, United States (USA) Arrival (UTC) May 4, 09:50 — ET: May 04, 05:50 AM EDT | Local: May 04, 05:50 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "52260b9fb06f3cdfa3f42875560a4d8ae328b037",
-    "pubDate": "Mon, 04 May 2026 11:28:18 GMT",
-    "eventUtc": "2026-05-04T09:50:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
     "source": "vf_ship"
   }
 ]
