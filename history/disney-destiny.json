@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Arrived at Philipsburg, Sint Maarten (NL) at Jul 01, 07:55 AM EDT. The local time to the port is Jul 01, 07:55 AM EDT",
+    "description": "Philipsburg, Sint Maarten (NL) Arrival (UTC) Jul 1, 11:55 — ET: Jul 01, 07:55 AM EDT | Local: Jul 01, 07:55 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/SXPHI001",
+    "guid": "9b3745efbec8ef5fe6daeb122a82bf8ca428dd41",
+    "pubDate": "Wed, 01 Jul 2026 14:20:34 GMT",
+    "eventUtc": "2026-07-01T11:55:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Departed from San Juan, Puerto Rico at Jun 30, 05:36 PM EDT. The local time to the port is Jun 30, 05:36 PM AST",
     "description": "San Juan, Puerto Rico Departure (UTC) Jun 30, 21:36 — ET: Jun 30, 05:36 PM EDT | Local: Jun 30, 05:36 PM AST",
     "link": "https://www.vesselfinder.com/ports/PRSJU001",
@@ -2737,16 +2748,5 @@
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
     "source": "vf_port"
-  },
-  {
-    "title": "Disney Destiny Arrived at Port Everglades, United States (USA) at Nov 19, 05:55 AM EST. The local time to the port is Nov 19, 05:55 AM EST",
-    "description": "Port Everglades, United States (USA) Arrival (UTC) Nov 19, 10:55 — ET: Nov 19, 05:55 AM EST | Local: Nov 19, 05:55 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "e61c925abd2f1f8af3295c8aca971cd4a982945c",
-    "pubDate": "Wed, 19 Nov 2025 11:35:31 GMT",
-    "eventUtc": "2025-11-19T10:55:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
-    "source": "vf_ship"
   }
 ]

@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Arrived at Philipsburg, Sint Maarten (NL) at Jul 01, 07:55 AM EDT. The local time to the port is Jul 01, 07:55 AM EDT",
+    "description": "Philipsburg, Sint Maarten (NL) Arrival (UTC) Jul 1, 11:55 — ET: Jul 01, 07:55 AM EDT | Local: Jul 01, 07:55 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/SXPHI001",
+    "guid": "9b3745efbec8ef5fe6daeb122a82bf8ca428dd41",
+    "pubDate": "Wed, 01 Jul 2026 14:20:34 GMT",
+    "eventUtc": "2026-07-01T11:55:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Arrived at Rhodes, Greece at Jul 01, 03:14 AM EDT. The local time to the port is Jul 01, 10:14 AM EEST",
     "description": "Rhodes, Greece Arrival (UTC) Jul 1, 07:14 — ET: Jul 01, 03:14 AM EDT | Local: Jul 01, 10:14 AM EEST",
     "link": "https://www.vesselfinder.com/ports/GRRHO001",
@@ -5483,17 +5494,6 @@
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
     "guid": "5b776208380d47ef53adb78e706d17ff5279ab26",
     "pubDate": "Mon, 04 May 2026 15:18:57 GMT",
-    "eventUtc": "2026-05-04T13:00:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Georgetown, Grand Cayman Anch., Cayman Islands at May 04, 09:00 AM EDT. The local time to the port is May 04, 08:00 AM EST",
-    "description": "Georgetown, Grand Cayman Anch., Cayman Islands Arrival (UTC) May 4, 13:00 — ET: May 04, 09:00 AM EDT | Local: May 04, 08:00 AM EST",
-    "link": "https://www.vesselfinder.com/ports/KYGEC001",
-    "guid": "36747abf7491000b67c8661d58aa8430d81870d3",
-    "pubDate": "Tue, 05 May 2026 17:01:08 GMT",
     "eventUtc": "2026-05-04T13:00:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
