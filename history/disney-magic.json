@@ -33,6 +33,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Ketchikan, United States (USA) at Jun 30, 11:11 PM EDT. The local time to the port is Jun 30, 11:11 PM EDT",
+    "description": "Ketchikan, United States (USA) Departure (UTC) Jul 1, 03:11 — ET: Jun 30, 11:11 PM EDT | Local: Jun 30, 11:11 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USKTN001",
+    "guid": "053f18e9b9036cf8dd160f68612544df11d21da5",
+    "pubDate": "Wed, 01 Jul 2026 05:00:36 GMT",
+    "eventUtc": "2026-07-01T03:11:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Arrived at Ketchikan, United States (USA) at Jun 30, 05:10 PM EDT. The local time to the port is Jun 30, 05:10 PM EDT",
     "description": "Ketchikan, United States (USA) Arrival (UTC) Jun 30, 21:10 — ET: Jun 30, 05:10 PM EDT | Local: Jun 30, 05:10 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USKTN001",
@@ -2734,17 +2745,6 @@
     "guid": "594e4dd7499c283efbb5273763b45ea5b586bbaa",
     "pubDate": "Thu, 20 Nov 2025 23:31:06 GMT",
     "eventUtc": "2025-11-20T23:10:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Arrived at Galveston, United States (USA) at Nov 20, 07:06 AM EST. The local time to the port is Nov 20, 07:06 AM EST",
-    "description": "Galveston, United States (USA) Arrival (UTC) Nov 20, 12:06 — ET: Nov 20, 07:06 AM EST | Local: Nov 20, 07:06 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USGLS001",
-    "guid": "496470bc666f436ed4335d641a6a5d11bd2089d6",
-    "pubDate": "Thu, 20 Nov 2025 13:11:10 GMT",
-    "eventUtc": "2025-11-20T12:06:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
     "source": "vf_ship"
