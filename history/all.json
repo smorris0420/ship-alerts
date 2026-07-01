@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Departed from Philipsburg, Sint Maarten (NL) at Jul 01, 05:45 PM EDT. The local time to the port is Jul 01, 05:45 PM EDT",
+    "description": "Philipsburg, Sint Maarten (NL) Departure (UTC) Jul 1, 21:45 — ET: Jul 01, 05:45 PM EDT | Local: Jul 01, 05:45 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/SXPHI001",
+    "guid": "d2e1b5144ffce28b5b4d78f6ffdd7769005bc288",
+    "pubDate": "Wed, 01 Jul 2026 22:09:06 GMT",
+    "eventUtc": "2026-07-01T21:45:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Adventure Arrived at Singapore, Singapore at Jul 01, 05:24 PM EDT. The local time to the port is Jul 01, 05:24 PM EDT",
+    "description": "Singapore, Singapore Arrival (UTC) Jul 1, 21:24 — ET: Jul 01, 05:24 PM EDT | Local: Jul 01, 05:24 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/SGSIN001",
+    "guid": "50f4728f5d3e7846ef9c2815e8be2769023f0405",
+    "pubDate": "Wed, 01 Jul 2026 22:08:52 GMT",
+    "eventUtc": "2026-07-01T21:24:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Arrived at Philipsburg, Sint Maarten (NL) at Jul 01, 07:55 AM EDT. The local time to the port is Jul 01, 07:55 AM EDT",
     "description": "Philipsburg, Sint Maarten (NL) Arrival (UTC) Jul 1, 11:55 — ET: Jul 01, 07:55 AM EDT | Local: Jul 01, 07:55 AM EDT",
     "link": "https://www.vesselfinder.com/ports/SXPHI001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-05-04T20:35:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Arrived at San Diego, United States (USA) at May 04, 09:40 AM EDT. The local time to the port is May 04, 09:40 AM EDT",
-    "description": "San Diego, United States (USA) Arrival (UTC) May 4, 13:40 — ET: May 04, 09:40 AM EDT | Local: May 04, 09:40 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/USSAN001",
-    "guid": "d455d6679577f650d3e817450f6356441bf7bcf3",
-    "pubDate": "Mon, 04 May 2026 15:20:36 GMT",
-    "eventUtc": "2026-05-04T13:40:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Cozumel, Mexico at May 04, 09:00 AM EDT. The local time to the port is May 04, 08:00 AM EST",
-    "description": "Cozumel, Mexico Arrival (UTC) May 4, 13:00 — ET: May 04, 09:00 AM EDT | Local: May 04, 08:00 AM EST",
-    "link": "https://www.vesselfinder.com/ports/MXCZM001",
-    "guid": "5b776208380d47ef53adb78e706d17ff5279ab26",
-    "pubDate": "Mon, 04 May 2026 15:18:57 GMT",
-    "eventUtc": "2026-05-04T13:00:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
