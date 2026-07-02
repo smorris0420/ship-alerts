@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Adventure Departed from Singapore, Singapore at Jul 02, 05:00 AM EDT. The local time to the port is Jul 02, 05:00 AM EDT",
+    "description": "Singapore, Singapore Departure (UTC) Jul 2, 09:00 — ET: Jul 02, 05:00 AM EDT | Local: Jul 02, 05:00 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/SGSIN001",
+    "guid": "9990da3a5d7638290420a34cc2456d0494804a0d",
+    "pubDate": "Thu, 02 Jul 2026 11:21:21 GMT",
+    "eventUtc": "2026-07-02T09:00:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Departed from Philipsburg, Sint Maarten (NL) at Jul 01, 05:45 PM EDT. The local time to the port is Jul 01, 05:45 PM EDT",
     "description": "Philipsburg, Sint Maarten (NL) Departure (UTC) Jul 1, 21:45 — ET: Jul 01, 05:45 PM EDT | Local: Jul 01, 05:45 PM EDT",
     "link": "https://www.vesselfinder.com/ports/SXPHI001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-05-04T20:36:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Departed from Port Everglades, United States (USA) at May 04, 04:35 PM EDT. The local time to the port is May 04, 04:35 PM EDT",
-    "description": "Port Everglades, United States (USA) Departure (UTC) May 4, 20:35 — ET: May 04, 04:35 PM EDT | Local: May 04, 04:35 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "45bb38e5459ddd55ba75d1d40fb3a0b5615cdfa0",
-    "pubDate": "Mon, 04 May 2026 21:24:11 GMT",
-    "eventUtc": "2026-05-04T20:35:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
     "source": "vf_ship"
   }
 ]

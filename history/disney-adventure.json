@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Adventure Departed from Singapore, Singapore at Jul 02, 05:00 AM EDT. The local time to the port is Jul 02, 05:00 AM EDT",
+    "description": "Singapore, Singapore Departure (UTC) Jul 2, 09:00 — ET: Jul 02, 05:00 AM EDT | Local: Jul 02, 05:00 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/SGSIN001",
+    "guid": "9990da3a5d7638290420a34cc2456d0494804a0d",
+    "pubDate": "Thu, 02 Jul 2026 11:21:21 GMT",
+    "eventUtc": "2026-07-02T09:00:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Arrived at Singapore, Singapore at Jul 01, 05:24 PM EDT. The local time to the port is Jul 01, 05:24 PM EDT",
     "description": "Singapore, Singapore Arrival (UTC) Jul 1, 21:24 — ET: Jul 01, 05:24 PM EDT | Local: Jul 01, 05:24 PM EDT",
     "link": "https://www.vesselfinder.com/ports/SGSIN001",
