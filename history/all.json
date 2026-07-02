@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Rhodes, Greece at Jul 02, 08:52 AM EDT. The local time to the port is Jul 02, 03:52 PM EEST",
+    "description": "Rhodes, Greece Departure (UTC) Jul 2, 12:52 — ET: Jul 02, 08:52 AM EDT | Local: Jul 02, 03:52 PM EEST",
+    "link": "https://www.vesselfinder.com/ports/GRRHO001",
+    "guid": "46992f07eb73bbbaac33fdbae05bc83204ed354c",
+    "pubDate": "Thu, 02 Jul 2026 13:14:51 GMT",
+    "eventUtc": "2026-07-02T12:52:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Departed from Singapore, Singapore at Jul 02, 05:00 AM EDT. The local time to the port is Jul 02, 05:00 AM EDT",
     "description": "Singapore, Singapore Departure (UTC) Jul 2, 09:00 — ET: Jul 02, 05:00 AM EDT | Local: Jul 02, 05:00 AM EDT",
     "link": "https://www.vesselfinder.com/ports/SGSIN001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-05-04T21:56:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Departed from Cape Canaveral, United States (USA) at May 04, 04:36 PM EDT. The local time to the port is May 04, 04:36 PM EDT",
-    "description": "Cape Canaveral, United States (USA) Departure (UTC) May 4, 20:36 — ET: May 04, 04:36 PM EDT | Local: May 04, 04:36 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "04b1f38dab3682d9cdf1ca6a1cce699046982af2",
-    "pubDate": "Mon, 04 May 2026 21:20:03 GMT",
-    "eventUtc": "2026-05-04T20:36:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
     "source": "vf_ship"
   }
 ]
