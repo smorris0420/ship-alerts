@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Vancouver, Canada at Jul 02, 07:40 PM EDT. The local time to the port is Jul 02, 04:40 PM PDT",
+    "description": "Vancouver, Canada Departure (UTC) Jul 2, 23:40 — ET: Jul 02, 07:40 PM EDT | Local: Jul 02, 04:40 PM PDT",
+    "link": "https://www.vesselfinder.com/ports/CAVAN001",
+    "guid": "dffda2bce47e068a54af5a73cd6c56ad9aa8f8e8",
+    "pubDate": "Thu, 02 Jul 2026 23:49:03 GMT",
+    "eventUtc": "2026-07-02T23:40:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Arrived at Vancouver, Canada at Jul 02, 10:03 AM EDT. The local time to the port is Jul 02, 07:03 AM PDT",
     "description": "Vancouver, Canada Arrival (UTC) Jul 2, 14:03 — ET: Jul 02, 10:03 AM EDT | Local: Jul 02, 07:03 AM PDT",
     "link": "https://www.vesselfinder.com/ports/CAVAN001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-05-05T13:09:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Arrived at Gorda Cay, Bahamas at May 05, 07:52 AM EDT. The local time to the port is May 05, 07:52 AM EDT",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) May 5, 11:52 — ET: May 05, 07:52 AM EDT | Local: May 05, 07:52 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "793a92674f4c728e96aad3af48c91a066fcf7dbc",
-    "pubDate": "Wed, 06 May 2026 00:05:38 GMT",
-    "eventUtc": "2026-05-05T11:52:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
     "source": "vf_ship"
   }
 ]
