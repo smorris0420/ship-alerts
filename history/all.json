@@ -220,6 +220,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Fantasy Departed from Gorda Cay, Bahamas at Jul 02, 04:35 PM EDT. The local time to the port is Jul 02, 04:35 PM EDT",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Jul 2, 20:35 — ET: Jul 02, 04:35 PM EDT | Local: Jul 02, 04:35 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "5e5a0d5c8571b545b85dde839d33f987d5f26bf3",
+    "pubDate": "Fri, 03 Jul 2026 08:27:01 GMT",
+    "eventUtc": "2026-07-02T20:35:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Arrived at Vancouver, Canada at Jul 02, 10:03 AM EDT. The local time to the port is Jul 02, 07:03 AM PDT",
     "description": "Vancouver, Canada Arrival (UTC) Jul 2, 14:03 — ET: Jul 02, 10:03 AM EDT | Local: Jul 02, 07:03 AM PDT",
     "link": "https://www.vesselfinder.com/ports/CAVAN001",
@@ -239,6 +250,17 @@
     "eventUtc": "2026-07-02T12:52:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Fantasy Arrived at Gorda Cay, Bahamas at Jul 02, 07:09 AM EDT. The local time to the port is Jul 02, 07:09 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Jul 2, 11:09 — ET: Jul 02, 07:09 AM EDT | Local: Jul 02, 07:09 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "d2f98201e3942d78e465b8839b2c368e1c1c6c47",
+    "pubDate": "Fri, 03 Jul 2026 08:27:00 GMT",
+    "eventUtc": "2026-07-02T11:09:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
     "source": "vf_ship"
   },
   {
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-05-05T21:00:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Arrived at Ensenada, Mexico at May 05, 11:09 AM EDT. The local time to the port is May 05, 10:09 AM EST",
-    "description": "Ensenada, Mexico Arrival (UTC) May 5, 15:09 — ET: May 05, 11:09 AM EDT | Local: May 05, 10:09 AM EST",
-    "link": "https://www.vesselfinder.com/ports/MXESE001",
-    "guid": "44146ac353ca8b44178f91f3dc64b840aad9697e",
-    "pubDate": "Tue, 05 May 2026 17:03:25 GMT",
-    "eventUtc": "2026-05-05T15:09:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Arrived at Nassau, Bahamas at May 05, 09:09 AM EDT. The local time to the port is May 05, 09:09 AM EDT",
-    "description": "Nassau, Bahamas Arrival (UTC) May 5, 13:09 — ET: May 05, 09:09 AM EDT | Local: May 05, 09:09 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "49dc36a2ec93fe01a96758d6fa5f961d5231fb06",
-    "pubDate": "Tue, 05 May 2026 17:00:57 GMT",
-    "eventUtc": "2026-05-05T13:09:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
     "source": "vf_ship"
   }
 ]
