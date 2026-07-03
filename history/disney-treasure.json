@@ -44,6 +44,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Departed from Falmouth, Jamaica at Jul 01, 05:44 PM EDT. The local time to the port is Jul 01, 04:44 PM EST",
+    "description": "Falmouth, Jamaica Departure (UTC) Jul 1, 21:44 — ET: Jul 01, 05:44 PM EDT | Local: Jul 01, 04:44 PM EST",
+    "link": "https://www.vesselfinder.com/ports/JMFMH001",
+    "guid": "1bd980baefa420c03bbe7260f0bff5904ac0f724",
+    "pubDate": "Fri, 03 Jul 2026 11:09:22 GMT",
+    "eventUtc": "2026-07-01T21:44:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Treasure Arrived at Falmouth, Jamaica at Jul 01, 08:45 AM EDT. The local time to the port is Jul 01, 07:45 AM EST",
+    "description": "Falmouth, Jamaica Arrival (UTC) Jul 1, 12:45 — ET: Jul 01, 08:45 AM EDT | Local: Jul 01, 07:45 AM EST",
+    "link": "https://www.vesselfinder.com/ports/JMFMH001",
+    "guid": "4825e97eb9251e9e9749b2799b850f34af42e61f",
+    "pubDate": "Fri, 03 Jul 2026 11:09:21 GMT",
+    "eventUtc": "2026-07-01T12:45:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Departed from Cozumel, Mexico at Jun 29, 05:54 PM EDT. The local time to the port is Jun 29, 04:54 PM EST",
     "description": "Cozumel, Mexico Departure (UTC) Jun 29, 21:54 — ET: Jun 29, 05:54 PM EDT | Local: Jun 29, 04:54 PM EST",
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
@@ -2723,28 +2745,6 @@
     "guid": "1159a8e92a3d5e543e2cf9c73d8384bba07993d7",
     "pubDate": "Tue, 16 Dec 2025 15:43:32 GMT",
     "eventUtc": "2025-12-15T12:40:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Cape Canaveral, United States (USA) at Dec 13, 05:08 PM EST. The local time to the port is Dec 13, 05:08 PM EST",
-    "description": "Cape Canaveral, United States (USA) Departure (UTC) Dec 13, 22:08 — ET: Dec 13, 05:08 PM EST | Local: Dec 13, 05:08 PM EST",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "838b63e594085ed486dede619c544d7f931975ec",
-    "pubDate": "Sat, 13 Dec 2025 22:27:49 GMT",
-    "eventUtc": "2025-12-13T22:08:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Cape Canaveral, United States (USA) at Dec 13, 06:01 AM EST. The local time to the port is Dec 13, 06:01 AM EST",
-    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Dec 13, 11:01 — ET: Dec 13, 06:01 AM EST | Local: Dec 13, 06:01 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "7aebc2da9f1ad55f1a207aa9726c6780dc122db8",
-    "pubDate": "Sat, 13 Dec 2025 11:47:44 GMT",
-    "eventUtc": "2025-12-13T11:01:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
     "source": "vf_ship"
