@@ -5,7 +5,7 @@
   <title>Disney Wish - Arrivals &amp; Departures</title>
   <link>https://www.vesselfinder.com/vessels/details/9834739</link>
   <description>Disney Wish - Arrivals &amp; Departures - Auto-generated</description>
-  <lastBuildDate>Fri, 03 Jul 2026 19:49:47 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 03 Jul 2026 20:48:27 GMT</lastBuildDate>
   
   <item>
     <title>Disney Wish Departed from Nassau, Bahamas at Dec 30, 05:59 PM EST. The local time to the port is Dec 30, 05:59 PM EST</title>
@@ -20,6 +20,13 @@
     <guid isPermaLink="false">c8fa95bf103d068f9b1c39c3aa7460598af04c5d</guid>
     <pubDate>Thu, 01 Jan 2026 00:00:41 GMT</pubDate>
     <description><![CDATA[Nassau, Bahamas Arrival (UTC) Dec 30, 13:49 — ET: Dec 30, 08:49 AM EST | Local: Dec 30, 08:49 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Wish Departed from Cape Canaveral, United States (USA) at Jul 03, 04:35 PM EDT. The local time to the port is Jul 03, 04:35 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USPCV001</link>
+    <guid isPermaLink="false">8ffb2d47df2336f4de05cdd6519a9cf381e2c629</guid>
+    <pubDate>Fri, 03 Jul 2026 20:48:24 GMT</pubDate>
+    <description><![CDATA[Cape Canaveral, United States (USA) Departure (UTC) Jul 3, 20:35 — ET: Jul 03, 04:35 PM EDT | Local: Jul 03, 04:35 PM EDT]]></description>
   </item>
   <item>
     <title>Disney Wish Arrived at Cape Canaveral, United States (USA) at Jul 03, 05:36 AM EDT. The local time to the port is Jul 03, 05:36 AM EDT</title>
@@ -1749,13 +1756,6 @@
     <guid isPermaLink="false">719a4a93f04d8fa1d7c178bd5370f0cbd32ed79a</guid>
     <pubDate>Tue, 27 Jan 2026 14:54:57 GMT</pubDate>
     <description><![CDATA[Nassau, Bahamas Arrival (UTC) Jan 27, 13:47 — ET: Jan 27, 08:47 AM EST | Local: Jan 27, 08:47 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Wish Departed from Cape Canaveral, United States (USA) at Jan 26, 04:33 PM EST. The local time to the port is Jan 26, 04:33 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/USPCV001</link>
-    <guid isPermaLink="false">abe1dbe9d3e05e32cae1525ba28481b59e0e977e</guid>
-    <pubDate>Mon, 26 Jan 2026 21:50:22 GMT</pubDate>
-    <description><![CDATA[Cape Canaveral, United States (USA) Departure (UTC) Jan 26, 21:33 — ET: Jan 26, 04:33 PM EST | Local: Jan 26, 04:33 PM EST]]></description>
   </item>
 </channel>
 </rss>
