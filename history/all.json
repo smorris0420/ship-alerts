@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Departed from Nassau, Bahamas at Jul 04, 06:25 PM EDT. The local time to the port is Jul 04, 06:25 PM EDT",
+    "description": "Nassau, Bahamas Departure (UTC) Jul 4, 22:25 — ET: Jul 04, 06:25 PM EDT | Local: Jul 04, 06:25 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "e3914528520107a1f952fff54b0c99ac4df8f16b",
+    "pubDate": "Sat, 04 Jul 2026 22:40:29 GMT",
+    "eventUtc": "2026-07-04T22:25:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Departed from Cape Canaveral, United States (USA) at Jul 04, 05:05 PM EDT. The local time to the port is Jul 04, 05:05 PM EDT",
     "description": "Cape Canaveral, United States (USA) Departure (UTC) Jul 4, 21:05 — ET: Jul 04, 05:05 PM EDT | Local: Jul 04, 05:05 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-05-08T09:40:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Adventure Departed from Singapore, Singapore at May 08, 12:15 AM EDT. The local time to the port is May 08, 12:15 AM EDT",
-    "description": "Singapore, Singapore Departure (UTC) May 8, 04:15 — ET: May 08, 12:15 AM EDT | Local: May 08, 12:15 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/SGSIN001",
-    "guid": "92e3a27c9487cf23b3813a06740da8f091ad53bd",
-    "pubDate": "Fri, 08 May 2026 05:55:31 GMT",
-    "eventUtc": "2026-05-08T04:15:00+00:00",
-    "shipSlug": "disney-adventure",
-    "shipName": "Disney Adventure",
     "source": "vf_ship"
   }
 ]
