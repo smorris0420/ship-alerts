@@ -220,6 +220,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Departed from Gorda Cay, Bahamas at Jul 03, 04:48 PM EDT. The local time to the port is Jul 03, 04:48 PM EDT",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Jul 3, 20:48 — ET: Jul 03, 04:48 PM EDT | Local: Jul 03, 04:48 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "332bb7788d38a8ea38382db47318aabd6ffbabee",
+    "pubDate": "Sat, 04 Jul 2026 03:56:10 GMT",
+    "eventUtc": "2026-07-03T20:48:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Departed from Cape Canaveral, United States (USA) at Jul 03, 04:35 PM EDT. The local time to the port is Jul 03, 04:35 PM EDT",
     "description": "Cape Canaveral, United States (USA) Departure (UTC) Jul 3, 20:35 — ET: Jul 03, 04:35 PM EDT | Local: Jul 03, 04:35 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -228,6 +239,17 @@
     "eventUtc": "2026-07-03T20:35:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Treasure Arrived at Gorda Cay, Bahamas at Jul 03, 06:43 AM EDT. The local time to the port is Jul 03, 06:43 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Jul 3, 10:43 — ET: Jul 03, 06:43 AM EDT | Local: Jul 03, 06:43 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "c9103aff4844b043ba9545c943c17686a85459d7",
+    "pubDate": "Sat, 04 Jul 2026 03:56:08 GMT",
+    "eventUtc": "2026-07-03T10:43:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
     "source": "vf_ship"
   },
   {
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-05-06T20:57:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Departed from Cape Canaveral, United States (USA) at May 06, 04:24 PM EDT. The local time to the port is May 06, 04:24 PM EDT",
-    "description": "Cape Canaveral, United States (USA) Departure (UTC) May 6, 20:24 — ET: May 06, 04:24 PM EDT | Local: May 06, 04:24 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "beedce5b0f1fe73039e3e85fed0af3cb206ddaba",
-    "pubDate": "Wed, 06 May 2026 21:40:51 GMT",
-    "eventUtc": "2026-05-06T20:24:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Falmouth, Jamaica at May 06, 08:11 AM EDT. The local time to the port is May 06, 07:11 AM EST",
-    "description": "Falmouth, Jamaica Arrival (UTC) May 6, 12:11 — ET: May 06, 08:11 AM EDT | Local: May 06, 07:11 AM EST",
-    "link": "https://www.vesselfinder.com/ports/JMFMH001",
-    "guid": "e44ba009f32a3f932e477ac08114f8b4ae5db5ec",
-    "pubDate": "Thu, 07 May 2026 21:01:44 GMT",
-    "eventUtc": "2026-05-06T12:11:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
