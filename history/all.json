@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Valletta, Malta at Jul 04, 10:31 AM EDT. The local time to the port is Jul 04, 04:31 PM CEST",
+    "description": "Valletta, Malta Departure (UTC) Jul 4, 14:31 — ET: Jul 04, 10:31 AM EDT | Local: Jul 04, 04:31 PM CEST",
+    "link": "https://www.vesselfinder.com/ports/MTMLA001",
+    "guid": "dd88b49641d5f362d76dc71477a66ec5a9e7b61f",
+    "pubDate": "Sat, 04 Jul 2026 15:19:13 GMT",
+    "eventUtc": "2026-07-04T14:31:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Arrived at Nassau, Bahamas at Jul 04, 09:02 AM EDT. The local time to the port is Jul 04, 09:02 AM EDT",
     "description": "Nassau, Bahamas Arrival (UTC) Jul 4, 13:02 — ET: Jul 04, 09:02 AM EDT | Local: Jul 04, 09:02 AM EDT",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -5483,17 +5494,6 @@
     "link": "https://www.vesselfinder.com/ports/SGSIN001",
     "guid": "21da55043cae87fe00e70e72738be7ddb4d6a03a",
     "pubDate": "Wed, 06 May 2026 19:00:23 GMT",
-    "eventUtc": "2026-05-07T00:30:00+00:00",
-    "shipSlug": "disney-adventure",
-    "shipName": "Disney Adventure",
-    "source": "vf_port"
-  },
-  {
-    "title": "Disney Adventure Arrived at Singapore, Singapore at May 06, 08:30 PM EDT. The local time to the port is May 06, 08:30 PM EDT",
-    "description": "Singapore, Singapore Arrival (UTC) May 07, 00:30 — ET: May 06, 08:30 PM EDT | Local: May 06, 08:30 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/SGSIN001",
-    "guid": "45412442b2d72957d09bfd256f00f79e8e3e0f1a",
-    "pubDate": "Wed, 06 May 2026 19:00:24 GMT",
     "eventUtc": "2026-05-07T00:30:00+00:00",
     "shipSlug": "disney-adventure",
     "shipName": "Disney Adventure",

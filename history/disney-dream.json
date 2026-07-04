@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Valletta, Malta at Jul 04, 10:31 AM EDT. The local time to the port is Jul 04, 04:31 PM CEST",
+    "description": "Valletta, Malta Departure (UTC) Jul 4, 14:31 — ET: Jul 04, 10:31 AM EDT | Local: Jul 04, 04:31 PM CEST",
+    "link": "https://www.vesselfinder.com/ports/MTMLA001",
+    "guid": "dd88b49641d5f362d76dc71477a66ec5a9e7b61f",
+    "pubDate": "Sat, 04 Jul 2026 15:19:13 GMT",
+    "eventUtc": "2026-07-04T14:31:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Arrived at Valletta, Malta at Jul 04, 12:01 AM EDT. The local time to the port is Jul 04, 06:01 AM CEST",
     "description": "Valletta, Malta Arrival (UTC) Jul 4, 04:01 — ET: Jul 04, 12:01 AM EDT | Local: Jul 04, 06:01 AM CEST",
     "link": "https://www.vesselfinder.com/ports/MTMLA001",
@@ -2734,17 +2745,6 @@
     "guid": "d99cc29f69afd706522fae67625452988f981c73",
     "pubDate": "Sun, 28 Dec 2025 13:11:59 GMT",
     "eventUtc": "2025-12-28T12:35:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Port Everglades, United States (USA) at Dec 26, 05:07 PM EST. The local time to the port is Dec 26, 05:07 PM EST",
-    "description": "Port Everglades, United States (USA) Departure (UTC) Dec 26, 22:07 — ET: Dec 26, 05:07 PM EST | Local: Dec 26, 05:07 PM EST",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "2bfc1d42e734a0585509a438e87bc8773db0b11d",
-    "pubDate": "Fri, 26 Dec 2025 22:30:36 GMT",
-    "eventUtc": "2025-12-26T22:07:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
     "source": "vf_ship"
