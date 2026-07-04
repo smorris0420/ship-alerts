@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Arrived at Ketchikan, United States (USA) at Jul 04, 02:09 PM EDT. The local time to the port is Jul 04, 02:09 PM EDT",
+    "description": "Ketchikan, United States (USA) Arrival (UTC) Jul 4, 18:09 — ET: Jul 04, 02:09 PM EDT | Local: Jul 04, 02:09 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USKTN001",
+    "guid": "14409a81e14d3c3acbf6edfad64cd5be3c97c9d7",
+    "pubDate": "Sat, 04 Jul 2026 19:54:51 GMT",
+    "eventUtc": "2026-07-04T18:09:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Valletta, Malta at Jul 04, 10:31 AM EDT. The local time to the port is Jul 04, 04:31 PM CEST",
     "description": "Valletta, Malta Departure (UTC) Jul 4, 14:31 — ET: Jul 04, 10:31 AM EDT | Local: Jul 04, 04:31 PM CEST",
     "link": "https://www.vesselfinder.com/ports/MTMLA001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-05-07T21:58:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Arrived at San Diego, United States (USA) at May 07, 09:15 AM EDT. The local time to the port is May 07, 09:15 AM EDT",
-    "description": "San Diego, United States (USA) Arrival (UTC) May 7, 13:15 — ET: May 07, 09:15 AM EDT | Local: May 07, 09:15 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/USSAN001",
-    "guid": "896ff0d0ba8d997d4c9269ea635a12e93675342e",
-    "pubDate": "Thu, 07 May 2026 14:47:26 GMT",
-    "eventUtc": "2026-05-07T13:15:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
     "source": "vf_ship"
   }
 ]
