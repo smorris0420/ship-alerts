@@ -5,7 +5,7 @@
   <title>Disney Treasure - Arrivals &amp; Departures</title>
   <link>https://www.vesselfinder.com/vessels/details/9834753</link>
   <description>Disney Treasure - Arrivals &amp; Departures - Auto-generated</description>
-  <lastBuildDate>Sat, 04 Jul 2026 20:42:41 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 04 Jul 2026 21:42:03 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -34,6 +34,13 @@
     <guid isPermaLink="false">82d28296f402cfdf1461b4ee7ddf9e1831c89886</guid>
     <pubDate>Thu, 01 Jan 2026 00:00:51 GMT</pubDate>
     <description><![CDATA[Georgetown, Grand Cayman Anch., Cayman Islands Arrival (UTC) Dec 29, 12:44 — ET: Dec 29, 07:44 AM EST | Local: Dec 29, 07:44 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Treasure Departed from Cape Canaveral, United States (USA) at Jul 04, 05:05 PM EDT. The local time to the port is Jul 04, 05:05 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USPCV001</link>
+    <guid isPermaLink="false">bf595fee13f8dcfe72f4ed33f80b1af6ba71025d</guid>
+    <pubDate>Sat, 04 Jul 2026 21:42:02 GMT</pubDate>
+    <description><![CDATA[Cape Canaveral, United States (USA) Departure (UTC) Jul 4, 21:05 — ET: Jul 04, 05:05 PM EDT | Local: Jul 04, 05:05 PM EDT]]></description>
   </item>
   <item>
     <title>Disney Treasure Arrived at Cape Canaveral, United States (USA) at Jul 04, 05:53 AM EDT. The local time to the port is Jul 04, 05:53 AM EDT</title>
@@ -1749,13 +1756,6 @@
     <guid isPermaLink="false">5e54dd56e7eecfa5b829ef807a22dbbc42574355</guid>
     <pubDate>Fri, 19 Dec 2025 09:54:50 GMT</pubDate>
     <description><![CDATA[Falmouth, Jamaica Arrival (UTC) Dec 17, 12:13 — ET: Dec 17, 07:13 AM EST | Local: Dec 17, 07:13 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Treasure Departed from Cozumel, Mexico at Dec 15, 05:16 PM EST. The local time to the port is Dec 15, 05:16 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/MXCZM001</link>
-    <guid isPermaLink="false">b898cf179c980f2a4329b48827cf18c55810f5db</guid>
-    <pubDate>Mon, 15 Dec 2025 22:22:49 GMT</pubDate>
-    <description><![CDATA[Cozumel, Mexico Departure (UTC) Dec 15, 22:16 — ET: Dec 15, 05:16 PM EST | Local: Dec 15, 05:16 PM EST]]></description>
   </item>
 </channel>
 </rss>
