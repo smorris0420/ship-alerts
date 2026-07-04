@@ -44,6 +44,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Arrived at Cape Canaveral, United States (USA) at Jul 04, 05:53 AM EDT. The local time to the port is Jul 04, 05:53 AM EDT",
+    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Jul 4, 09:53 — ET: Jul 04, 05:53 AM EDT | Local: Jul 04, 05:53 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "64d94978162ef3ea419d64af7c2b48291ccfcef7",
+    "pubDate": "Sat, 04 Jul 2026 11:01:22 GMT",
+    "eventUtc": "2026-07-04T09:53:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Departed from Gorda Cay, Bahamas at Jul 03, 04:48 PM EDT. The local time to the port is Jul 03, 04:48 PM EDT",
     "description": "Gorda Cay, Bahamas Departure (UTC) Jul 3, 20:48 — ET: Jul 03, 04:48 PM EDT | Local: Jul 03, 04:48 PM EDT",
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
@@ -2733,17 +2744,6 @@
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
     "guid": "b898cf179c980f2a4329b48827cf18c55810f5db",
     "pubDate": "Mon, 15 Dec 2025 22:22:49 GMT",
-    "eventUtc": "2025-12-15T22:16:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Georgetown, Grand Cayman Anch., Cayman Islands at Dec 15, 05:16 PM EST. The local time to the port is Dec 15, 05:16 PM EST",
-    "description": "Georgetown, Grand Cayman Anch., Cayman Islands Departure (UTC) Dec 15, 22:16 — ET: Dec 15, 05:16 PM EST | Local: Dec 15, 05:16 PM EST",
-    "link": "https://www.vesselfinder.com/ports/KYGEC001",
-    "guid": "86856714ab362415d8cc6633572e004a07667a62",
-    "pubDate": "Tue, 16 Dec 2025 15:43:34 GMT",
     "eventUtc": "2025-12-15T22:16:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",

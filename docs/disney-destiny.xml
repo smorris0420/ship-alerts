@@ -5,7 +5,7 @@
   <title>Disney Destiny - Arrivals &amp; Departures</title>
   <link>https://www.vesselfinder.com/vessels/details/9834741</link>
   <description>Disney Destiny - Arrivals &amp; Departures - Auto-generated</description>
-  <lastBuildDate>Sat, 04 Jul 2026 09:16:25 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 04 Jul 2026 11:05:08 GMT</lastBuildDate>
   
   <item>
     <title>Disney Destiny Departed from Port Everglades, United States (USA) at Dec 30, 04:22 PM EST. The local time to the port is Dec 30, 04:22 PM EST</title>
@@ -20,6 +20,13 @@
     <guid isPermaLink="false">5860149e96892fc0e11adacb796749937ec68385</guid>
     <pubDate>Thu, 01 Jan 2026 00:02:09 GMT</pubDate>
     <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) Dec 30, 10:47 — ET: Dec 30, 05:47 AM EST | Local: Dec 30, 05:47 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Destiny Arrived at Port Everglades, United States (USA) at Jul 04, 06:04 AM EDT. The local time to the port is Jul 04, 06:04 AM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USPEF001</link>
+    <guid isPermaLink="false">b6b9ce9eb9e7d6d07c247f44217164fa8fd83ac4</guid>
+    <pubDate>Sat, 04 Jul 2026 11:05:06 GMT</pubDate>
+    <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) Jul 4, 10:04 — ET: Jul 04, 06:04 AM EDT | Local: Jul 04, 06:04 AM EDT]]></description>
   </item>
   <item>
     <title>Disney Destiny Departed from Philipsburg, Sint Maarten (NL) at Jul 01, 05:45 PM EDT. The local time to the port is Jul 01, 05:45 PM EDT</title>
@@ -1749,13 +1756,6 @@
     <guid isPermaLink="false">16cedd366a2ce34aae92df223abe960d804e82b3</guid>
     <pubDate>Thu, 20 Nov 2025 21:31:17 GMT</pubDate>
     <description><![CDATA[Port Everglades, United States (USA) Departure (UTC) Nov 20, 21:14 — ET: Nov 20, 04:14 PM EST | Local: Nov 20, 04:14 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Destiny Departed from Port Everglades, United States (USA) at Nov 19, 10:15 AM EST. The local time to the port is Nov 19, 10:15 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/USPEF001</link>
-    <guid isPermaLink="false">7540cca7bc860a8a573db09e9d3c5272283adde5</guid>
-    <pubDate>Tue, 18 Nov 2025 02:29:35 GMT</pubDate>
-    <description><![CDATA[Port Everglades, United States (USA) Departure (UTC) Nov 19, 15:15 — ET: Nov 19, 10:15 AM EST | Local: Nov 19, 10:15 AM EST]]></description>
   </item>
 </channel>
 </rss>
