@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Departed from Ketchikan, United States (USA) at Jul 04, 11:09 PM EDT. The local time to the port is Jul 04, 11:09 PM EDT",
+    "description": "Ketchikan, United States (USA) Departure (UTC) Jul 5, 03:09 — ET: Jul 04, 11:09 PM EDT | Local: Jul 04, 11:09 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USKTN001",
+    "guid": "1046b86b509fdd3cdfb1fa99ba60a85adf32d327",
+    "pubDate": "Sun, 05 Jul 2026 05:42:22 GMT",
+    "eventUtc": "2026-07-05T03:09:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Arrived at Ketchikan, United States (USA) at Jul 04, 02:09 PM EDT. The local time to the port is Jul 04, 02:09 PM EDT",
     "description": "Ketchikan, United States (USA) Arrival (UTC) Jul 4, 18:09 — ET: Jul 04, 02:09 PM EDT | Local: Jul 04, 02:09 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USKTN001",
@@ -2734,17 +2745,6 @@
     "guid": "6a46269a954caaac88c6c182e30261400afb7da3",
     "pubDate": "Mon, 24 Nov 2025 23:22:12 GMT",
     "eventUtc": "2025-11-24T22:26:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Departed from Melbourne, Australia at Nov 20, 01:35 AM EST. The local time to the port is Nov 20, 05:35 PM AEDT",
-    "description": "Melbourne, Australia Departure (UTC) Nov 20, 06:35 — ET: Nov 20, 01:35 AM EST | Local: Nov 20, 05:35 PM AEDT",
-    "link": "https://www.vesselfinder.com/ports/AUMEL001",
-    "guid": "4cd5a777e12d894cdd17c3ab89db7a33ca00b4e5",
-    "pubDate": "Thu, 20 Nov 2025 06:44:04 GMT",
-    "eventUtc": "2025-11-20T06:35:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
     "source": "vf_ship"
