@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Adventure Arrived at Singapore, Singapore at Jul 05, 05:24 PM EDT. The local time to the port is Jul 05, 05:24 PM EDT",
+    "description": "Singapore, Singapore Arrival (UTC) Jul 5, 21:24 — ET: Jul 05, 05:24 PM EDT | Local: Jul 05, 05:24 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/SGSIN001",
+    "guid": "3d4b5cc313c67c8b8db511e38a654e2de0674223",
+    "pubDate": "Sun, 05 Jul 2026 22:20:55 GMT",
+    "eventUtc": "2026-07-05T21:24:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Departed from Ketchikan, United States (USA) at Jul 04, 11:09 PM EDT. The local time to the port is Jul 04, 11:09 PM EDT",
     "description": "Ketchikan, United States (USA) Departure (UTC) Jul 5, 03:09 — ET: Jul 04, 11:09 PM EDT | Local: Jul 04, 11:09 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USKTN001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-05-08T20:36:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Gorda Cay, Bahamas at May 08, 07:11 AM EDT. The local time to the port is May 08, 07:11 AM EDT",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) May 8, 11:11 — ET: May 08, 07:11 AM EDT | Local: May 08, 07:11 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "df684ef4c0d554789b39e20dc9ca64a6903da025",
-    "pubDate": "Fri, 08 May 2026 13:01:32 GMT",
-    "eventUtc": "2026-05-08T11:11:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
