@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Departed from Cozumel, Mexico at Jul 06, 06:11 PM EDT. The local time to the port is Jul 06, 05:11 PM EST",
+    "description": "Cozumel, Mexico Departure (UTC) Jul 6, 22:11 — ET: Jul 06, 06:11 PM EDT | Local: Jul 06, 05:11 PM EST",
+    "link": "https://www.vesselfinder.com/ports/MXCZM001",
+    "guid": "6f4db95c886b9c545a1eb9a2a354cb371805a04f",
+    "pubDate": "Mon, 06 Jul 2026 23:20:18 GMT",
+    "eventUtc": "2026-07-06T22:11:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Arrived at Cozumel, Mexico at Jul 06, 04:34 AM EDT. The local time to the port is Jul 06, 03:34 AM EST",
     "description": "Cozumel, Mexico Arrival (UTC) Jul 6, 08:34 — ET: Jul 06, 04:34 AM EDT | Local: Jul 06, 03:34 AM EST",
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
@@ -2734,17 +2745,6 @@
     "guid": "95c91773afe734fb4be9eef90fbfe20ed41c876e",
     "pubDate": "Mon, 24 Nov 2025 11:22:36 GMT",
     "eventUtc": "2025-11-24T10:29:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Departed from Gorda Cay, Bahamas at Nov 22, 05:03 PM EST. The local time to the port is Nov 22, 05:03 PM EST",
-    "description": "Gorda Cay, Bahamas Departure (UTC) Nov 22, 22:03 — ET: Nov 22, 05:03 PM EST | Local: Nov 22, 05:03 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "8122fd55d9a06070886db12f150f33e48205a3a2",
-    "pubDate": "Sat, 22 Nov 2025 22:18:29 GMT",
-    "eventUtc": "2025-11-22T22:03:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
     "source": "vf_ship"
