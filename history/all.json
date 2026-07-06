@@ -209,6 +209,39 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Adventure Departed from Singapore, Singapore at Jul 06, 05:01 AM EDT. The local time to the port is Jul 06, 05:01 AM EDT",
+    "description": "Singapore, Singapore Departure (UTC) Jul 6, 09:01 — ET: Jul 06, 05:01 AM EDT | Local: Jul 06, 05:01 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/SGSIN001",
+    "guid": "ae40d79efd86bfc96ae055ccfd89ecab50332011",
+    "pubDate": "Mon, 06 Jul 2026 09:48:53 GMT",
+    "eventUtc": "2026-07-06T09:01:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Destiny Arrived at Cozumel, Mexico at Jul 06, 04:34 AM EDT. The local time to the port is Jul 06, 03:34 AM EST",
+    "description": "Cozumel, Mexico Arrival (UTC) Jul 6, 08:34 — ET: Jul 06, 04:34 AM EDT | Local: Jul 06, 03:34 AM EST",
+    "link": "https://www.vesselfinder.com/ports/MXCZM001",
+    "guid": "9fde7b5002e8ab128aa6a91d81f5660ad2dbd3fd",
+    "pubDate": "Mon, 06 Jul 2026 09:49:06 GMT",
+    "eventUtc": "2026-07-06T08:34:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Dream Arrived at Barcelona, Spain at Jul 06, 12:09 AM EDT. The local time to the port is Jul 06, 06:09 AM CEST",
+    "description": "Barcelona, Spain Arrival (UTC) Jul 6, 04:09 — ET: Jul 06, 12:09 AM EDT | Local: Jul 06, 06:09 AM CEST",
+    "link": "https://www.vesselfinder.com/ports/ESBCN001",
+    "guid": "268c098edfe2b1658e5c410ae48615110880d64b",
+    "pubDate": "Mon, 06 Jul 2026 09:47:49 GMT",
+    "eventUtc": "2026-07-06T04:09:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Arrived at Singapore, Singapore at Jul 05, 05:24 PM EDT. The local time to the port is Jul 05, 05:24 PM EDT",
     "description": "Singapore, Singapore Arrival (UTC) Jul 5, 21:24 — ET: Jul 05, 05:24 PM EDT | Local: Jul 05, 05:24 PM EDT",
     "link": "https://www.vesselfinder.com/ports/SGSIN001",
@@ -5464,39 +5497,6 @@
     "eventUtc": "2026-05-09T13:19:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Cape Canaveral, United States (USA) at May 09, 06:05 AM EDT. The local time to the port is May 09, 06:05 AM EDT",
-    "description": "Cape Canaveral, United States (USA) Arrival (UTC) May 9, 10:05 — ET: May 09, 06:05 AM EDT | Local: May 09, 06:05 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "94a0eb301a71007273a621708457860cdef876c6",
-    "pubDate": "Sat, 09 May 2026 11:36:42 GMT",
-    "eventUtc": "2026-05-09T10:05:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Arrived at Port Everglades, United States (USA) at May 09, 04:37 AM EDT. The local time to the port is May 09, 04:37 AM EDT",
-    "description": "Port Everglades, United States (USA) Arrival (UTC) May 9, 08:37 — ET: May 09, 04:37 AM EDT | Local: May 09, 04:37 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "e13cafdb920f74eab89c4bf0f89cad85c2c8eb43",
-    "pubDate": "Sat, 09 May 2026 09:50:26 GMT",
-    "eventUtc": "2026-05-09T08:37:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Arrived at Ponta Delgada, Portugal at May 09, 02:48 AM EDT. The local time to the port is May 09, 07:48 AM WEST",
-    "description": "Ponta Delgada, Portugal Arrival (UTC) May 9, 06:48 — ET: May 09, 02:48 AM EDT | Local: May 09, 07:48 AM WEST",
-    "link": "https://www.vesselfinder.com/ports/PTPDL001",
-    "guid": "fe3ce24139083a913d4730cfd1fe60b5384ea88f",
-    "pubDate": "Sat, 09 May 2026 08:17:19 GMT",
-    "eventUtc": "2026-05-09T06:48:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
     "source": "vf_ship"
   }
 ]
