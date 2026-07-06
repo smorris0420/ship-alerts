@@ -5,7 +5,7 @@
   <title>Disney Magic - Arrivals &amp; Departures</title>
   <link>https://www.vesselfinder.com/vessels/details/9126807</link>
   <description>Disney Magic - Arrivals &amp; Departures - Auto-generated</description>
-  <lastBuildDate>Mon, 06 Jul 2026 16:45:11 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 06 Jul 2026 18:34:19 GMT</lastBuildDate>
   
   <item>
     <title>Disney Magic Arrived at Progreso, Mexico at Dec 31, 10:27 AM EST. The local time to the port is Dec 31, 10:27 AM EST</title>
@@ -27,6 +27,13 @@
     <guid isPermaLink="false">e3f33dd1a2a99877e5076290efe2ecc4b5fa0861</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:16 GMT</pubDate>
     <description><![CDATA[Cozumel, Mexico Arrival (UTC) Dec 30, 16:33 — ET: Dec 30, 11:33 AM EST | Local: Dec 30, 11:33 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Magic Arrived at Hoonah, United States (USA) at Jul 06, 10:31 AM EDT. The local time to the port is Jul 06, 10:31 AM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USHNH001</link>
+    <guid isPermaLink="false">569ec49c7582d74d31981601fc6687b3787da71c</guid>
+    <pubDate>Mon, 06 Jul 2026 18:34:17 GMT</pubDate>
+    <description><![CDATA[Hoonah, United States (USA) Arrival (UTC) Jul 6, 14:31 — ET: Jul 06, 10:31 AM EDT | Local: Jul 06, 10:31 AM EDT]]></description>
   </item>
   <item>
     <title>Disney Magic Departed from Vancouver, Canada at Jul 02, 07:40 PM EDT. The local time to the port is Jul 02, 04:40 PM PDT</title>
@@ -1749,13 +1756,6 @@
     <guid isPermaLink="false">ac9de818e2b64946bd225c064881ebf9834ef8e9</guid>
     <pubDate>Mon, 24 Nov 2025 12:50:43 GMT</pubDate>
     <description><![CDATA[Galveston, United States (USA) Arrival (UTC) Nov 24, 12:01 — ET: Nov 24, 07:01 AM EST | Local: Nov 24, 07:01 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Magic Departed from Progreso, Mexico at Nov 22, 06:58 PM EST. The local time to the port is Nov 22, 06:58 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/MXPGO001</link>
-    <guid isPermaLink="false">535628cc4213359c5f86fc6b872dd2d740669182</guid>
-    <pubDate>Sun, 23 Nov 2025 21:27:01 GMT</pubDate>
-    <description><![CDATA[Progreso, Mexico Departure (UTC) Nov 22, 23:58 — ET: Nov 22, 06:58 PM EST | Local: Nov 22, 06:58 PM EST]]></description>
   </item>
 </channel>
 </rss>
