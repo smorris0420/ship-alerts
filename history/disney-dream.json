@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Barcelona, Spain at Jul 06, 12:14 PM EDT. The local time to the port is Jul 06, 06:14 PM CEST",
+    "description": "Barcelona, Spain Departure (UTC) Jul 6, 16:14 — ET: Jul 06, 12:14 PM EDT | Local: Jul 06, 06:14 PM CEST",
+    "link": "https://www.vesselfinder.com/ports/ESBCN001",
+    "guid": "7a9ba6e502505a85814906658a014127bf1fa605",
+    "pubDate": "Mon, 06 Jul 2026 16:45:22 GMT",
+    "eventUtc": "2026-07-06T16:14:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Arrived at Barcelona, Spain at Jul 06, 12:09 AM EDT. The local time to the port is Jul 06, 06:09 AM CEST",
     "description": "Barcelona, Spain Arrival (UTC) Jul 6, 04:09 — ET: Jul 06, 12:09 AM EDT | Local: Jul 06, 06:09 AM CEST",
     "link": "https://www.vesselfinder.com/ports/ESBCN001",
@@ -2734,17 +2745,6 @@
     "guid": "e77e1c3725e71f0e9819fa612389acee17a3a997",
     "pubDate": "Mon, 29 Dec 2025 11:35:46 GMT",
     "eventUtc": "2025-12-29T10:48:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Nassau, Bahamas at Dec 28, 06:02 PM EST. The local time to the port is Dec 28, 06:02 PM EST",
-    "description": "Nassau, Bahamas Departure (UTC) Dec 28, 23:02 — ET: Dec 28, 06:02 PM EST | Local: Dec 28, 06:02 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "ecd18896f07e1999248e7062ab6eed25d140fd29",
-    "pubDate": "Mon, 29 Dec 2025 02:32:16 GMT",
-    "eventUtc": "2025-12-28T23:02:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
     "source": "vf_ship"
