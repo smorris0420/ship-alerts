@@ -5,7 +5,7 @@
   <title>Disney Magic - Arrivals &amp; Departures</title>
   <link>https://www.vesselfinder.com/vessels/details/9126807</link>
   <description>Disney Magic - Arrivals &amp; Departures - Auto-generated</description>
-  <lastBuildDate>Tue, 07 Jul 2026 16:14:18 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 07 Jul 2026 18:23:01 GMT</lastBuildDate>
   
   <item>
     <title>Disney Magic Arrived at Progreso, Mexico at Dec 31, 10:27 AM EST. The local time to the port is Dec 31, 10:27 AM EST</title>
@@ -27,6 +27,13 @@
     <guid isPermaLink="false">e3f33dd1a2a99877e5076290efe2ecc4b5fa0861</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:16 GMT</pubDate>
     <description><![CDATA[Cozumel, Mexico Arrival (UTC) Dec 30, 16:33 — ET: Dec 30, 11:33 AM EST | Local: Dec 30, 11:33 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Magic Arrived at Ketchikan, United States (USA) at Jul 07, 12:46 PM EDT. The local time to the port is Jul 07, 12:46 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USKTN001</link>
+    <guid isPermaLink="false">b1afb05e80da58b4417a3b2f7ef53a316ee65f33</guid>
+    <pubDate>Tue, 07 Jul 2026 18:22:59 GMT</pubDate>
+    <description><![CDATA[Ketchikan, United States (USA) Arrival (UTC) Jul 7, 16:46 — ET: Jul 07, 12:46 PM EDT | Local: Jul 07, 12:46 PM EDT]]></description>
   </item>
   <item>
     <title>Disney Magic Departed from Hoonah, United States (USA) at Jul 06, 08:15 PM EDT. The local time to the port is Jul 06, 08:15 PM EDT</title>
@@ -1749,13 +1756,6 @@
     <guid isPermaLink="false">ae840707a3061b416ebf51a359923b30230edd36</guid>
     <pubDate>Sat, 22 Nov 2025 22:36:34 GMT</pubDate>
     <description><![CDATA[Galveston, United States (USA) Departure (UTC) Nov 24, 15:30 — ET: Nov 24, 10:30 AM EST | Local: Nov 24, 10:30 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Magic Arrived at Galveston, United States (USA) at Nov 24, 10:30 AM EST. The local time to the port is Nov 24, 10:30 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/USGLS001</link>
-    <guid isPermaLink="false">e246d0cc7a666cac6c3dd558149c47271af9f2c8</guid>
-    <pubDate>Sat, 22 Nov 2025 22:36:35 GMT</pubDate>
-    <description><![CDATA[Galveston, United States (USA) Arrival (UTC) Nov 24, 15:30 — ET: Nov 24, 10:30 AM EST | Local: Nov 24, 10:30 AM EST]]></description>
   </item>
 </channel>
 </rss>
