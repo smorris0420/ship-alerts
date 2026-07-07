@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Departed from Road Town, Tortola, British Virgin Islands at Jul 07, 06:07 PM EDT. The local time to the port is Jul 07, 06:07 PM AST",
+    "description": "Road Town, Tortola, British Virgin Islands Departure (UTC) Jul 7, 22:07 — ET: Jul 07, 06:07 PM EDT | Local: Jul 07, 06:07 PM AST",
+    "link": "https://www.vesselfinder.com/ports/VGRAD001",
+    "guid": "1b30a62e3c698f2b08867e08b24d5f6cb3e77845",
+    "pubDate": "Tue, 07 Jul 2026 22:47:39 GMT",
+    "eventUtc": "2026-07-07T22:07:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Arrived at Ketchikan, United States (USA) at Jul 07, 12:46 PM EDT. The local time to the port is Jul 07, 12:46 PM EDT",
     "description": "Ketchikan, United States (USA) Arrival (UTC) Jul 7, 16:46 — ET: Jul 07, 12:46 PM EDT | Local: Jul 07, 12:46 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USKTN001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-05-11T12:53:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Arrived at Cozumel, Mexico at May 11, 08:17 AM EDT. The local time to the port is May 11, 07:17 AM EST",
-    "description": "Cozumel, Mexico Arrival (UTC) May 11, 12:17 — ET: May 11, 08:17 AM EDT | Local: May 11, 07:17 AM EST",
-    "link": "https://www.vesselfinder.com/ports/MXCZM001",
-    "guid": "4939745c437b7850e3ba44b0800139df80a6f1ab",
-    "pubDate": "Mon, 11 May 2026 16:44:28 GMT",
-    "eventUtc": "2026-05-11T12:17:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
     "source": "vf_ship"
   }
 ]
