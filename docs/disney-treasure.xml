@@ -5,7 +5,7 @@
   <title>Disney Treasure - Arrivals &amp; Departures</title>
   <link>https://www.vesselfinder.com/vessels/details/9834753</link>
   <description>Disney Treasure - Arrivals &amp; Departures - Auto-generated</description>
-  <lastBuildDate>Tue, 07 Jul 2026 05:08:40 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 07 Jul 2026 08:40:12 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -34,6 +34,20 @@
     <guid isPermaLink="false">82d28296f402cfdf1461b4ee7ddf9e1831c89886</guid>
     <pubDate>Thu, 01 Jan 2026 00:00:51 GMT</pubDate>
     <description><![CDATA[Georgetown, Grand Cayman Anch., Cayman Islands Arrival (UTC) Dec 29, 12:44 — ET: Dec 29, 07:44 AM EST | Local: Dec 29, 07:44 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Treasure Departed from San Juan, Puerto Rico at Jul 06, 08:43 PM EDT. The local time to the port is Jul 06, 08:43 PM AST</title>
+    <link>https://www.vesselfinder.com/ports/PRSJU001</link>
+    <guid isPermaLink="false">4f714b5b15c7001bbef7efa959d91a517dc42c76</guid>
+    <pubDate>Tue, 07 Jul 2026 08:40:10 GMT</pubDate>
+    <description><![CDATA[San Juan, Puerto Rico Departure (UTC) Jul 7, 00:43 — ET: Jul 06, 08:43 PM EDT | Local: Jul 06, 08:43 PM AST]]></description>
+  </item>
+  <item>
+    <title>Disney Treasure Arrived at San Juan, Puerto Rico at Jul 06, 07:50 PM EDT. The local time to the port is Jul 06, 07:50 PM AST</title>
+    <link>https://www.vesselfinder.com/ports/PRSJU001</link>
+    <guid isPermaLink="false">577708069357fccd2c31a2370ad1fbfebed67817</guid>
+    <pubDate>Tue, 07 Jul 2026 08:40:08 GMT</pubDate>
+    <description><![CDATA[San Juan, Puerto Rico Arrival (UTC) Jul 6, 23:50 — ET: Jul 06, 07:50 PM EDT | Local: Jul 06, 07:50 PM AST]]></description>
   </item>
   <item>
     <title>Disney Treasure Departed from Cape Canaveral, United States (USA) at Jul 04, 05:05 PM EDT. The local time to the port is Jul 04, 05:05 PM EDT</title>
@@ -1742,20 +1756,6 @@
     <guid isPermaLink="false">93897f3dfa5b20cc67f7450eee1b3ea26dab08ed</guid>
     <pubDate>Fri, 19 Dec 2025 13:40:16 GMT</pubDate>
     <description><![CDATA[Gorda Cay, Bahamas Arrival (UTC) Dec 19, 12:31 — ET: Dec 19, 07:31 AM EST | Local: Dec 19, 07:31 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 17, 04:28 PM EST. The local time to the port is Dec 17, 04:28 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/JMFMH001</link>
-    <guid isPermaLink="false">0943d9255d26710b1a283af5ef2e49d54c5f5ff8</guid>
-    <pubDate>Fri, 19 Dec 2025 09:54:50 GMT</pubDate>
-    <description><![CDATA[Falmouth, Jamaica Departure (UTC) Dec 17, 21:28 — ET: Dec 17, 04:28 PM EST | Local: Dec 17, 04:28 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Treasure Arrived at Falmouth, Jamaica at Dec 17, 07:13 AM EST. The local time to the port is Dec 17, 07:13 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/JMFMH001</link>
-    <guid isPermaLink="false">5e54dd56e7eecfa5b829ef807a22dbbc42574355</guid>
-    <pubDate>Fri, 19 Dec 2025 09:54:50 GMT</pubDate>
-    <description><![CDATA[Falmouth, Jamaica Arrival (UTC) Dec 17, 12:13 — ET: Dec 17, 07:13 AM EST | Local: Dec 17, 07:13 AM EST]]></description>
   </item>
 </channel>
 </rss>
