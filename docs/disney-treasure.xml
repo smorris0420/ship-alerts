@@ -5,7 +5,7 @@
   <title>Disney Treasure - Arrivals &amp; Departures</title>
   <link>https://www.vesselfinder.com/vessels/details/9834753</link>
   <description>Disney Treasure - Arrivals &amp; Departures - Auto-generated</description>
-  <lastBuildDate>Wed, 08 Jul 2026 18:42:16 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 08 Jul 2026 20:10:21 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -34,6 +34,20 @@
     <guid isPermaLink="false">82d28296f402cfdf1461b4ee7ddf9e1831c89886</guid>
     <pubDate>Thu, 01 Jan 2026 00:00:51 GMT</pubDate>
     <description><![CDATA[Georgetown, Grand Cayman Anch., Cayman Islands Arrival (UTC) Dec 29, 12:44 — ET: Dec 29, 07:44 AM EST | Local: Dec 29, 07:44 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Treasure Departed from Saint Thomas, US Virgin Islands at Jul 08, 03:59 PM EDT. The local time to the port is Jul 08, 03:59 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/VISTT001</link>
+    <guid isPermaLink="false">155778333956cc2de7caa4c10740f3a3b3c08850</guid>
+    <pubDate>Wed, 08 Jul 2026 20:10:19 GMT</pubDate>
+    <description><![CDATA[Saint Thomas, US Virgin Islands Departure (UTC) Jul 8, 19:59 — ET: Jul 08, 03:59 PM EDT | Local: Jul 08, 03:59 PM EDT]]></description>
+  </item>
+  <item>
+    <title>Disney Treasure Arrived at Saint Thomas, US Virgin Islands at Jul 08, 07:21 AM EDT. The local time to the port is Jul 08, 07:21 AM EDT</title>
+    <link>https://www.vesselfinder.com/ports/VISTT001</link>
+    <guid isPermaLink="false">3210e09c557c4ab9d56609e4df84dff84bd8104d</guid>
+    <pubDate>Wed, 08 Jul 2026 20:10:17 GMT</pubDate>
+    <description><![CDATA[Saint Thomas, US Virgin Islands Arrival (UTC) Jul 8, 11:21 — ET: Jul 08, 07:21 AM EDT | Local: Jul 08, 07:21 AM EDT]]></description>
   </item>
   <item>
     <title>Disney Treasure Departed from Road Town, Tortola, British Virgin Islands at Jul 07, 06:07 PM EDT. The local time to the port is Jul 07, 06:07 PM AST</title>
@@ -1742,20 +1756,6 @@
     <guid isPermaLink="false">da339ef19cc47d475f518946e5fa965aae37d280</guid>
     <pubDate>Tue, 23 Dec 2025 12:39:33 GMT</pubDate>
     <description><![CDATA[Saint Thomas, US Virgin Islands Arrival (UTC) Dec 23, 11:21 — ET: Dec 23, 06:21 AM EST | Local: Dec 23, 06:21 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Treasure Departed from Cape Canaveral, United States (USA) at Dec 20, 07:07 PM EST. The local time to the port is Dec 20, 07:07 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/USPCV001</link>
-    <guid isPermaLink="false">17d9771aa4e47d8d29ebad27d2023f82b3f9e032</guid>
-    <pubDate>Sun, 21 Dec 2025 00:54:58 GMT</pubDate>
-    <description><![CDATA[Cape Canaveral, United States (USA) Departure (UTC) Dec 21, 00:07 — ET: Dec 20, 07:07 PM EST | Local: Dec 20, 07:07 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Treasure Arrived at Cape Canaveral, United States (USA) at Dec 20, 06:01 AM EST. The local time to the port is Dec 20, 06:01 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/USPCV001</link>
-    <guid isPermaLink="false">7f944df1ea728e631d413a5f95b671ac7750cffc</guid>
-    <pubDate>Sat, 20 Dec 2025 11:41:49 GMT</pubDate>
-    <description><![CDATA[Cape Canaveral, United States (USA) Arrival (UTC) Dec 20, 11:01 — ET: Dec 20, 06:01 AM EST | Local: Dec 20, 06:01 AM EST]]></description>
   </item>
 </channel>
 </rss>

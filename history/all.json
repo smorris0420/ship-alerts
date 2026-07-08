@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Departed from Saint Thomas, US Virgin Islands at Jul 08, 03:59 PM EDT. The local time to the port is Jul 08, 03:59 PM EDT",
+    "description": "Saint Thomas, US Virgin Islands Departure (UTC) Jul 8, 19:59 — ET: Jul 08, 03:59 PM EDT | Local: Jul 08, 03:59 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/VISTT001",
+    "guid": "155778333956cc2de7caa4c10740f3a3b3c08850",
+    "pubDate": "Wed, 08 Jul 2026 20:10:19 GMT",
+    "eventUtc": "2026-07-08T19:59:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Livorno, Italy at Jul 08, 12:33 PM EDT. The local time to the port is Jul 08, 06:33 PM CEST",
     "description": "Livorno, Italy Departure (UTC) Jul 8, 16:33 — ET: Jul 08, 12:33 PM EDT | Local: Jul 08, 06:33 PM CEST",
     "link": "https://www.vesselfinder.com/ports/ITLIV001",
@@ -217,6 +228,17 @@
     "eventUtc": "2026-07-08T16:33:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Treasure Arrived at Saint Thomas, US Virgin Islands at Jul 08, 07:21 AM EDT. The local time to the port is Jul 08, 07:21 AM EDT",
+    "description": "Saint Thomas, US Virgin Islands Arrival (UTC) Jul 8, 11:21 — ET: Jul 08, 07:21 AM EDT | Local: Jul 08, 07:21 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/VISTT001",
+    "guid": "3210e09c557c4ab9d56609e4df84dff84bd8104d",
+    "pubDate": "Wed, 08 Jul 2026 20:10:17 GMT",
+    "eventUtc": "2026-07-08T11:21:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
     "source": "vf_ship"
   },
   {
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-05-12T04:10:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Departed from Vancouver, Canada at May 11, 08:08 PM EDT. The local time to the port is May 11, 05:08 PM PDT",
-    "description": "Vancouver, Canada Departure (UTC) May 12, 00:08 — ET: May 11, 08:08 PM EDT | Local: May 11, 05:08 PM PDT",
-    "link": "https://www.vesselfinder.com/ports/CAVAN001",
-    "guid": "237861513abb362e94fb1dc189e20a0a5bd1ac4b",
-    "pubDate": "Tue, 12 May 2026 01:28:07 GMT",
-    "eventUtc": "2026-05-12T00:08:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Departed from Cozumel, Mexico at May 11, 06:08 PM EDT. The local time to the port is May 11, 05:08 PM EST",
-    "description": "Cozumel, Mexico Departure (UTC) May 11, 22:08 — ET: May 11, 06:08 PM EDT | Local: May 11, 05:08 PM EST",
-    "link": "https://www.vesselfinder.com/ports/MXCZM001",
-    "guid": "8e696ef4343312cc8da0c089f771f41697c9f709",
-    "pubDate": "Mon, 11 May 2026 22:45:22 GMT",
-    "eventUtc": "2026-05-11T22:08:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
     "source": "vf_ship"
   }
 ]
