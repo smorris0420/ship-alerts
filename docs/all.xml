@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Thu, 09 Jul 2026 11:43:30 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 09 Jul 2026 14:20:17 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,13 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Magic Arrived at Vancouver, Canada at Jul 09, 09:39 AM EDT. The local time to the port is Jul 09, 06:39 AM PDT</title>
+    <link>https://www.vesselfinder.com/ports/CAVAN001</link>
+    <guid isPermaLink="false">b56b3e8bb57567be8b38dc4a75fa4eef647516ab</guid>
+    <pubDate>Thu, 09 Jul 2026 14:17:31 GMT</pubDate>
+    <description><![CDATA[Vancouver, Canada Arrival (UTC) Jul 9, 13:39 — ET: Jul 09, 09:39 AM EDT | Local: Jul 09, 06:39 AM PDT]]></description>
   </item>
   <item>
     <title>Disney Destiny Arrived at Port Everglades, United States (USA) at Jul 09, 05:57 AM EDT. The local time to the port is Jul 09, 05:57 AM EDT</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">9dae27825aa097c4b4f99b88ba2e0055bab76c6b</guid>
     <pubDate>Wed, 13 May 2026 21:03:21 GMT</pubDate>
     <description><![CDATA[Singapore, Singapore Arrival (UTC) May 13, 19:25 — ET: May 13, 03:25 PM EDT | Local: May 13, 03:25 PM EDT]]></description>
-  </item>
-  <item>
-    <title>Disney Dream Departed from Malaga, Spain at May 13, 12:40 PM EDT. The local time to the port is May 13, 06:40 PM CEST</title>
-    <link>https://www.vesselfinder.com/ports/ESAGP001</link>
-    <guid isPermaLink="false">9892e2034e7a99ca9c975bd6327706621451c6bc</guid>
-    <pubDate>Wed, 13 May 2026 17:32:56 GMT</pubDate>
-    <description><![CDATA[Malaga, Spain Departure (UTC) May 13, 16:40 — ET: May 13, 12:40 PM EDT | Local: May 13, 06:40 PM CEST]]></description>
   </item>
 </channel>
 </rss>
