@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Arrived at Port Everglades, United States (USA) at Jul 09, 05:57 AM EDT. The local time to the port is Jul 09, 05:57 AM EDT",
+    "description": "Port Everglades, United States (USA) Arrival (UTC) Jul 9, 09:57 — ET: Jul 09, 05:57 AM EDT | Local: Jul 09, 05:57 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPEF001",
+    "guid": "7ae76510aa815f6983dd1c49d15c9a6326d5ba51",
+    "pubDate": "Thu, 09 Jul 2026 11:43:27 GMT",
+    "eventUtc": "2026-07-09T09:57:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Adventure Departed from Singapore, Singapore at Jul 09, 05:04 AM EDT. The local time to the port is Jul 09, 05:04 AM EDT",
+    "description": "Singapore, Singapore Departure (UTC) Jul 9, 09:04 — ET: Jul 09, 05:04 AM EDT | Local: Jul 09, 05:04 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/SGSIN001",
+    "guid": "37792172af010d6520ecd71f2806a5a7b489486d",
+    "pubDate": "Thu, 09 Jul 2026 11:43:14 GMT",
+    "eventUtc": "2026-07-09T09:04:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Arrived at Civitavecchia, Italy at Jul 09, 12:14 AM EDT. The local time to the port is Jul 09, 06:14 AM CEST",
     "description": "Civitavecchia, Italy Arrival (UTC) Jul 9, 04:14 — ET: Jul 09, 12:14 AM EDT | Local: Jul 09, 06:14 AM CEST",
     "link": "https://www.vesselfinder.com/ports/ITCVV001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-05-13T16:40:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Arrived at Gorda Cay, Bahamas at May 13, 08:06 AM EDT. The local time to the port is May 13, 08:06 AM EDT",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) May 13, 12:06 — ET: May 13, 08:06 AM EDT | Local: May 13, 08:06 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "a75211e316778090b39009e78d7b39a28d7d589e",
-    "pubDate": "Wed, 13 May 2026 15:25:06 GMT",
-    "eventUtc": "2026-05-13T12:06:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Saint Thomas, US Virgin Islands at May 13, 07:51 AM EDT. The local time to the port is May 13, 07:51 AM EDT",
-    "description": "Saint Thomas, US Virgin Islands Arrival (UTC) May 13, 11:51 — ET: May 13, 07:51 AM EDT | Local: May 13, 07:51 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/VISTT001",
-    "guid": "d981c8bd754aeae8cc9b6e1862f8a94cdb6a2ab0",
-    "pubDate": "Wed, 13 May 2026 15:21:32 GMT",
-    "eventUtc": "2026-05-13T11:51:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
