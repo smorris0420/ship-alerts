@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Civitavecchia, Italy at Jul 09, 01:41 PM EDT. The local time to the port is Jul 09, 07:41 PM CEST",
+    "description": "Civitavecchia, Italy Departure (UTC) Jul 9, 17:41 — ET: Jul 09, 01:41 PM EDT | Local: Jul 09, 07:41 PM CEST",
+    "link": "https://www.vesselfinder.com/ports/ITCVV001",
+    "guid": "96c7e9e99c70f1dd2c2cc81d89a1a339d251b789",
+    "pubDate": "Thu, 09 Jul 2026 18:33:13 GMT",
+    "eventUtc": "2026-07-09T17:41:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Arrived at Skagway, United States (USA) at Jul 09, 10:40 AM EDT. The local time to the port is Jul 09, 10:40 AM EDT",
     "description": "Skagway, United States (USA) Arrival (UTC) Jul 9, 14:40 — ET: Jul 09, 10:40 AM EDT | Local: Jul 09, 10:40 AM EDT",
     "link": "https://www.vesselfinder.com/ports/USSGY001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-05-13T20:59:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Saint Thomas, US Virgin Islands at May 13, 04:07 PM EDT. The local time to the port is May 13, 04:07 PM EDT",
-    "description": "Saint Thomas, US Virgin Islands Departure (UTC) May 13, 20:07 — ET: May 13, 04:07 PM EDT | Local: May 13, 04:07 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/VISTT001",
-    "guid": "bad03fd1a70549480f27e2a4863e1db9cd268a78",
-    "pubDate": "Wed, 13 May 2026 21:00:57 GMT",
-    "eventUtc": "2026-05-13T20:07:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
