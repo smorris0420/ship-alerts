@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Civitavecchia, Italy at Jul 09, 12:14 AM EDT. The local time to the port is Jul 09, 06:14 AM CEST",
+    "description": "Civitavecchia, Italy Arrival (UTC) Jul 9, 04:14 — ET: Jul 09, 12:14 AM EDT | Local: Jul 09, 06:14 AM CEST",
+    "link": "https://www.vesselfinder.com/ports/ITCVV001",
+    "guid": "21cc493a3db8f1d522ad525835db4a21c829fdc9",
+    "pubDate": "Thu, 09 Jul 2026 05:21:22 GMT",
+    "eventUtc": "2026-07-09T04:14:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Arrived at Singapore, Singapore at Jul 08, 05:16 PM EDT. The local time to the port is Jul 08, 05:16 PM EDT",
     "description": "Singapore, Singapore Arrival (UTC) Jul 8, 21:16 — ET: Jul 08, 05:16 PM EDT | Local: Jul 08, 05:16 PM EDT",
     "link": "https://www.vesselfinder.com/ports/SGSIN001",
@@ -217,6 +228,17 @@
     "eventUtc": "2026-07-08T21:16:00+00:00",
     "shipSlug": "disney-adventure",
     "shipName": "Disney Adventure",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Destiny Departed from Gorda Cay, Bahamas at Jul 08, 04:39 PM EDT. The local time to the port is Jul 08, 04:39 PM EDT",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Jul 8, 20:39 — ET: Jul 08, 04:39 PM EDT | Local: Jul 08, 04:39 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "3584eef44ded1cac7f1721ecc0a6666ef58a2c1b",
+    "pubDate": "Thu, 09 Jul 2026 05:23:02 GMT",
+    "eventUtc": "2026-07-08T20:39:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
     "source": "vf_ship"
   },
   {
@@ -250,6 +272,17 @@
     "eventUtc": "2026-07-08T16:33:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Destiny Arrived at Gorda Cay, Bahamas at Jul 08, 08:13 AM EDT. The local time to the port is Jul 08, 08:13 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Jul 8, 12:13 — ET: Jul 08, 08:13 AM EDT | Local: Jul 08, 08:13 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "2413bd46f1bb2d656db1daaac5425d142f0779a2",
+    "pubDate": "Thu, 09 Jul 2026 05:23:02 GMT",
+    "eventUtc": "2026-07-08T12:13:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
     "source": "vf_ship"
   },
   {
@@ -308,6 +341,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Departed from Gorda Cay, Bahamas at Jul 07, 04:41 PM EDT. The local time to the port is Jul 07, 04:41 PM EDT",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Jul 7, 20:41 — ET: Jul 07, 04:41 PM EDT | Local: Jul 07, 04:41 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "c004884f512e779a9f1d2ee9328a42515146fbf2",
+    "pubDate": "Thu, 09 Jul 2026 05:18:21 GMT",
+    "eventUtc": "2026-07-07T20:41:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Arrived at Ketchikan, United States (USA) at Jul 07, 12:46 PM EDT. The local time to the port is Jul 07, 12:46 PM EDT",
     "description": "Ketchikan, United States (USA) Arrival (UTC) Jul 7, 16:46 — ET: Jul 07, 12:46 PM EDT | Local: Jul 07, 12:46 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USKTN001",
@@ -316,6 +360,17 @@
     "eventUtc": "2026-07-07T16:46:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Wish Arrived at Gorda Cay, Bahamas at Jul 07, 07:35 AM EDT. The local time to the port is Jul 07, 07:35 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Jul 7, 11:35 — ET: Jul 07, 07:35 AM EDT | Local: Jul 07, 07:35 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "bd6ce5f9ed508a1f44e3844179329e43c5f08c42",
+    "pubDate": "Thu, 09 Jul 2026 05:18:20 GMT",
+    "eventUtc": "2026-07-07T11:35:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
     "source": "vf_ship"
   },
   {
@@ -5442,61 +5497,6 @@
     "eventUtc": "2026-05-13T11:51:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Arrived at Malaga, Spain at May 13, 12:08 AM EDT. The local time to the port is May 13, 06:08 AM CEST",
-    "description": "Malaga, Spain Arrival (UTC) May 13, 04:08 — ET: May 13, 12:08 AM EDT | Local: May 13, 06:08 AM CEST",
-    "link": "https://www.vesselfinder.com/ports/ESAGP001",
-    "guid": "f5b34d4b1dfa97ee2db527b04393ed00cb4b52b1",
-    "pubDate": "Wed, 13 May 2026 07:33:56 GMT",
-    "eventUtc": "2026-05-13T04:08:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Road Town, Tortola, British Virgin Islands at May 12, 05:54 PM EDT. The local time to the port is May 12, 05:54 PM AST",
-    "description": "Road Town, Tortola, British Virgin Islands Departure (UTC) May 12, 21:54 — ET: May 12, 05:54 PM EDT | Local: May 12, 05:54 PM AST",
-    "link": "https://www.vesselfinder.com/ports/VGRAD001",
-    "guid": "e0d7bcb03465fc27053c3d9af41325ae0db2a042",
-    "pubDate": "Tue, 12 May 2026 22:10:31 GMT",
-    "eventUtc": "2026-05-12T21:54:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Departed from Gorda Cay, Bahamas at May 12, 05:44 PM EDT. The local time to the port is May 12, 05:44 PM EDT",
-    "description": "Gorda Cay, Bahamas Departure (UTC) May 12, 21:44 — ET: May 12, 05:44 PM EDT | Local: May 12, 05:44 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "a7b5d6bca51d0903c57f0b3a606259b7fe264688",
-    "pubDate": "Wed, 13 May 2026 00:16:29 GMT",
-    "eventUtc": "2026-05-12T21:44:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Cadiz, Spain at May 12, 12:33 PM EDT. The local time to the port is May 12, 06:33 PM CEST",
-    "description": "Cadiz, Spain Departure (UTC) May 12, 16:33 — ET: May 12, 12:33 PM EDT | Local: May 12, 06:33 PM CEST",
-    "link": "https://www.vesselfinder.com/ports/ESCAD001",
-    "guid": "ea11fd339c4729c9d93a9c07d83db96498273c3f",
-    "pubDate": "Tue, 12 May 2026 17:33:16 GMT",
-    "eventUtc": "2026-05-12T16:33:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Arrived at Gorda Cay, Bahamas at May 12, 07:53 AM EDT. The local time to the port is May 12, 07:53 AM EDT",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) May 12, 11:53 — ET: May 12, 07:53 AM EDT | Local: May 12, 07:53 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "2d0df1fe17bf46a2f8faa8a964e94bf3a2ee1fc4",
-    "pubDate": "Wed, 13 May 2026 00:16:28 GMT",
-    "eventUtc": "2026-05-12T11:53:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
     "source": "vf_ship"
   }
 ]

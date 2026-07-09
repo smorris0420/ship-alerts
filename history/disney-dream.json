@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Civitavecchia, Italy at Jul 09, 12:14 AM EDT. The local time to the port is Jul 09, 06:14 AM CEST",
+    "description": "Civitavecchia, Italy Arrival (UTC) Jul 9, 04:14 — ET: Jul 09, 12:14 AM EDT | Local: Jul 09, 06:14 AM CEST",
+    "link": "https://www.vesselfinder.com/ports/ITCVV001",
+    "guid": "21cc493a3db8f1d522ad525835db4a21c829fdc9",
+    "pubDate": "Thu, 09 Jul 2026 05:21:22 GMT",
+    "eventUtc": "2026-07-09T04:14:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Livorno, Italy at Jul 08, 12:33 PM EDT. The local time to the port is Jul 08, 06:33 PM CEST",
     "description": "Livorno, Italy Departure (UTC) Jul 8, 16:33 — ET: Jul 08, 12:33 PM EDT | Local: Jul 08, 06:33 PM CEST",
     "link": "https://www.vesselfinder.com/ports/ITLIV001",
@@ -2737,16 +2748,5 @@
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
     "source": "vf_port"
-  },
-  {
-    "title": "Disney Dream Arrived at Port Everglades, United States (USA) at Jan 02, 05:51 AM EST. The local time to the port is Jan 02, 05:51 AM EST",
-    "description": "Port Everglades, United States (USA) Arrival (UTC) Jan 2, 10:51 — ET: Jan 02, 05:51 AM EST | Local: Jan 02, 05:51 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "a667f11a8d9a386aa6c6a88f17a711c5235713df",
-    "pubDate": "Fri, 02 Jan 2026 11:29:25 GMT",
-    "eventUtc": "2026-01-02T10:51:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
   }
 ]
