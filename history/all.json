@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Napoli, Italy at Jul 10, 01:30 PM EDT. The local time to the port is Jul 10, 07:30 PM CEST",
+    "description": "Napoli, Italy Departure (UTC) Jul 10, 17:30 — ET: Jul 10, 01:30 PM EDT | Local: Jul 10, 07:30 PM CEST",
+    "link": "https://www.vesselfinder.com/ports/ITNAP001",
+    "guid": "417ee37940654a7146a0c85c0acd8c27a5f9868d",
+    "pubDate": "Fri, 10 Jul 2026 17:55:31 GMT",
+    "eventUtc": "2026-07-10T17:30:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Arrived at Nassau, Bahamas at Jul 10, 07:44 AM EDT. The local time to the port is Jul 10, 07:44 AM EDT",
     "description": "Nassau, Bahamas Arrival (UTC) Jul 10, 11:44 — ET: Jul 10, 07:44 AM EDT | Local: Jul 10, 07:44 AM EDT",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-05-14T09:10:00+00:00",
     "shipSlug": "disney-adventure",
     "shipName": "Disney Adventure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Arrived at Cartagena, Spain at May 14, 01:05 AM EDT. The local time to the port is May 14, 07:05 AM CEST",
-    "description": "Cartagena, Spain Arrival (UTC) May 14, 05:05 — ET: May 14, 01:05 AM EDT | Local: May 14, 07:05 AM CEST",
-    "link": "https://www.vesselfinder.com/ports/ESCAR001",
-    "guid": "797d5df8e56520ce62677bfc19b2671cda9f05c4",
-    "pubDate": "Thu, 14 May 2026 08:13:44 GMT",
-    "eventUtc": "2026-05-14T05:05:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
     "source": "vf_ship"
   }
 ]
