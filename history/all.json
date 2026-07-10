@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Napoli, Italy at Jul 10, 12:25 AM EDT. The local time to the port is Jul 10, 06:25 AM CEST",
+    "description": "Napoli, Italy Arrival (UTC) Jul 10, 04:25 — ET: Jul 10, 12:25 AM EDT | Local: Jul 10, 06:25 AM CEST",
+    "link": "https://www.vesselfinder.com/ports/ITNAP001",
+    "guid": "8829bb440d6847ca10f93a3cfd975668e3c5e771",
+    "pubDate": "Fri, 10 Jul 2026 08:35:45 GMT",
+    "eventUtc": "2026-07-10T04:25:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Departed from Vancouver, Canada at Jul 09, 07:41 PM EDT. The local time to the port is Jul 09, 04:41 PM PDT",
     "description": "Vancouver, Canada Departure (UTC) Jul 9, 23:41 — ET: Jul 09, 07:41 PM EDT | Local: Jul 09, 04:41 PM PDT",
     "link": "https://www.vesselfinder.com/ports/CAVAN001",
@@ -5483,17 +5494,6 @@
     "link": "https://www.vesselfinder.com/ports/SGSIN001",
     "guid": "a10eb4a9981fa353b00bdf043d82a5e52a02d35d",
     "pubDate": "Wed, 13 May 2026 19:23:58 GMT",
-    "eventUtc": "2026-05-14T00:30:00+00:00",
-    "shipSlug": "disney-adventure",
-    "shipName": "Disney Adventure",
-    "source": "vf_port"
-  },
-  {
-    "title": "Disney Adventure Arrived at Singapore, Singapore at May 13, 08:30 PM EDT. The local time to the port is May 13, 08:30 PM EDT",
-    "description": "Singapore, Singapore Arrival (UTC) May 14, 00:30 — ET: May 13, 08:30 PM EDT | Local: May 13, 08:30 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/SGSIN001",
-    "guid": "64d6719c1d9ffc065cdf16959dcb51db71d52a7a",
-    "pubDate": "Wed, 13 May 2026 19:23:59 GMT",
     "eventUtc": "2026-05-14T00:30:00+00:00",
     "shipSlug": "disney-adventure",
     "shipName": "Disney Adventure",
