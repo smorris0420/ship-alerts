@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Departed from Nassau, Bahamas at Jul 10, 05:56 PM EDT. The local time to the port is Jul 10, 05:56 PM EDT",
+    "description": "Nassau, Bahamas Departure (UTC) Jul 10, 21:56 — ET: Jul 10, 05:56 PM EDT | Local: Jul 10, 05:56 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "83a1533fbfd6ce32c9b3b3006749431f958951c8",
+    "pubDate": "Fri, 10 Jul 2026 22:48:01 GMT",
+    "eventUtc": "2026-07-10T21:56:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Wish Departed from Cape Canaveral, United States (USA) at Jul 10, 04:53 PM EDT. The local time to the port is Jul 10, 04:53 PM EDT",
+    "description": "Cape Canaveral, United States (USA) Departure (UTC) Jul 10, 20:53 — ET: Jul 10, 04:53 PM EDT | Local: Jul 10, 04:53 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "9b59b9b0764f0b075acb65e9baa30878baa784f7",
+    "pubDate": "Fri, 10 Jul 2026 22:43:24 GMT",
+    "eventUtc": "2026-07-10T20:53:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Napoli, Italy at Jul 10, 01:30 PM EDT. The local time to the port is Jul 10, 07:30 PM CEST",
     "description": "Napoli, Italy Departure (UTC) Jul 10, 17:30 — ET: Jul 10, 01:30 PM EDT | Local: Jul 10, 07:30 PM CEST",
     "link": "https://www.vesselfinder.com/ports/ITNAP001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-05-14T10:40:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Arrived at Port Everglades, United States (USA) at May 14, 05:52 AM EDT. The local time to the port is May 14, 05:52 AM EDT",
-    "description": "Port Everglades, United States (USA) Arrival (UTC) May 14, 09:52 — ET: May 14, 05:52 AM EDT | Local: May 14, 05:52 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "13b51618069b2a19c92ff69d9e14285815477958",
-    "pubDate": "Thu, 14 May 2026 10:39:19 GMT",
-    "eventUtc": "2026-05-14T09:52:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Adventure Departed from Singapore, Singapore at May 14, 05:10 AM EDT. The local time to the port is May 14, 05:10 AM EDT",
-    "description": "Singapore, Singapore Departure (UTC) May 14, 09:10 — ET: May 14, 05:10 AM EDT | Local: May 14, 05:10 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/SGSIN001",
-    "guid": "58762579edb88df3d375e21b614fc343fde8d4ea",
-    "pubDate": "Thu, 14 May 2026 10:39:06 GMT",
-    "eventUtc": "2026-05-14T09:10:00+00:00",
-    "shipSlug": "disney-adventure",
-    "shipName": "Disney Adventure",
     "source": "vf_ship"
   }
 ]
