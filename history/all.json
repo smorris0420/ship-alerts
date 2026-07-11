@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Departed from Cape Canaveral, United States (USA) at Jul 11, 05:09 PM EDT. The local time to the port is Jul 11, 05:09 PM EDT",
+    "description": "Cape Canaveral, United States (USA) Departure (UTC) Jul 11, 21:09 — ET: Jul 11, 05:09 PM EDT | Local: Jul 11, 05:09 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "0c146fbe6a0e130213b59227a65a18587bc3e459",
+    "pubDate": "Sat, 11 Jul 2026 21:30:08 GMT",
+    "eventUtc": "2026-07-11T21:09:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Cagliari, Italy at Jul 11, 12:45 PM EDT. The local time to the port is Jul 11, 06:45 PM CEST",
     "description": "Cagliari, Italy Departure (UTC) Jul 11, 16:45 — ET: Jul 11, 12:45 PM EDT | Local: Jul 11, 06:45 PM CEST",
     "link": "https://www.vesselfinder.com/ports/ITCAG001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-05-16T09:59:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Arrived at Barcelona, Spain at May 15, 10:15 PM EDT. The local time to the port is May 16, 04:15 AM CEST",
-    "description": "Barcelona, Spain Arrival (UTC) May 16, 02:15 — ET: May 15, 10:15 PM EDT | Local: May 16, 04:15 AM CEST",
-    "link": "https://www.vesselfinder.com/ports/ESBCN001",
-    "guid": "c8b6a805cfa9cc02ed8fe3d7767c628985f451c2",
-    "pubDate": "Sat, 16 May 2026 04:03:59 GMT",
-    "eventUtc": "2026-05-16T02:15:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
     "source": "vf_ship"
   }
 ]
