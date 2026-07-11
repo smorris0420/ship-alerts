@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Departed from Juneau, United States (USA) at Jul 10, 09:19 PM EDT. The local time to the port is Jul 10, 09:19 PM EDT",
+    "description": "Juneau, United States (USA) Departure (UTC) Jul 11, 01:19 — ET: Jul 10, 09:19 PM EDT | Local: Jul 10, 09:19 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USJNU001",
+    "guid": "088b142aab038c9a02510be08cf20e5817724de3",
+    "pubDate": "Sat, 11 Jul 2026 04:30:55 GMT",
+    "eventUtc": "2026-07-11T01:19:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Departed from Nassau, Bahamas at Jul 10, 05:56 PM EDT. The local time to the port is Jul 10, 05:56 PM EDT",
     "description": "Nassau, Bahamas Departure (UTC) Jul 10, 21:56 — ET: Jul 10, 05:56 PM EDT | Local: Jul 10, 05:56 PM EDT",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -239,6 +250,17 @@
     "eventUtc": "2026-07-10T17:30:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Wonder Arrived at Juneau, United States (USA) at Jul 10, 10:03 AM EDT. The local time to the port is Jul 10, 10:03 AM EDT",
+    "description": "Juneau, United States (USA) Arrival (UTC) Jul 10, 14:03 — ET: Jul 10, 10:03 AM EDT | Local: Jul 10, 10:03 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USJNU001",
+    "guid": "9b96e043be2e83a8eae223c28db76b32a43c5788",
+    "pubDate": "Sat, 11 Jul 2026 04:30:53 GMT",
+    "eventUtc": "2026-07-10T14:03:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
     "source": "vf_ship"
   },
   {
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-05-14T20:01:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Cartagena, Spain at May 14, 12:41 PM EDT. The local time to the port is May 14, 06:41 PM CEST",
-    "description": "Cartagena, Spain Departure (UTC) May 14, 16:41 — ET: May 14, 12:41 PM EDT | Local: May 14, 06:41 PM CEST",
-    "link": "https://www.vesselfinder.com/ports/ESCAR001",
-    "guid": "7e57822e941737b05dc3a2f92bb29db94f783290",
-    "pubDate": "Thu, 14 May 2026 16:55:36 GMT",
-    "eventUtc": "2026-05-14T16:41:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Arrived at Gorda Cay, Bahamas at May 14, 06:40 AM EDT. The local time to the port is May 14, 06:40 AM EDT",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) May 14, 10:40 — ET: May 14, 06:40 AM EDT | Local: May 14, 06:40 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "2c84cc517ef46f298e6d9b98e3c180b50a4ec48e",
-    "pubDate": "Thu, 14 May 2026 12:16:21 GMT",
-    "eventUtc": "2026-05-14T10:40:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
     "source": "vf_ship"
   }
 ]
