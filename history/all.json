@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Cagliari, Italy at Jul 11, 12:45 PM EDT. The local time to the port is Jul 11, 06:45 PM CEST",
+    "description": "Cagliari, Italy Departure (UTC) Jul 11, 16:45 — ET: Jul 11, 12:45 PM EDT | Local: Jul 11, 06:45 PM CEST",
+    "link": "https://www.vesselfinder.com/ports/ITCAG001",
+    "guid": "4a77453be6de27c3caaea6d5de61ec313ecbf320",
+    "pubDate": "Sat, 11 Jul 2026 17:40:16 GMT",
+    "eventUtc": "2026-07-11T16:45:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Arrived at Nassau, Bahamas at Jul 11, 09:21 AM EDT. The local time to the port is Jul 11, 09:21 AM EDT",
     "description": "Nassau, Bahamas Arrival (UTC) Jul 11, 13:21 — ET: Jul 11, 09:21 AM EDT | Local: Jul 11, 09:21 AM EDT",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-05-16T02:15:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Esquimalt, Canada at May 15, 07:16 PM EDT. The local time to the port is May 15, 04:16 PM PDT",
-    "description": "Esquimalt, Canada Departure (UTC) May 15, 23:16 — ET: May 15, 07:16 PM EDT | Local: May 15, 04:16 PM PDT",
-    "link": "https://www.vesselfinder.com/ports/CAESQ001",
-    "guid": "a0452f715a7a5274e54f9fdf63f09481244e556c",
-    "pubDate": "Sat, 16 May 2026 00:11:39 GMT",
-    "eventUtc": "2026-05-15T23:16:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
