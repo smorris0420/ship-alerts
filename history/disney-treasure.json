@@ -44,6 +44,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Departed from Gorda Cay, Bahamas at Jul 10, 05:04 PM EDT. The local time to the port is Jul 10, 05:04 PM EDT",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Jul 10, 21:04 — ET: Jul 10, 05:04 PM EDT | Local: Jul 10, 05:04 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "a22c78ea10e776d39abf56b7d623924de5cd7263",
+    "pubDate": "Sat, 11 Jul 2026 06:37:26 GMT",
+    "eventUtc": "2026-07-10T21:04:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Treasure Arrived at Gorda Cay, Bahamas at Jul 10, 07:44 AM EDT. The local time to the port is Jul 10, 07:44 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Jul 10, 11:44 — ET: Jul 10, 07:44 AM EDT | Local: Jul 10, 07:44 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "0ed6845e86dff76064c46d60a8403ab59bafd7d4",
+    "pubDate": "Sat, 11 Jul 2026 06:37:25 GMT",
+    "eventUtc": "2026-07-10T11:44:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Departed from Saint Thomas, US Virgin Islands at Jul 08, 03:59 PM EDT. The local time to the port is Jul 08, 03:59 PM EDT",
     "description": "Saint Thomas, US Virgin Islands Departure (UTC) Jul 8, 19:59 — ET: Jul 08, 03:59 PM EDT | Local: Jul 08, 03:59 PM EDT",
     "link": "https://www.vesselfinder.com/ports/VISTT001",
@@ -2723,28 +2745,6 @@
     "guid": "2dfe51bf260fe11fe015eb6e91e815a30ef05f15",
     "pubDate": "Wed, 24 Dec 2025 11:54:13 GMT",
     "eventUtc": "2025-12-24T11:10:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Saint Thomas, US Virgin Islands at Dec 23, 04:53 PM EST. The local time to the port is Dec 23, 04:53 PM EST",
-    "description": "Saint Thomas, US Virgin Islands Departure (UTC) Dec 23, 21:53 — ET: Dec 23, 04:53 PM EST | Local: Dec 23, 04:53 PM EST",
-    "link": "https://www.vesselfinder.com/ports/VISTT001",
-    "guid": "48c54d37e9a8c6ca7370de9ca94a77cdaa24f2e4",
-    "pubDate": "Tue, 23 Dec 2025 21:58:47 GMT",
-    "eventUtc": "2025-12-23T21:53:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Saint Thomas, US Virgin Islands at Dec 23, 06:21 AM EST. The local time to the port is Dec 23, 06:21 AM EST",
-    "description": "Saint Thomas, US Virgin Islands Arrival (UTC) Dec 23, 11:21 — ET: Dec 23, 06:21 AM EST | Local: Dec 23, 06:21 AM EST",
-    "link": "https://www.vesselfinder.com/ports/VISTT001",
-    "guid": "da339ef19cc47d475f518946e5fa965aae37d280",
-    "pubDate": "Tue, 23 Dec 2025 12:39:33 GMT",
-    "eventUtc": "2025-12-23T11:21:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
     "source": "vf_ship"
