@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Cagliari, Italy at Jul 11, 03:37 AM EDT. The local time to the port is Jul 11, 09:37 AM CEST",
+    "description": "Cagliari, Italy Arrival (UTC) Jul 11, 07:37 — ET: Jul 11, 03:37 AM EDT | Local: Jul 11, 09:37 AM CEST",
+    "link": "https://www.vesselfinder.com/ports/ITCAG001",
+    "guid": "4a949d48f824ff55dcbb3f66acff22989b49c46e",
+    "pubDate": "Sat, 11 Jul 2026 08:28:27 GMT",
+    "eventUtc": "2026-07-11T07:37:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Napoli, Italy at Jul 10, 01:30 PM EDT. The local time to the port is Jul 10, 07:30 PM CEST",
     "description": "Napoli, Italy Departure (UTC) Jul 10, 17:30 — ET: Jul 10, 01:30 PM EDT | Local: Jul 10, 07:30 PM CEST",
     "link": "https://www.vesselfinder.com/ports/ITNAP001",
@@ -2734,17 +2745,6 @@
     "guid": "36c5a24ad34c724ba20985847a5f6d1247c31dde",
     "pubDate": "Sun, 04 Jan 2026 22:55:20 GMT",
     "eventUtc": "2026-01-04T22:47:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Arrived at Nassau, Bahamas at Jan 04, 07:43 AM EST. The local time to the port is Jan 04, 07:43 AM EST",
-    "description": "Nassau, Bahamas Arrival (UTC) Jan 4, 12:43 — ET: Jan 04, 07:43 AM EST | Local: Jan 04, 07:43 AM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "259aa4e28ee7788d0aad513079848f95c81d679b",
-    "pubDate": "Sun, 04 Jan 2026 13:22:53 GMT",
-    "eventUtc": "2026-01-04T12:43:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
     "source": "vf_ship"

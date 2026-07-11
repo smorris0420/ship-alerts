@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Cagliari, Italy at Jul 11, 03:37 AM EDT. The local time to the port is Jul 11, 09:37 AM CEST",
+    "description": "Cagliari, Italy Arrival (UTC) Jul 11, 07:37 — ET: Jul 11, 03:37 AM EDT | Local: Jul 11, 09:37 AM CEST",
+    "link": "https://www.vesselfinder.com/ports/ITCAG001",
+    "guid": "4a949d48f824ff55dcbb3f66acff22989b49c46e",
+    "pubDate": "Sat, 11 Jul 2026 08:28:27 GMT",
+    "eventUtc": "2026-07-11T07:37:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Departed from Juneau, United States (USA) at Jul 10, 09:19 PM EDT. The local time to the port is Jul 10, 09:19 PM EDT",
     "description": "Juneau, United States (USA) Departure (UTC) Jul 11, 01:19 — ET: Jul 10, 09:19 PM EDT | Local: Jul 10, 09:19 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USJNU001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-05-15T09:53:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Arrived at Cape Canaveral, United States (USA) at May 15, 04:33 AM EDT. The local time to the port is May 15, 04:33 AM EDT",
-    "description": "Cape Canaveral, United States (USA) Arrival (UTC) May 15, 08:33 — ET: May 15, 04:33 AM EDT | Local: May 15, 04:33 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "60facefc9950585b7eb8d9af115c74b1dbbcb996",
-    "pubDate": "Fri, 15 May 2026 11:00:15 GMT",
-    "eventUtc": "2026-05-15T08:33:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
     "source": "vf_ship"
   }
 ]
