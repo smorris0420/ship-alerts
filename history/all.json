@@ -231,6 +231,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Departed from Gorda Cay, Bahamas at Jul 11, 05:00 PM EDT. The local time to the port is Jul 11, 05:00 PM EDT",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Jul 11, 21:00 — ET: Jul 11, 05:00 PM EDT | Local: Jul 11, 05:00 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "386fd4ba560bbd4573917cd114d44e4edc469711",
+    "pubDate": "Sun, 12 Jul 2026 04:40:44 GMT",
+    "eventUtc": "2026-07-11T21:00:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Cagliari, Italy at Jul 11, 12:45 PM EDT. The local time to the port is Jul 11, 06:45 PM CEST",
     "description": "Cagliari, Italy Departure (UTC) Jul 11, 16:45 — ET: Jul 11, 12:45 PM EDT | Local: Jul 11, 06:45 PM CEST",
     "link": "https://www.vesselfinder.com/ports/ITCAG001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-05-16T13:18:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Arrived at Gorda Cay, Bahamas at May 16, 07:56 AM EDT. The local time to the port is May 16, 07:56 AM EDT",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) May 16, 11:56 — ET: May 16, 07:56 AM EDT | Local: May 16, 07:56 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "222fd81b7099a20547f935745c8f5ed116186bb7",
-    "pubDate": "Sun, 17 May 2026 04:18:03 GMT",
-    "eventUtc": "2026-05-16T11:56:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
     "source": "vf_ship"
   }
 ]
