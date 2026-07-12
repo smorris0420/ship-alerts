@@ -5,7 +5,7 @@
   <title>Disney Wonder - Arrivals &amp; Departures</title>
   <link>https://www.vesselfinder.com/vessels/details/9126819</link>
   <description>Disney Wonder - Arrivals &amp; Departures - Auto-generated</description>
-  <lastBuildDate>Sun, 12 Jul 2026 04:39:51 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 12 Jul 2026 07:16:44 GMT</lastBuildDate>
   
   <item>
     <title>Disney Wonder Departed from Hobart, Australia at Dec 31, 08:48 AM EST. The local time to the port is Jan 01, 12:48 AM AEDT</title>
@@ -20,6 +20,20 @@
     <guid isPermaLink="false">17aff6dc63c1d854034dba404a0bb7bbc9de0818</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:40 GMT</pubDate>
     <description><![CDATA[Hobart, Australia Arrival (UTC) Dec 30, 20:45 — ET: Dec 30, 03:45 PM EST | Local: Dec 31, 07:45 AM AEDT]]></description>
+  </item>
+  <item>
+    <title>Disney Wonder Departed from Ketchikan, United States (USA) at Jul 11, 10:59 PM EDT. The local time to the port is Jul 11, 10:59 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USKTN001</link>
+    <guid isPermaLink="false">7915e08bd3e0bae02bc2eff023fd93ea086eb0ee</guid>
+    <pubDate>Sun, 12 Jul 2026 07:16:43 GMT</pubDate>
+    <description><![CDATA[Ketchikan, United States (USA) Departure (UTC) Jul 12, 02:59 — ET: Jul 11, 10:59 PM EDT | Local: Jul 11, 10:59 PM EDT]]></description>
+  </item>
+  <item>
+    <title>Disney Wonder Arrived at Ketchikan, United States (USA) at Jul 11, 01:58 PM EDT. The local time to the port is Jul 11, 01:58 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USKTN001</link>
+    <guid isPermaLink="false">2b6ee80c975bd7c86f0ad9f01e2db01dd1be39d5</guid>
+    <pubDate>Sun, 12 Jul 2026 07:16:42 GMT</pubDate>
+    <description><![CDATA[Ketchikan, United States (USA) Arrival (UTC) Jul 11, 17:58 — ET: Jul 11, 01:58 PM EDT | Local: Jul 11, 01:58 PM EDT]]></description>
   </item>
   <item>
     <title>Disney Wonder Departed from Juneau, United States (USA) at Jul 10, 09:19 PM EDT. The local time to the port is Jul 10, 09:19 PM EDT</title>
@@ -1742,20 +1756,6 @@
     <guid isPermaLink="false">29c4f63e8793b2f8a21eabb2170d75fb7fae1f54</guid>
     <pubDate>Sun, 30 Nov 2025 08:22:44 GMT</pubDate>
     <description><![CDATA[Auckland, New Zealand Departure (UTC) Nov 30, 08:01 — ET: Nov 30, 03:01 AM EST | Local: Nov 30, 09:01 PM NZDT]]></description>
-  </item>
-  <item>
-    <title>Disney Wonder Arrived at Auckland, New Zealand at Nov 29, 04:21 PM EST. The local time to the port is Nov 30, 10:21 AM NZDT</title>
-    <link>https://www.vesselfinder.com/ports/NZAKL001</link>
-    <guid isPermaLink="false">32debf016c88882d092059629c0a66fd742cf31e</guid>
-    <pubDate>Sat, 29 Nov 2025 22:04:22 GMT</pubDate>
-    <description><![CDATA[Auckland, New Zealand Arrival (UTC) Nov 29, 21:21 — ET: Nov 29, 04:21 PM EST | Local: Nov 30, 10:21 AM NZDT]]></description>
-  </item>
-  <item>
-    <title>Disney Wonder Departed from Lyttelton, New Zealand at Nov 28, 12:30 AM EST. The local time to the port is Nov 28, 06:30 PM NZDT</title>
-    <link>https://www.vesselfinder.com/ports/NZLYT001</link>
-    <guid isPermaLink="false">0a99b860b171d4fd5a00e6ad79c18852c15e1715</guid>
-    <pubDate>Fri, 28 Nov 2025 11:36:20 GMT</pubDate>
-    <description><![CDATA[Lyttelton, New Zealand Departure (UTC) Nov 28, 05:30 — ET: Nov 28, 12:30 AM EST | Local: Nov 28, 06:30 PM NZDT]]></description>
   </item>
 </channel>
 </rss>
