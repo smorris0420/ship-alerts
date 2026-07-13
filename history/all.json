@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Departed from Port Everglades, United States (USA) at Jul 13, 04:25 PM EDT. The local time to the port is Jul 13, 04:25 PM EDT",
+    "description": "Port Everglades, United States (USA) Departure (UTC) Jul 13, 20:25 — ET: Jul 13, 04:25 PM EDT | Local: Jul 13, 04:25 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPEF001",
+    "guid": "acd089d927f64a0943919c9da9da0b1cf00916f8",
+    "pubDate": "Mon, 13 Jul 2026 20:47:08 GMT",
+    "eventUtc": "2026-07-13T20:25:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Barcelona, Spain at Jul 13, 11:47 AM EDT. The local time to the port is Jul 13, 05:47 PM CEST",
     "description": "Barcelona, Spain Departure (UTC) Jul 13, 15:47 — ET: Jul 13, 11:47 AM EDT | Local: Jul 13, 05:47 PM CEST",
     "link": "https://www.vesselfinder.com/ports/ESBCN001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-05-17T21:30:00+00:00",
     "shipSlug": "disney-adventure",
     "shipName": "Disney Adventure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Departed from Gorda Cay, Bahamas at May 17, 05:21 PM EDT. The local time to the port is May 17, 05:21 PM EDT",
-    "description": "Gorda Cay, Bahamas Departure (UTC) May 17, 21:21 — ET: May 17, 05:21 PM EDT | Local: May 17, 05:21 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "07bd9cd690368e383d5596f29b0a58f8c5697d99",
-    "pubDate": "Sun, 17 May 2026 21:36:11 GMT",
-    "eventUtc": "2026-05-17T21:21:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
     "source": "vf_ship"
   }
 ]
