@@ -231,6 +231,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Departed from Gorda Cay, Bahamas at Jul 12, 04:52 PM EDT. The local time to the port is Jul 12, 04:52 PM EDT",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Jul 12, 20:52 — ET: Jul 12, 04:52 PM EDT | Local: Jul 12, 04:52 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "36b95a1753b6015a52ebfdbfc613a98e16dc0a0c",
+    "pubDate": "Mon, 13 Jul 2026 04:40:34 GMT",
+    "eventUtc": "2026-07-12T20:52:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Wish Arrived at Gorda Cay, Bahamas at Jul 12, 08:02 AM EDT. The local time to the port is Jul 12, 08:02 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Jul 12, 12:02 — ET: Jul 12, 08:02 AM EDT | Local: Jul 12, 08:02 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "096a5b4f776c3a8f896a5c0c6d82db629a1e76bd",
+    "pubDate": "Mon, 13 Jul 2026 04:40:32 GMT",
+    "eventUtc": "2026-07-12T12:02:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Arrived at Cape Canaveral, United States (USA) at Jul 12, 04:32 AM EDT. The local time to the port is Jul 12, 04:32 AM EDT",
     "description": "Cape Canaveral, United States (USA) Arrival (UTC) Jul 12, 08:32 — ET: Jul 12, 04:32 AM EDT | Local: Jul 12, 04:32 AM EDT",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-05-16T21:11:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Cape Canaveral, United States (USA) at May 16, 05:06 PM EDT. The local time to the port is May 16, 05:06 PM EDT",
-    "description": "Cape Canaveral, United States (USA) Departure (UTC) May 16, 21:06 — ET: May 16, 05:06 PM EDT | Local: May 16, 05:06 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "b1f3bf18e7e5440a636a450f21dc5ec2ecea4587",
-    "pubDate": "Sat, 16 May 2026 22:02:00 GMT",
-    "eventUtc": "2026-05-16T21:06:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Vancouver, Canada at May 16, 04:40 PM EDT. The local time to the port is May 16, 01:40 PM PDT",
-    "description": "Vancouver, Canada Departure (UTC) May 16, 20:40 — ET: May 16, 04:40 PM EDT | Local: May 16, 01:40 PM PDT",
-    "link": "https://www.vesselfinder.com/ports/CAVAN001",
-    "guid": "e9e8006ff4a9f4cbd5f202d65efeaa00ec3865cd",
-    "pubDate": "Sat, 16 May 2026 21:06:46 GMT",
-    "eventUtc": "2026-05-16T20:40:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
