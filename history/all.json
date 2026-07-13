@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Departed from Cape Canaveral, United States (USA) at Jul 13, 04:57 PM EDT. The local time to the port is Jul 13, 04:57 PM EDT",
+    "description": "Cape Canaveral, United States (USA) Departure (UTC) Jul 13, 20:57 — ET: Jul 13, 04:57 PM EDT | Local: Jul 13, 04:57 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "102cf84136e490f28909377880873f22f882a864",
+    "pubDate": "Mon, 13 Jul 2026 21:37:39 GMT",
+    "eventUtc": "2026-07-13T20:57:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Departed from Port Everglades, United States (USA) at Jul 13, 04:25 PM EDT. The local time to the port is Jul 13, 04:25 PM EDT",
     "description": "Port Everglades, United States (USA) Departure (UTC) Jul 13, 20:25 — ET: Jul 13, 04:25 PM EDT | Local: Jul 13, 04:25 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USPEF001",
@@ -5487,16 +5498,5 @@
     "shipSlug": "disney-adventure",
     "shipName": "Disney Adventure",
     "source": "vf_port"
-  },
-  {
-    "title": "Disney Adventure Arrived at Singapore, Singapore at May 17, 05:30 PM EDT. The local time to the port is May 17, 05:30 PM EDT",
-    "description": "Singapore, Singapore Arrival (UTC) May 17, 21:30 — ET: May 17, 05:30 PM EDT | Local: May 17, 05:30 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/SGSIN001",
-    "guid": "65852b108504c321cafa508eedd400f6eab17c71",
-    "pubDate": "Sun, 17 May 2026 22:36:33 GMT",
-    "eventUtc": "2026-05-17T21:30:00+00:00",
-    "shipSlug": "disney-adventure",
-    "shipName": "Disney Adventure",
-    "source": "vf_ship"
   }
 ]
