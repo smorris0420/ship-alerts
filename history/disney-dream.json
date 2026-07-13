@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Barcelona, Spain at Jul 13, 11:47 AM EDT. The local time to the port is Jul 13, 05:47 PM CEST",
+    "description": "Barcelona, Spain Departure (UTC) Jul 13, 15:47 — ET: Jul 13, 11:47 AM EDT | Local: Jul 13, 05:47 PM CEST",
+    "link": "https://www.vesselfinder.com/ports/ESBCN001",
+    "guid": "fddd7e792017c873ee5ecaddd3a2489f049c1471",
+    "pubDate": "Mon, 13 Jul 2026 16:06:03 GMT",
+    "eventUtc": "2026-07-13T15:47:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Arrived at Barcelona, Spain at Jul 13, 12:09 AM EDT. The local time to the port is Jul 13, 06:09 AM CEST",
     "description": "Barcelona, Spain Arrival (UTC) Jul 13, 04:09 — ET: Jul 13, 12:09 AM EDT | Local: Jul 13, 06:09 AM CEST",
     "link": "https://www.vesselfinder.com/ports/ESBCN001",
@@ -2734,17 +2745,6 @@
     "guid": "61cf4c3c77b364ead4303cf3a641a90c2e771fa4",
     "pubDate": "Wed, 07 Jan 2026 13:51:53 GMT",
     "eventUtc": "2026-01-07T12:39:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Port Everglades, United States (USA) at Jan 05, 04:37 PM EST. The local time to the port is Jan 05, 04:37 PM EST",
-    "description": "Port Everglades, United States (USA) Departure (UTC) Jan 5, 21:37 — ET: Jan 05, 04:37 PM EST | Local: Jan 05, 04:37 PM EST",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "17c74719085dee0f402420ecc16e0fc4860561d2",
-    "pubDate": "Mon, 05 Jan 2026 21:52:08 GMT",
-    "eventUtc": "2026-01-05T21:37:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
     "source": "vf_ship"
