@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Barcelona, Spain at Jul 13, 12:09 AM EDT. The local time to the port is Jul 13, 06:09 AM CEST",
+    "description": "Barcelona, Spain Arrival (UTC) Jul 13, 04:09 — ET: Jul 13, 12:09 AM EDT | Local: Jul 13, 06:09 AM CEST",
+    "link": "https://www.vesselfinder.com/ports/ESBCN001",
+    "guid": "7fa86e8b0a426bd6894384e890579a215c52bf17",
+    "pubDate": "Mon, 13 Jul 2026 07:57:02 GMT",
+    "eventUtc": "2026-07-13T04:09:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Departed from Cape Canaveral, United States (USA) at Jul 12, 05:24 PM EDT. The local time to the port is Jul 12, 05:24 PM EDT",
     "description": "Cape Canaveral, United States (USA) Departure (UTC) Jul 12, 21:24 — ET: Jul 12, 05:24 PM EDT | Local: Jul 12, 05:24 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-05-16T22:01:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Departed from Gorda Cay, Bahamas at May 16, 05:11 PM EDT. The local time to the port is May 16, 05:11 PM EDT",
-    "description": "Gorda Cay, Bahamas Departure (UTC) May 16, 21:11 — ET: May 16, 05:11 PM EDT | Local: May 16, 05:11 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "83a7c5f70107045ff65428424a19d8944122ad25",
-    "pubDate": "Sun, 17 May 2026 04:18:04 GMT",
-    "eventUtc": "2026-05-16T21:11:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
     "source": "vf_ship"
   }
 ]
