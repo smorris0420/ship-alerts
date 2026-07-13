@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Departed from Cozumel, Mexico at Jul 13, 06:01 PM EDT. The local time to the port is Jul 13, 05:01 PM EST",
+    "description": "Cozumel, Mexico Departure (UTC) Jul 13, 22:01 — ET: Jul 13, 06:01 PM EDT | Local: Jul 13, 05:01 PM EST",
+    "link": "https://www.vesselfinder.com/ports/MXCZM001",
+    "guid": "df650c6067059b5ee2460634820ffaafb9adfcd1",
+    "pubDate": "Mon, 13 Jul 2026 22:37:11 GMT",
+    "eventUtc": "2026-07-13T22:01:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Departed from Cape Canaveral, United States (USA) at Jul 13, 04:57 PM EDT. The local time to the port is Jul 13, 04:57 PM EDT",
     "description": "Cape Canaveral, United States (USA) Departure (UTC) Jul 13, 20:57 — ET: Jul 13, 04:57 PM EDT | Local: Jul 13, 04:57 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5483,17 +5494,6 @@
     "link": "https://www.vesselfinder.com/ports/SGSIN001",
     "guid": "46bb1d4919fa6a26eb8f4ec817ee4c7141718f52",
     "pubDate": "Sun, 17 May 2026 19:53:27 GMT",
-    "eventUtc": "2026-05-18T00:30:00+00:00",
-    "shipSlug": "disney-adventure",
-    "shipName": "Disney Adventure",
-    "source": "vf_port"
-  },
-  {
-    "title": "Disney Adventure Arrived at Singapore, Singapore at May 17, 08:30 PM EDT. The local time to the port is May 17, 08:30 PM EDT",
-    "description": "Singapore, Singapore Arrival (UTC) May 18, 00:30 — ET: May 17, 08:30 PM EDT | Local: May 17, 08:30 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/SGSIN001",
-    "guid": "8ce80b3ff46ceb00182cbf40ac4bb16047aef24a",
-    "pubDate": "Sun, 17 May 2026 19:53:28 GMT",
     "eventUtc": "2026-05-18T00:30:00+00:00",
     "shipSlug": "disney-adventure",
     "shipName": "Disney Adventure",
