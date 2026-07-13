@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Departed from Vancouver, Canada at Jul 13, 06:56 PM EDT. The local time to the port is Jul 13, 03:56 PM PDT",
+    "description": "Vancouver, Canada Departure (UTC) Jul 13, 22:56 — ET: Jul 13, 06:56 PM EDT | Local: Jul 13, 03:56 PM PDT",
+    "link": "https://www.vesselfinder.com/ports/CAVAN001",
+    "guid": "ef15afcdc803d081fcff1c561ed6a4dd5ef64491",
+    "pubDate": "Mon, 13 Jul 2026 23:35:54 GMT",
+    "eventUtc": "2026-07-13T22:56:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Departed from Cozumel, Mexico at Jul 13, 06:01 PM EDT. The local time to the port is Jul 13, 05:01 PM EST",
     "description": "Cozumel, Mexico Departure (UTC) Jul 13, 22:01 — ET: Jul 13, 06:01 PM EDT | Local: Jul 13, 05:01 PM EST",
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
@@ -5487,16 +5498,5 @@
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
     "source": "vf_ship"
-  },
-  {
-    "title": "Disney Adventure Departed from Singapore, Singapore at May 17, 08:30 PM EDT. The local time to the port is May 17, 08:30 PM EDT",
-    "description": "Singapore, Singapore Departure (UTC) May 18, 00:30 — ET: May 17, 08:30 PM EDT | Local: May 17, 08:30 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/SGSIN001",
-    "guid": "46bb1d4919fa6a26eb8f4ec817ee4c7141718f52",
-    "pubDate": "Sun, 17 May 2026 19:53:27 GMT",
-    "eventUtc": "2026-05-18T00:30:00+00:00",
-    "shipSlug": "disney-adventure",
-    "shipName": "Disney Adventure",
-    "source": "vf_port"
   }
 ]
