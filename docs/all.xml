@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Tue, 14 Jul 2026 21:14:36 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 14 Jul 2026 22:16:21 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,13 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Magic Arrived at Ketchikan, United States (USA) at Jul 14, 05:26 PM EDT. The local time to the port is Jul 14, 05:26 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USKTN001</link>
+    <guid isPermaLink="false">f5727791243cf6838e469451781b33f1f96fa445</guid>
+    <pubDate>Tue, 14 Jul 2026 22:13:22 GMT</pubDate>
+    <description><![CDATA[Ketchikan, United States (USA) Arrival (UTC) Jul 14, 21:26 — ET: Jul 14, 05:26 PM EDT | Local: Jul 14, 05:26 PM EDT]]></description>
   </item>
   <item>
     <title>Disney Magic Departed from Hoonah, United States (USA) at Jul 13, 08:19 PM EDT. The local time to the port is Jul 13, 08:19 PM EDT</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">591ba70c4b4c159eeb3dcee1429a8f082b6a9608</guid>
     <pubDate>Tue, 19 May 2026 15:59:57 GMT</pubDate>
     <description><![CDATA[Georgetown, Grand Cayman Anch., Cayman Islands Arrival (UTC) May 18, 13:03 — ET: May 18, 09:03 AM EDT | Local: May 18, 08:03 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Fantasy Arrived at Gorda Cay, Bahamas at May 18, 07:42 AM EDT. The local time to the port is May 18, 07:42 AM EDT</title>
-    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
-    <guid isPermaLink="false">2892f9bd361b83e29b2e37d4becea305bd719a33</guid>
-    <pubDate>Mon, 18 May 2026 18:19:41 GMT</pubDate>
-    <description><![CDATA[Gorda Cay, Bahamas Arrival (UTC) May 18, 11:42 — ET: May 18, 07:42 AM EDT | Local: May 18, 07:42 AM EDT]]></description>
   </item>
 </channel>
 </rss>
