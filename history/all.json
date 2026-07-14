@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Hoonah, United States (USA) at Jul 13, 08:19 PM EDT. The local time to the port is Jul 13, 08:19 PM EDT",
+    "description": "Hoonah, United States (USA) Departure (UTC) Jul 14, 00:19 — ET: Jul 13, 08:19 PM EDT | Local: Jul 13, 08:19 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USHNH001",
+    "guid": "ee2e28788e01e123ee144a0295f19bc635ed25e8",
+    "pubDate": "Tue, 14 Jul 2026 04:10:54 GMT",
+    "eventUtc": "2026-07-14T00:19:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Departed from Vancouver, Canada at Jul 13, 06:56 PM EDT. The local time to the port is Jul 13, 03:56 PM PDT",
     "description": "Vancouver, Canada Departure (UTC) Jul 13, 22:56 — ET: Jul 13, 06:56 PM EDT | Local: Jul 13, 03:56 PM PDT",
     "link": "https://www.vesselfinder.com/ports/CAVAN001",
@@ -261,6 +272,17 @@
     "eventUtc": "2026-07-13T15:47:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Magic Arrived at Hoonah, United States (USA) at Jul 13, 10:07 AM EDT. The local time to the port is Jul 13, 10:07 AM EDT",
+    "description": "Hoonah, United States (USA) Arrival (UTC) Jul 13, 14:07 — ET: Jul 13, 10:07 AM EDT | Local: Jul 13, 10:07 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USHNH001",
+    "guid": "84601f73121d05cef1744772f163b809e6f54524",
+    "pubDate": "Tue, 14 Jul 2026 04:10:53 GMT",
+    "eventUtc": "2026-07-13T14:07:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
     "source": "vf_ship"
   },
   {
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-05-18T09:31:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Adventure Departed from Singapore, Singapore at May 18, 04:56 AM EDT. The local time to the port is May 18, 04:56 AM EDT",
-    "description": "Singapore, Singapore Departure (UTC) May 18, 08:56 — ET: May 18, 04:56 AM EDT | Local: May 18, 04:56 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/SGSIN001",
-    "guid": "8f68562b51a06dab8f138907d45707a1e0a71205",
-    "pubDate": "Mon, 18 May 2026 09:45:34 GMT",
-    "eventUtc": "2026-05-18T08:56:00+00:00",
-    "shipSlug": "disney-adventure",
-    "shipName": "Disney Adventure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Arrived at Livorno, Italy at May 17, 11:09 PM EDT. The local time to the port is May 18, 05:09 AM CEST",
-    "description": "Livorno, Italy Arrival (UTC) May 18, 03:09 — ET: May 17, 11:09 PM EDT | Local: May 18, 05:09 AM CEST",
-    "link": "https://www.vesselfinder.com/ports/ITLIV001",
-    "guid": "ed4d4f84f6c38911ab54928db67bf5b2b8a10190",
-    "pubDate": "Mon, 18 May 2026 05:54:47 GMT",
-    "eventUtc": "2026-05-18T03:09:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
     "source": "vf_ship"
   }
 ]
