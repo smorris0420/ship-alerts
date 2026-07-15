@@ -5,7 +5,7 @@
   <title>Disney Wish - Arrivals &amp; Departures</title>
   <link>https://www.vesselfinder.com/vessels/details/9834739</link>
   <description>Disney Wish - Arrivals &amp; Departures - Auto-generated</description>
-  <lastBuildDate>Wed, 15 Jul 2026 21:27:04 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 15 Jul 2026 22:31:10 GMT</lastBuildDate>
   
   <item>
     <title>Disney Wish Departed from Nassau, Bahamas at Dec 30, 05:59 PM EST. The local time to the port is Dec 30, 05:59 PM EST</title>
@@ -20,6 +20,13 @@
     <guid isPermaLink="false">c8fa95bf103d068f9b1c39c3aa7460598af04c5d</guid>
     <pubDate>Thu, 01 Jan 2026 00:00:41 GMT</pubDate>
     <description><![CDATA[Nassau, Bahamas Arrival (UTC) Dec 30, 13:49 — ET: Dec 30, 08:49 AM EST | Local: Dec 30, 08:49 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Wish Departed from Gorda Cay, Bahamas at Jul 15, 05:00 PM EDT. The local time to the port is Jul 15, 05:00 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
+    <guid isPermaLink="false">c4d1003c430cd288fed1dade1a72a15a0a211d75</guid>
+    <pubDate>Wed, 15 Jul 2026 22:31:08 GMT</pubDate>
+    <description><![CDATA[Gorda Cay, Bahamas Departure (UTC) Jul 15, 21:00 — ET: Jul 15, 05:00 PM EDT | Local: Jul 15, 05:00 PM EDT]]></description>
   </item>
   <item>
     <title>Disney Wish Arrived at Gorda Cay, Bahamas at Jul 15, 07:30 AM EDT. The local time to the port is Jul 15, 07:30 AM EDT</title>
@@ -1749,13 +1756,6 @@
     <guid isPermaLink="false">aa8fbbfc812ee34f0b964c39f4b0bf83fc29036e</guid>
     <pubDate>Sun, 08 Feb 2026 22:30:39 GMT</pubDate>
     <description><![CDATA[Gorda Cay, Bahamas Arrival (UTC) Feb 8, 12:26 — ET: Feb 08, 07:26 AM EST | Local: Feb 08, 07:26 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Wish Departed from Nassau, Bahamas at Feb 07, 06:02 PM EST. The local time to the port is Feb 07, 06:02 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/BSNAS001</link>
-    <guid isPermaLink="false">433f569efaed2dd3da478dcad5b9aa30128edc42</guid>
-    <pubDate>Sat, 07 Feb 2026 23:41:36 GMT</pubDate>
-    <description><![CDATA[Nassau, Bahamas Departure (UTC) Feb 7, 23:02 — ET: Feb 07, 06:02 PM EST | Local: Feb 07, 06:02 PM EST]]></description>
   </item>
 </channel>
 </rss>
