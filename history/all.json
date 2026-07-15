@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Napoli, Italy at Jul 15, 01:29 PM EDT. The local time to the port is Jul 15, 07:29 PM CEST",
+    "description": "Napoli, Italy Departure (UTC) Jul 15, 17:29 — ET: Jul 15, 01:29 PM EDT | Local: Jul 15, 07:29 PM CEST",
+    "link": "https://www.vesselfinder.com/ports/ITNAP001",
+    "guid": "8a0ccacebf6976cc5d610ca9164ee1f3ad45cf7c",
+    "pubDate": "Wed, 15 Jul 2026 17:57:33 GMT",
+    "eventUtc": "2026-07-15T17:29:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Arrived at Philipsburg, Sint Maarten (NL) at Jul 15, 09:26 AM EDT. The local time to the port is Jul 15, 09:26 AM EDT",
     "description": "Philipsburg, Sint Maarten (NL) Arrival (UTC) Jul 15, 13:26 — ET: Jul 15, 09:26 AM EDT | Local: Jul 15, 09:26 AM EDT",
     "link": "https://www.vesselfinder.com/ports/SXPHI001",
@@ -217,6 +228,17 @@
     "eventUtc": "2026-07-15T13:26:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Wish Arrived at Gorda Cay, Bahamas at Jul 15, 07:30 AM EDT. The local time to the port is Jul 15, 07:30 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Jul 15, 11:30 — ET: Jul 15, 07:30 AM EDT | Local: Jul 15, 07:30 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "722cbbadd8be67007d3c6b0a7dfa29baa6b4a9e9",
+    "pubDate": "Wed, 15 Jul 2026 17:55:04 GMT",
+    "eventUtc": "2026-07-15T11:30:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
     "source": "vf_ship"
   },
   {
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-05-18T20:32:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Departed from Port Everglades, United States (USA) at May 18, 04:20 PM EDT. The local time to the port is May 18, 04:20 PM EDT",
-    "description": "Port Everglades, United States (USA) Departure (UTC) May 18, 20:20 — ET: May 18, 04:20 PM EDT | Local: May 18, 04:20 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "9d03c28d3004d8e3b94cf20d203d73b3d97c3015",
-    "pubDate": "Mon, 18 May 2026 21:41:01 GMT",
-    "eventUtc": "2026-05-18T20:20:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Livorno, Italy at May 18, 12:40 PM EDT. The local time to the port is May 18, 06:40 PM CEST",
-    "description": "Livorno, Italy Departure (UTC) May 18, 16:40 — ET: May 18, 12:40 PM EDT | Local: May 18, 06:40 PM CEST",
-    "link": "https://www.vesselfinder.com/ports/ITLIV001",
-    "guid": "8aa271355c1f63e8f9ce7d1d45cee454d0dabe4f",
-    "pubDate": "Mon, 18 May 2026 18:20:22 GMT",
-    "eventUtc": "2026-05-18T16:40:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
     "source": "vf_ship"
   }
 ]
