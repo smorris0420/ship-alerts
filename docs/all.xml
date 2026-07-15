@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Wed, 15 Jul 2026 03:33:46 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 15 Jul 2026 05:59:55 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -146,6 +146,13 @@
     <guid isPermaLink="false">8049e0648b297e25ddaba909ca194d92f2d7a3fd</guid>
     <pubDate>Wed, 15 Jul 2026 03:30:57 GMT</pubDate>
     <description><![CDATA[Ketchikan, United States (USA) Departure (UTC) Jul 15, 03:22 — ET: Jul 14, 11:22 PM EDT | Local: Jul 14, 11:22 PM EDT]]></description>
+  </item>
+  <item>
+    <title>Disney Dream Arrived at Napoli, Italy at Jul 14, 11:20 PM EDT. The local time to the port is Jul 15, 05:20 AM CEST</title>
+    <link>https://www.vesselfinder.com/ports/ITNAP001</link>
+    <guid isPermaLink="false">e54635696b243c92c0ca23244fb879d04a978d34</guid>
+    <pubDate>Wed, 15 Jul 2026 05:57:46 GMT</pubDate>
+    <description><![CDATA[Napoli, Italy Arrival (UTC) Jul 15, 03:20 — ET: Jul 14, 11:20 PM EDT | Local: Jul 15, 05:20 AM CEST]]></description>
   </item>
   <item>
     <title>Disney Magic Arrived at Ketchikan, United States (USA) at Jul 14, 05:26 PM EDT. The local time to the port is Jul 14, 05:26 PM EDT</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">c19953a9c7d0c4cc02a6053c7ced6000f3032bd3</guid>
     <pubDate>Mon, 18 May 2026 16:28:33 GMT</pubDate>
     <description><![CDATA[Vancouver, Canada Arrival (UTC) May 18, 13:58 — ET: May 18, 09:58 AM EDT | Local: May 18, 06:58 AM PDT]]></description>
-  </item>
-  <item>
-    <title>Disney Treasure Arrived at Cozumel, Mexico at May 18, 09:03 AM EDT. The local time to the port is May 18, 08:03 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/MXCZM001</link>
-    <guid isPermaLink="false">65913ddf653599b4662f80ecc39cebbf490db217</guid>
-    <pubDate>Mon, 18 May 2026 16:26:28 GMT</pubDate>
-    <description><![CDATA[Cozumel, Mexico Arrival (UTC) May 18, 13:03 — ET: May 18, 09:03 AM EDT | Local: May 18, 08:03 AM EST]]></description>
   </item>
 </channel>
 </rss>
