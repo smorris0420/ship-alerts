@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Fantasy Arrived at Philipsburg, Sint Maarten (NL) at Jul 15, 09:26 AM EDT. The local time to the port is Jul 15, 09:26 AM EDT",
+    "description": "Philipsburg, Sint Maarten (NL) Arrival (UTC) Jul 15, 13:26 — ET: Jul 15, 09:26 AM EDT | Local: Jul 15, 09:26 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/SXPHI001",
+    "guid": "d5ab8cdccce133e5ae846651eb88a499b7ab02bb",
+    "pubDate": "Wed, 15 Jul 2026 15:03:40 GMT",
+    "eventUtc": "2026-07-15T13:26:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Departed from Ketchikan, United States (USA) at Jul 14, 11:22 PM EDT. The local time to the port is Jul 14, 11:22 PM EDT",
     "description": "Ketchikan, United States (USA) Departure (UTC) Jul 15, 03:22 — ET: Jul 14, 11:22 PM EDT | Local: Jul 14, 11:22 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USKTN001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-05-18T16:40:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Arrived at Vancouver, Canada at May 18, 09:58 AM EDT. The local time to the port is May 18, 06:58 AM PDT",
-    "description": "Vancouver, Canada Arrival (UTC) May 18, 13:58 — ET: May 18, 09:58 AM EDT | Local: May 18, 06:58 AM PDT",
-    "link": "https://www.vesselfinder.com/ports/CAVAN001",
-    "guid": "c19953a9c7d0c4cc02a6053c7ced6000f3032bd3",
-    "pubDate": "Mon, 18 May 2026 16:28:33 GMT",
-    "eventUtc": "2026-05-18T13:58:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
     "source": "vf_ship"
   }
 ]

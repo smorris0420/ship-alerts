@@ -5,7 +5,7 @@
   <title>Disney Fantasy - Arrivals &amp; Departures</title>
   <link>https://www.vesselfinder.com/vessels/details/9445590</link>
   <description>Disney Fantasy - Arrivals &amp; Departures - Auto-generated</description>
-  <lastBuildDate>Wed, 15 Jul 2026 13:15:40 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 15 Jul 2026 15:03:42 GMT</lastBuildDate>
   
   <item>
     <title>Disney Fantasy Departed from Cape Canaveral, United States (USA) at Dec 31, 04:30 PM EST. The local time to the port is Dec 31, 04:30 PM EST</title>
@@ -20,6 +20,13 @@
     <guid isPermaLink="false">114ad0683b06ca4f09b1abc6fa7bd615202fa770</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:00 GMT</pubDate>
     <description><![CDATA[Cape Canaveral, United States (USA) Arrival (UTC) Dec 31, 10:38 — ET: Dec 31, 05:38 AM EST | Local: Dec 31, 05:38 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Fantasy Arrived at Philipsburg, Sint Maarten (NL) at Jul 15, 09:26 AM EDT. The local time to the port is Jul 15, 09:26 AM EDT</title>
+    <link>https://www.vesselfinder.com/ports/SXPHI001</link>
+    <guid isPermaLink="false">d5ab8cdccce133e5ae846651eb88a499b7ab02bb</guid>
+    <pubDate>Wed, 15 Jul 2026 15:03:40 GMT</pubDate>
+    <description><![CDATA[Philipsburg, Sint Maarten (NL) Arrival (UTC) Jul 15, 13:26 — ET: Jul 15, 09:26 AM EDT | Local: Jul 15, 09:26 AM EDT]]></description>
   </item>
   <item>
     <title>Disney Fantasy Departed from Cape Canaveral, United States (USA) at Jul 12, 05:24 PM EDT. The local time to the port is Jul 12, 05:24 PM EDT</title>
@@ -1749,13 +1756,6 @@
     <guid isPermaLink="false">209c8c3676671321694d72cf140435b1aadec255</guid>
     <pubDate>Mon, 08 Dec 2025 23:27:33 GMT</pubDate>
     <description><![CDATA[Nassau, Bahamas Departure (UTC) Dec 8, 23:01 — ET: Dec 08, 06:01 PM EST | Local: Dec 08, 06:01 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Fantasy Arrived at Nassau, Bahamas at Dec 08, 08:50 AM EST. The local time to the port is Dec 08, 08:50 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/BSNAS001</link>
-    <guid isPermaLink="false">408741a62479646c67a4f47eb7a58d3b7c0c1edd</guid>
-    <pubDate>Mon, 08 Dec 2025 14:45:42 GMT</pubDate>
-    <description><![CDATA[Nassau, Bahamas Arrival (UTC) Dec 8, 13:50 — ET: Dec 08, 08:50 AM EST | Local: Dec 08, 08:50 AM EST]]></description>
   </item>
 </channel>
 </rss>
