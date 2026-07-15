@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Ketchikan, United States (USA) at Jul 14, 11:22 PM EDT. The local time to the port is Jul 14, 11:22 PM EDT",
+    "description": "Ketchikan, United States (USA) Departure (UTC) Jul 15, 03:22 — ET: Jul 14, 11:22 PM EDT | Local: Jul 14, 11:22 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USKTN001",
+    "guid": "8049e0648b297e25ddaba909ca194d92f2d7a3fd",
+    "pubDate": "Wed, 15 Jul 2026 03:30:57 GMT",
+    "eventUtc": "2026-07-15T03:22:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Arrived at Ketchikan, United States (USA) at Jul 14, 05:26 PM EDT. The local time to the port is Jul 14, 05:26 PM EDT",
     "description": "Ketchikan, United States (USA) Arrival (UTC) Jul 14, 21:26 — ET: Jul 14, 05:26 PM EDT | Local: Jul 14, 05:26 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USKTN001",
@@ -5483,17 +5494,6 @@
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
     "guid": "65913ddf653599b4662f80ecc39cebbf490db217",
     "pubDate": "Mon, 18 May 2026 16:26:28 GMT",
-    "eventUtc": "2026-05-18T13:03:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Georgetown, Grand Cayman Anch., Cayman Islands at May 18, 09:03 AM EDT. The local time to the port is May 18, 08:03 AM EST",
-    "description": "Georgetown, Grand Cayman Anch., Cayman Islands Arrival (UTC) May 18, 13:03 — ET: May 18, 09:03 AM EDT | Local: May 18, 08:03 AM EST",
-    "link": "https://www.vesselfinder.com/ports/KYGEC001",
-    "guid": "591ba70c4b4c159eeb3dcee1429a8f082b6a9608",
-    "pubDate": "Tue, 19 May 2026 15:59:57 GMT",
     "eventUtc": "2026-05-18T13:03:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
