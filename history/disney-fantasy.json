@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Fantasy Departed from Philipsburg, Sint Maarten (NL) at Jul 15, 06:39 PM EDT. The local time to the port is Jul 15, 06:39 PM EDT",
+    "description": "Philipsburg, Sint Maarten (NL) Departure (UTC) Jul 15, 22:39 — ET: Jul 15, 06:39 PM EDT | Local: Jul 15, 06:39 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/SXPHI001",
+    "guid": "b5a0f628a2a9fd4321a094aa8d2554467063e34f",
+    "pubDate": "Wed, 15 Jul 2026 23:35:35 GMT",
+    "eventUtc": "2026-07-15T22:39:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Arrived at Philipsburg, Sint Maarten (NL) at Jul 15, 09:26 AM EDT. The local time to the port is Jul 15, 09:26 AM EDT",
     "description": "Philipsburg, Sint Maarten (NL) Arrival (UTC) Jul 15, 13:26 — ET: Jul 15, 09:26 AM EDT | Local: Jul 15, 09:26 AM EDT",
     "link": "https://www.vesselfinder.com/ports/SXPHI001",
@@ -2734,17 +2745,6 @@
     "guid": "6f1171e2b85d5e38d831cf1caf6254f8419ae884",
     "pubDate": "Wed, 10 Dec 2025 23:27:21 GMT",
     "eventUtc": "2025-12-10T13:03:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Departed from Nassau, Bahamas at Dec 08, 06:01 PM EST. The local time to the port is Dec 08, 06:01 PM EST",
-    "description": "Nassau, Bahamas Departure (UTC) Dec 8, 23:01 — ET: Dec 08, 06:01 PM EST | Local: Dec 08, 06:01 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "209c8c3676671321694d72cf140435b1aadec255",
-    "pubDate": "Mon, 08 Dec 2025 23:27:33 GMT",
-    "eventUtc": "2025-12-08T23:01:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
     "source": "vf_ship"

@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Fantasy Departed from Philipsburg, Sint Maarten (NL) at Jul 15, 06:39 PM EDT. The local time to the port is Jul 15, 06:39 PM EDT",
+    "description": "Philipsburg, Sint Maarten (NL) Departure (UTC) Jul 15, 22:39 — ET: Jul 15, 06:39 PM EDT | Local: Jul 15, 06:39 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/SXPHI001",
+    "guid": "b5a0f628a2a9fd4321a094aa8d2554467063e34f",
+    "pubDate": "Wed, 15 Jul 2026 23:35:35 GMT",
+    "eventUtc": "2026-07-15T22:39:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Arrived at Singapore, Singapore at Jul 15, 05:12 PM EDT. The local time to the port is Jul 15, 05:12 PM EDT",
     "description": "Singapore, Singapore Arrival (UTC) Jul 15, 21:12 — ET: Jul 15, 05:12 PM EDT | Local: Jul 15, 05:12 PM EDT",
     "link": "https://www.vesselfinder.com/ports/SGSIN001",
@@ -5483,17 +5494,6 @@
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
     "guid": "91507e6f284beef13105e30ef219838945c8f8bb",
     "pubDate": "Mon, 18 May 2026 22:37:26 GMT",
-    "eventUtc": "2026-05-18T21:56:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Georgetown, Grand Cayman Anch., Cayman Islands at May 18, 05:56 PM EDT. The local time to the port is May 18, 04:56 PM EST",
-    "description": "Georgetown, Grand Cayman Anch., Cayman Islands Departure (UTC) May 18, 21:56 — ET: May 18, 05:56 PM EDT | Local: May 18, 04:56 PM EST",
-    "link": "https://www.vesselfinder.com/ports/KYGEC001",
-    "guid": "30734bae447c7e42ea04f50c7bb1f0cb8cc0a6b8",
-    "pubDate": "Tue, 19 May 2026 15:59:58 GMT",
     "eventUtc": "2026-05-18T21:56:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
