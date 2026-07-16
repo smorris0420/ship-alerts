@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Civitavecchia, Italy at Jul 15, 11:41 PM EDT. The local time to the port is Jul 16, 05:41 AM CEST",
+    "description": "Civitavecchia, Italy Arrival (UTC) Jul 16, 03:41 — ET: Jul 15, 11:41 PM EDT | Local: Jul 16, 05:41 AM CEST",
+    "link": "https://www.vesselfinder.com/ports/ITCVV001",
+    "guid": "2cec9faacbdf3b75eb1870afd544c16e640f3b79",
+    "pubDate": "Thu, 16 Jul 2026 04:23:24 GMT",
+    "eventUtc": "2026-07-16T03:41:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Departed from Philipsburg, Sint Maarten (NL) at Jul 15, 06:39 PM EDT. The local time to the port is Jul 15, 06:39 PM EDT",
     "description": "Philipsburg, Sint Maarten (NL) Departure (UTC) Jul 15, 22:39 — ET: Jul 15, 06:39 PM EDT | Local: Jul 15, 06:39 PM EDT",
     "link": "https://www.vesselfinder.com/ports/SXPHI001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-05-19T00:04:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Cozumel, Mexico at May 18, 05:56 PM EDT. The local time to the port is May 18, 04:56 PM EST",
-    "description": "Cozumel, Mexico Departure (UTC) May 18, 21:56 — ET: May 18, 05:56 PM EDT | Local: May 18, 04:56 PM EST",
-    "link": "https://www.vesselfinder.com/ports/MXCZM001",
-    "guid": "91507e6f284beef13105e30ef219838945c8f8bb",
-    "pubDate": "Mon, 18 May 2026 22:37:26 GMT",
-    "eventUtc": "2026-05-18T21:56:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
