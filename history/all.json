@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Fantasy Departed from Castries, St Lucia at Jul 16, 07:07 PM EDT. The local time to the port is Jul 16, 07:07 PM AST",
+    "description": "Castries, St Lucia Departure (UTC) Jul 16, 23:07 — ET: Jul 16, 07:07 PM EDT | Local: Jul 16, 07:07 PM AST",
+    "link": "https://www.vesselfinder.com/ports/LCCAS001",
+    "guid": "2a063feb733f3eccefe0f2a587965515d9b954ea",
+    "pubDate": "Thu, 16 Jul 2026 23:41:42 GMT",
+    "eventUtc": "2026-07-16T23:07:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Civitavecchia, Italy at Jul 16, 01:36 PM EDT. The local time to the port is Jul 16, 07:36 PM CEST",
     "description": "Civitavecchia, Italy Departure (UTC) Jul 16, 17:36 — ET: Jul 16, 01:36 PM EDT | Local: Jul 16, 07:36 PM CEST",
     "link": "https://www.vesselfinder.com/ports/ITCVV001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-05-19T22:27:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Arrived at Ketchikan, United States (USA) at May 19, 05:46 PM EDT. The local time to the port is May 19, 05:46 PM EDT",
-    "description": "Ketchikan, United States (USA) Arrival (UTC) May 19, 21:46 — ET: May 19, 05:46 PM EDT | Local: May 19, 05:46 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USKTN001",
-    "guid": "ec0f303500f5f0eb8c181d7e5f137ffc04735f13",
-    "pubDate": "Tue, 19 May 2026 22:50:54 GMT",
-    "eventUtc": "2026-05-19T21:46:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
