@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Arrived at Vancouver, Canada at Jul 16, 10:04 AM EDT. The local time to the port is Jul 16, 07:04 AM PDT",
+    "description": "Vancouver, Canada Arrival (UTC) Jul 16, 14:04 — ET: Jul 16, 10:04 AM EDT | Local: Jul 16, 07:04 AM PDT",
+    "link": "https://www.vesselfinder.com/ports/CAVAN001",
+    "guid": "5163c051405c4bccc6747300232a160a5be00b56",
+    "pubDate": "Thu, 16 Jul 2026 14:51:20 GMT",
+    "eventUtc": "2026-07-16T14:04:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Fantasy Arrived at Castries, St Lucia at Jul 16, 09:19 AM EDT. The local time to the port is Jul 16, 09:19 AM AST",
+    "description": "Castries, St Lucia Arrival (UTC) Jul 16, 13:19 — ET: Jul 16, 09:19 AM EDT | Local: Jul 16, 09:19 AM AST",
+    "link": "https://www.vesselfinder.com/ports/LCCAS001",
+    "guid": "36eee5977c5b074e1930c1b4520245096f0acbb9",
+    "pubDate": "Thu, 16 Jul 2026 14:51:06 GMT",
+    "eventUtc": "2026-07-16T13:19:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Departed from Singapore, Singapore at Jul 16, 05:13 AM EDT. The local time to the port is Jul 16, 05:13 AM EDT",
     "description": "Singapore, Singapore Departure (UTC) Jul 16, 09:13 — ET: Jul 16, 05:13 AM EDT | Local: Jul 16, 05:13 AM EDT",
     "link": "https://www.vesselfinder.com/ports/SGSIN001",
@@ -5473,28 +5495,6 @@
     "guid": "c659864afc4f625cf8e70b94f268672099b80b7a",
     "pubDate": "Tue, 19 May 2026 18:15:37 GMT",
     "eventUtc": "2026-05-19T17:57:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Arrived at Nassau, Bahamas at May 19, 09:11 AM EDT. The local time to the port is May 19, 09:11 AM EDT",
-    "description": "Nassau, Bahamas Arrival (UTC) May 19, 13:11 — ET: May 19, 09:11 AM EDT | Local: May 19, 09:11 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "8d51202635b06850fd96aeeb1cbfbfcc22ef499a",
-    "pubDate": "Tue, 19 May 2026 15:59:48 GMT",
-    "eventUtc": "2026-05-19T13:11:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Arrived at Civitavecchia, Italy at May 19, 12:10 AM EDT. The local time to the port is May 19, 06:10 AM CEST",
-    "description": "Civitavecchia, Italy Arrival (UTC) May 19, 04:10 — ET: May 19, 12:10 AM EDT | Local: May 19, 06:10 AM CEST",
-    "link": "https://www.vesselfinder.com/ports/ITCVV001",
-    "guid": "fd1b0b851b14903db1876335e6eb770d0a6830e8",
-    "pubDate": "Tue, 19 May 2026 05:57:05 GMT",
-    "eventUtc": "2026-05-19T04:10:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
     "source": "vf_ship"

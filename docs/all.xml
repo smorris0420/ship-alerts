@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Thu, 16 Jul 2026 12:53:14 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 16 Jul 2026 14:54:15 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,20 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Magic Arrived at Vancouver, Canada at Jul 16, 10:04 AM EDT. The local time to the port is Jul 16, 07:04 AM PDT</title>
+    <link>https://www.vesselfinder.com/ports/CAVAN001</link>
+    <guid isPermaLink="false">5163c051405c4bccc6747300232a160a5be00b56</guid>
+    <pubDate>Thu, 16 Jul 2026 14:51:20 GMT</pubDate>
+    <description><![CDATA[Vancouver, Canada Arrival (UTC) Jul 16, 14:04 — ET: Jul 16, 10:04 AM EDT | Local: Jul 16, 07:04 AM PDT]]></description>
+  </item>
+  <item>
+    <title>Disney Fantasy Arrived at Castries, St Lucia at Jul 16, 09:19 AM EDT. The local time to the port is Jul 16, 09:19 AM AST</title>
+    <link>https://www.vesselfinder.com/ports/LCCAS001</link>
+    <guid isPermaLink="false">36eee5977c5b074e1930c1b4520245096f0acbb9</guid>
+    <pubDate>Thu, 16 Jul 2026 14:51:06 GMT</pubDate>
+    <description><![CDATA[Castries, St Lucia Arrival (UTC) Jul 16, 13:19 — ET: Jul 16, 09:19 AM EDT | Local: Jul 16, 09:19 AM AST]]></description>
   </item>
   <item>
     <title>Disney Adventure Departed from Singapore, Singapore at Jul 16, 05:13 AM EDT. The local time to the port is Jul 16, 05:13 AM EDT</title>
@@ -3492,20 +3506,6 @@
     <guid isPermaLink="false">c659864afc4f625cf8e70b94f268672099b80b7a</guid>
     <pubDate>Tue, 19 May 2026 18:15:37 GMT</pubDate>
     <description><![CDATA[Civitavecchia, Italy Departure (UTC) May 19, 17:57 — ET: May 19, 01:57 PM EDT | Local: May 19, 07:57 PM CEST]]></description>
-  </item>
-  <item>
-    <title>Disney Wish Arrived at Nassau, Bahamas at May 19, 09:11 AM EDT. The local time to the port is May 19, 09:11 AM EDT</title>
-    <link>https://www.vesselfinder.com/ports/BSNAS001</link>
-    <guid isPermaLink="false">8d51202635b06850fd96aeeb1cbfbfcc22ef499a</guid>
-    <pubDate>Tue, 19 May 2026 15:59:48 GMT</pubDate>
-    <description><![CDATA[Nassau, Bahamas Arrival (UTC) May 19, 13:11 — ET: May 19, 09:11 AM EDT | Local: May 19, 09:11 AM EDT]]></description>
-  </item>
-  <item>
-    <title>Disney Dream Arrived at Civitavecchia, Italy at May 19, 12:10 AM EDT. The local time to the port is May 19, 06:10 AM CEST</title>
-    <link>https://www.vesselfinder.com/ports/ITCVV001</link>
-    <guid isPermaLink="false">fd1b0b851b14903db1876335e6eb770d0a6830e8</guid>
-    <pubDate>Tue, 19 May 2026 05:57:05 GMT</pubDate>
-    <description><![CDATA[Civitavecchia, Italy Arrival (UTC) May 19, 04:10 — ET: May 19, 12:10 AM EDT | Local: May 19, 06:10 AM CEST]]></description>
   </item>
 </channel>
 </rss>
