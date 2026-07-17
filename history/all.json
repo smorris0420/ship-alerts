@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Livorno, Italy at Jul 17, 02:00 PM EDT. The local time to the port is Jul 17, 08:00 PM CEST",
+    "description": "Livorno, Italy Departure (UTC) Jul 17, 18:00 — ET: Jul 17, 02:00 PM EDT | Local: Jul 17, 08:00 PM CEST",
+    "link": "https://www.vesselfinder.com/ports/ITLIV001",
+    "guid": "66b668089e46fc57339960dc0adef3f8e4ac514b",
+    "pubDate": "Fri, 17 Jul 2026 18:45:38 GMT",
+    "eventUtc": "2026-07-17T18:00:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Arrived at Juneau, United States (USA) at Jul 17, 10:05 AM EDT. The local time to the port is Jul 17, 10:05 AM EDT",
     "description": "Juneau, United States (USA) Arrival (UTC) Jul 17, 14:05 — ET: Jul 17, 10:05 AM EDT | Local: Jul 17, 10:05 AM EDT",
     "link": "https://www.vesselfinder.com/ports/USJNU001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-05-20T20:30:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Napoli, Italy at May 20, 01:24 PM EDT. The local time to the port is May 20, 07:24 PM CEST",
-    "description": "Napoli, Italy Departure (UTC) May 20, 17:24 — ET: May 20, 01:24 PM EDT | Local: May 20, 07:24 PM CEST",
-    "link": "https://www.vesselfinder.com/ports/ITNAP001",
-    "guid": "d24ec3f6439a6e219bcf0729bf6fa18b96e3ea13",
-    "pubDate": "Wed, 20 May 2026 18:25:25 GMT",
-    "eventUtc": "2026-05-20T17:24:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
     "source": "vf_ship"
   }
 ]

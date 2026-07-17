@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Livorno, Italy at Jul 17, 02:00 PM EDT. The local time to the port is Jul 17, 08:00 PM CEST",
+    "description": "Livorno, Italy Departure (UTC) Jul 17, 18:00 — ET: Jul 17, 02:00 PM EDT | Local: Jul 17, 08:00 PM CEST",
+    "link": "https://www.vesselfinder.com/ports/ITLIV001",
+    "guid": "66b668089e46fc57339960dc0adef3f8e4ac514b",
+    "pubDate": "Fri, 17 Jul 2026 18:45:38 GMT",
+    "eventUtc": "2026-07-17T18:00:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Arrived at Livorno, Italy at Jul 17, 01:13 AM EDT. The local time to the port is Jul 17, 07:13 AM CEST",
     "description": "Livorno, Italy Arrival (UTC) Jul 17, 05:13 — ET: Jul 17, 01:13 AM EDT | Local: Jul 17, 07:13 AM CEST",
     "link": "https://www.vesselfinder.com/ports/ITLIV001",
@@ -2734,17 +2745,6 @@
     "guid": "c45ca0c06cc04369067ce9c18d2ec744ea2180f8",
     "pubDate": "Fri, 09 Jan 2026 11:36:12 GMT",
     "eventUtc": "2026-01-09T10:50:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Gorda Cay, Bahamas at Jan 08, 05:10 PM EST. The local time to the port is Jan 08, 05:10 PM EST",
-    "description": "Gorda Cay, Bahamas Departure (UTC) Jan 8, 22:10 — ET: Jan 08, 05:10 PM EST | Local: Jan 08, 05:10 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "f5ded6a07b0d74c18397f901520f361b7e82cb6a",
-    "pubDate": "Thu, 08 Jan 2026 22:25:31 GMT",
-    "eventUtc": "2026-01-08T22:10:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
     "source": "vf_ship"
