@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Departed from Cape Canaveral, United States (USA) at Jul 17, 04:32 PM EDT. The local time to the port is Jul 17, 04:32 PM EDT",
+    "description": "Cape Canaveral, United States (USA) Departure (UTC) Jul 17, 20:32 — ET: Jul 17, 04:32 PM EDT | Local: Jul 17, 04:32 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "5dfc9d0651db1cfd93e7c309e839e8526cab690e",
+    "pubDate": "Fri, 17 Jul 2026 20:39:18 GMT",
+    "eventUtc": "2026-07-17T20:32:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Livorno, Italy at Jul 17, 02:00 PM EDT. The local time to the port is Jul 17, 08:00 PM CEST",
     "description": "Livorno, Italy Departure (UTC) Jul 17, 18:00 — ET: Jul 17, 02:00 PM EDT | Local: Jul 17, 08:00 PM CEST",
     "link": "https://www.vesselfinder.com/ports/ITLIV001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-05-20T20:53:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Departed from Cape Canaveral, United States (USA) at May 20, 04:30 PM EDT. The local time to the port is May 20, 04:30 PM EDT",
-    "description": "Cape Canaveral, United States (USA) Departure (UTC) May 20, 20:30 — ET: May 20, 04:30 PM EDT | Local: May 20, 04:30 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "557a9542cf96570b206302c4dcb1a2ad89bc0739",
-    "pubDate": "Wed, 20 May 2026 22:14:40 GMT",
-    "eventUtc": "2026-05-20T20:30:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
     "source": "vf_ship"
   }
 ]
