@@ -33,6 +33,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Vancouver, Canada at Jul 16, 07:55 PM EDT. The local time to the port is Jul 16, 04:55 PM PDT",
+    "description": "Vancouver, Canada Departure (UTC) Jul 16, 23:55 — ET: Jul 16, 07:55 PM EDT | Local: Jul 16, 04:55 PM PDT",
+    "link": "https://www.vesselfinder.com/ports/CAVAN001",
+    "guid": "af27131d53abc8b1c23c51ff567d07c982580fd4",
+    "pubDate": "Fri, 17 Jul 2026 01:14:02 GMT",
+    "eventUtc": "2026-07-16T23:55:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Arrived at Vancouver, Canada at Jul 16, 10:04 AM EDT. The local time to the port is Jul 16, 07:04 AM PDT",
     "description": "Vancouver, Canada Arrival (UTC) Jul 16, 14:04 — ET: Jul 16, 10:04 AM EDT | Local: Jul 16, 07:04 AM PDT",
     "link": "https://www.vesselfinder.com/ports/CAVAN001",
@@ -2734,17 +2745,6 @@
     "guid": "63b98f27b41398b1604d069257c42b9fc9019f3d",
     "pubDate": "Sun, 30 Nov 2025 23:28:19 GMT",
     "eventUtc": "2025-11-30T23:20:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Arrived at Cozumel, Mexico at Nov 30, 11:28 AM EST. The local time to the port is Nov 30, 11:28 AM EST",
-    "description": "Cozumel, Mexico Arrival (UTC) Nov 30, 16:28 — ET: Nov 30, 11:28 AM EST | Local: Nov 30, 11:28 AM EST",
-    "link": "https://www.vesselfinder.com/ports/MXCZM001",
-    "guid": "feb7f5bbe7095b0b70aae5a18f99ca5daceb843d",
-    "pubDate": "Sun, 30 Nov 2025 17:18:27 GMT",
-    "eventUtc": "2025-11-30T16:28:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
     "source": "vf_ship"
