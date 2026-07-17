@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Livorno, Italy at Jul 17, 01:13 AM EDT. The local time to the port is Jul 17, 07:13 AM CEST",
+    "description": "Livorno, Italy Arrival (UTC) Jul 17, 05:13 — ET: Jul 17, 01:13 AM EDT | Local: Jul 17, 07:13 AM CEST",
+    "link": "https://www.vesselfinder.com/ports/ITLIV001",
+    "guid": "f7271899e652e45cf2e5bb11917b450d4d379cb9",
+    "pubDate": "Fri, 17 Jul 2026 06:42:52 GMT",
+    "eventUtc": "2026-07-17T05:13:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Departed from Vancouver, Canada at Jul 16, 07:55 PM EDT. The local time to the port is Jul 16, 04:55 PM PDT",
     "description": "Vancouver, Canada Departure (UTC) Jul 16, 23:55 — ET: Jul 16, 07:55 PM EDT | Local: Jul 16, 04:55 PM PDT",
     "link": "https://www.vesselfinder.com/ports/CAVAN001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-05-20T04:23:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Ketchikan, United States (USA) at May 19, 11:55 PM EDT. The local time to the port is May 19, 11:55 PM EDT",
-    "description": "Ketchikan, United States (USA) Departure (UTC) May 20, 03:55 — ET: May 19, 11:55 PM EDT | Local: May 19, 11:55 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USKTN001",
-    "guid": "1b7683a09dbb827124ddd63925313122decd36cf",
-    "pubDate": "Wed, 20 May 2026 05:59:31 GMT",
-    "eventUtc": "2026-05-20T03:55:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]

@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Fri, 17 Jul 2026 04:32:16 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 17 Jul 2026 06:45:16 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,13 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Dream Arrived at Livorno, Italy at Jul 17, 01:13 AM EDT. The local time to the port is Jul 17, 07:13 AM CEST</title>
+    <link>https://www.vesselfinder.com/ports/ITLIV001</link>
+    <guid isPermaLink="false">f7271899e652e45cf2e5bb11917b450d4d379cb9</guid>
+    <pubDate>Fri, 17 Jul 2026 06:42:52 GMT</pubDate>
+    <description><![CDATA[Livorno, Italy Arrival (UTC) Jul 17, 05:13 — ET: Jul 17, 01:13 AM EDT | Local: Jul 17, 07:13 AM CEST]]></description>
   </item>
   <item>
     <title>Disney Magic Departed from Vancouver, Canada at Jul 16, 07:55 PM EDT. The local time to the port is Jul 16, 04:55 PM PDT</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">111145c73f870b32f62cc258d172ffd71faaa914</guid>
     <pubDate>Wed, 20 May 2026 05:59:44 GMT</pubDate>
     <description><![CDATA[Napoli, Italy Arrival (UTC) May 20, 04:23 — ET: May 20, 12:23 AM EDT | Local: May 20, 06:23 AM CEST]]></description>
-  </item>
-  <item>
-    <title>Disney Magic Departed from Ketchikan, United States (USA) at May 19, 11:55 PM EDT. The local time to the port is May 19, 11:55 PM EDT</title>
-    <link>https://www.vesselfinder.com/ports/USKTN001</link>
-    <guid isPermaLink="false">1b7683a09dbb827124ddd63925313122decd36cf</guid>
-    <pubDate>Wed, 20 May 2026 05:59:31 GMT</pubDate>
-    <description><![CDATA[Ketchikan, United States (USA) Departure (UTC) May 20, 03:55 — ET: May 19, 11:55 PM EDT | Local: May 19, 11:55 PM EDT]]></description>
   </item>
 </channel>
 </rss>
