@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Ajaccio, France at Jul 18, 03:06 AM EDT. The local time to the port is Jul 18, 09:06 AM CEST",
+    "description": "Ajaccio, France Arrival (UTC) Jul 18, 07:06 — ET: Jul 18, 03:06 AM EDT | Local: Jul 18, 09:06 AM CEST",
+    "link": "https://www.vesselfinder.com/ports/FRAJA001",
+    "guid": "c76cb52913f0c90f776c0b5344087de852c91f1f",
+    "pubDate": "Sat, 18 Jul 2026 08:10:27 GMT",
+    "eventUtc": "2026-07-18T07:06:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Departed from Juneau, United States (USA) at Jul 17, 09:23 PM EDT. The local time to the port is Jul 17, 09:23 PM EDT",
     "description": "Juneau, United States (USA) Departure (UTC) Jul 18, 01:23 — ET: Jul 17, 09:23 PM EDT | Local: Jul 17, 09:23 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USJNU001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-05-21T14:09:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Arrived at Nassau, Bahamas at May 21, 09:06 AM EDT. The local time to the port is May 21, 09:06 AM EDT",
-    "description": "Nassau, Bahamas Arrival (UTC) May 21, 13:06 — ET: May 21, 09:06 AM EDT | Local: May 21, 09:06 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "ae5f91737cc0b05b3a175b5c3725ae82504ec3fb",
-    "pubDate": "Thu, 21 May 2026 15:54:52 GMT",
-    "eventUtc": "2026-05-21T13:06:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
     "source": "vf_ship"
   }
 ]
