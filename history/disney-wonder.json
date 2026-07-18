@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Departed from Juneau, United States (USA) at Jul 17, 09:23 PM EDT. The local time to the port is Jul 17, 09:23 PM EDT",
+    "description": "Juneau, United States (USA) Departure (UTC) Jul 18, 01:23 — ET: Jul 17, 09:23 PM EDT | Local: Jul 17, 09:23 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USJNU001",
+    "guid": "a1dfe6a52cd9752deaa7642637487952718858b8",
+    "pubDate": "Sat, 18 Jul 2026 04:00:44 GMT",
+    "eventUtc": "2026-07-18T01:23:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Arrived at Juneau, United States (USA) at Jul 17, 10:05 AM EDT. The local time to the port is Jul 17, 10:05 AM EDT",
     "description": "Juneau, United States (USA) Arrival (UTC) Jul 17, 14:05 — ET: Jul 17, 10:05 AM EDT | Local: Jul 17, 10:05 AM EDT",
     "link": "https://www.vesselfinder.com/ports/USJNU001",
@@ -2733,17 +2744,6 @@
     "link": "https://www.vesselfinder.com/ports/NZAKL001",
     "guid": "075d30dc1a2d6d6346426970bbca539229589c6e",
     "pubDate": "Thu, 04 Dec 2025 09:46:51 GMT",
-    "eventUtc": "2025-12-04T09:22:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Departed from Unknown Port at Dec 04, 04:22 AM EST. The local time to the port is Dec 04, 04:22 AM EST",
-    "description": "Unknown Port Departure (UTC) Dec 4, 09:22 — ET: Dec 04, 04:22 AM EST | Local: Dec 04, 04:22 AM EST",
-    "link": "https://www.vesselfinder.com/vessels/details/9126819",
-    "guid": "e2009546de10362059921b72a655611e4e8a6d93",
-    "pubDate": "Fri, 05 Dec 2025 05:40:44 GMT",
     "eventUtc": "2025-12-04T09:22:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",

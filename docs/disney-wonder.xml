@@ -5,7 +5,7 @@
   <title>Disney Wonder - Arrivals &amp; Departures</title>
   <link>https://www.vesselfinder.com/vessels/details/9126819</link>
   <description>Disney Wonder - Arrivals &amp; Departures - Auto-generated</description>
-  <lastBuildDate>Sat, 18 Jul 2026 01:00:40 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 18 Jul 2026 04:00:46 GMT</lastBuildDate>
   
   <item>
     <title>Disney Wonder Departed from Hobart, Australia at Dec 31, 08:48 AM EST. The local time to the port is Jan 01, 12:48 AM AEDT</title>
@@ -20,6 +20,13 @@
     <guid isPermaLink="false">17aff6dc63c1d854034dba404a0bb7bbc9de0818</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:40 GMT</pubDate>
     <description><![CDATA[Hobart, Australia Arrival (UTC) Dec 30, 20:45 — ET: Dec 30, 03:45 PM EST | Local: Dec 31, 07:45 AM AEDT]]></description>
+  </item>
+  <item>
+    <title>Disney Wonder Departed from Juneau, United States (USA) at Jul 17, 09:23 PM EDT. The local time to the port is Jul 17, 09:23 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USJNU001</link>
+    <guid isPermaLink="false">a1dfe6a52cd9752deaa7642637487952718858b8</guid>
+    <pubDate>Sat, 18 Jul 2026 04:00:44 GMT</pubDate>
+    <description><![CDATA[Juneau, United States (USA) Departure (UTC) Jul 18, 01:23 — ET: Jul 17, 09:23 PM EDT | Local: Jul 17, 09:23 PM EDT]]></description>
   </item>
   <item>
     <title>Disney Wonder Arrived at Juneau, United States (USA) at Jul 17, 10:05 AM EDT. The local time to the port is Jul 17, 10:05 AM EDT</title>
@@ -1749,13 +1756,6 @@
     <guid isPermaLink="false">075d30dc1a2d6d6346426970bbca539229589c6e</guid>
     <pubDate>Thu, 04 Dec 2025 09:46:51 GMT</pubDate>
     <description><![CDATA[Auckland, New Zealand Departure (UTC) Dec 4, 09:22 — ET: Dec 04, 04:22 AM EST | Local: Dec 04, 10:22 PM NZDT]]></description>
-  </item>
-  <item>
-    <title>Disney Wonder Departed from Unknown Port at Dec 04, 04:22 AM EST. The local time to the port is Dec 04, 04:22 AM EST</title>
-    <link>https://www.vesselfinder.com/vessels/details/9126819</link>
-    <guid isPermaLink="false">e2009546de10362059921b72a655611e4e8a6d93</guid>
-    <pubDate>Fri, 05 Dec 2025 05:40:44 GMT</pubDate>
-    <description><![CDATA[Unknown Port Departure (UTC) Dec 4, 09:22 — ET: Dec 04, 04:22 AM EST | Local: Dec 04, 04:22 AM EST]]></description>
   </item>
 </channel>
 </rss>

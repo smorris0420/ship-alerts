@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Departed from Juneau, United States (USA) at Jul 17, 09:23 PM EDT. The local time to the port is Jul 17, 09:23 PM EDT",
+    "description": "Juneau, United States (USA) Departure (UTC) Jul 18, 01:23 — ET: Jul 17, 09:23 PM EDT | Local: Jul 17, 09:23 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USJNU001",
+    "guid": "a1dfe6a52cd9752deaa7642637487952718858b8",
+    "pubDate": "Sat, 18 Jul 2026 04:00:44 GMT",
+    "eventUtc": "2026-07-18T01:23:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Departed from St Johns, Antigua & Barbuda at Jul 17, 05:22 PM EDT. The local time to the port is Jul 17, 05:22 PM AST",
     "description": "St Johns, Antigua & Barbuda Departure (UTC) Jul 17, 21:22 — ET: Jul 17, 05:22 PM EDT | Local: Jul 17, 05:22 PM AST",
     "link": "https://www.vesselfinder.com/ports/AGSJO001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-05-21T07:52:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Departed from Nassau, Bahamas at May 20, 06:04 PM EDT. The local time to the port is May 20, 06:04 PM EDT",
-    "description": "Nassau, Bahamas Departure (UTC) May 20, 22:04 — ET: May 20, 06:04 PM EDT | Local: May 20, 06:04 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "051d4e8c302aaa84a7fd2366f7e171a5362e63d5",
-    "pubDate": "Wed, 20 May 2026 22:17:20 GMT",
-    "eventUtc": "2026-05-20T22:04:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
     "source": "vf_ship"
   }
 ]
