@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Departed from Nassau, Bahamas at Jul 18, 06:16 PM EDT. The local time to the port is Jul 18, 06:16 PM EDT",
+    "description": "Nassau, Bahamas Departure (UTC) Jul 18, 22:16 — ET: Jul 18, 06:16 PM EDT | Local: Jul 18, 06:16 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "120a7c1257e3d41667a89249dd68e3c6b34118e3",
+    "pubDate": "Sat, 18 Jul 2026 23:09:47 GMT",
+    "eventUtc": "2026-07-18T22:16:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Departed from Port Everglades, United States (USA) at Jul 18, 04:21 PM EDT. The local time to the port is Jul 18, 04:21 PM EDT",
     "description": "Port Everglades, United States (USA) Departure (UTC) Jul 18, 20:21 — ET: Jul 18, 04:21 PM EDT | Local: Jul 18, 04:21 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USPEF001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-05-22T09:39:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Vancouver, Canada at May 21, 07:19 PM EDT. The local time to the port is May 21, 04:19 PM PDT",
-    "description": "Vancouver, Canada Departure (UTC) May 21, 23:19 — ET: May 21, 07:19 PM EDT | Local: May 21, 04:19 PM PDT",
-    "link": "https://www.vesselfinder.com/ports/CAVAN001",
-    "guid": "dd76fb25aa3a5ae7fb3ab6fec24dfea1c807997f",
-    "pubDate": "Thu, 21 May 2026 23:45:45 GMT",
-    "eventUtc": "2026-05-21T23:19:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
