@@ -429,6 +429,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Departed from Nassau, Bahamas at Jul 15, 05:44 PM EDT. The local time to the port is Jul 15, 05:44 PM EDT",
+    "description": "Nassau, Bahamas Departure (UTC) Jul 15, 21:44 — ET: Jul 15, 05:44 PM EDT | Local: Jul 15, 05:44 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "71fd54879fcba39a040a825d25ee731b80798422",
+    "pubDate": "Sat, 18 Jul 2026 06:14:08 GMT",
+    "eventUtc": "2026-07-15T21:44:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Arrived at Singapore, Singapore at Jul 15, 05:12 PM EDT. The local time to the port is Jul 15, 05:12 PM EDT",
     "description": "Singapore, Singapore Arrival (UTC) Jul 15, 21:12 — ET: Jul 15, 05:12 PM EDT | Local: Jul 15, 05:12 PM EDT",
     "link": "https://www.vesselfinder.com/ports/SGSIN001",
@@ -470,6 +481,17 @@
     "eventUtc": "2026-07-15T13:26:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Destiny Arrived at Nassau, Bahamas at Jul 15, 07:35 AM EDT. The local time to the port is Jul 15, 07:35 AM EDT",
+    "description": "Nassau, Bahamas Arrival (UTC) Jul 15, 11:35 — ET: Jul 15, 07:35 AM EDT | Local: Jul 15, 07:35 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "ca140f4be65aae2209c1c39c075e2b3be5426c26",
+    "pubDate": "Sat, 18 Jul 2026 06:14:06 GMT",
+    "eventUtc": "2026-07-15T11:35:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
     "source": "vf_ship"
   },
   {
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-05-21T13:06:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Adventure Departed from Singapore, Singapore at May 21, 05:03 AM EDT. The local time to the port is May 21, 05:03 AM EDT",
-    "description": "Singapore, Singapore Departure (UTC) May 21, 09:03 — ET: May 21, 05:03 AM EDT | Local: May 21, 05:03 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/SGSIN001",
-    "guid": "5043e7e4af02254ed750b14a0cf6f9022298ea27",
-    "pubDate": "Thu, 21 May 2026 12:20:11 GMT",
-    "eventUtc": "2026-05-21T09:03:00+00:00",
-    "shipSlug": "disney-adventure",
-    "shipName": "Disney Adventure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Arrived at Cagliari, Italy at May 21, 03:52 AM EDT. The local time to the port is May 21, 09:52 AM CEST",
-    "description": "Cagliari, Italy Arrival (UTC) May 21, 07:52 — ET: May 21, 03:52 AM EDT | Local: May 21, 09:52 AM CEST",
-    "link": "https://www.vesselfinder.com/ports/ITCAG001",
-    "guid": "eb4f690692812e123b9b016541a608aa555fc12a",
-    "pubDate": "Thu, 21 May 2026 12:19:10 GMT",
-    "eventUtc": "2026-05-21T07:52:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
     "source": "vf_ship"
   }
 ]

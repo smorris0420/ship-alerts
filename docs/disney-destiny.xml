@@ -5,7 +5,7 @@
   <title>Disney Destiny - Arrivals &amp; Departures</title>
   <link>https://www.vesselfinder.com/vessels/details/9834741</link>
   <description>Disney Destiny - Arrivals &amp; Departures - Auto-generated</description>
-  <lastBuildDate>Sat, 18 Jul 2026 04:02:16 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 18 Jul 2026 06:14:42 GMT</lastBuildDate>
   
   <item>
     <title>Disney Destiny Departed from Port Everglades, United States (USA) at Dec 30, 04:22 PM EST. The local time to the port is Dec 30, 04:22 PM EST</title>
@@ -20,6 +20,20 @@
     <guid isPermaLink="false">5860149e96892fc0e11adacb796749937ec68385</guid>
     <pubDate>Thu, 01 Jan 2026 00:02:09 GMT</pubDate>
     <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) Dec 30, 10:47 — ET: Dec 30, 05:47 AM EST | Local: Dec 30, 05:47 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Destiny Departed from Nassau, Bahamas at Jul 15, 05:44 PM EDT. The local time to the port is Jul 15, 05:44 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/BSNAS001</link>
+    <guid isPermaLink="false">71fd54879fcba39a040a825d25ee731b80798422</guid>
+    <pubDate>Sat, 18 Jul 2026 06:14:08 GMT</pubDate>
+    <description><![CDATA[Nassau, Bahamas Departure (UTC) Jul 15, 21:44 — ET: Jul 15, 05:44 PM EDT | Local: Jul 15, 05:44 PM EDT]]></description>
+  </item>
+  <item>
+    <title>Disney Destiny Arrived at Nassau, Bahamas at Jul 15, 07:35 AM EDT. The local time to the port is Jul 15, 07:35 AM EDT</title>
+    <link>https://www.vesselfinder.com/ports/BSNAS001</link>
+    <guid isPermaLink="false">ca140f4be65aae2209c1c39c075e2b3be5426c26</guid>
+    <pubDate>Sat, 18 Jul 2026 06:14:06 GMT</pubDate>
+    <description><![CDATA[Nassau, Bahamas Arrival (UTC) Jul 15, 11:35 — ET: Jul 15, 07:35 AM EDT | Local: Jul 15, 07:35 AM EDT]]></description>
   </item>
   <item>
     <title>Disney Destiny Departed from Port Everglades, United States (USA) at Jul 13, 04:25 PM EDT. The local time to the port is Jul 13, 04:25 PM EDT</title>
@@ -1742,20 +1756,6 @@
     <guid isPermaLink="false">c785d0db257b08d1056a46a8b60609f44d8d5151</guid>
     <pubDate>Tue, 02 Dec 2025 20:52:09 GMT</pubDate>
     <description><![CDATA[Port Everglades, United States (USA) Departure (UTC) Dec 03, 14:30 — ET: Dec 03, 09:30 AM EST | Local: Dec 03, 09:30 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Destiny Arrived at Port Everglades, United States (USA) at Dec 03, 09:30 AM EST. The local time to the port is Dec 03, 09:30 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/USPEF001</link>
-    <guid isPermaLink="false">50f6bdd810bdd9d14216ff5621edca72e6610089</guid>
-    <pubDate>Tue, 02 Dec 2025 20:52:10 GMT</pubDate>
-    <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) Dec 03, 14:30 — ET: Dec 03, 09:30 AM EST | Local: Dec 03, 09:30 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Destiny Arrived at Port Everglades, United States (USA) at Dec 03, 05:08 AM EST. The local time to the port is Dec 03, 05:08 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/USPEF001</link>
-    <guid isPermaLink="false">25ff9aaff5313eb2c93e66be5cb87c93d57cc844</guid>
-    <pubDate>Wed, 03 Dec 2025 10:52:17 GMT</pubDate>
-    <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) Dec 3, 10:08 — ET: Dec 03, 05:08 AM EST | Local: Dec 03, 05:08 AM EST]]></description>
   </item>
 </channel>
 </rss>
