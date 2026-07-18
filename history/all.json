@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Departed from Port Everglades, United States (USA) at Jul 18, 04:21 PM EDT. The local time to the port is Jul 18, 04:21 PM EDT",
+    "description": "Port Everglades, United States (USA) Departure (UTC) Jul 18, 20:21 — ET: Jul 18, 04:21 PM EDT | Local: Jul 18, 04:21 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPEF001",
+    "guid": "2aefef777860e68a088c2bde70969156482b5e94",
+    "pubDate": "Sat, 18 Jul 2026 20:29:24 GMT",
+    "eventUtc": "2026-07-18T20:21:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Ajaccio, France at Jul 18, 01:30 PM EDT. The local time to the port is Jul 18, 07:30 PM CEST",
     "description": "Ajaccio, France Departure (UTC) Jul 18, 17:30 — ET: Jul 18, 01:30 PM EDT | Local: Jul 18, 07:30 PM CEST",
     "link": "https://www.vesselfinder.com/ports/FRAJA001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-05-21T23:19:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Departed from Nassau, Bahamas at May 21, 06:13 PM EDT. The local time to the port is May 21, 06:13 PM EDT",
-    "description": "Nassau, Bahamas Departure (UTC) May 21, 22:13 — ET: May 21, 06:13 PM EDT | Local: May 21, 06:13 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "35c8f440dd52b0fa10a57c9bfea66121b7923f35",
-    "pubDate": "Thu, 21 May 2026 22:47:14 GMT",
-    "eventUtc": "2026-05-21T22:13:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
     "source": "vf_ship"
   }
 ]
