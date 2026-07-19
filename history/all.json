@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Adventure Arrived at Singapore, Singapore at Jul 19, 05:10 PM EDT. The local time to the port is Jul 19, 05:10 PM EDT",
+    "description": "Singapore, Singapore Arrival (UTC) Jul 19, 21:10 — ET: Jul 19, 05:10 PM EDT | Local: Jul 19, 05:10 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/SGSIN001",
+    "guid": "21c420a0d2f543111991d91d46e4f013a5c47122",
+    "pubDate": "Sun, 19 Jul 2026 22:30:45 GMT",
+    "eventUtc": "2026-07-19T21:10:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Departed from Ketchikan, United States (USA) at Jul 18, 11:10 PM EDT. The local time to the port is Jul 18, 11:10 PM EDT",
     "description": "Ketchikan, United States (USA) Departure (UTC) Jul 19, 03:10 — ET: Jul 18, 11:10 PM EDT | Local: Jul 18, 11:10 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USKTN001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-05-22T20:30:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Departed from Nassau, Bahamas at May 22, 08:53 AM EDT. The local time to the port is May 22, 08:53 AM EDT",
-    "description": "Nassau, Bahamas Departure (UTC) May 22, 12:53 — ET: May 22, 08:53 AM EDT | Local: May 22, 08:53 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "6d47d316f637da9f157d52ddde0bf1318dc4d13a",
-    "pubDate": "Fri, 22 May 2026 14:07:46 GMT",
-    "eventUtc": "2026-05-22T12:53:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
     "source": "vf_ship"
   }
 ]
