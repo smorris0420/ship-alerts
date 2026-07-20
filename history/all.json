@@ -209,6 +209,39 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Arrived at Cape Canaveral, United States (USA) at Jul 20, 05:58 AM EDT. The local time to the port is Jul 20, 05:58 AM EDT",
+    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Jul 20, 09:58 — ET: Jul 20, 05:58 AM EDT | Local: Jul 20, 05:58 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "aa89c36405e748e44c31d785d0c3e463dbead843",
+    "pubDate": "Mon, 20 Jul 2026 10:35:35 GMT",
+    "eventUtc": "2026-07-20T09:58:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Adventure Departed from Singapore, Singapore at Jul 20, 05:49 AM EDT. The local time to the port is Jul 20, 05:49 AM EDT",
+    "description": "Singapore, Singapore Departure (UTC) Jul 20, 09:49 — ET: Jul 20, 05:49 AM EDT | Local: Jul 20, 05:49 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/SGSIN001",
+    "guid": "9ad3e1bb8ff6b5842cb35a210159a2ac648770f5",
+    "pubDate": "Mon, 20 Jul 2026 10:39:34 GMT",
+    "eventUtc": "2026-07-20T09:49:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Destiny Arrived at Cozumel, Mexico at Jul 20, 05:08 AM EDT. The local time to the port is Jul 20, 04:08 AM EST",
+    "description": "Cozumel, Mexico Arrival (UTC) Jul 20, 09:08 — ET: Jul 20, 05:08 AM EDT | Local: Jul 20, 04:08 AM EST",
+    "link": "https://www.vesselfinder.com/ports/MXCZM001",
+    "guid": "71586a6b977c4afef61396612b195c9260e94864",
+    "pubDate": "Mon, 20 Jul 2026 10:39:48 GMT",
+    "eventUtc": "2026-07-20T09:08:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Arrived at Barcelona, Spain at Jul 20, 01:25 AM EDT. The local time to the port is Jul 20, 07:25 AM CEST",
     "description": "Barcelona, Spain Arrival (UTC) Jul 20, 05:25 — ET: Jul 20, 01:25 AM EDT | Local: Jul 20, 07:25 AM CEST",
     "link": "https://www.vesselfinder.com/ports/ESBCN001",
@@ -5464,39 +5497,6 @@
     "eventUtc": "2026-05-23T20:15:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Arrived at Ketchikan, United States (USA) at May 23, 01:20 PM EDT. The local time to the port is May 23, 01:20 PM EDT",
-    "description": "Ketchikan, United States (USA) Arrival (UTC) May 23, 17:20 — ET: May 23, 01:20 PM EDT | Local: May 23, 01:20 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USKTN001",
-    "guid": "811473220434837f6317f61e98407ff413f980d4",
-    "pubDate": "Sun, 24 May 2026 05:48:37 GMT",
-    "eventUtc": "2026-05-23T17:20:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Barcelona, Spain at May 23, 12:10 PM EDT. The local time to the port is May 23, 06:10 PM CEST",
-    "description": "Barcelona, Spain Departure (UTC) May 23, 16:10 — ET: May 23, 12:10 PM EDT | Local: May 23, 06:10 PM CEST",
-    "link": "https://www.vesselfinder.com/ports/ESBCN001",
-    "guid": "de97ee05c86356bc8d97a58d3285aeef66e73ae2",
-    "pubDate": "Sat, 23 May 2026 17:31:50 GMT",
-    "eventUtc": "2026-05-23T16:10:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Arrived at Nassau, Bahamas at May 23, 09:01 AM EDT. The local time to the port is May 23, 09:01 AM EDT",
-    "description": "Nassau, Bahamas Arrival (UTC) May 23, 13:01 — ET: May 23, 09:01 AM EDT | Local: May 23, 09:01 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "d7012c896d4c28f3eeef9504aacade8de690fc6a",
-    "pubDate": "Sat, 23 May 2026 14:00:08 GMT",
-    "eventUtc": "2026-05-23T13:01:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
     "source": "vf_ship"
   }
 ]

@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Arrived at Cozumel, Mexico at Jul 20, 05:08 AM EDT. The local time to the port is Jul 20, 04:08 AM EST",
+    "description": "Cozumel, Mexico Arrival (UTC) Jul 20, 09:08 — ET: Jul 20, 05:08 AM EDT | Local: Jul 20, 04:08 AM EST",
+    "link": "https://www.vesselfinder.com/ports/MXCZM001",
+    "guid": "71586a6b977c4afef61396612b195c9260e94864",
+    "pubDate": "Mon, 20 Jul 2026 10:39:48 GMT",
+    "eventUtc": "2026-07-20T09:08:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Departed from Port Everglades, United States (USA) at Jul 18, 04:21 PM EDT. The local time to the port is Jul 18, 04:21 PM EDT",
     "description": "Port Everglades, United States (USA) Departure (UTC) Jul 18, 20:21 — ET: Jul 18, 04:21 PM EDT | Local: Jul 18, 04:21 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USPEF001",
@@ -2733,17 +2744,6 @@
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
     "guid": "5b983f039d8b4cbfaebbf0d0d1c7e7d5e15b0960",
     "pubDate": "Thu, 04 Dec 2025 13:31:06 GMT",
-    "eventUtc": "2025-12-04T12:25:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Arrived at Unknown Port at Dec 04, 07:25 AM EST. The local time to the port is Dec 04, 07:25 AM EST",
-    "description": "Unknown Port Arrival (UTC) Dec 4, 12:25 — ET: Dec 04, 07:25 AM EST | Local: Dec 04, 07:25 AM EST",
-    "link": "https://www.vesselfinder.com/vessels/details/9834741",
-    "guid": "37b38e010cba1fbc8b0e1734a4628f28a4957f81",
-    "pubDate": "Fri, 05 Dec 2025 05:43:47 GMT",
     "eventUtc": "2025-12-04T12:25:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",

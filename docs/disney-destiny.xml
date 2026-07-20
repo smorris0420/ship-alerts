@@ -5,7 +5,7 @@
   <title>Disney Destiny - Arrivals &amp; Departures</title>
   <link>https://www.vesselfinder.com/vessels/details/9834741</link>
   <description>Disney Destiny - Arrivals &amp; Departures - Auto-generated</description>
-  <lastBuildDate>Mon, 20 Jul 2026 07:53:14 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 20 Jul 2026 10:39:50 GMT</lastBuildDate>
   
   <item>
     <title>Disney Destiny Departed from Port Everglades, United States (USA) at Dec 30, 04:22 PM EST. The local time to the port is Dec 30, 04:22 PM EST</title>
@@ -20,6 +20,13 @@
     <guid isPermaLink="false">5860149e96892fc0e11adacb796749937ec68385</guid>
     <pubDate>Thu, 01 Jan 2026 00:02:09 GMT</pubDate>
     <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) Dec 30, 10:47 — ET: Dec 30, 05:47 AM EST | Local: Dec 30, 05:47 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Destiny Arrived at Cozumel, Mexico at Jul 20, 05:08 AM EDT. The local time to the port is Jul 20, 04:08 AM EST</title>
+    <link>https://www.vesselfinder.com/ports/MXCZM001</link>
+    <guid isPermaLink="false">71586a6b977c4afef61396612b195c9260e94864</guid>
+    <pubDate>Mon, 20 Jul 2026 10:39:48 GMT</pubDate>
+    <description><![CDATA[Cozumel, Mexico Arrival (UTC) Jul 20, 09:08 — ET: Jul 20, 05:08 AM EDT | Local: Jul 20, 04:08 AM EST]]></description>
   </item>
   <item>
     <title>Disney Destiny Departed from Port Everglades, United States (USA) at Jul 18, 04:21 PM EDT. The local time to the port is Jul 18, 04:21 PM EDT</title>
@@ -1749,13 +1756,6 @@
     <guid isPermaLink="false">5b983f039d8b4cbfaebbf0d0d1c7e7d5e15b0960</guid>
     <pubDate>Thu, 04 Dec 2025 13:31:06 GMT</pubDate>
     <description><![CDATA[Nassau, Bahamas Arrival (UTC) Dec 4, 12:25 — ET: Dec 04, 07:25 AM EST | Local: Dec 04, 07:25 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Destiny Arrived at Unknown Port at Dec 04, 07:25 AM EST. The local time to the port is Dec 04, 07:25 AM EST</title>
-    <link>https://www.vesselfinder.com/vessels/details/9834741</link>
-    <guid isPermaLink="false">37b38e010cba1fbc8b0e1734a4628f28a4957f81</guid>
-    <pubDate>Fri, 05 Dec 2025 05:43:47 GMT</pubDate>
-    <description><![CDATA[Unknown Port Arrival (UTC) Dec 4, 12:25 — ET: Dec 04, 07:25 AM EST | Local: Dec 04, 07:25 AM EST]]></description>
   </item>
 </channel>
 </rss>
