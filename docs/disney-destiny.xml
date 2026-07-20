@@ -5,7 +5,7 @@
   <title>Disney Destiny - Arrivals &amp; Departures</title>
   <link>https://www.vesselfinder.com/vessels/details/9834741</link>
   <description>Disney Destiny - Arrivals &amp; Departures - Auto-generated</description>
-  <lastBuildDate>Mon, 20 Jul 2026 22:38:06 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 20 Jul 2026 23:39:28 GMT</lastBuildDate>
   
   <item>
     <title>Disney Destiny Departed from Port Everglades, United States (USA) at Dec 30, 04:22 PM EST. The local time to the port is Dec 30, 04:22 PM EST</title>
@@ -20,6 +20,13 @@
     <guid isPermaLink="false">5860149e96892fc0e11adacb796749937ec68385</guid>
     <pubDate>Thu, 01 Jan 2026 00:02:09 GMT</pubDate>
     <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) Dec 30, 10:47 — ET: Dec 30, 05:47 AM EST | Local: Dec 30, 05:47 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Destiny Departed from Cozumel, Mexico at Jul 20, 06:39 PM EDT. The local time to the port is Jul 20, 05:39 PM EST</title>
+    <link>https://www.vesselfinder.com/ports/MXCZM001</link>
+    <guid isPermaLink="false">754ce0a9595df2ffc16a966b8b7afe92d1fe00b1</guid>
+    <pubDate>Mon, 20 Jul 2026 23:39:27 GMT</pubDate>
+    <description><![CDATA[Cozumel, Mexico Departure (UTC) Jul 20, 22:39 — ET: Jul 20, 06:39 PM EDT | Local: Jul 20, 05:39 PM EST]]></description>
   </item>
   <item>
     <title>Disney Destiny Arrived at Cozumel, Mexico at Jul 20, 05:08 AM EDT. The local time to the port is Jul 20, 04:08 AM EST</title>
@@ -1749,13 +1756,6 @@
     <guid isPermaLink="false">b8e89b8832077931cf2636313557bc56a87b6641</guid>
     <pubDate>Fri, 05 Dec 2025 05:43:49 GMT</pubDate>
     <description><![CDATA[Unknown Port Departure (UTC) Dec 4, 22:55 — ET: Dec 04, 05:55 PM EST | Local: Dec 04, 05:55 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Destiny Arrived at Nassau, Bahamas at Dec 04, 07:25 AM EST. The local time to the port is Dec 04, 07:25 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/BSNAS001</link>
-    <guid isPermaLink="false">5b983f039d8b4cbfaebbf0d0d1c7e7d5e15b0960</guid>
-    <pubDate>Thu, 04 Dec 2025 13:31:06 GMT</pubDate>
-    <description><![CDATA[Nassau, Bahamas Arrival (UTC) Dec 4, 12:25 — ET: Dec 04, 07:25 AM EST | Local: Dec 04, 07:25 AM EST]]></description>
   </item>
 </channel>
 </rss>

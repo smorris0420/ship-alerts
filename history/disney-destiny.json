@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Departed from Cozumel, Mexico at Jul 20, 06:39 PM EDT. The local time to the port is Jul 20, 05:39 PM EST",
+    "description": "Cozumel, Mexico Departure (UTC) Jul 20, 22:39 — ET: Jul 20, 06:39 PM EDT | Local: Jul 20, 05:39 PM EST",
+    "link": "https://www.vesselfinder.com/ports/MXCZM001",
+    "guid": "754ce0a9595df2ffc16a966b8b7afe92d1fe00b1",
+    "pubDate": "Mon, 20 Jul 2026 23:39:27 GMT",
+    "eventUtc": "2026-07-20T22:39:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Arrived at Cozumel, Mexico at Jul 20, 05:08 AM EDT. The local time to the port is Jul 20, 04:08 AM EST",
     "description": "Cozumel, Mexico Arrival (UTC) Jul 20, 09:08 — ET: Jul 20, 05:08 AM EDT | Local: Jul 20, 04:08 AM EST",
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
@@ -2734,17 +2745,6 @@
     "guid": "b8e89b8832077931cf2636313557bc56a87b6641",
     "pubDate": "Fri, 05 Dec 2025 05:43:49 GMT",
     "eventUtc": "2025-12-04T22:55:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Arrived at Nassau, Bahamas at Dec 04, 07:25 AM EST. The local time to the port is Dec 04, 07:25 AM EST",
-    "description": "Nassau, Bahamas Arrival (UTC) Dec 4, 12:25 — ET: Dec 04, 07:25 AM EST | Local: Dec 04, 07:25 AM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "5b983f039d8b4cbfaebbf0d0d1c7e7d5e15b0960",
-    "pubDate": "Thu, 04 Dec 2025 13:31:06 GMT",
-    "eventUtc": "2025-12-04T12:25:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
     "source": "vf_ship"

@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Mon, 20 Jul 2026 22:38:06 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 20 Jul 2026 23:39:28 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,20 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Wonder Departed from Vancouver, Canada at Jul 20, 06:57 PM EDT. The local time to the port is Jul 20, 03:57 PM PDT</title>
+    <link>https://www.vesselfinder.com/ports/CAVAN001</link>
+    <guid isPermaLink="false">34fc0529200692a91230021fa64ed18cc9d14083</guid>
+    <pubDate>Mon, 20 Jul 2026 23:38:32 GMT</pubDate>
+    <description><![CDATA[Vancouver, Canada Departure (UTC) Jul 20, 22:57 — ET: Jul 20, 06:57 PM EDT | Local: Jul 20, 03:57 PM PDT]]></description>
+  </item>
+  <item>
+    <title>Disney Destiny Departed from Cozumel, Mexico at Jul 20, 06:39 PM EDT. The local time to the port is Jul 20, 05:39 PM EST</title>
+    <link>https://www.vesselfinder.com/ports/MXCZM001</link>
+    <guid isPermaLink="false">754ce0a9595df2ffc16a966b8b7afe92d1fe00b1</guid>
+    <pubDate>Mon, 20 Jul 2026 23:39:27 GMT</pubDate>
+    <description><![CDATA[Cozumel, Mexico Departure (UTC) Jul 20, 22:39 — ET: Jul 20, 06:39 PM EDT | Local: Jul 20, 05:39 PM EST]]></description>
   </item>
   <item>
     <title>Disney Wish Departed from Cape Canaveral, United States (USA) at Jul 20, 04:18 PM EDT. The local time to the port is Jul 20, 04:18 PM EDT</title>
@@ -3492,20 +3506,6 @@
     <guid isPermaLink="false">92e90d7a65ba8cb4b3a35043a21749fb6a402d10</guid>
     <pubDate>Sun, 24 May 2026 10:10:59 GMT</pubDate>
     <description><![CDATA[Cape Canaveral, United States (USA) Arrival (UTC) May 24, 08:21 — ET: May 24, 04:21 AM EDT | Local: May 24, 04:21 AM EDT]]></description>
-  </item>
-  <item>
-    <title>Disney Destiny Departed from Miami, United States (USA) at May 23, 11:53 PM EDT. The local time to the port is May 23, 11:53 PM EDT</title>
-    <link>https://www.vesselfinder.com/ports/USMIA001</link>
-    <guid isPermaLink="false">850ccfc245f7731d537b29cc9ccec541d833e675</guid>
-    <pubDate>Sun, 24 May 2026 05:49:33 GMT</pubDate>
-    <description><![CDATA[Miami, United States (USA) Departure (UTC) May 24, 03:53 — ET: May 23, 11:53 PM EDT | Local: May 23, 11:53 PM EDT]]></description>
-  </item>
-  <item>
-    <title>Disney Destiny Arrived at Miami, United States (USA) at May 23, 10:36 PM EDT. The local time to the port is May 23, 10:36 PM EDT</title>
-    <link>https://www.vesselfinder.com/ports/USMIA001</link>
-    <guid isPermaLink="false">4207acd66041940ecee419e8093c8866f8c99884</guid>
-    <pubDate>Sun, 24 May 2026 05:49:32 GMT</pubDate>
-    <description><![CDATA[Miami, United States (USA) Arrival (UTC) May 24, 02:36 — ET: May 23, 10:36 PM EDT | Local: May 23, 10:36 PM EDT]]></description>
   </item>
 </channel>
 </rss>

@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Departed from Vancouver, Canada at Jul 20, 06:57 PM EDT. The local time to the port is Jul 20, 03:57 PM PDT",
+    "description": "Vancouver, Canada Departure (UTC) Jul 20, 22:57 — ET: Jul 20, 06:57 PM EDT | Local: Jul 20, 03:57 PM PDT",
+    "link": "https://www.vesselfinder.com/ports/CAVAN001",
+    "guid": "34fc0529200692a91230021fa64ed18cc9d14083",
+    "pubDate": "Mon, 20 Jul 2026 23:38:32 GMT",
+    "eventUtc": "2026-07-20T22:57:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Destiny Departed from Cozumel, Mexico at Jul 20, 06:39 PM EDT. The local time to the port is Jul 20, 05:39 PM EST",
+    "description": "Cozumel, Mexico Departure (UTC) Jul 20, 22:39 — ET: Jul 20, 06:39 PM EDT | Local: Jul 20, 05:39 PM EST",
+    "link": "https://www.vesselfinder.com/ports/MXCZM001",
+    "guid": "754ce0a9595df2ffc16a966b8b7afe92d1fe00b1",
+    "pubDate": "Mon, 20 Jul 2026 23:39:27 GMT",
+    "eventUtc": "2026-07-20T22:39:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Departed from Cape Canaveral, United States (USA) at Jul 20, 04:18 PM EDT. The local time to the port is Jul 20, 04:18 PM EDT",
     "description": "Cape Canaveral, United States (USA) Departure (UTC) Jul 20, 20:18 — ET: Jul 20, 04:18 PM EDT | Local: Jul 20, 04:18 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-05-24T08:21:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Departed from Miami, United States (USA) at May 23, 11:53 PM EDT. The local time to the port is May 23, 11:53 PM EDT",
-    "description": "Miami, United States (USA) Departure (UTC) May 24, 03:53 — ET: May 23, 11:53 PM EDT | Local: May 23, 11:53 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USMIA001",
-    "guid": "850ccfc245f7731d537b29cc9ccec541d833e675",
-    "pubDate": "Sun, 24 May 2026 05:49:33 GMT",
-    "eventUtc": "2026-05-24T03:53:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Arrived at Miami, United States (USA) at May 23, 10:36 PM EDT. The local time to the port is May 23, 10:36 PM EDT",
-    "description": "Miami, United States (USA) Arrival (UTC) May 24, 02:36 — ET: May 23, 10:36 PM EDT | Local: May 23, 10:36 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USMIA001",
-    "guid": "4207acd66041940ecee419e8093c8866f8c99884",
-    "pubDate": "Sun, 24 May 2026 05:49:32 GMT",
-    "eventUtc": "2026-05-24T02:36:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
     "source": "vf_ship"
   }
 ]
