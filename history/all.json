@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Arrived at Road Town, Tortola, British Virgin Islands at Jul 21, 07:04 AM EDT. The local time to the port is Jul 21, 07:04 AM AST",
+    "description": "Road Town, Tortola, British Virgin Islands Arrival (UTC) Jul 21, 11:04 — ET: Jul 21, 07:04 AM EDT | Local: Jul 21, 07:04 AM AST",
+    "link": "https://www.vesselfinder.com/ports/VGRAD001",
+    "guid": "55e7f062700c0e8cddb6ddbd95eb5897f3fcc123",
+    "pubDate": "Tue, 21 Jul 2026 12:58:50 GMT",
+    "eventUtc": "2026-07-21T11:04:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Departed from Hoonah, United States (USA) at Jul 20, 08:13 PM EDT. The local time to the port is Jul 20, 08:13 PM EDT",
     "description": "Hoonah, United States (USA) Departure (UTC) Jul 21, 00:13 — ET: Jul 20, 08:13 PM EDT | Local: Jul 20, 08:13 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USHNH001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-05-24T20:25:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Arrived at Gorda Cay, Bahamas at May 24, 07:36 AM EDT. The local time to the port is May 24, 07:36 AM EDT",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) May 24, 11:36 — ET: May 24, 07:36 AM EDT | Local: May 24, 07:36 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "d3bbfa2099999ac48944879ab8f67b42868dcbb2",
-    "pubDate": "Sun, 24 May 2026 19:57:51 GMT",
-    "eventUtc": "2026-05-24T11:36:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
     "source": "vf_ship"
   }
 ]
