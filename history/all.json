@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Cartagena, Spain at Jul 21, 02:23 PM EDT. The local time to the port is Jul 21, 08:23 PM CEST",
+    "description": "Cartagena, Spain Departure (UTC) Jul 21, 18:23 — ET: Jul 21, 02:23 PM EDT | Local: Jul 21, 08:23 PM CEST",
+    "link": "https://www.vesselfinder.com/ports/ESCAR001",
+    "guid": "ac8ab32500a5e0c562ffaceb519d8bad577cd06d",
+    "pubDate": "Tue, 21 Jul 2026 19:47:34 GMT",
+    "eventUtc": "2026-07-21T18:23:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Arrived at Cartagena, Spain at Jul 21, 10:59 AM EDT. The local time to the port is Jul 21, 04:59 PM CEST",
     "description": "Cartagena, Spain Arrival (UTC) Jul 21, 14:59 — ET: Jul 21, 10:59 AM EDT | Local: Jul 21, 04:59 PM CEST",
     "link": "https://www.vesselfinder.com/ports/ESCAR001",
@@ -5487,16 +5498,5 @@
     "shipSlug": "disney-adventure",
     "shipName": "Disney Adventure",
     "source": "vf_port"
-  },
-  {
-    "title": "Disney Adventure Arrived at Singapore, Singapore at May 24, 05:16 PM EDT. The local time to the port is May 24, 05:16 PM EDT",
-    "description": "Singapore, Singapore Arrival (UTC) May 24, 21:16 — ET: May 24, 05:16 PM EDT | Local: May 24, 05:16 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/SGSIN001",
-    "guid": "e10bc93c1fa0f9b453fde17ec3897c38942b7d12",
-    "pubDate": "Sun, 24 May 2026 22:11:29 GMT",
-    "eventUtc": "2026-05-24T21:16:00+00:00",
-    "shipSlug": "disney-adventure",
-    "shipName": "Disney Adventure",
-    "source": "vf_ship"
   }
 ]
