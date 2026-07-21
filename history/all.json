@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Cartagena, Spain at Jul 21, 10:59 AM EDT. The local time to the port is Jul 21, 04:59 PM CEST",
+    "description": "Cartagena, Spain Arrival (UTC) Jul 21, 14:59 — ET: Jul 21, 10:59 AM EDT | Local: Jul 21, 04:59 PM CEST",
+    "link": "https://www.vesselfinder.com/ports/ESCAR001",
+    "guid": "e374a73537d73f401798dd78e9be6b6533b2cb62",
+    "pubDate": "Tue, 21 Jul 2026 16:43:39 GMT",
+    "eventUtc": "2026-07-21T14:59:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Arrived at Nassau, Bahamas at Jul 21, 09:16 AM EDT. The local time to the port is Jul 21, 09:16 AM EDT",
     "description": "Nassau, Bahamas Arrival (UTC) Jul 21, 13:16 — ET: Jul 21, 09:16 AM EDT | Local: Jul 21, 09:16 AM EDT",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-05-24T21:16:00+00:00",
     "shipSlug": "disney-adventure",
     "shipName": "Disney Adventure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Departed from Gorda Cay, Bahamas at May 24, 04:49 PM EDT. The local time to the port is May 24, 04:49 PM EDT",
-    "description": "Gorda Cay, Bahamas Departure (UTC) May 24, 20:49 — ET: May 24, 04:49 PM EDT | Local: May 24, 04:49 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "a2d60750b972af3f9a09e757b3dddb04bcc9bd60",
-    "pubDate": "Sun, 24 May 2026 21:03:59 GMT",
-    "eventUtc": "2026-05-24T20:49:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
     "source": "vf_ship"
   }
 ]
