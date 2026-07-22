@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Wed, 22 Jul 2026 09:48:19 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 22 Jul 2026 11:36:25 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,13 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Fantasy Arrived at Cape Canaveral, United States (USA) at Jul 22, 06:43 AM EDT. The local time to the port is Jul 22, 06:43 AM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USPCV001</link>
+    <guid isPermaLink="false">56a48b715d833a1f64a58ece4051833b393f1619</guid>
+    <pubDate>Wed, 22 Jul 2026 11:32:33 GMT</pubDate>
+    <description><![CDATA[Cape Canaveral, United States (USA) Arrival (UTC) Jul 22, 10:43 — ET: Jul 22, 06:43 AM EDT | Local: Jul 22, 06:43 AM EDT]]></description>
   </item>
   <item>
     <title>Disney Dream Arrived at Malaga, Spain at Jul 22, 12:09 AM EDT. The local time to the port is Jul 22, 06:09 AM CEST</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">c8120e3cbdf5238733bb28158769d8414d3a5f0b</guid>
     <pubDate>Mon, 25 May 2026 15:42:02 GMT</pubDate>
     <description><![CDATA[Cagliari, Italy Departure (UTC) May 25, 14:34 — ET: May 25, 10:34 AM EDT | Local: May 25, 04:34 PM CEST]]></description>
-  </item>
-  <item>
-    <title>Disney Wonder Arrived at Vancouver, Canada at May 25, 10:06 AM EDT. The local time to the port is May 25, 07:06 AM PDT</title>
-    <link>https://www.vesselfinder.com/ports/CAVAN001</link>
-    <guid isPermaLink="false">b14147489741266d4423f95787510f11c9689c19</guid>
-    <pubDate>Mon, 25 May 2026 15:42:08 GMT</pubDate>
-    <description><![CDATA[Vancouver, Canada Arrival (UTC) May 25, 14:06 — ET: May 25, 10:06 AM EDT | Local: May 25, 07:06 AM PDT]]></description>
   </item>
 </channel>
 </rss>
