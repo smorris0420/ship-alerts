@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Wed, 22 Jul 2026 15:20:20 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 22 Jul 2026 16:55:33 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,13 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Dream Departed from Malaga, Spain at Jul 22, 12:32 PM EDT. The local time to the port is Jul 22, 06:32 PM CEST</title>
+    <link>https://www.vesselfinder.com/ports/ESAGP001</link>
+    <guid isPermaLink="false">e9443faee4a2baede7816a2bdce5859c8970d3f5</guid>
+    <pubDate>Wed, 22 Jul 2026 16:53:28 GMT</pubDate>
+    <description><![CDATA[Malaga, Spain Departure (UTC) Jul 22, 16:32 — ET: Jul 22, 12:32 PM EDT | Local: Jul 22, 06:32 PM CEST]]></description>
   </item>
   <item>
     <title>Disney Fantasy Arrived at Cape Canaveral, United States (USA) at Jul 22, 06:43 AM EDT. The local time to the port is Jul 22, 06:43 AM EDT</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">9284ab3bf107b13fd21b4722c6522a6347f592b4</guid>
     <pubDate>Tue, 26 May 2026 21:00:41 GMT</pubDate>
     <description><![CDATA[Hoonah, United States (USA) Arrival (UTC) May 25, 14:45 — ET: May 25, 10:45 AM EDT | Local: May 25, 10:45 AM EDT]]></description>
-  </item>
-  <item>
-    <title>Disney Dream Departed from Cagliari, Italy at May 25, 10:34 AM EDT. The local time to the port is May 25, 04:34 PM CEST</title>
-    <link>https://www.vesselfinder.com/ports/ITCAG001</link>
-    <guid isPermaLink="false">c8120e3cbdf5238733bb28158769d8414d3a5f0b</guid>
-    <pubDate>Mon, 25 May 2026 15:42:02 GMT</pubDate>
-    <description><![CDATA[Cagliari, Italy Departure (UTC) May 25, 14:34 — ET: May 25, 10:34 AM EDT | Local: May 25, 04:34 PM CEST]]></description>
   </item>
 </channel>
 </rss>

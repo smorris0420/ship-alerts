@@ -5,7 +5,7 @@
   <title>Disney Dream - Arrivals &amp; Departures</title>
   <link>https://www.vesselfinder.com/vessels/details/9434254</link>
   <description>Disney Dream - Arrivals &amp; Departures - Auto-generated</description>
-  <lastBuildDate>Wed, 22 Jul 2026 15:18:03 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 22 Jul 2026 16:53:29 GMT</lastBuildDate>
   
   <item>
     <title>Disney Dream Departed from Port Everglades, United States (USA) at Dec 29, 04:49 PM EST. The local time to the port is Dec 29, 04:49 PM EST</title>
@@ -20,6 +20,13 @@
     <guid isPermaLink="false">5f7fbac63c07edf9fb1d4a3dd01fd68927534e3b</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:30 GMT</pubDate>
     <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) Dec 29, 10:48 — ET: Dec 29, 05:48 AM EST | Local: Dec 29, 05:48 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Dream Departed from Malaga, Spain at Jul 22, 12:32 PM EDT. The local time to the port is Jul 22, 06:32 PM CEST</title>
+    <link>https://www.vesselfinder.com/ports/ESAGP001</link>
+    <guid isPermaLink="false">e9443faee4a2baede7816a2bdce5859c8970d3f5</guid>
+    <pubDate>Wed, 22 Jul 2026 16:53:28 GMT</pubDate>
+    <description><![CDATA[Malaga, Spain Departure (UTC) Jul 22, 16:32 — ET: Jul 22, 12:32 PM EDT | Local: Jul 22, 06:32 PM CEST]]></description>
   </item>
   <item>
     <title>Disney Dream Arrived at Malaga, Spain at Jul 22, 12:09 AM EDT. The local time to the port is Jul 22, 06:09 AM CEST</title>
@@ -1749,13 +1756,6 @@
     <guid isPermaLink="false">c68f2528c494bdf71c257b5f8629b8632673546f</guid>
     <pubDate>Fri, 16 Jan 2026 10:24:09 GMT</pubDate>
     <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) Jan 16, 09:46 — ET: Jan 16, 04:46 AM EST | Local: Jan 16, 04:46 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Dream Departed from Gorda Cay, Bahamas at Jan 13, 05:03 PM EST. The local time to the port is Jan 13, 05:03 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
-    <guid isPermaLink="false">cab99887a6e6b0d971aa9d0f0d40685e00e16a93</guid>
-    <pubDate>Tue, 13 Jan 2026 22:33:21 GMT</pubDate>
-    <description><![CDATA[Gorda Cay, Bahamas Departure (UTC) Jan 13, 22:03 — ET: Jan 13, 05:03 PM EST | Local: Jan 13, 05:03 PM EST]]></description>
   </item>
 </channel>
 </rss>
