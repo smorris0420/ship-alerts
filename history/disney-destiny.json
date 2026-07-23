@@ -22,6 +22,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Departed from Gorda Cay, Bahamas at Jul 22, 05:07 PM EDT. The local time to the port is Jul 22, 05:07 PM EDT",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Jul 22, 21:07 — ET: Jul 22, 05:07 PM EDT | Local: Jul 22, 05:07 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "db798fee5102eaa4930300308b6ce3291c5c1801",
+    "pubDate": "Thu, 23 Jul 2026 07:24:59 GMT",
+    "eventUtc": "2026-07-22T21:07:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Destiny Arrived at Gorda Cay, Bahamas at Jul 22, 07:46 AM EDT. The local time to the port is Jul 22, 07:46 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Jul 22, 11:46 — ET: Jul 22, 07:46 AM EDT | Local: Jul 22, 07:46 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "84f636d789f95966e3f5b3adff5c58b7dcbe595b",
+    "pubDate": "Thu, 23 Jul 2026 07:24:57 GMT",
+    "eventUtc": "2026-07-22T11:46:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Departed from Cozumel, Mexico at Jul 20, 06:39 PM EDT. The local time to the port is Jul 20, 05:39 PM EST",
     "description": "Cozumel, Mexico Departure (UTC) Jul 20, 22:39 — ET: Jul 20, 06:39 PM EDT | Local: Jul 20, 05:39 PM EST",
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
@@ -2723,28 +2745,6 @@
     "guid": "8621ef3cc1dd09e8e002a34ce5e77128c1b2eb23",
     "pubDate": "Sun, 07 Dec 2025 10:39:27 GMT",
     "eventUtc": "2025-12-07T09:53:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Departed from Nassau, Bahamas at Dec 04, 05:55 PM EST. The local time to the port is Dec 04, 05:55 PM EST",
-    "description": "Nassau, Bahamas Departure (UTC) Dec 4, 22:55 — ET: Dec 04, 05:55 PM EST | Local: Dec 04, 05:55 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "c9cc619ceff0ea86c94056dcc4ad23211f59fe6c",
-    "pubDate": "Thu, 04 Dec 2025 23:04:56 GMT",
-    "eventUtc": "2025-12-04T22:55:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Departed from Unknown Port at Dec 04, 05:55 PM EST. The local time to the port is Dec 04, 05:55 PM EST",
-    "description": "Unknown Port Departure (UTC) Dec 4, 22:55 — ET: Dec 04, 05:55 PM EST | Local: Dec 04, 05:55 PM EST",
-    "link": "https://www.vesselfinder.com/vessels/details/9834741",
-    "guid": "b8e89b8832077931cf2636313557bc56a87b6641",
-    "pubDate": "Fri, 05 Dec 2025 05:43:49 GMT",
-    "eventUtc": "2025-12-04T22:55:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
     "source": "vf_ship"
