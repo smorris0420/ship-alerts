@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Arrived at Port Everglades, United States (USA) at Jul 23, 05:57 AM EDT. The local time to the port is Jul 23, 05:57 AM EDT",
+    "description": "Port Everglades, United States (USA) Arrival (UTC) Jul 23, 09:57 — ET: Jul 23, 05:57 AM EDT | Local: Jul 23, 05:57 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPEF001",
+    "guid": "3c228e2f6e248b59ac114a0917eab33cba21459e",
+    "pubDate": "Thu, 23 Jul 2026 11:39:41 GMT",
+    "eventUtc": "2026-07-23T09:57:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Departed from Singapore, Singapore at Jul 23, 04:56 AM EDT. The local time to the port is Jul 23, 04:56 AM EDT",
     "description": "Singapore, Singapore Departure (UTC) Jul 23, 08:56 — ET: Jul 23, 04:56 AM EDT | Local: Jul 23, 04:56 AM EDT",
     "link": "https://www.vesselfinder.com/ports/SGSIN001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-05-26T06:22:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Hoonah, United States (USA) at May 25, 09:19 PM EDT. The local time to the port is May 25, 09:19 PM EDT",
-    "description": "Hoonah, United States (USA) Departure (UTC) May 26, 01:19 — ET: May 25, 09:19 PM EDT | Local: May 25, 09:19 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USHNH001",
-    "guid": "06d276ae4875188787d9d73bd0c5a7cf27f87639",
-    "pubDate": "Tue, 26 May 2026 21:00:42 GMT",
-    "eventUtc": "2026-05-26T01:19:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
