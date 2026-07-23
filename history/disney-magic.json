@@ -33,6 +33,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Arrived at Vancouver, Canada at Jul 23, 09:42 AM EDT. The local time to the port is Jul 23, 06:42 AM PDT",
+    "description": "Vancouver, Canada Arrival (UTC) Jul 23, 13:42 — ET: Jul 23, 09:42 AM EDT | Local: Jul 23, 06:42 AM PDT",
+    "link": "https://www.vesselfinder.com/ports/CAVAN001",
+    "guid": "7f840b43895dfe4ffad8afd94e6c90658dc639c1",
+    "pubDate": "Thu, 23 Jul 2026 15:27:14 GMT",
+    "eventUtc": "2026-07-23T13:42:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Departed from Ketchikan, United States (USA) at Jul 21, 11:26 PM EDT. The local time to the port is Jul 21, 11:26 PM EDT",
     "description": "Ketchikan, United States (USA) Departure (UTC) Jul 22, 03:26 — ET: Jul 21, 11:26 PM EDT | Local: Jul 21, 11:26 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USKTN001",
@@ -2734,17 +2745,6 @@
     "guid": "2aa99ab5a6470140adfd6239286170b40e840b83",
     "pubDate": "Sat, 06 Dec 2025 21:44:25 GMT",
     "eventUtc": "2025-12-05T13:05:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Galveston, United States (USA) at Dec 03, 05:59 PM EST. The local time to the port is Dec 03, 05:59 PM EST",
-    "description": "Galveston, United States (USA) Departure (UTC) Dec 3, 22:59 — ET: Dec 03, 05:59 PM EST | Local: Dec 03, 05:59 PM EST",
-    "link": "https://www.vesselfinder.com/ports/USGLS001",
-    "guid": "c78944718af1e474fb190387647276af262a3277",
-    "pubDate": "Wed, 03 Dec 2025 23:26:22 GMT",
-    "eventUtc": "2025-12-03T22:59:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
     "source": "vf_ship"
