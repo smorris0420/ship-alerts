@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Vancouver, Canada at Jul 23, 07:07 PM EDT. The local time to the port is Jul 23, 04:07 PM PDT",
+    "description": "Vancouver, Canada Departure (UTC) Jul 23, 23:07 — ET: Jul 23, 07:07 PM EDT | Local: Jul 23, 04:07 PM PDT",
+    "link": "https://www.vesselfinder.com/ports/CAVAN001",
+    "guid": "9df150ffcc02e25e32571a5295fc3e1fc73ef893",
+    "pubDate": "Thu, 23 Jul 2026 23:43:23 GMT",
+    "eventUtc": "2026-07-23T23:07:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Departed from Port Everglades, United States (USA) at Jul 23, 04:19 PM EDT. The local time to the port is Jul 23, 04:19 PM EDT",
     "description": "Port Everglades, United States (USA) Departure (UTC) Jul 23, 20:19 — ET: Jul 23, 04:19 PM EDT | Local: Jul 23, 04:19 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USPEF001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-05-26T20:50:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Napoli, Italy at May 26, 01:43 PM EDT. The local time to the port is May 26, 07:43 PM CEST",
-    "description": "Napoli, Italy Departure (UTC) May 26, 17:43 — ET: May 26, 01:43 PM EDT | Local: May 26, 07:43 PM CEST",
-    "link": "https://www.vesselfinder.com/ports/ITNAP001",
-    "guid": "90e03fdfe0f139c763072befe9e3965b509ad400",
-    "pubDate": "Tue, 26 May 2026 19:05:18 GMT",
-    "eventUtc": "2026-05-26T17:43:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
     "source": "vf_ship"
   }
 ]
