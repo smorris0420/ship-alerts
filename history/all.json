@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Adventure Departed from Singapore, Singapore at Jul 23, 04:56 AM EDT. The local time to the port is Jul 23, 04:56 AM EDT",
+    "description": "Singapore, Singapore Departure (UTC) Jul 23, 08:56 — ET: Jul 23, 04:56 AM EDT | Local: Jul 23, 04:56 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/SGSIN001",
+    "guid": "d680ff22e89745316a6c4bfff937ab7d6a838167",
+    "pubDate": "Thu, 23 Jul 2026 09:47:01 GMT",
+    "eventUtc": "2026-07-23T08:56:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Arrived at Singapore, Singapore at Jul 22, 05:22 PM EDT. The local time to the port is Jul 22, 05:22 PM EDT",
     "description": "Singapore, Singapore Arrival (UTC) Jul 22, 21:22 — ET: Jul 22, 05:22 PM EDT | Local: Jul 22, 05:22 PM EDT",
     "link": "https://www.vesselfinder.com/ports/SGSIN001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-05-26T01:19:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Departed from Vancouver, Canada at May 25, 08:16 PM EDT. The local time to the port is May 25, 05:16 PM PDT",
-    "description": "Vancouver, Canada Departure (UTC) May 26, 00:16 — ET: May 25, 08:16 PM EDT | Local: May 25, 05:16 PM PDT",
-    "link": "https://www.vesselfinder.com/ports/CAVAN001",
-    "guid": "8d02cf099aed8ebcf76c1457a72bfcaf47408a35",
-    "pubDate": "Tue, 26 May 2026 01:51:30 GMT",
-    "eventUtc": "2026-05-26T00:16:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
     "source": "vf_ship"
   }
 ]
