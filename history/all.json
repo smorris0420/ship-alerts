@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Vigo, Spain at Jul 24, 01:09 AM EDT. The local time to the port is Jul 24, 07:09 AM CEST",
+    "description": "Vigo, Spain Arrival (UTC) Jul 24, 05:09 — ET: Jul 24, 01:09 AM EDT | Local: Jul 24, 07:09 AM CEST",
+    "link": "https://www.vesselfinder.com/ports/ESVGO001",
+    "guid": "22545b11271048eba67a6ce22f65e1cb57458451",
+    "pubDate": "Fri, 24 Jul 2026 07:16:33 GMT",
+    "eventUtc": "2026-07-24T05:09:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Departed from Skagway, United States (USA) at Jul 24, 12:18 AM EDT. The local time to the port is Jul 24, 12:18 AM EDT",
     "description": "Skagway, United States (USA) Departure (UTC) Jul 24, 04:18 — ET: Jul 24, 12:18 AM EDT | Local: Jul 24, 12:18 AM EDT",
     "link": "https://www.vesselfinder.com/ports/USSGY001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-05-26T22:17:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Arrived at Ketchikan, United States (USA) at May 26, 05:26 PM EDT. The local time to the port is May 26, 05:26 PM EDT",
-    "description": "Ketchikan, United States (USA) Arrival (UTC) May 26, 21:26 — ET: May 26, 05:26 PM EDT | Local: May 26, 05:26 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USKTN001",
-    "guid": "7c19de15aba0b309920133004583e39df34f1cfa",
-    "pubDate": "Tue, 26 May 2026 22:27:31 GMT",
-    "eventUtc": "2026-05-26T21:26:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
