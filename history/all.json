@@ -264,6 +264,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Fantasy Departed from Gorda Cay, Bahamas at Jul 23, 05:06 PM EDT. The local time to the port is Jul 23, 05:06 PM EDT",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Jul 23, 21:06 — ET: Jul 23, 05:06 PM EDT | Local: Jul 23, 05:06 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "6f3eda4a826985a710b97eea9edfa88d68c3105f",
+    "pubDate": "Fri, 24 Jul 2026 21:46:58 GMT",
+    "eventUtc": "2026-07-23T21:06:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Departed from Port Everglades, United States (USA) at Jul 23, 04:19 PM EDT. The local time to the port is Jul 23, 04:19 PM EDT",
     "description": "Port Everglades, United States (USA) Departure (UTC) Jul 23, 20:19 — ET: Jul 23, 04:19 PM EDT | Local: Jul 23, 04:19 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USPEF001",
@@ -294,6 +305,17 @@
     "eventUtc": "2026-07-23T13:42:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Fantasy Arrived at Gorda Cay, Bahamas at Jul 23, 07:21 AM EDT. The local time to the port is Jul 23, 07:21 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Jul 23, 11:21 — ET: Jul 23, 07:21 AM EDT | Local: Jul 23, 07:21 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "511a7165216f54bd2313b99c05ddafbbd79c0de4",
+    "pubDate": "Fri, 24 Jul 2026 21:46:57 GMT",
+    "eventUtc": "2026-07-23T11:21:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
     "source": "vf_ship"
   },
   {
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-05-27T12:02:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Road Town, Tortola, British Virgin Islands at May 27, 07:52 AM EDT. The local time to the port is May 27, 07:52 AM AST",
-    "description": "Road Town, Tortola, British Virgin Islands Arrival (UTC) May 27, 11:52 — ET: May 27, 07:52 AM EDT | Local: May 27, 07:52 AM AST",
-    "link": "https://www.vesselfinder.com/ports/VGRAD001",
-    "guid": "cf2522c70855b85a6f6bfa2b2886550a407e545c",
-    "pubDate": "Wed, 27 May 2026 13:59:57 GMT",
-    "eventUtc": "2026-05-27T11:52:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Ketchikan, United States (USA) at May 27, 12:16 AM EDT. The local time to the port is May 27, 12:16 AM EDT",
-    "description": "Ketchikan, United States (USA) Departure (UTC) May 27, 04:16 — ET: May 27, 12:16 AM EDT | Local: May 27, 12:16 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/USKTN001",
-    "guid": "da68e52c2c09fba0924a9701dcf438a4fa1bd0cc",
-    "pubDate": "Wed, 27 May 2026 06:13:57 GMT",
-    "eventUtc": "2026-05-27T04:16:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
