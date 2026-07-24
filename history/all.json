@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Vigo, Spain at Jul 24, 12:21 PM EDT. The local time to the port is Jul 24, 06:21 PM CEST",
+    "description": "Vigo, Spain Departure (UTC) Jul 24, 16:21 — ET: Jul 24, 12:21 PM EDT | Local: Jul 24, 06:21 PM CEST",
+    "link": "https://www.vesselfinder.com/ports/ESVGO001",
+    "guid": "842a334a3963678034fd56c82782c30ee7219d27",
+    "pubDate": "Fri, 24 Jul 2026 17:54:46 GMT",
+    "eventUtc": "2026-07-24T16:21:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Arrived at Cape Canaveral, United States (USA) at Jul 24, 05:55 AM EDT. The local time to the port is Jul 24, 05:55 AM EDT",
     "description": "Cape Canaveral, United States (USA) Arrival (UTC) Jul 24, 09:55 — ET: Jul 24, 05:55 AM EDT | Local: Jul 24, 05:55 AM EDT",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-05-27T04:16:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Arrived at Civitavecchia, Italy at May 26, 11:36 PM EDT. The local time to the port is May 27, 05:36 AM CEST",
-    "description": "Civitavecchia, Italy Arrival (UTC) May 27, 03:36 — ET: May 26, 11:36 PM EDT | Local: May 27, 05:36 AM CEST",
-    "link": "https://www.vesselfinder.com/ports/ITCVV001",
-    "guid": "157a27e18480040e2ddd0a085451a6970f41acad",
-    "pubDate": "Wed, 27 May 2026 06:14:11 GMT",
-    "eventUtc": "2026-05-27T03:36:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
     "source": "vf_ship"
   }
 ]

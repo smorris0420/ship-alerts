@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Fri, 24 Jul 2026 14:52:34 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 24 Jul 2026 17:56:55 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,13 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Dream Departed from Vigo, Spain at Jul 24, 12:21 PM EDT. The local time to the port is Jul 24, 06:21 PM CEST</title>
+    <link>https://www.vesselfinder.com/ports/ESVGO001</link>
+    <guid isPermaLink="false">842a334a3963678034fd56c82782c30ee7219d27</guid>
+    <pubDate>Fri, 24 Jul 2026 17:54:46 GMT</pubDate>
+    <description><![CDATA[Vigo, Spain Departure (UTC) Jul 24, 16:21 — ET: Jul 24, 12:21 PM EDT | Local: Jul 24, 06:21 PM CEST]]></description>
   </item>
   <item>
     <title>Disney Wish Arrived at Cape Canaveral, United States (USA) at Jul 24, 05:55 AM EDT. The local time to the port is Jul 24, 05:55 AM EDT</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">da68e52c2c09fba0924a9701dcf438a4fa1bd0cc</guid>
     <pubDate>Wed, 27 May 2026 06:13:57 GMT</pubDate>
     <description><![CDATA[Ketchikan, United States (USA) Departure (UTC) May 27, 04:16 — ET: May 27, 12:16 AM EDT | Local: May 27, 12:16 AM EDT]]></description>
-  </item>
-  <item>
-    <title>Disney Dream Arrived at Civitavecchia, Italy at May 26, 11:36 PM EDT. The local time to the port is May 27, 05:36 AM CEST</title>
-    <link>https://www.vesselfinder.com/ports/ITCVV001</link>
-    <guid isPermaLink="false">157a27e18480040e2ddd0a085451a6970f41acad</guid>
-    <pubDate>Wed, 27 May 2026 06:14:11 GMT</pubDate>
-    <description><![CDATA[Civitavecchia, Italy Arrival (UTC) May 27, 03:36 — ET: May 26, 11:36 PM EDT | Local: May 27, 05:36 AM CEST]]></description>
   </item>
 </channel>
 </rss>
