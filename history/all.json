@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Departed from Skagway, United States (USA) at Jul 24, 12:18 AM EDT. The local time to the port is Jul 24, 12:18 AM EDT",
+    "description": "Skagway, United States (USA) Departure (UTC) Jul 24, 04:18 — ET: Jul 24, 12:18 AM EDT | Local: Jul 24, 12:18 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USSGY001",
+    "guid": "4813aa96ccdad20146835ba6746d5b9ff266b390",
+    "pubDate": "Fri, 24 Jul 2026 04:36:22 GMT",
+    "eventUtc": "2026-07-24T04:18:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Departed from Vancouver, Canada at Jul 23, 07:07 PM EDT. The local time to the port is Jul 23, 04:07 PM PDT",
     "description": "Vancouver, Canada Departure (UTC) Jul 23, 23:07 — ET: Jul 23, 07:07 PM EDT | Local: Jul 23, 04:07 PM PDT",
     "link": "https://www.vesselfinder.com/ports/CAVAN001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-05-26T21:26:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Departed from Gorda Cay, Bahamas at May 26, 04:50 PM EDT. The local time to the port is May 26, 04:50 PM EDT",
-    "description": "Gorda Cay, Bahamas Departure (UTC) May 26, 20:50 — ET: May 26, 04:50 PM EDT | Local: May 26, 04:50 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "407c5a93296f0dc8231e5f77f3c9fccf4b8e22e5",
-    "pubDate": "Wed, 27 May 2026 06:12:18 GMT",
-    "eventUtc": "2026-05-26T20:50:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
     "source": "vf_ship"
   }
 ]

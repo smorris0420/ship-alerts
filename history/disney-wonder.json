@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Departed from Skagway, United States (USA) at Jul 24, 12:18 AM EDT. The local time to the port is Jul 24, 12:18 AM EDT",
+    "description": "Skagway, United States (USA) Departure (UTC) Jul 24, 04:18 — ET: Jul 24, 12:18 AM EDT | Local: Jul 24, 12:18 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USSGY001",
+    "guid": "4813aa96ccdad20146835ba6746d5b9ff266b390",
+    "pubDate": "Fri, 24 Jul 2026 04:36:22 GMT",
+    "eventUtc": "2026-07-24T04:18:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Arrived at Skagway, United States (USA) at Jul 23, 10:21 AM EDT. The local time to the port is Jul 23, 10:21 AM EDT",
     "description": "Skagway, United States (USA) Arrival (UTC) Jul 23, 14:21 — ET: Jul 23, 10:21 AM EDT | Local: Jul 23, 10:21 AM EDT",
     "link": "https://www.vesselfinder.com/ports/USSGY001",
@@ -2733,17 +2744,6 @@
     "link": "https://www.vesselfinder.com/ports/NZAKL001",
     "guid": "49b85980c5298683c5eebf35e62a91728ad95300",
     "pubDate": "Sun, 07 Dec 2025 02:30:00 GMT",
-    "eventUtc": "2025-12-08T06:45:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
-    "source": "vf_port"
-  },
-  {
-    "title": "Disney Wonder Arrived at Auckland, New Zealand at Dec 08, 01:45 AM EST. The local time to the port is Dec 08, 07:45 PM NZDT",
-    "description": "Auckland, New Zealand Arrival (UTC) Dec 08, 06:45 — ET: Dec 08, 01:45 AM EST | Local: Dec 08, 07:45 PM NZDT",
-    "link": "https://www.vesselfinder.com/ports/NZAKL001",
-    "guid": "b6a664cf2b9c12c8a7206bbded81e80b8a7d71e8",
-    "pubDate": "Sun, 07 Dec 2025 02:30:01 GMT",
     "eventUtc": "2025-12-08T06:45:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
