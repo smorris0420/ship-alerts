@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from A Coruna, Spain at Jul 25, 12:37 PM EDT. The local time to the port is Jul 25, 06:37 PM CEST",
+    "description": "A Coruna, Spain Departure (UTC) Jul 25, 16:37 — ET: Jul 25, 12:37 PM EDT | Local: Jul 25, 06:37 PM CEST",
+    "link": "https://www.vesselfinder.com/ports/ESLCG001",
+    "guid": "2b6ae604a7f198f87b68cf1206fa2582d8a1cd6d",
+    "pubDate": "Sat, 25 Jul 2026 17:41:12 GMT",
+    "eventUtc": "2026-07-25T16:37:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Arrived at A Coruna, Spain at Jul 25, 12:00 AM EDT. The local time to the port is Jul 25, 06:00 AM CEST",
     "description": "A Coruna, Spain Arrival (UTC) Jul 25, 04:00 — ET: Jul 25, 12:00 AM EDT | Local: Jul 25, 06:00 AM CEST",
     "link": "https://www.vesselfinder.com/ports/ESLCG001",
@@ -2734,17 +2745,6 @@
     "guid": "0a0d3cb6cf37c2fa6c46ce24f067537c1376939a",
     "pubDate": "Mon, 19 Jan 2026 11:33:12 GMT",
     "eventUtc": "2026-01-19T10:50:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Nassau, Bahamas at Jan 18, 05:58 PM EST. The local time to the port is Jan 18, 05:58 PM EST",
-    "description": "Nassau, Bahamas Departure (UTC) Jan 18, 22:58 — ET: Jan 18, 05:58 PM EST | Local: Jan 18, 05:58 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "3f4cefaa4ef04fd58c8c363d177105382b159fcf",
-    "pubDate": "Sun, 18 Jan 2026 23:18:15 GMT",
-    "eventUtc": "2026-01-18T22:58:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
     "source": "vf_ship"

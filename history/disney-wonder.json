@@ -22,6 +22,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Departed from Juneau, United States (USA) at Jul 24, 09:25 PM EDT. The local time to the port is Jul 24, 09:25 PM EDT",
+    "description": "Juneau, United States (USA) Departure (UTC) Jul 25, 01:25 — ET: Jul 24, 09:25 PM EDT | Local: Jul 24, 09:25 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USJNU001",
+    "guid": "668cb19f5dd1b2ef2cf7c36494e8677b5b83fb77",
+    "pubDate": "Sat, 25 Jul 2026 17:41:25 GMT",
+    "eventUtc": "2026-07-25T01:25:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Wonder Arrived at Juneau, United States (USA) at Jul 24, 10:07 AM EDT. The local time to the port is Jul 24, 10:07 AM EDT",
+    "description": "Juneau, United States (USA) Arrival (UTC) Jul 24, 14:07 — ET: Jul 24, 10:07 AM EDT | Local: Jul 24, 10:07 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USJNU001",
+    "guid": "8f9fac0021b1fada1cc3afdea5860f6bae05e1c6",
+    "pubDate": "Sat, 25 Jul 2026 17:41:25 GMT",
+    "eventUtc": "2026-07-24T14:07:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Departed from Skagway, United States (USA) at Jul 24, 12:18 AM EDT. The local time to the port is Jul 24, 12:18 AM EDT",
     "description": "Skagway, United States (USA) Departure (UTC) Jul 24, 04:18 — ET: Jul 24, 12:18 AM EDT | Local: Jul 24, 12:18 AM EDT",
     "link": "https://www.vesselfinder.com/ports/USSGY001",
@@ -2726,27 +2748,5 @@
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
     "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Arrived at Wellington, New Zealand at Dec 08, 01:55 PM EST. The local time to the port is Dec 09, 07:55 AM NZDT",
-    "description": "Wellington, New Zealand Arrival (UTC) Dec 8, 18:55 — ET: Dec 08, 01:55 PM EST | Local: Dec 09, 07:55 AM NZDT",
-    "link": "https://www.vesselfinder.com/ports/NZWLG001",
-    "guid": "b3d418ef742c9421db078c8a63a276934b26939c",
-    "pubDate": "Mon, 08 Dec 2025 19:41:14 GMT",
-    "eventUtc": "2025-12-08T18:55:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Departed from Auckland, New Zealand at Dec 08, 01:45 AM EST. The local time to the port is Dec 08, 07:45 PM NZDT",
-    "description": "Auckland, New Zealand Departure (UTC) Dec 08, 06:45 — ET: Dec 08, 01:45 AM EST | Local: Dec 08, 07:45 PM NZDT",
-    "link": "https://www.vesselfinder.com/ports/NZAKL001",
-    "guid": "49b85980c5298683c5eebf35e62a91728ad95300",
-    "pubDate": "Sun, 07 Dec 2025 02:30:00 GMT",
-    "eventUtc": "2025-12-08T06:45:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
-    "source": "vf_port"
   }
 ]
