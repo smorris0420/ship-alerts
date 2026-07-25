@@ -5,7 +5,7 @@
   <title>Disney Treasure - Arrivals &amp; Departures</title>
   <link>https://www.vesselfinder.com/vessels/details/9834753</link>
   <description>Disney Treasure - Arrivals &amp; Departures - Auto-generated</description>
-  <lastBuildDate>Sat, 25 Jul 2026 09:07:34 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 25 Jul 2026 10:42:55 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -34,6 +34,13 @@
     <guid isPermaLink="false">82d28296f402cfdf1461b4ee7ddf9e1831c89886</guid>
     <pubDate>Thu, 01 Jan 2026 00:00:51 GMT</pubDate>
     <description><![CDATA[Georgetown, Grand Cayman Anch., Cayman Islands Arrival (UTC) Dec 29, 12:44 — ET: Dec 29, 07:44 AM EST | Local: Dec 29, 07:44 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Treasure Arrived at Cape Canaveral, United States (USA) at Jul 25, 05:49 AM EDT. The local time to the port is Jul 25, 05:49 AM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USPCV001</link>
+    <guid isPermaLink="false">b311f0e1adbe231a7d15b9cd38d89ae6ebc44597</guid>
+    <pubDate>Sat, 25 Jul 2026 10:42:52 GMT</pubDate>
+    <description><![CDATA[Cape Canaveral, United States (USA) Arrival (UTC) Jul 25, 09:49 — ET: Jul 25, 05:49 AM EDT | Local: Jul 25, 05:49 AM EDT]]></description>
   </item>
   <item>
     <title>Disney Treasure Departed from Gorda Cay, Bahamas at Jul 24, 05:08 PM EDT. The local time to the port is Jul 24, 05:08 PM EDT</title>
@@ -1749,13 +1756,6 @@
     <guid isPermaLink="false">db3ed4d25c3776aa3784a9dee6b8a046711fe75c</guid>
     <pubDate>Tue, 06 Jan 2026 22:42:21 GMT</pubDate>
     <description><![CDATA[Road Town, Tortola, British Virgin Islands Departure (UTC) Jan 6, 22:22 — ET: Jan 06, 05:22 PM EST | Local: Jan 06, 06:22 PM AST]]></description>
-  </item>
-  <item>
-    <title>Disney Treasure Arrived at Road Town, Tortola, British Virgin Islands at Jan 06, 06:02 AM EST. The local time to the port is Jan 06, 07:02 AM AST</title>
-    <link>https://www.vesselfinder.com/ports/VGRAD001</link>
-    <guid isPermaLink="false">83716fef21c240371fcba0cbfb0a4094295186f9</guid>
-    <pubDate>Tue, 06 Jan 2026 11:47:30 GMT</pubDate>
-    <description><![CDATA[Road Town, Tortola, British Virgin Islands Arrival (UTC) Jan 6, 11:02 — ET: Jan 06, 06:02 AM EST | Local: Jan 06, 07:02 AM AST]]></description>
   </item>
 </channel>
 </rss>
