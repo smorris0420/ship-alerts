@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Sat, 25 Jul 2026 01:21:01 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 25 Jul 2026 04:37:49 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -141,11 +141,25 @@
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
   </item>
   <item>
+    <title>Disney Treasure Departed from Gorda Cay, Bahamas at Jul 24, 05:08 PM EDT. The local time to the port is Jul 24, 05:08 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
+    <guid isPermaLink="false">5ca3724852248d75f396fcfc8810eec2413aecf9</guid>
+    <pubDate>Sat, 25 Jul 2026 04:33:23 GMT</pubDate>
+    <description><![CDATA[Gorda Cay, Bahamas Departure (UTC) Jul 24, 21:08 — ET: Jul 24, 05:08 PM EDT | Local: Jul 24, 05:08 PM EDT]]></description>
+  </item>
+  <item>
     <title>Disney Dream Departed from Vigo, Spain at Jul 24, 12:21 PM EDT. The local time to the port is Jul 24, 06:21 PM CEST</title>
     <link>https://www.vesselfinder.com/ports/ESVGO001</link>
     <guid isPermaLink="false">842a334a3963678034fd56c82782c30ee7219d27</guid>
     <pubDate>Fri, 24 Jul 2026 17:54:46 GMT</pubDate>
     <description><![CDATA[Vigo, Spain Departure (UTC) Jul 24, 16:21 — ET: Jul 24, 12:21 PM EDT | Local: Jul 24, 06:21 PM CEST]]></description>
+  </item>
+  <item>
+    <title>Disney Treasure Arrived at Gorda Cay, Bahamas at Jul 24, 07:37 AM EDT. The local time to the port is Jul 24, 07:37 AM EDT</title>
+    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
+    <guid isPermaLink="false">39222614f0f106dda892b6353810ed89607eadc1</guid>
+    <pubDate>Sat, 25 Jul 2026 04:33:22 GMT</pubDate>
+    <description><![CDATA[Gorda Cay, Bahamas Arrival (UTC) Jul 24, 11:37 — ET: Jul 24, 07:37 AM EDT | Local: Jul 24, 07:37 AM EDT]]></description>
   </item>
   <item>
     <title>Disney Wish Arrived at Cape Canaveral, United States (USA) at Jul 24, 05:55 AM EDT. The local time to the port is Jul 24, 05:55 AM EDT</title>
@@ -3492,20 +3506,6 @@
     <guid isPermaLink="false">8b1fdebc9f9dd4728f78737f064ca3c9bf10c232</guid>
     <pubDate>Wed, 27 May 2026 19:37:50 GMT</pubDate>
     <description><![CDATA[Road Town, Tortola, British Virgin Islands Departure (UTC) May 27, 18:19 — ET: May 27, 02:19 PM EDT | Local: May 27, 02:19 PM AST]]></description>
-  </item>
-  <item>
-    <title>Disney Dream Departed from Civitavecchia, Italy at May 27, 01:34 PM EDT. The local time to the port is May 27, 07:34 PM CEST</title>
-    <link>https://www.vesselfinder.com/ports/ITCVV001</link>
-    <guid isPermaLink="false">e10dcebc7d02cfae3e7438dccd269fdd6d77238d</guid>
-    <pubDate>Wed, 27 May 2026 19:39:51 GMT</pubDate>
-    <description><![CDATA[Civitavecchia, Italy Departure (UTC) May 27, 17:34 — ET: May 27, 01:34 PM EDT | Local: May 27, 07:34 PM CEST]]></description>
-  </item>
-  <item>
-    <title>Disney Destiny Arrived at Gorda Cay, Bahamas at May 27, 08:02 AM EDT. The local time to the port is May 27, 08:02 AM EDT</title>
-    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
-    <guid isPermaLink="false">c7dad2632398b62d3e4dd32fb50facb24baa9e55</guid>
-    <pubDate>Thu, 28 May 2026 08:32:58 GMT</pubDate>
-    <description><![CDATA[Gorda Cay, Bahamas Arrival (UTC) May 27, 12:02 — ET: May 27, 08:02 AM EDT | Local: May 27, 08:02 AM EDT]]></description>
   </item>
 </channel>
 </rss>

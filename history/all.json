@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Departed from Gorda Cay, Bahamas at Jul 24, 05:08 PM EDT. The local time to the port is Jul 24, 05:08 PM EDT",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Jul 24, 21:08 — ET: Jul 24, 05:08 PM EDT | Local: Jul 24, 05:08 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "5ca3724852248d75f396fcfc8810eec2413aecf9",
+    "pubDate": "Sat, 25 Jul 2026 04:33:23 GMT",
+    "eventUtc": "2026-07-24T21:08:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Vigo, Spain at Jul 24, 12:21 PM EDT. The local time to the port is Jul 24, 06:21 PM CEST",
     "description": "Vigo, Spain Departure (UTC) Jul 24, 16:21 — ET: Jul 24, 12:21 PM EDT | Local: Jul 24, 06:21 PM CEST",
     "link": "https://www.vesselfinder.com/ports/ESVGO001",
@@ -217,6 +228,17 @@
     "eventUtc": "2026-07-24T16:21:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Treasure Arrived at Gorda Cay, Bahamas at Jul 24, 07:37 AM EDT. The local time to the port is Jul 24, 07:37 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Jul 24, 11:37 — ET: Jul 24, 07:37 AM EDT | Local: Jul 24, 07:37 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "39222614f0f106dda892b6353810ed89607eadc1",
+    "pubDate": "Sat, 25 Jul 2026 04:33:22 GMT",
+    "eventUtc": "2026-07-24T11:37:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
     "source": "vf_ship"
   },
   {
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-05-27T18:19:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Civitavecchia, Italy at May 27, 01:34 PM EDT. The local time to the port is May 27, 07:34 PM CEST",
-    "description": "Civitavecchia, Italy Departure (UTC) May 27, 17:34 — ET: May 27, 01:34 PM EDT | Local: May 27, 07:34 PM CEST",
-    "link": "https://www.vesselfinder.com/ports/ITCVV001",
-    "guid": "e10dcebc7d02cfae3e7438dccd269fdd6d77238d",
-    "pubDate": "Wed, 27 May 2026 19:39:51 GMT",
-    "eventUtc": "2026-05-27T17:34:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Arrived at Gorda Cay, Bahamas at May 27, 08:02 AM EDT. The local time to the port is May 27, 08:02 AM EDT",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) May 27, 12:02 — ET: May 27, 08:02 AM EDT | Local: May 27, 08:02 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "c7dad2632398b62d3e4dd32fb50facb24baa9e55",
-    "pubDate": "Thu, 28 May 2026 08:32:58 GMT",
-    "eventUtc": "2026-05-27T12:02:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
     "source": "vf_ship"
   }
 ]
