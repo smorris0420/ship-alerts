@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Departed from Port Everglades, United States (USA) at Jul 27, 05:05 PM EDT. The local time to the port is Jul 27, 05:05 PM EDT",
+    "description": "Port Everglades, United States (USA) Departure (UTC) Jul 27, 21:05 — ET: Jul 27, 05:05 PM EDT | Local: Jul 27, 05:05 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPEF001",
+    "guid": "1c6478f4ee6cfc5f261c3e65f6f2d2b1297d3040",
+    "pubDate": "Mon, 27 Jul 2026 21:25:13 GMT",
+    "eventUtc": "2026-07-27T21:05:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Southampton, United Kingdom (UK) at Jul 27, 12:23 PM EDT. The local time to the port is Jul 27, 05:23 PM BST",
     "description": "Southampton, United Kingdom (UK) Departure (UTC) Jul 27, 16:23 — ET: Jul 27, 12:23 PM EDT | Local: Jul 27, 05:23 PM BST",
     "link": "https://www.vesselfinder.com/ports/GBSOU001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-05-30T17:21:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Barcelona, Spain at May 30, 12:53 PM EDT. The local time to the port is May 30, 06:53 PM CEST",
-    "description": "Barcelona, Spain Departure (UTC) May 30, 16:53 — ET: May 30, 12:53 PM EDT | Local: May 30, 06:53 PM CEST",
-    "link": "https://www.vesselfinder.com/ports/ESBCN001",
-    "guid": "1d5c1abc70fb891930f91c09a106129e1034f21c",
-    "pubDate": "Sat, 30 May 2026 17:51:56 GMT",
-    "eventUtc": "2026-05-30T16:53:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
     "source": "vf_ship"
   }
 ]

@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Mon, 27 Jul 2026 20:04:53 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 27 Jul 2026 21:25:16 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,13 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Destiny Departed from Port Everglades, United States (USA) at Jul 27, 05:05 PM EDT. The local time to the port is Jul 27, 05:05 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USPEF001</link>
+    <guid isPermaLink="false">1c6478f4ee6cfc5f261c3e65f6f2d2b1297d3040</guid>
+    <pubDate>Mon, 27 Jul 2026 21:25:13 GMT</pubDate>
+    <description><![CDATA[Port Everglades, United States (USA) Departure (UTC) Jul 27, 21:05 — ET: Jul 27, 05:05 PM EDT | Local: Jul 27, 05:05 PM EDT]]></description>
   </item>
   <item>
     <title>Disney Dream Departed from Southampton, United Kingdom (UK) at Jul 27, 12:23 PM EDT. The local time to the port is Jul 27, 05:23 PM BST</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">d8454e8b18c3ce99115901bb5c5035b8763ed8a9</guid>
     <pubDate>Sun, 31 May 2026 06:02:47 GMT</pubDate>
     <description><![CDATA[Ketchikan, United States (USA) Arrival (UTC) May 30, 17:21 — ET: May 30, 01:21 PM EDT | Local: May 30, 01:21 PM EDT]]></description>
-  </item>
-  <item>
-    <title>Disney Dream Departed from Barcelona, Spain at May 30, 12:53 PM EDT. The local time to the port is May 30, 06:53 PM CEST</title>
-    <link>https://www.vesselfinder.com/ports/ESBCN001</link>
-    <guid isPermaLink="false">1d5c1abc70fb891930f91c09a106129e1034f21c</guid>
-    <pubDate>Sat, 30 May 2026 17:51:56 GMT</pubDate>
-    <description><![CDATA[Barcelona, Spain Departure (UTC) May 30, 16:53 — ET: May 30, 12:53 PM EDT | Local: May 30, 06:53 PM CEST]]></description>
   </item>
 </channel>
 </rss>
