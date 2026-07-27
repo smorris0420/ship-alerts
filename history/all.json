@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Arrived at Vancouver, Canada at Jul 27, 09:58 AM EDT. The local time to the port is Jul 27, 06:58 AM PDT",
+    "description": "Vancouver, Canada Arrival (UTC) Jul 27, 13:58 — ET: Jul 27, 09:58 AM EDT | Local: Jul 27, 06:58 AM PDT",
+    "link": "https://www.vesselfinder.com/ports/CAVAN001",
+    "guid": "5d735085b1b18c8f85c2ef2c6c9eb4e6e1a12616",
+    "pubDate": "Mon, 27 Jul 2026 14:47:40 GMT",
+    "eventUtc": "2026-07-27T13:58:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Treasure Arrived at Cozumel, Mexico at Jul 27, 08:50 AM EDT. The local time to the port is Jul 27, 07:50 AM EST",
+    "description": "Cozumel, Mexico Arrival (UTC) Jul 27, 12:50 — ET: Jul 27, 08:50 AM EDT | Local: Jul 27, 07:50 AM EST",
+    "link": "https://www.vesselfinder.com/ports/MXCZM001",
+    "guid": "43a8727d31b6c3bd58b4e589d34c175ec6a12c7b",
+    "pubDate": "Mon, 27 Jul 2026 14:45:20 GMT",
+    "eventUtc": "2026-07-27T12:50:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Arrived at Cape Canaveral, United States (USA) at Jul 27, 06:03 AM EDT. The local time to the port is Jul 27, 06:03 AM EDT",
     "description": "Cape Canaveral, United States (USA) Arrival (UTC) Jul 27, 10:03 — ET: Jul 27, 06:03 AM EDT | Local: Jul 27, 06:03 AM EDT",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-05-30T13:01:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Arrived at Gorda Cay, Bahamas at May 30, 07:34 AM EDT. The local time to the port is May 30, 07:34 AM EDT",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) May 30, 11:34 — ET: May 30, 07:34 AM EDT | Local: May 30, 07:34 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "e1ccbaecd8e399fa77613f1e1a5f3f341648af2a",
-    "pubDate": "Sat, 30 May 2026 12:56:19 GMT",
-    "eventUtc": "2026-05-30T11:34:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Cape Canaveral, United States (USA) at May 30, 05:55 AM EDT. The local time to the port is May 30, 05:55 AM EDT",
-    "description": "Cape Canaveral, United States (USA) Arrival (UTC) May 30, 09:55 — ET: May 30, 05:55 AM EDT | Local: May 30, 05:55 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "d42211e57a457009ab8af1e76171e2297e895677",
-    "pubDate": "Sat, 30 May 2026 11:45:38 GMT",
-    "eventUtc": "2026-05-30T09:55:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
