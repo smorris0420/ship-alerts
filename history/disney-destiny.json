@@ -22,6 +22,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Departed from Gorda Cay, Bahamas at Jul 25, 05:05 PM EDT. The local time to the port is Jul 25, 05:05 PM EDT",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Jul 25, 21:05 — ET: Jul 25, 05:05 PM EDT | Local: Jul 25, 05:05 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "68cc533e60d4c57d80e5d767a4fc2ebfa5c1dbc4",
+    "pubDate": "Mon, 27 Jul 2026 05:02:52 GMT",
+    "eventUtc": "2026-07-25T21:05:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Destiny Arrived at Gorda Cay, Bahamas at Jul 25, 07:26 AM EDT. The local time to the port is Jul 25, 07:26 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Jul 25, 11:26 — ET: Jul 25, 07:26 AM EDT | Local: Jul 25, 07:26 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "53f74f8e549de23e983ddedc438372fb97571488",
+    "pubDate": "Mon, 27 Jul 2026 05:02:50 GMT",
+    "eventUtc": "2026-07-25T11:26:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Departed from Port Everglades, United States (USA) at Jul 23, 04:19 PM EDT. The local time to the port is Jul 23, 04:19 PM EDT",
     "description": "Port Everglades, United States (USA) Departure (UTC) Jul 23, 20:19 — ET: Jul 23, 04:19 PM EDT | Local: Jul 23, 04:19 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USPEF001",
@@ -2723,28 +2745,6 @@
     "guid": "c0e5540550f458595bab86ebee54cf97b6eb5f43",
     "pubDate": "Thu, 11 Dec 2025 11:37:34 GMT",
     "eventUtc": "2025-12-11T10:56:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Departed from Gorda Cay, Bahamas at Dec 08, 05:00 PM EST. The local time to the port is Dec 08, 05:00 PM EST",
-    "description": "Gorda Cay, Bahamas Departure (UTC) Dec 8, 22:00 — ET: Dec 08, 05:00 PM EST | Local: Dec 08, 05:00 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "310aaa967f42c585cfd60a25227889f51f36d23c",
-    "pubDate": "Mon, 08 Dec 2025 22:34:37 GMT",
-    "eventUtc": "2025-12-08T22:00:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Arrived at Gorda Cay, Bahamas at Dec 08, 07:34 AM EST. The local time to the port is Dec 08, 07:34 AM EST",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) Dec 8, 12:34 — ET: Dec 08, 07:34 AM EST | Local: Dec 08, 07:34 AM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "886aae26999d481ed22cee5829e1c2e28d34e45b",
-    "pubDate": "Mon, 08 Dec 2025 13:37:12 GMT",
-    "eventUtc": "2025-12-08T12:34:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
     "source": "vf_ship"
