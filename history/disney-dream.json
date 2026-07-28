@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Unknown Port at Jul 28, 04:38 AM EDT. The local time to the port is Jul 28, 04:38 AM EDT",
+    "description": "Unknown Port Arrival (UTC) Jul 28, 08:38 — ET: Jul 28, 04:38 AM EDT | Local: Jul 28, 04:38 AM EDT",
+    "link": "https://www.vesselfinder.com/vessels/details/9434254",
+    "guid": "19088eb654627b7a7b0580be85805d6bc65c1207",
+    "pubDate": "Tue, 28 Jul 2026 09:47:19 GMT",
+    "eventUtc": "2026-07-28T08:38:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Southampton, United Kingdom (UK) at Jul 27, 12:23 PM EDT. The local time to the port is Jul 27, 05:23 PM BST",
     "description": "Southampton, United Kingdom (UK) Departure (UTC) Jul 27, 16:23 — ET: Jul 27, 12:23 PM EDT | Local: Jul 27, 05:23 PM BST",
     "link": "https://www.vesselfinder.com/ports/GBSOU001",
@@ -2734,17 +2745,6 @@
     "guid": "7220698a90a0e4954a16233010fb2127e5b94138",
     "pubDate": "Tue, 20 Jan 2026 23:00:54 GMT",
     "eventUtc": "2026-01-20T22:54:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Arrived at Nassau, Bahamas at Jan 20, 07:24 AM EST. The local time to the port is Jan 20, 07:24 AM EST",
-    "description": "Nassau, Bahamas Arrival (UTC) Jan 20, 12:24 — ET: Jan 20, 07:24 AM EST | Local: Jan 20, 07:24 AM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "f621df46cb2a5b2ff4dd2fee6d64f74ac9b4bba1",
-    "pubDate": "Tue, 20 Jan 2026 13:38:19 GMT",
-    "eventUtc": "2026-01-20T12:24:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
     "source": "vf_ship"

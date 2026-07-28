@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Unknown Port at Jul 28, 04:38 AM EDT. The local time to the port is Jul 28, 04:38 AM EDT",
+    "description": "Unknown Port Arrival (UTC) Jul 28, 08:38 — ET: Jul 28, 04:38 AM EDT | Local: Jul 28, 04:38 AM EDT",
+    "link": "https://www.vesselfinder.com/vessels/details/9434254",
+    "guid": "19088eb654627b7a7b0580be85805d6bc65c1207",
+    "pubDate": "Tue, 28 Jul 2026 09:47:19 GMT",
+    "eventUtc": "2026-07-28T08:38:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Departed from Hoonah, United States (USA) at Jul 27, 10:39 PM EDT. The local time to the port is Jul 27, 10:39 PM EDT",
     "description": "Hoonah, United States (USA) Departure (UTC) Jul 28, 02:39 — ET: Jul 27, 10:39 PM EDT | Local: Jul 27, 10:39 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USHNH001",
@@ -228,6 +239,17 @@
     "eventUtc": "2026-07-27T22:57:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Fantasy Departed from Nassau, Bahamas at Jul 27, 06:10 PM EDT. The local time to the port is Jul 27, 06:10 PM EDT",
+    "description": "Nassau, Bahamas Departure (UTC) Jul 27, 22:10 — ET: Jul 27, 06:10 PM EDT | Local: Jul 27, 06:10 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "3309d578610add087dbf36209704580a73048003",
+    "pubDate": "Tue, 28 Jul 2026 09:46:29 GMT",
+    "eventUtc": "2026-07-27T22:10:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
     "source": "vf_ship"
   },
   {
@@ -294,6 +316,17 @@
     "eventUtc": "2026-07-27T13:58:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Fantasy Arrived at Nassau, Bahamas at Jul 27, 09:06 AM EDT. The local time to the port is Jul 27, 09:06 AM EDT",
+    "description": "Nassau, Bahamas Arrival (UTC) Jul 27, 13:06 — ET: Jul 27, 09:06 AM EDT | Local: Jul 27, 09:06 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "1f194ac80cfaf1cd2391b34f66cb060ae342ca69",
+    "pubDate": "Tue, 28 Jul 2026 09:46:27 GMT",
+    "eventUtc": "2026-07-27T13:06:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
     "source": "vf_ship"
   },
   {
@@ -5462,39 +5495,6 @@
     "guid": "69ef757ee84e1ded413f49e64028713bab7e00de",
     "pubDate": "Sun, 31 May 2026 22:18:02 GMT",
     "eventUtc": "2026-05-31T20:58:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Arrived at Gorda Cay, Bahamas at May 31, 07:40 AM EDT. The local time to the port is May 31, 07:40 AM EDT",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) May 31, 11:40 — ET: May 31, 07:40 AM EDT | Local: May 31, 07:40 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "dba80b3fda74bcc4d906223c9e50ca4e7845b5f5",
-    "pubDate": "Sun, 31 May 2026 22:18:01 GMT",
-    "eventUtc": "2026-05-31T11:40:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Departed from Ketchikan, United States (USA) at May 30, 10:09 PM EDT. The local time to the port is May 30, 10:09 PM EDT",
-    "description": "Ketchikan, United States (USA) Departure (UTC) May 31, 02:09 — ET: May 30, 10:09 PM EDT | Local: May 30, 10:09 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USKTN001",
-    "guid": "30258962a2568faadbb79ce5a11f03722640adf3",
-    "pubDate": "Sun, 31 May 2026 06:02:48 GMT",
-    "eventUtc": "2026-05-31T02:09:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Departed from Nassau, Bahamas at May 30, 06:29 PM EDT. The local time to the port is May 30, 06:29 PM EDT",
-    "description": "Nassau, Bahamas Departure (UTC) May 30, 22:29 — ET: May 30, 06:29 PM EDT | Local: May 30, 06:29 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "900948a1a69e2fe821fe08a41bb2ae1ab47c02c5",
-    "pubDate": "Sat, 30 May 2026 23:17:20 GMT",
-    "eventUtc": "2026-05-30T22:29:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
     "source": "vf_ship"
