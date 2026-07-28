@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Arrived at Ketchikan, United States (USA) at Jul 28, 05:27 PM EDT. The local time to the port is Jul 28, 05:27 PM EDT",
+    "description": "Ketchikan, United States (USA) Arrival (UTC) Jul 28, 21:27 — ET: Jul 28, 05:27 PM EDT | Local: Jul 28, 05:27 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USKTN001",
+    "guid": "5197f351a328acc7a11f7ceb9eca19fe84abbc5a",
+    "pubDate": "Tue, 28 Jul 2026 22:32:40 GMT",
+    "eventUtc": "2026-07-28T21:27:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Unknown Port at Jul 28, 01:52 PM EDT. The local time to the port is Jul 28, 01:52 PM EDT",
     "description": "Unknown Port Departure (UTC) Jul 28, 17:52 — ET: Jul 28, 01:52 PM EDT | Local: Jul 28, 01:52 PM EDT",
     "link": "https://www.vesselfinder.com/vessels/details/9434254",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-06-01T09:42:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Adventure Departed from Singapore, Singapore at Jun 01, 05:05 AM EDT. The local time to the port is Jun 01, 05:05 AM EDT",
-    "description": "Singapore, Singapore Departure (UTC) Jun 1, 09:05 — ET: Jun 01, 05:05 AM EDT | Local: Jun 01, 05:05 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/SGSIN001",
-    "guid": "5d09e512c62854c569d91b9db963912da96b6f01",
-    "pubDate": "Mon, 01 Jun 2026 12:51:40 GMT",
-    "eventUtc": "2026-06-01T09:05:00+00:00",
-    "shipSlug": "disney-adventure",
-    "shipName": "Disney Adventure",
     "source": "vf_ship"
   }
 ]

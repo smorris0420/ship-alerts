@@ -33,6 +33,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Arrived at Ketchikan, United States (USA) at Jul 28, 05:27 PM EDT. The local time to the port is Jul 28, 05:27 PM EDT",
+    "description": "Ketchikan, United States (USA) Arrival (UTC) Jul 28, 21:27 — ET: Jul 28, 05:27 PM EDT | Local: Jul 28, 05:27 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USKTN001",
+    "guid": "5197f351a328acc7a11f7ceb9eca19fe84abbc5a",
+    "pubDate": "Tue, 28 Jul 2026 22:32:40 GMT",
+    "eventUtc": "2026-07-28T21:27:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Departed from Hoonah, United States (USA) at Jul 27, 10:39 PM EDT. The local time to the port is Jul 27, 10:39 PM EDT",
     "description": "Hoonah, United States (USA) Departure (UTC) Jul 28, 02:39 — ET: Jul 27, 10:39 PM EDT | Local: Jul 27, 10:39 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USHNH001",
@@ -2733,17 +2744,6 @@
     "link": "https://www.vesselfinder.com/ports/USGLS001",
     "guid": "c538632373165091f77ad37ca0cb5dc35cd9ff54",
     "pubDate": "Sat, 06 Dec 2025 03:32:32 GMT",
-    "eventUtc": "2025-12-07T15:00:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
-    "source": "vf_port"
-  },
-  {
-    "title": "Disney Magic Arrived at Galveston, United States (USA) at Dec 07, 10:00 AM EST. The local time to the port is Dec 07, 10:00 AM EST",
-    "description": "Galveston, United States (USA) Arrival (UTC) Dec 07, 15:00 — ET: Dec 07, 10:00 AM EST | Local: Dec 07, 10:00 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USGLS001",
-    "guid": "3d15e769a01fe2241043e018d773f4f7efba787f",
-    "pubDate": "Sat, 06 Dec 2025 03:32:34 GMT",
     "eventUtc": "2025-12-07T15:00:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
