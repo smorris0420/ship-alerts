@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Unknown Port at Jul 28, 01:52 PM EDT. The local time to the port is Jul 28, 01:52 PM EDT",
+    "description": "Unknown Port Departure (UTC) Jul 28, 17:52 — ET: Jul 28, 01:52 PM EDT | Local: Jul 28, 01:52 PM EDT",
+    "link": "https://www.vesselfinder.com/vessels/details/9434254",
+    "guid": "54a6372d09ad9e4e12dd677539753efc111d9296",
+    "pubDate": "Tue, 28 Jul 2026 18:47:42 GMT",
+    "eventUtc": "2026-07-28T17:52:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Arrived at Unknown Port at Jul 28, 04:38 AM EDT. The local time to the port is Jul 28, 04:38 AM EDT",
     "description": "Unknown Port Arrival (UTC) Jul 28, 08:38 — ET: Jul 28, 04:38 AM EDT | Local: Jul 28, 04:38 AM EDT",
     "link": "https://www.vesselfinder.com/vessels/details/9434254",
@@ -2734,17 +2745,6 @@
     "guid": "227f14e0b65942b4225041cd5d190691e384a196",
     "pubDate": "Thu, 22 Jan 2026 13:13:55 GMT",
     "eventUtc": "2026-01-22T12:33:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Nassau, Bahamas at Jan 20, 05:54 PM EST. The local time to the port is Jan 20, 05:54 PM EST",
-    "description": "Nassau, Bahamas Departure (UTC) Jan 20, 22:54 — ET: Jan 20, 05:54 PM EST | Local: Jan 20, 05:54 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "7220698a90a0e4954a16233010fb2127e5b94138",
-    "pubDate": "Tue, 20 Jan 2026 23:00:54 GMT",
-    "eventUtc": "2026-01-20T22:54:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
     "source": "vf_ship"

@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Unknown Port at Jul 28, 01:52 PM EDT. The local time to the port is Jul 28, 01:52 PM EDT",
+    "description": "Unknown Port Departure (UTC) Jul 28, 17:52 — ET: Jul 28, 01:52 PM EDT | Local: Jul 28, 01:52 PM EDT",
+    "link": "https://www.vesselfinder.com/vessels/details/9434254",
+    "guid": "54a6372d09ad9e4e12dd677539753efc111d9296",
+    "pubDate": "Tue, 28 Jul 2026 18:47:42 GMT",
+    "eventUtc": "2026-07-28T17:52:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Arrived at Unknown Port at Jul 28, 04:38 AM EDT. The local time to the port is Jul 28, 04:38 AM EDT",
     "description": "Unknown Port Arrival (UTC) Jul 28, 08:38 — ET: Jul 28, 04:38 AM EDT | Local: Jul 28, 04:38 AM EDT",
     "link": "https://www.vesselfinder.com/vessels/details/9434254",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-06-01T09:05:00+00:00",
     "shipSlug": "disney-adventure",
     "shipName": "Disney Adventure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Arrived at Messina, Italy at Jun 01, 03:29 AM EDT. The local time to the port is Jun 01, 09:29 AM CEST",
-    "description": "Messina, Italy Arrival (UTC) Jun 1, 07:29 — ET: Jun 01, 03:29 AM EDT | Local: Jun 01, 09:29 AM CEST",
-    "link": "https://www.vesselfinder.com/ports/ITMSN001",
-    "guid": "0d0f7f5f085fb3b175cffe042e500f0993101120",
-    "pubDate": "Mon, 01 Jun 2026 12:50:47 GMT",
-    "eventUtc": "2026-06-01T07:29:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
     "source": "vf_ship"
   }
 ]
