@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Hoonah, United States (USA) at Jul 27, 10:39 PM EDT. The local time to the port is Jul 27, 10:39 PM EDT",
+    "description": "Hoonah, United States (USA) Departure (UTC) Jul 28, 02:39 — ET: Jul 27, 10:39 PM EDT | Local: Jul 27, 10:39 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USHNH001",
+    "guid": "7f4a5b5ae6a8e1545484082071173544d9ed755f",
+    "pubDate": "Tue, 28 Jul 2026 04:23:23 GMT",
+    "eventUtc": "2026-07-28T02:39:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Departed from Vancouver, Canada at Jul 27, 06:57 PM EDT. The local time to the port is Jul 27, 03:57 PM PDT",
     "description": "Vancouver, Canada Departure (UTC) Jul 27, 22:57 — ET: Jul 27, 06:57 PM EDT | Local: Jul 27, 03:57 PM PDT",
     "link": "https://www.vesselfinder.com/ports/CAVAN001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-05-30T22:29:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Departed from Nassau, Bahamas at May 30, 06:12 PM EDT. The local time to the port is May 30, 06:12 PM EDT",
-    "description": "Nassau, Bahamas Departure (UTC) May 30, 22:12 — ET: May 30, 06:12 PM EDT | Local: May 30, 06:12 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "b9ee5e429bb254fae03a95821df4ccfd34bac38e",
-    "pubDate": "Sat, 30 May 2026 22:15:09 GMT",
-    "eventUtc": "2026-05-30T22:12:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
     "source": "vf_ship"
   }
 ]
