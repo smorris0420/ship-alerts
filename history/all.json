@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Departed from Nassau, Bahamas at Jul 29, 06:39 PM EDT. The local time to the port is Jul 29, 06:39 PM EDT",
+    "description": "Nassau, Bahamas Departure (UTC) Jul 29, 22:39 — ET: Jul 29, 06:39 PM EDT | Local: Jul 29, 06:39 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "e6bdb415c11c9844fe35ad14414ac7dc8fef5ad1",
+    "pubDate": "Wed, 29 Jul 2026 23:16:25 GMT",
+    "eventUtc": "2026-07-29T22:39:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Arrived at Singapore, Singapore at Jul 29, 05:15 PM EDT. The local time to the port is Jul 29, 05:15 PM EDT",
     "description": "Singapore, Singapore Arrival (UTC) Jul 29, 21:15 — ET: Jul 29, 05:15 PM EDT | Local: Jul 29, 05:15 PM EDT",
     "link": "https://www.vesselfinder.com/ports/SGSIN001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-06-01T16:28:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Arrived at Vancouver, Canada at Jun 01, 11:19 AM EDT. The local time to the port is Jun 01, 08:19 AM PDT",
-    "description": "Vancouver, Canada Arrival (UTC) Jun 1, 15:19 — ET: Jun 01, 11:19 AM EDT | Local: Jun 01, 08:19 AM PDT",
-    "link": "https://www.vesselfinder.com/ports/CAVAN001",
-    "guid": "b62e8de7413f26fbac889bc1695a9b81aead2ef4",
-    "pubDate": "Mon, 01 Jun 2026 18:33:27 GMT",
-    "eventUtc": "2026-06-01T15:19:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
     "source": "vf_ship"
   }
 ]
