@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Arrived at Nassau, Bahamas at Jul 29, 07:51 AM EDT. The local time to the port is Jul 29, 07:51 AM EDT",
+    "description": "Nassau, Bahamas Arrival (UTC) Jul 29, 11:51 — ET: Jul 29, 07:51 AM EDT | Local: Jul 29, 07:51 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "88b053d23c628a1df58df6256001b43d04e0a3bb",
+    "pubDate": "Wed, 29 Jul 2026 14:37:18 GMT",
+    "eventUtc": "2026-07-29T11:51:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Departed from Ketchikan, United States (USA) at Jul 28, 11:19 PM EDT. The local time to the port is Jul 28, 11:19 PM EDT",
     "description": "Ketchikan, United States (USA) Departure (UTC) Jul 29, 03:19 — ET: Jul 28, 11:19 PM EDT | Local: Jul 28, 11:19 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USKTN001",
@@ -5483,17 +5494,6 @@
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
     "guid": "5949f3d87c134472b837cb72d8430c735fc2fb24",
     "pubDate": "Mon, 01 Jun 2026 18:32:02 GMT",
-    "eventUtc": "2026-06-01T12:56:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Georgetown, Grand Cayman Anch., Cayman Islands at Jun 01, 08:56 AM EDT. The local time to the port is Jun 01, 07:56 AM EST",
-    "description": "Georgetown, Grand Cayman Anch., Cayman Islands Arrival (UTC) Jun 1, 12:56 — ET: Jun 01, 08:56 AM EDT | Local: Jun 01, 07:56 AM EST",
-    "link": "https://www.vesselfinder.com/ports/KYGEC001",
-    "guid": "462a57c19005f46f7792b30ff23260b803ee9048",
-    "pubDate": "Tue, 02 Jun 2026 18:52:00 GMT",
     "eventUtc": "2026-06-01T12:56:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
