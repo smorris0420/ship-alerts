@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Adventure Arrived at Singapore, Singapore at Jul 29, 05:15 PM EDT. The local time to the port is Jul 29, 05:15 PM EDT",
+    "description": "Singapore, Singapore Arrival (UTC) Jul 29, 21:15 — ET: Jul 29, 05:15 PM EDT | Local: Jul 29, 05:15 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/SGSIN001",
+    "guid": "0d0199e410eaf3943c817e7e8f563b869899cac3",
+    "pubDate": "Wed, 29 Jul 2026 22:10:15 GMT",
+    "eventUtc": "2026-07-29T21:15:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Arrived at Nassau, Bahamas at Jul 29, 07:51 AM EDT. The local time to the port is Jul 29, 07:51 AM EDT",
     "description": "Nassau, Bahamas Arrival (UTC) Jul 29, 11:51 — ET: Jul 29, 07:51 AM EDT | Local: Jul 29, 07:51 AM EDT",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-06-01T15:19:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Cozumel, Mexico at Jun 01, 08:56 AM EDT. The local time to the port is Jun 01, 07:56 AM EST",
-    "description": "Cozumel, Mexico Arrival (UTC) Jun 1, 12:56 — ET: Jun 01, 08:56 AM EDT | Local: Jun 01, 07:56 AM EST",
-    "link": "https://www.vesselfinder.com/ports/MXCZM001",
-    "guid": "5949f3d87c134472b837cb72d8430c735fc2fb24",
-    "pubDate": "Mon, 01 Jun 2026 18:32:02 GMT",
-    "eventUtc": "2026-06-01T12:56:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
