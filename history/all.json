@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Arrived at Vancouver, Canada at Jul 30, 10:06 AM EDT. The local time to the port is Jul 30, 07:06 AM PDT",
+    "description": "Vancouver, Canada Arrival (UTC) Jul 30, 14:06 — ET: Jul 30, 10:06 AM EDT | Local: Jul 30, 07:06 AM PDT",
+    "link": "https://www.vesselfinder.com/ports/CAVAN001",
+    "guid": "8eda1770def7745724b3dd0d66a19805117409da",
+    "pubDate": "Thu, 30 Jul 2026 16:18:00 GMT",
+    "eventUtc": "2026-07-30T14:06:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Departed from Singapore, Singapore at Jul 30, 04:54 AM EDT. The local time to the port is Jul 30, 04:54 AM EDT",
     "description": "Singapore, Singapore Departure (UTC) Jul 30, 08:54 — ET: Jul 30, 04:54 AM EDT | Local: Jul 30, 04:54 AM EDT",
     "link": "https://www.vesselfinder.com/ports/SGSIN001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-06-01T21:58:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Departed from Cape Canaveral, United States (USA) at Jun 01, 04:43 PM EDT. The local time to the port is Jun 01, 04:43 PM EDT",
-    "description": "Cape Canaveral, United States (USA) Departure (UTC) Jun 1, 20:43 — ET: Jun 01, 04:43 PM EDT | Local: Jun 01, 04:43 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "b3711b3fef15607102b6ca3c701cb5f1928753b8",
-    "pubDate": "Mon, 01 Jun 2026 21:52:18 GMT",
-    "eventUtc": "2026-06-01T20:43:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
     "source": "vf_ship"
   }
 ]
