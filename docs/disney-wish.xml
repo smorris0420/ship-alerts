@@ -5,7 +5,7 @@
   <title>Disney Wish - Arrivals &amp; Departures</title>
   <link>https://www.vesselfinder.com/vessels/details/9834739</link>
   <description>Disney Wish - Arrivals &amp; Departures - Auto-generated</description>
-  <lastBuildDate>Thu, 30 Jul 2026 16:16:39 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 30 Jul 2026 17:54:04 GMT</lastBuildDate>
   
   <item>
     <title>Disney Wish Departed from Nassau, Bahamas at Dec 30, 05:59 PM EST. The local time to the port is Dec 30, 05:59 PM EST</title>
@@ -20,6 +20,20 @@
     <guid isPermaLink="false">c8fa95bf103d068f9b1c39c3aa7460598af04c5d</guid>
     <pubDate>Thu, 01 Jan 2026 00:00:41 GMT</pubDate>
     <description><![CDATA[Nassau, Bahamas Arrival (UTC) Dec 30, 13:49 — ET: Dec 30, 08:49 AM EST | Local: Dec 30, 08:49 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Wish Departed from Gorda Cay, Bahamas at Jul 29, 06:39 PM EDT. The local time to the port is Jul 29, 06:39 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
+    <guid isPermaLink="false">84fc777f6f9a5cd9baa82173dfc46824031fe82c</guid>
+    <pubDate>Thu, 30 Jul 2026 17:53:30 GMT</pubDate>
+    <description><![CDATA[Gorda Cay, Bahamas Departure (UTC) Jul 29, 22:39 — ET: Jul 29, 06:39 PM EDT | Local: Jul 29, 06:39 PM EDT]]></description>
+  </item>
+  <item>
+    <title>Disney Wish Arrived at Gorda Cay, Bahamas at Jul 29, 07:25 AM EDT. The local time to the port is Jul 29, 07:25 AM EDT</title>
+    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
+    <guid isPermaLink="false">1140cc5b5754ef140c24ca31738853b645982f2e</guid>
+    <pubDate>Thu, 30 Jul 2026 17:53:28 GMT</pubDate>
+    <description><![CDATA[Gorda Cay, Bahamas Arrival (UTC) Jul 29, 11:25 — ET: Jul 29, 07:25 AM EDT | Local: Jul 29, 07:25 AM EDT]]></description>
   </item>
   <item>
     <title>Disney Wish Departed from Cape Canaveral, United States (USA) at Jul 27, 04:10 PM EDT. The local time to the port is Jul 27, 04:10 PM EDT</title>
@@ -1742,20 +1756,6 @@
     <guid isPermaLink="false">733aca22156ca0125a55988a613379bcd9672340</guid>
     <pubDate>Mon, 16 Feb 2026 21:46:53 GMT</pubDate>
     <description><![CDATA[Cape Canaveral, United States (USA) Departure (UTC) Feb 16, 21:40 — ET: Feb 16, 04:40 PM EST | Local: Feb 16, 04:40 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Wish Arrived at Cape Canaveral, United States (USA) at Feb 16, 05:36 AM EST. The local time to the port is Feb 16, 05:36 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/USPCV001</link>
-    <guid isPermaLink="false">f2d6af2dc61d2461769dc166069b277d66207832</guid>
-    <pubDate>Mon, 16 Feb 2026 11:52:32 GMT</pubDate>
-    <description><![CDATA[Cape Canaveral, United States (USA) Arrival (UTC) Feb 16, 10:36 — ET: Feb 16, 05:36 AM EST | Local: Feb 16, 05:36 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Wish Departed from Gorda Cay, Bahamas at Feb 15, 04:55 PM EST. The local time to the port is Feb 15, 04:55 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
-    <guid isPermaLink="false">f98416456f1a1450b248d8fd569a145c79fbe61f</guid>
-    <pubDate>Mon, 16 Feb 2026 06:10:37 GMT</pubDate>
-    <description><![CDATA[Gorda Cay, Bahamas Departure (UTC) Feb 15, 21:55 — ET: Feb 15, 04:55 PM EST | Local: Feb 15, 04:55 PM EST]]></description>
   </item>
 </channel>
 </rss>

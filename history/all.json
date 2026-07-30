@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Maloy, Norway at Jul 30, 12:25 PM EDT. The local time to the port is Jul 30, 06:25 PM CEST",
+    "description": "Maloy, Norway Departure (UTC) Jul 30, 16:25 — ET: Jul 30, 12:25 PM EDT | Local: Jul 30, 06:25 PM CEST",
+    "link": "https://www.vesselfinder.com/ports/NOMAY001",
+    "guid": "86c01b068961d0eb4c03894938cdaed76bcdc810",
+    "pubDate": "Thu, 30 Jul 2026 17:56:07 GMT",
+    "eventUtc": "2026-07-30T16:25:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Arrived at Vancouver, Canada at Jul 30, 10:06 AM EDT. The local time to the port is Jul 30, 07:06 AM PDT",
     "description": "Vancouver, Canada Arrival (UTC) Jul 30, 14:06 — ET: Jul 30, 10:06 AM EDT | Local: Jul 30, 07:06 AM PDT",
     "link": "https://www.vesselfinder.com/ports/CAVAN001",
@@ -253,6 +264,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Departed from Gorda Cay, Bahamas at Jul 29, 06:39 PM EDT. The local time to the port is Jul 29, 06:39 PM EDT",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Jul 29, 22:39 — ET: Jul 29, 06:39 PM EDT | Local: Jul 29, 06:39 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "84fc777f6f9a5cd9baa82173dfc46824031fe82c",
+    "pubDate": "Thu, 30 Jul 2026 17:53:30 GMT",
+    "eventUtc": "2026-07-29T22:39:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Arrived at Singapore, Singapore at Jul 29, 05:15 PM EDT. The local time to the port is Jul 29, 05:15 PM EDT",
     "description": "Singapore, Singapore Arrival (UTC) Jul 29, 21:15 — ET: Jul 29, 05:15 PM EDT | Local: Jul 29, 05:15 PM EDT",
     "link": "https://www.vesselfinder.com/ports/SGSIN001",
@@ -272,6 +294,17 @@
     "eventUtc": "2026-07-29T11:51:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Wish Arrived at Gorda Cay, Bahamas at Jul 29, 07:25 AM EDT. The local time to the port is Jul 29, 07:25 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Jul 29, 11:25 — ET: Jul 29, 07:25 AM EDT | Local: Jul 29, 07:25 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "1140cc5b5754ef140c24ca31738853b645982f2e",
+    "pubDate": "Thu, 30 Jul 2026 17:53:28 GMT",
+    "eventUtc": "2026-07-29T11:25:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
     "source": "vf_ship"
   },
   {
@@ -5464,39 +5497,6 @@
     "eventUtc": "2026-06-02T01:14:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Departed from Vancouver, Canada at Jun 01, 07:51 PM EDT. The local time to the port is Jun 01, 04:51 PM PDT",
-    "description": "Vancouver, Canada Departure (UTC) Jun 1, 23:51 — ET: Jun 01, 07:51 PM EDT | Local: Jun 01, 04:51 PM PDT",
-    "link": "https://www.vesselfinder.com/ports/CAVAN001",
-    "guid": "e4e672e959730d0f5bcb7573740706f61ac745d6",
-    "pubDate": "Tue, 02 Jun 2026 01:46:30 GMT",
-    "eventUtc": "2026-06-01T23:51:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Cozumel, Mexico at Jun 01, 05:58 PM EDT. The local time to the port is Jun 01, 04:58 PM EST",
-    "description": "Cozumel, Mexico Departure (UTC) Jun 1, 21:58 — ET: Jun 01, 05:58 PM EDT | Local: Jun 01, 04:58 PM EST",
-    "link": "https://www.vesselfinder.com/ports/MXCZM001",
-    "guid": "73a83ceb00dbca456510bdd9280c472c04262129",
-    "pubDate": "Mon, 01 Jun 2026 23:22:27 GMT",
-    "eventUtc": "2026-06-01T21:58:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Georgetown, Grand Cayman Anch., Cayman Islands at Jun 01, 05:58 PM EDT. The local time to the port is Jun 01, 04:58 PM EST",
-    "description": "Georgetown, Grand Cayman Anch., Cayman Islands Departure (UTC) Jun 1, 21:58 — ET: Jun 01, 05:58 PM EDT | Local: Jun 01, 04:58 PM EST",
-    "link": "https://www.vesselfinder.com/ports/KYGEC001",
-    "guid": "2fe8230416111a23ce2a0fd92bb1acdb95f50de9",
-    "pubDate": "Tue, 02 Jun 2026 18:52:02 GMT",
-    "eventUtc": "2026-06-01T21:58:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
