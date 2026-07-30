@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Maloy, Norway at Jul 30, 02:28 AM EDT. The local time to the port is Jul 30, 08:28 AM CEST",
+    "description": "Maloy, Norway Arrival (UTC) Jul 30, 06:28 — ET: Jul 30, 02:28 AM EDT | Local: Jul 30, 08:28 AM CEST",
+    "link": "https://www.vesselfinder.com/ports/NOMAY001",
+    "guid": "91a0aba89a4388d7aedc56442d9a4dd02867e462",
+    "pubDate": "Thu, 30 Jul 2026 08:51:33 GMT",
+    "eventUtc": "2026-07-30T06:28:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Unknown Port at Jul 28, 01:52 PM EDT. The local time to the port is Jul 28, 01:52 PM EDT",
     "description": "Unknown Port Departure (UTC) Jul 28, 17:52 — ET: Jul 28, 01:52 PM EDT | Local: Jul 28, 01:52 PM EDT",
     "link": "https://www.vesselfinder.com/vessels/details/9434254",
@@ -2734,17 +2745,6 @@
     "guid": "69984505c7cef302d5fe7d19cc0f59831df65c6d",
     "pubDate": "Fri, 23 Jan 2026 01:13:12 GMT",
     "eventUtc": "2026-01-22T22:08:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Arrived at Gorda Cay, Bahamas at Jan 22, 07:33 AM EST. The local time to the port is Jan 22, 07:33 AM EST",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) Jan 22, 12:33 — ET: Jan 22, 07:33 AM EST | Local: Jan 22, 07:33 AM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "227f14e0b65942b4225041cd5d190691e384a196",
-    "pubDate": "Thu, 22 Jan 2026 13:13:55 GMT",
-    "eventUtc": "2026-01-22T12:33:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
     "source": "vf_ship"

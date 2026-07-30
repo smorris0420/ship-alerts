@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Maloy, Norway at Jul 30, 02:28 AM EDT. The local time to the port is Jul 30, 08:28 AM CEST",
+    "description": "Maloy, Norway Arrival (UTC) Jul 30, 06:28 — ET: Jul 30, 02:28 AM EDT | Local: Jul 30, 08:28 AM CEST",
+    "link": "https://www.vesselfinder.com/ports/NOMAY001",
+    "guid": "91a0aba89a4388d7aedc56442d9a4dd02867e462",
+    "pubDate": "Thu, 30 Jul 2026 08:51:33 GMT",
+    "eventUtc": "2026-07-30T06:28:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Departed from Nassau, Bahamas at Jul 29, 06:39 PM EDT. The local time to the port is Jul 29, 06:39 PM EDT",
     "description": "Nassau, Bahamas Departure (UTC) Jul 29, 22:39 — ET: Jul 29, 06:39 PM EDT | Local: Jul 29, 06:39 PM EDT",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-06-01T20:10:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Messina, Italy at Jun 01, 12:28 PM EDT. The local time to the port is Jun 01, 06:28 PM CEST",
-    "description": "Messina, Italy Departure (UTC) Jun 1, 16:28 — ET: Jun 01, 12:28 PM EDT | Local: Jun 01, 06:28 PM CEST",
-    "link": "https://www.vesselfinder.com/ports/ITMSN001",
-    "guid": "810ae84a1a197eaa9491e0eb24a52cd855fe286c",
-    "pubDate": "Mon, 01 Jun 2026 18:33:19 GMT",
-    "eventUtc": "2026-06-01T16:28:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
     "source": "vf_ship"
   }
 ]

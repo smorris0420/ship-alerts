@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Thu, 30 Jul 2026 06:14:51 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 30 Jul 2026 08:53:49 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,13 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Dream Arrived at Maloy, Norway at Jul 30, 02:28 AM EDT. The local time to the port is Jul 30, 08:28 AM CEST</title>
+    <link>https://www.vesselfinder.com/ports/NOMAY001</link>
+    <guid isPermaLink="false">91a0aba89a4388d7aedc56442d9a4dd02867e462</guid>
+    <pubDate>Thu, 30 Jul 2026 08:51:33 GMT</pubDate>
+    <description><![CDATA[Maloy, Norway Arrival (UTC) Jul 30, 06:28 — ET: Jul 30, 02:28 AM EDT | Local: Jul 30, 08:28 AM CEST]]></description>
   </item>
   <item>
     <title>Disney Destiny Departed from Nassau, Bahamas at Jul 29, 06:39 PM EDT. The local time to the port is Jul 29, 06:39 PM EDT</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">b95545ff9b11b2abddd46e0e5751a6b549b04777</guid>
     <pubDate>Mon, 01 Jun 2026 21:56:33 GMT</pubDate>
     <description><![CDATA[Port Everglades, United States (USA) Departure (UTC) Jun 1, 20:10 — ET: Jun 01, 04:10 PM EDT | Local: Jun 01, 04:10 PM EDT]]></description>
-  </item>
-  <item>
-    <title>Disney Dream Departed from Messina, Italy at Jun 01, 12:28 PM EDT. The local time to the port is Jun 01, 06:28 PM CEST</title>
-    <link>https://www.vesselfinder.com/ports/ITMSN001</link>
-    <guid isPermaLink="false">810ae84a1a197eaa9491e0eb24a52cd855fe286c</guid>
-    <pubDate>Mon, 01 Jun 2026 18:33:19 GMT</pubDate>
-    <description><![CDATA[Messina, Italy Departure (UTC) Jun 1, 16:28 — ET: Jun 01, 12:28 PM EDT | Local: Jun 01, 06:28 PM CEST]]></description>
   </item>
 </channel>
 </rss>
