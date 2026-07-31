@@ -220,6 +220,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Departed from Cape Canaveral, United States (USA) at Jul 31, 04:31 PM EDT. The local time to the port is Jul 31, 04:31 PM EDT",
+    "description": "Cape Canaveral, United States (USA) Departure (UTC) Jul 31, 20:31 — ET: Jul 31, 04:31 PM EDT | Local: Jul 31, 04:31 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "4c6db8cf97a72d0aa948ca6e93668d5f55b1858c",
+    "pubDate": "Fri, 31 Jul 2026 22:29:34 GMT",
+    "eventUtc": "2026-07-31T20:31:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Alesund, Norway at Jul 31, 12:39 PM EDT. The local time to the port is Jul 31, 06:39 PM CEST",
     "description": "Alesund, Norway Departure (UTC) Jul 31, 16:39 — ET: Jul 31, 12:39 PM EDT | Local: Jul 31, 06:39 PM CEST",
     "link": "https://www.vesselfinder.com/ports/NOAES001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-06-03T11:20:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Arrived at Cape Canaveral, United States (USA) at Jun 03, 05:36 AM EDT. The local time to the port is Jun 03, 05:36 AM EDT",
-    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Jun 3, 09:36 — ET: Jun 03, 05:36 AM EDT | Local: Jun 03, 05:36 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "7b235173e7855f564e586ada6ab3c0b95ad10191",
-    "pubDate": "Wed, 03 Jun 2026 12:05:13 GMT",
-    "eventUtc": "2026-06-03T09:36:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
     "source": "vf_ship"
   }
 ]
