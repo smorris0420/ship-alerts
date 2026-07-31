@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Vancouver, Canada at Jul 30, 08:05 PM EDT. The local time to the port is Jul 30, 05:05 PM PDT",
+    "description": "Vancouver, Canada Departure (UTC) Jul 31, 00:05 — ET: Jul 30, 08:05 PM EDT | Local: Jul 30, 05:05 PM PDT",
+    "link": "https://www.vesselfinder.com/ports/CAVAN001",
+    "guid": "b79b51738dde71cbf7e402ebe3489d2000a1e7ce",
+    "pubDate": "Fri, 31 Jul 2026 01:57:02 GMT",
+    "eventUtc": "2026-07-31T00:05:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Maloy, Norway at Jul 30, 12:25 PM EDT. The local time to the port is Jul 30, 06:25 PM CEST",
     "description": "Maloy, Norway Departure (UTC) Jul 30, 16:25 — ET: Jul 30, 12:25 PM EDT | Local: Jul 30, 06:25 PM CEST",
     "link": "https://www.vesselfinder.com/ports/NOMAY001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-06-02T11:39:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Departed from Gorda Cay, Bahamas at Jun 01, 09:14 PM EDT. The local time to the port is Jun 01, 09:14 PM EDT",
-    "description": "Gorda Cay, Bahamas Departure (UTC) Jun 2, 01:14 — ET: Jun 01, 09:14 PM EDT | Local: Jun 01, 09:14 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "1b9aa02be0521c16df1ca69936681af9a4d44b89",
-    "pubDate": "Tue, 02 Jun 2026 06:24:30 GMT",
-    "eventUtc": "2026-06-02T01:14:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
     "source": "vf_ship"
   }
 ]

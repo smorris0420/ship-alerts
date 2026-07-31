@@ -33,6 +33,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Vancouver, Canada at Jul 30, 08:05 PM EDT. The local time to the port is Jul 30, 05:05 PM PDT",
+    "description": "Vancouver, Canada Departure (UTC) Jul 31, 00:05 — ET: Jul 30, 08:05 PM EDT | Local: Jul 30, 05:05 PM PDT",
+    "link": "https://www.vesselfinder.com/ports/CAVAN001",
+    "guid": "b79b51738dde71cbf7e402ebe3489d2000a1e7ce",
+    "pubDate": "Fri, 31 Jul 2026 01:57:02 GMT",
+    "eventUtc": "2026-07-31T00:05:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Arrived at Vancouver, Canada at Jul 30, 10:06 AM EDT. The local time to the port is Jul 30, 07:06 AM PDT",
     "description": "Vancouver, Canada Arrival (UTC) Jul 30, 14:06 — ET: Jul 30, 10:06 AM EDT | Local: Jul 30, 07:06 AM PDT",
     "link": "https://www.vesselfinder.com/ports/CAVAN001",
@@ -2734,17 +2745,6 @@
     "guid": "fee12d629dd79072f74afbd745ae169c31c5d10b",
     "pubDate": "Wed, 10 Dec 2025 22:32:05 GMT",
     "eventUtc": "2025-12-10T00:15:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Arrived at Progreso, Mexico at Dec 09, 08:12 AM EST. The local time to the port is Dec 09, 08:12 AM EST",
-    "description": "Progreso, Mexico Arrival (UTC) Dec 9, 13:12 — ET: Dec 09, 08:12 AM EST | Local: Dec 09, 08:12 AM EST",
-    "link": "https://www.vesselfinder.com/ports/MXPGO001",
-    "guid": "18d5a084ed8bd531022eee73dc6aa838a5888dcb",
-    "pubDate": "Wed, 10 Dec 2025 22:32:04 GMT",
-    "eventUtc": "2025-12-09T13:12:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
     "source": "vf_ship"
