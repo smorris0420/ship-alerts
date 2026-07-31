@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Alesund, Norway at Jul 31, 12:03 AM EDT. The local time to the port is Jul 31, 06:03 AM CEST",
+    "description": "Alesund, Norway Arrival (UTC) Jul 31, 04:03 — ET: Jul 31, 12:03 AM EDT | Local: Jul 31, 06:03 AM CEST",
+    "link": "https://www.vesselfinder.com/ports/NOAES001",
+    "guid": "2570ce45bb60c2b7f6c1b62b8ebfc9b10433fdd4",
+    "pubDate": "Fri, 31 Jul 2026 05:36:44 GMT",
+    "eventUtc": "2026-07-31T04:03:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Departed from Vancouver, Canada at Jul 30, 08:05 PM EDT. The local time to the port is Jul 30, 05:05 PM PDT",
     "description": "Vancouver, Canada Departure (UTC) Jul 31, 00:05 — ET: Jul 30, 08:05 PM EDT | Local: Jul 30, 05:05 PM PDT",
     "link": "https://www.vesselfinder.com/ports/CAVAN001",
@@ -217,6 +228,17 @@
     "eventUtc": "2026-07-31T00:05:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Fantasy Departed from Gorda Cay, Bahamas at Jul 30, 04:43 PM EDT. The local time to the port is Jul 30, 04:43 PM EDT",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Jul 30, 20:43 — ET: Jul 30, 04:43 PM EDT | Local: Jul 30, 04:43 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "d779346d26d0aad49a7e12aafa930f8562d25a1b",
+    "pubDate": "Fri, 31 Jul 2026 05:35:47 GMT",
+    "eventUtc": "2026-07-30T20:43:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
     "source": "vf_ship"
   },
   {
@@ -239,6 +261,17 @@
     "eventUtc": "2026-07-30T14:06:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Fantasy Arrived at Gorda Cay, Bahamas at Jul 30, 07:01 AM EDT. The local time to the port is Jul 30, 07:01 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Jul 30, 11:01 — ET: Jul 30, 07:01 AM EDT | Local: Jul 30, 07:01 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "1b07e64d21e941991efa14fa3bef3a749876fbe8",
+    "pubDate": "Fri, 31 Jul 2026 05:35:45 GMT",
+    "eventUtc": "2026-07-30T11:01:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
     "source": "vf_ship"
   },
   {
@@ -5464,39 +5497,6 @@
     "eventUtc": "2026-06-02T21:24:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Departed from Gorda Cay, Bahamas at Jun 02, 04:57 PM EDT. The local time to the port is Jun 02, 04:57 PM EDT",
-    "description": "Gorda Cay, Bahamas Departure (UTC) Jun 2, 20:57 — ET: Jun 02, 04:57 PM EDT | Local: Jun 02, 04:57 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "df5d67c87a46e0890e27a7cda3899c86ebbf1e0e",
-    "pubDate": "Wed, 03 Jun 2026 02:07:56 GMT",
-    "eventUtc": "2026-06-02T20:57:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Arrived at Nassau, Bahamas at Jun 02, 08:59 AM EDT. The local time to the port is Jun 02, 08:59 AM EDT",
-    "description": "Nassau, Bahamas Arrival (UTC) Jun 2, 12:59 — ET: Jun 02, 08:59 AM EDT | Local: Jun 02, 08:59 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "62b5b2f64bc77fa199300c2f64128d49636ebd0a",
-    "pubDate": "Tue, 02 Jun 2026 15:03:15 GMT",
-    "eventUtc": "2026-06-02T12:59:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Arrived at Gorda Cay, Bahamas at Jun 02, 07:39 AM EDT. The local time to the port is Jun 02, 07:39 AM EDT",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) Jun 2, 11:39 — ET: Jun 02, 07:39 AM EDT | Local: Jun 02, 07:39 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "e96968d9c9c93de668076fd63a1cf53ba5ef5460",
-    "pubDate": "Tue, 02 Jun 2026 15:07:34 GMT",
-    "eventUtc": "2026-06-02T11:39:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
     "source": "vf_ship"
   }
 ]

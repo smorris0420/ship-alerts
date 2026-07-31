@@ -5,7 +5,7 @@
   <title>Disney Fantasy - Arrivals &amp; Departures</title>
   <link>https://www.vesselfinder.com/vessels/details/9445590</link>
   <description>Disney Fantasy - Arrivals &amp; Departures - Auto-generated</description>
-  <lastBuildDate>Fri, 31 Jul 2026 01:56:51 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 31 Jul 2026 05:35:49 GMT</lastBuildDate>
   
   <item>
     <title>Disney Fantasy Departed from Cape Canaveral, United States (USA) at Dec 31, 04:30 PM EST. The local time to the port is Dec 31, 04:30 PM EST</title>
@@ -20,6 +20,20 @@
     <guid isPermaLink="false">114ad0683b06ca4f09b1abc6fa7bd615202fa770</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:00 GMT</pubDate>
     <description><![CDATA[Cape Canaveral, United States (USA) Arrival (UTC) Dec 31, 10:38 — ET: Dec 31, 05:38 AM EST | Local: Dec 31, 05:38 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Fantasy Departed from Gorda Cay, Bahamas at Jul 30, 04:43 PM EDT. The local time to the port is Jul 30, 04:43 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
+    <guid isPermaLink="false">d779346d26d0aad49a7e12aafa930f8562d25a1b</guid>
+    <pubDate>Fri, 31 Jul 2026 05:35:47 GMT</pubDate>
+    <description><![CDATA[Gorda Cay, Bahamas Departure (UTC) Jul 30, 20:43 — ET: Jul 30, 04:43 PM EDT | Local: Jul 30, 04:43 PM EDT]]></description>
+  </item>
+  <item>
+    <title>Disney Fantasy Arrived at Gorda Cay, Bahamas at Jul 30, 07:01 AM EDT. The local time to the port is Jul 30, 07:01 AM EDT</title>
+    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
+    <guid isPermaLink="false">1b07e64d21e941991efa14fa3bef3a749876fbe8</guid>
+    <pubDate>Fri, 31 Jul 2026 05:35:45 GMT</pubDate>
+    <description><![CDATA[Gorda Cay, Bahamas Arrival (UTC) Jul 30, 11:01 — ET: Jul 30, 07:01 AM EDT | Local: Jul 30, 07:01 AM EDT]]></description>
   </item>
   <item>
     <title>Disney Fantasy Departed from Nassau, Bahamas at Jul 27, 06:10 PM EDT. The local time to the port is Jul 27, 06:10 PM EDT</title>
@@ -1742,20 +1756,6 @@
     <guid isPermaLink="false">7d3fdfea9e4e63bab01f800f8fa7fd7633c10a79</guid>
     <pubDate>Thu, 25 Dec 2025 16:01:03 GMT</pubDate>
     <description><![CDATA[Gorda Cay, Bahamas Arrival (UTC) Dec 23, 13:29 — ET: Dec 23, 08:29 AM EST | Local: Dec 23, 08:29 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Fantasy Departed from Nassau, Bahamas at Dec 22, 05:47 PM EST. The local time to the port is Dec 22, 05:47 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/BSNAS001</link>
-    <guid isPermaLink="false">cad374d933942e984fcbf201e25ce185f42d3f8b</guid>
-    <pubDate>Mon, 22 Dec 2025 22:55:55 GMT</pubDate>
-    <description><![CDATA[Nassau, Bahamas Departure (UTC) Dec 22, 22:47 — ET: Dec 22, 05:47 PM EST | Local: Dec 22, 05:47 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Fantasy Arrived at Nassau, Bahamas at Dec 22, 08:06 AM EST. The local time to the port is Dec 22, 08:06 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/BSNAS001</link>
-    <guid isPermaLink="false">786de7854aa6f6f8ac72c0f25a43e8e20137961e</guid>
-    <pubDate>Mon, 22 Dec 2025 13:57:50 GMT</pubDate>
-    <description><![CDATA[Nassau, Bahamas Arrival (UTC) Dec 22, 13:06 — ET: Dec 22, 08:06 AM EST | Local: Dec 22, 08:06 AM EST]]></description>
   </item>
 </channel>
 </rss>
