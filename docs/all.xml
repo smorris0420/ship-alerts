@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Fri, 31 Jul 2026 15:32:20 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 31 Jul 2026 17:10:32 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,13 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Dream Departed from Alesund, Norway at Jul 31, 12:39 PM EDT. The local time to the port is Jul 31, 06:39 PM CEST</title>
+    <link>https://www.vesselfinder.com/ports/NOAES001</link>
+    <guid isPermaLink="false">ced048078823ac53be5177ff09f752c10cf4332a</guid>
+    <pubDate>Fri, 31 Jul 2026 17:08:34 GMT</pubDate>
+    <description><![CDATA[Alesund, Norway Departure (UTC) Jul 31, 16:39 — ET: Jul 31, 12:39 PM EDT | Local: Jul 31, 06:39 PM CEST]]></description>
   </item>
   <item>
     <title>Disney Fantasy Arrived at Cape Canaveral, United States (USA) at Jul 31, 06:00 AM EDT. The local time to the port is Jul 31, 06:00 AM EDT</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">d5849e280cf98d89e8a9922249fbf3d51c5248f1</guid>
     <pubDate>Wed, 03 Jun 2026 07:05:44 GMT</pubDate>
     <description><![CDATA[Ketchikan, United States (USA) Departure (UTC) Jun 3, 03:11 — ET: Jun 02, 11:11 PM EDT | Local: Jun 02, 11:11 PM EDT]]></description>
-  </item>
-  <item>
-    <title>Disney Dream Arrived at Piraeus, Greece at Jun 02, 09:28 PM EDT. The local time to the port is Jun 03, 04:28 AM EEST</title>
-    <link>https://www.vesselfinder.com/ports/GRPIR001</link>
-    <guid isPermaLink="false">968388d768b5c83e9380f97bbe38c821692c6532</guid>
-    <pubDate>Wed, 03 Jun 2026 02:06:15 GMT</pubDate>
-    <description><![CDATA[Piraeus, Greece Arrival (UTC) Jun 3, 01:28 — ET: Jun 02, 09:28 PM EDT | Local: Jun 03, 04:28 AM EEST]]></description>
   </item>
 </channel>
 </rss>
