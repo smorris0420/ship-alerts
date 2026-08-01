@@ -220,6 +220,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Arrived at Nassau, Bahamas at Aug 01, 09:14 AM EDT. The local time to the port is Aug 01, 09:14 AM EDT",
+    "description": "Nassau, Bahamas Arrival (UTC) Aug 1, 13:14 — ET: Aug 01, 09:14 AM EDT | Local: Aug 01, 09:14 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "212f69e2ab2ed275dc5fcc9f962b217a607d9860",
+    "pubDate": "Sat, 01 Aug 2026 14:47:53 GMT",
+    "eventUtc": "2026-08-01T13:14:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Arrived at Port Everglades, United States (USA) at Aug 01, 06:04 AM EDT. The local time to the port is Aug 01, 06:04 AM EDT",
     "description": "Port Everglades, United States (USA) Arrival (UTC) Aug 1, 10:04 — ET: Aug 01, 06:04 AM EDT | Local: Aug 01, 06:04 AM EDT",
     "link": "https://www.vesselfinder.com/ports/USPEF001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-06-03T22:00:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Adventure Arrived at Singapore, Singapore at Jun 03, 05:21 PM EDT. The local time to the port is Jun 03, 05:21 PM EDT",
-    "description": "Singapore, Singapore Arrival (UTC) Jun 3, 21:21 — ET: Jun 03, 05:21 PM EDT | Local: Jun 03, 05:21 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/SGSIN001",
-    "guid": "3ffa19b22a2c5f694b58ffd69d09c0174fe032d3",
-    "pubDate": "Wed, 03 Jun 2026 22:41:32 GMT",
-    "eventUtc": "2026-06-03T21:21:00+00:00",
-    "shipSlug": "disney-adventure",
-    "shipName": "Disney Adventure",
     "source": "vf_ship"
   }
 ]
