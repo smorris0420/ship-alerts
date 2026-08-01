@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Departed from Port Everglades, United States (USA) at Aug 01, 04:33 PM EDT. The local time to the port is Aug 01, 04:33 PM EDT",
+    "description": "Port Everglades, United States (USA) Departure (UTC) Aug 1, 20:33 — ET: Aug 01, 04:33 PM EDT | Local: Aug 01, 04:33 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPEF001",
+    "guid": "93fc669b69b4df928465db8d844859c9e64cc840",
+    "pubDate": "Sat, 01 Aug 2026 21:07:29 GMT",
+    "eventUtc": "2026-08-01T20:33:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Arrived at Ketchikan, United States (USA) at Aug 01, 01:53 PM EDT. The local time to the port is Aug 01, 01:53 PM EDT",
     "description": "Ketchikan, United States (USA) Arrival (UTC) Aug 1, 17:53 — ET: Aug 01, 01:53 PM EDT | Local: Aug 01, 01:53 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USKTN001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-06-04T14:00:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Arrived at Gorda Cay, Bahamas at Jun 04, 09:22 AM EDT. The local time to the port is Jun 04, 09:22 AM EDT",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) Jun 4, 13:22 — ET: Jun 04, 09:22 AM EDT | Local: Jun 04, 09:22 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "cb663545c5a23296093590fad0ac008ae21cea13",
-    "pubDate": "Thu, 04 Jun 2026 21:58:25 GMT",
-    "eventUtc": "2026-06-04T13:22:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
     "source": "vf_ship"
   }
 ]
