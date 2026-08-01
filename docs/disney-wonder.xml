@@ -5,7 +5,7 @@
   <title>Disney Wonder - Arrivals &amp; Departures</title>
   <link>https://www.vesselfinder.com/vessels/details/9126819</link>
   <description>Disney Wonder - Arrivals &amp; Departures - Auto-generated</description>
-  <lastBuildDate>Sat, 01 Aug 2026 15:50:50 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 01 Aug 2026 16:45:13 GMT</lastBuildDate>
   
   <item>
     <title>Disney Wonder Departed from Hobart, Australia at Dec 31, 08:48 AM EST. The local time to the port is Jan 01, 12:48 AM AEDT</title>
@@ -20,6 +20,20 @@
     <guid isPermaLink="false">17aff6dc63c1d854034dba404a0bb7bbc9de0818</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:40 GMT</pubDate>
     <description><![CDATA[Hobart, Australia Arrival (UTC) Dec 30, 20:45 — ET: Dec 30, 03:45 PM EST | Local: Dec 31, 07:45 AM AEDT]]></description>
+  </item>
+  <item>
+    <title>Disney Wonder Departed from Juneau, United States (USA) at Jul 31, 09:17 PM EDT. The local time to the port is Jul 31, 09:17 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USJNU001</link>
+    <guid isPermaLink="false">69f1e1783374d8fd454098f68eca211857557c16</guid>
+    <pubDate>Sat, 01 Aug 2026 16:45:12 GMT</pubDate>
+    <description><![CDATA[Juneau, United States (USA) Departure (UTC) Aug 1, 01:17 — ET: Jul 31, 09:17 PM EDT | Local: Jul 31, 09:17 PM EDT]]></description>
+  </item>
+  <item>
+    <title>Disney Wonder Arrived at Juneau, United States (USA) at Jul 31, 10:03 AM EDT. The local time to the port is Jul 31, 10:03 AM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USJNU001</link>
+    <guid isPermaLink="false">37966b062a994776ff7584272a1a73f8507d30e2</guid>
+    <pubDate>Sat, 01 Aug 2026 16:45:10 GMT</pubDate>
+    <description><![CDATA[Juneau, United States (USA) Arrival (UTC) Jul 31, 14:03 — ET: Jul 31, 10:03 AM EDT | Local: Jul 31, 10:03 AM EDT]]></description>
   </item>
   <item>
     <title>Disney Wonder Departed from Vancouver, Canada at Jul 27, 06:57 PM EDT. The local time to the port is Jul 27, 03:57 PM PDT</title>
@@ -1742,20 +1756,6 @@
     <guid isPermaLink="false">245a9397e7fff9c46e08e77b4a89bd26dda6dcfe</guid>
     <pubDate>Thu, 11 Dec 2025 10:56:06 GMT</pubDate>
     <description><![CDATA[Auckland, New Zealand Departure (UTC) Dec 13, 03:00 — ET: Dec 12, 10:00 PM EST | Local: Dec 13, 04:00 PM NZDT]]></description>
-  </item>
-  <item>
-    <title>Disney Wonder Arrived at Auckland, New Zealand at Dec 12, 10:00 PM EST. The local time to the port is Dec 13, 04:00 PM NZDT</title>
-    <link>https://www.vesselfinder.com/ports/NZAKL001</link>
-    <guid isPermaLink="false">f570e1deaa6c875b36413c02b14deb96386a176e</guid>
-    <pubDate>Thu, 11 Dec 2025 10:56:07 GMT</pubDate>
-    <description><![CDATA[Auckland, New Zealand Arrival (UTC) Dec 13, 03:00 — ET: Dec 12, 10:00 PM EST | Local: Dec 13, 04:00 PM NZDT]]></description>
-  </item>
-  <item>
-    <title>Disney Wonder Departed from Auckland, New Zealand at Dec 11, 10:00 PM EST. The local time to the port is Dec 12, 04:00 PM NZDT</title>
-    <link>https://www.vesselfinder.com/ports/NZAKL001</link>
-    <guid isPermaLink="false">a3a2d6679657c4f6780333d301913383ba7b9c94</guid>
-    <pubDate>Thu, 11 Dec 2025 09:17:58 GMT</pubDate>
-    <description><![CDATA[Auckland, New Zealand Departure (UTC) Dec 12, 03:00 — ET: Dec 11, 10:00 PM EST | Local: Dec 12, 04:00 PM NZDT]]></description>
   </item>
 </channel>
 </rss>

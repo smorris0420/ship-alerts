@@ -264,6 +264,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Departed from Juneau, United States (USA) at Jul 31, 09:17 PM EDT. The local time to the port is Jul 31, 09:17 PM EDT",
+    "description": "Juneau, United States (USA) Departure (UTC) Aug 1, 01:17 — ET: Jul 31, 09:17 PM EDT | Local: Jul 31, 09:17 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USJNU001",
+    "guid": "69f1e1783374d8fd454098f68eca211857557c16",
+    "pubDate": "Sat, 01 Aug 2026 16:45:12 GMT",
+    "eventUtc": "2026-08-01T01:17:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Departed from Gorda Cay, Bahamas at Jul 31, 05:04 PM EDT. The local time to the port is Jul 31, 05:04 PM EDT",
     "description": "Gorda Cay, Bahamas Departure (UTC) Jul 31, 21:04 — ET: Jul 31, 05:04 PM EDT | Local: Jul 31, 05:04 PM EDT",
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
@@ -305,6 +316,17 @@
     "eventUtc": "2026-07-31T16:39:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Wonder Arrived at Juneau, United States (USA) at Jul 31, 10:03 AM EDT. The local time to the port is Jul 31, 10:03 AM EDT",
+    "description": "Juneau, United States (USA) Arrival (UTC) Jul 31, 14:03 — ET: Jul 31, 10:03 AM EDT | Local: Jul 31, 10:03 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USJNU001",
+    "guid": "37966b062a994776ff7584272a1a73f8507d30e2",
+    "pubDate": "Sat, 01 Aug 2026 16:45:10 GMT",
+    "eventUtc": "2026-07-31T14:03:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
     "source": "vf_ship"
   },
   {
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-06-04T09:04:00+00:00",
     "shipSlug": "disney-adventure",
     "shipName": "Disney Adventure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Falmouth, Jamaica at Jun 03, 06:41 PM EDT. The local time to the port is Jun 03, 05:41 PM EST",
-    "description": "Falmouth, Jamaica Departure (UTC) Jun 3, 22:41 — ET: Jun 03, 06:41 PM EDT | Local: Jun 03, 05:41 PM EST",
-    "link": "https://www.vesselfinder.com/ports/JMFMH001",
-    "guid": "a59b6a044fdc4598011ee613afb778ea4c5ded97",
-    "pubDate": "Thu, 04 Jun 2026 20:19:54 GMT",
-    "eventUtc": "2026-06-03T22:41:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Departed from Nassau, Bahamas at Jun 03, 06:00 PM EDT. The local time to the port is Jun 03, 06:00 PM EDT",
-    "description": "Nassau, Bahamas Departure (UTC) Jun 3, 22:00 — ET: Jun 03, 06:00 PM EDT | Local: Jun 03, 06:00 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "ef231d6c44da3694a2c0f38fac360e6035f7dcd2",
-    "pubDate": "Wed, 03 Jun 2026 22:41:40 GMT",
-    "eventUtc": "2026-06-03T22:00:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
     "source": "vf_ship"
   }
 ]
