@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Bergen, Norway at Aug 01, 12:04 AM EDT. The local time to the port is Aug 01, 06:04 AM CEST",
+    "description": "Bergen, Norway Arrival (UTC) Aug 1, 04:04 — ET: Aug 01, 12:04 AM EDT | Local: Aug 01, 06:04 AM CEST",
+    "link": "https://www.vesselfinder.com/ports/NOBGO001",
+    "guid": "8b12af2902e1a35b4d99060311b2657ca8f3e9cf",
+    "pubDate": "Sat, 01 Aug 2026 07:12:58 GMT",
+    "eventUtc": "2026-08-01T04:04:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Departed from Gorda Cay, Bahamas at Jul 31, 05:04 PM EDT. The local time to the port is Jul 31, 05:04 PM EDT",
     "description": "Gorda Cay, Bahamas Departure (UTC) Jul 31, 21:04 — ET: Jul 31, 05:04 PM EDT | Local: Jul 31, 05:04 PM EDT",
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-06-03T17:29:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Falmouth, Jamaica at Jun 03, 08:25 AM EDT. The local time to the port is Jun 03, 07:25 AM EST",
-    "description": "Falmouth, Jamaica Arrival (UTC) Jun 3, 12:25 — ET: Jun 03, 08:25 AM EDT | Local: Jun 03, 07:25 AM EST",
-    "link": "https://www.vesselfinder.com/ports/JMFMH001",
-    "guid": "081231852afcd30d719527c52f98eaee508f49c1",
-    "pubDate": "Thu, 04 Jun 2026 20:19:53 GMT",
-    "eventUtc": "2026-06-03T12:25:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]

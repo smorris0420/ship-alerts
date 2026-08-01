@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Bergen, Norway at Aug 01, 12:04 AM EDT. The local time to the port is Aug 01, 06:04 AM CEST",
+    "description": "Bergen, Norway Arrival (UTC) Aug 1, 04:04 — ET: Aug 01, 12:04 AM EDT | Local: Aug 01, 06:04 AM CEST",
+    "link": "https://www.vesselfinder.com/ports/NOBGO001",
+    "guid": "8b12af2902e1a35b4d99060311b2657ca8f3e9cf",
+    "pubDate": "Sat, 01 Aug 2026 07:12:58 GMT",
+    "eventUtc": "2026-08-01T04:04:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Alesund, Norway at Jul 31, 12:39 PM EDT. The local time to the port is Jul 31, 06:39 PM CEST",
     "description": "Alesund, Norway Departure (UTC) Jul 31, 16:39 — ET: Jul 31, 12:39 PM EDT | Local: Jul 31, 06:39 PM CEST",
     "link": "https://www.vesselfinder.com/ports/NOAES001",
@@ -2734,17 +2745,6 @@
     "guid": "86d057fed30fa8df7263af066652480edc3f16a8",
     "pubDate": "Sun, 25 Jan 2026 22:45:42 GMT",
     "eventUtc": "2026-01-25T22:42:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Arrived at Nassau, Bahamas at Jan 25, 07:32 AM EST. The local time to the port is Jan 25, 07:32 AM EST",
-    "description": "Nassau, Bahamas Arrival (UTC) Jan 25, 12:32 — ET: Jan 25, 07:32 AM EST | Local: Jan 25, 07:32 AM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "5b970122df4970d712c87abd6713f2c62da286f1",
-    "pubDate": "Sun, 25 Jan 2026 13:28:33 GMT",
-    "eventUtc": "2026-01-25T12:32:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
     "source": "vf_ship"

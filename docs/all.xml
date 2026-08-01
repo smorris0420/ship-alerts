@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Sat, 01 Aug 2026 04:40:25 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 01 Aug 2026 07:15:10 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,13 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Dream Arrived at Bergen, Norway at Aug 01, 12:04 AM EDT. The local time to the port is Aug 01, 06:04 AM CEST</title>
+    <link>https://www.vesselfinder.com/ports/NOBGO001</link>
+    <guid isPermaLink="false">8b12af2902e1a35b4d99060311b2657ca8f3e9cf</guid>
+    <pubDate>Sat, 01 Aug 2026 07:12:58 GMT</pubDate>
+    <description><![CDATA[Bergen, Norway Arrival (UTC) Aug 1, 04:04 — ET: Aug 01, 12:04 AM EDT | Local: Aug 01, 06:04 AM CEST]]></description>
   </item>
   <item>
     <title>Disney Treasure Departed from Gorda Cay, Bahamas at Jul 31, 05:04 PM EDT. The local time to the port is Jul 31, 05:04 PM EDT</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">cbd14c61ed12e6b4c4ffca9190dbb0684c3ca7cb</guid>
     <pubDate>Wed, 03 Jun 2026 20:30:22 GMT</pubDate>
     <description><![CDATA[Piraeus, Greece Departure (UTC) Jun 3, 17:29 — ET: Jun 03, 01:29 PM EDT | Local: Jun 03, 08:29 PM EEST]]></description>
-  </item>
-  <item>
-    <title>Disney Treasure Arrived at Falmouth, Jamaica at Jun 03, 08:25 AM EDT. The local time to the port is Jun 03, 07:25 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/JMFMH001</link>
-    <guid isPermaLink="false">081231852afcd30d719527c52f98eaee508f49c1</guid>
-    <pubDate>Thu, 04 Jun 2026 20:19:53 GMT</pubDate>
-    <description><![CDATA[Falmouth, Jamaica Arrival (UTC) Jun 3, 12:25 — ET: Jun 03, 08:25 AM EDT | Local: Jun 03, 07:25 AM EST]]></description>
   </item>
 </channel>
 </rss>
