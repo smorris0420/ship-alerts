@@ -5,7 +5,7 @@
   <title>Disney Wonder - Arrivals &amp; Departures</title>
   <link>https://www.vesselfinder.com/vessels/details/9126819</link>
   <description>Disney Wonder - Arrivals &amp; Departures - Auto-generated</description>
-  <lastBuildDate>Sat, 01 Aug 2026 17:48:10 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 01 Aug 2026 18:46:52 GMT</lastBuildDate>
   
   <item>
     <title>Disney Wonder Departed from Hobart, Australia at Dec 31, 08:48 AM EST. The local time to the port is Jan 01, 12:48 AM AEDT</title>
@@ -20,6 +20,13 @@
     <guid isPermaLink="false">17aff6dc63c1d854034dba404a0bb7bbc9de0818</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:40 GMT</pubDate>
     <description><![CDATA[Hobart, Australia Arrival (UTC) Dec 30, 20:45 — ET: Dec 30, 03:45 PM EST | Local: Dec 31, 07:45 AM AEDT]]></description>
+  </item>
+  <item>
+    <title>Disney Wonder Arrived at Ketchikan, United States (USA) at Aug 01, 01:53 PM EDT. The local time to the port is Aug 01, 01:53 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USKTN001</link>
+    <guid isPermaLink="false">7c2c70d5b777ab52a6d57253ed7b9b74b1ef8ab4</guid>
+    <pubDate>Sat, 01 Aug 2026 18:46:50 GMT</pubDate>
+    <description><![CDATA[Ketchikan, United States (USA) Arrival (UTC) Aug 1, 17:53 — ET: Aug 01, 01:53 PM EDT | Local: Aug 01, 01:53 PM EDT]]></description>
   </item>
   <item>
     <title>Disney Wonder Departed from Juneau, United States (USA) at Jul 31, 09:17 PM EDT. The local time to the port is Jul 31, 09:17 PM EDT</title>
@@ -1749,13 +1756,6 @@
     <guid isPermaLink="false">a7b8490b1954550986540d42b5904d5046588b05</guid>
     <pubDate>Sat, 13 Dec 2025 17:47:03 GMT</pubDate>
     <description><![CDATA[Auckland, New Zealand Arrival (UTC) Dec 13, 17:13 — ET: Dec 13, 12:13 PM EST | Local: Dec 14, 06:13 AM NZDT]]></description>
-  </item>
-  <item>
-    <title>Disney Wonder Departed from Auckland, New Zealand at Dec 12, 10:00 PM EST. The local time to the port is Dec 13, 04:00 PM NZDT</title>
-    <link>https://www.vesselfinder.com/ports/NZAKL001</link>
-    <guid isPermaLink="false">245a9397e7fff9c46e08e77b4a89bd26dda6dcfe</guid>
-    <pubDate>Thu, 11 Dec 2025 10:56:06 GMT</pubDate>
-    <description><![CDATA[Auckland, New Zealand Departure (UTC) Dec 13, 03:00 — ET: Dec 12, 10:00 PM EST | Local: Dec 13, 04:00 PM NZDT]]></description>
   </item>
 </channel>
 </rss>
