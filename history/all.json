@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Bergen, Norway at Aug 01, 09:38 AM EDT. The local time to the port is Aug 01, 03:38 PM CEST",
+    "description": "Bergen, Norway Departure (UTC) Aug 1, 13:38 — ET: Aug 01, 09:38 AM EDT | Local: Aug 01, 03:38 PM CEST",
+    "link": "https://www.vesselfinder.com/ports/NOBGO001",
+    "guid": "b73fdfb26450ca0c92167349f84a9822724cc6db",
+    "pubDate": "Sat, 01 Aug 2026 13:48:29 GMT",
+    "eventUtc": "2026-08-01T13:38:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Arrived at Port Everglades, United States (USA) at Aug 01, 06:04 AM EDT. The local time to the port is Aug 01, 06:04 AM EDT",
     "description": "Port Everglades, United States (USA) Arrival (UTC) Aug 1, 10:04 — ET: Aug 01, 06:04 AM EDT | Local: Aug 01, 06:04 AM EDT",
     "link": "https://www.vesselfinder.com/ports/USPEF001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-06-03T21:21:00+00:00",
     "shipSlug": "disney-adventure",
     "shipName": "Disney Adventure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Departed from Gorda Cay, Bahamas at Jun 03, 04:58 PM EDT. The local time to the port is Jun 03, 04:58 PM EDT",
-    "description": "Gorda Cay, Bahamas Departure (UTC) Jun 3, 20:58 — ET: Jun 03, 04:58 PM EDT | Local: Jun 03, 04:58 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "d15127eeb2b8147fc97f795e027f0bafc9c76cae",
-    "pubDate": "Wed, 03 Jun 2026 22:38:28 GMT",
-    "eventUtc": "2026-06-03T20:58:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
     "source": "vf_ship"
   }
 ]
