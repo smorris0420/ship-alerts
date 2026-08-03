@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Arrived at Hoonah, United States (USA) at Aug 03, 10:02 AM EDT. The local time to the port is Aug 03, 10:02 AM EDT",
+    "description": "Hoonah, United States (USA) Arrival (UTC) Aug 3, 14:02 — ET: Aug 03, 10:02 AM EDT | Local: Aug 03, 10:02 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USHNH001",
+    "guid": "3c2b9cf9cdda26f745b43091cdd4c83fc5924f7c",
+    "pubDate": "Mon, 03 Aug 2026 16:42:09 GMT",
+    "eventUtc": "2026-08-03T14:02:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Wonder Arrived at Vancouver, Canada at Aug 03, 09:59 AM EDT. The local time to the port is Aug 03, 06:59 AM PDT",
+    "description": "Vancouver, Canada Arrival (UTC) Aug 3, 13:59 — ET: Aug 03, 09:59 AM EDT | Local: Aug 03, 06:59 AM PDT",
+    "link": "https://www.vesselfinder.com/ports/CAVAN001",
+    "guid": "0acf251a87d57edb46afcd3a62521b261c85661f",
+    "pubDate": "Mon, 03 Aug 2026 16:42:56 GMT",
+    "eventUtc": "2026-08-03T13:59:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Arrived at Cozumel, Mexico at Aug 03, 08:16 AM EDT. The local time to the port is Aug 03, 07:16 AM EST",
     "description": "Cozumel, Mexico Arrival (UTC) Aug 3, 12:16 — ET: Aug 03, 08:16 AM EDT | Local: Aug 03, 07:16 AM EST",
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-06-06T18:04:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Arrived at Nassau, Bahamas at Jun 06, 09:16 AM EDT. The local time to the port is Jun 06, 09:16 AM EDT",
-    "description": "Nassau, Bahamas Arrival (UTC) Jun 6, 13:16 — ET: Jun 06, 09:16 AM EDT | Local: Jun 06, 09:16 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "4fe971b71a7a2ef17deed35a96ed30f72ef2ff31",
-    "pubDate": "Sun, 07 Jun 2026 02:00:38 GMT",
-    "eventUtc": "2026-06-06T13:16:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Souda, Greece at Jun 06, 07:41 AM EDT. The local time to the port is Jun 06, 02:41 PM EEST",
-    "description": "Souda, Greece Departure (UTC) Jun 6, 11:41 — ET: Jun 06, 07:41 AM EDT | Local: Jun 06, 02:41 PM EEST",
-    "link": "https://www.vesselfinder.com/ports/GRSDH001",
-    "guid": "3fe41079c8879726a3c1d8bb7412212811b496d4",
-    "pubDate": "Sat, 06 Jun 2026 12:18:05 GMT",
-    "eventUtc": "2026-06-06T11:41:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
     "source": "vf_ship"
   }
 ]
