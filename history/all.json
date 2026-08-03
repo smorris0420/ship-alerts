@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Southampton, United Kingdom (UK) at Aug 03, 01:37 AM EDT. The local time to the port is Aug 03, 06:37 AM BST",
+    "description": "Southampton, United Kingdom (UK) Arrival (UTC) Aug 3, 05:37 — ET: Aug 03, 01:37 AM EDT | Local: Aug 03, 06:37 AM BST",
+    "link": "https://www.vesselfinder.com/ports/GBSOU001",
+    "guid": "79226d9d85d9efbd789cfc967cee10e49c50dedd",
+    "pubDate": "Mon, 03 Aug 2026 08:23:53 GMT",
+    "eventUtc": "2026-08-03T05:37:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Arrived at Singapore, Singapore at Aug 02, 05:16 PM EDT. The local time to the port is Aug 02, 05:16 PM EDT",
     "description": "Singapore, Singapore Arrival (UTC) Aug 2, 21:16 — ET: Aug 02, 05:16 PM EDT | Local: Aug 02, 05:16 PM EDT",
     "link": "https://www.vesselfinder.com/ports/SGSIN001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-06-05T20:43:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Mykonos, Greece at Jun 05, 11:24 AM EDT. The local time to the port is Jun 05, 06:24 PM EEST",
-    "description": "Mykonos, Greece Departure (UTC) Jun 5, 15:24 — ET: Jun 05, 11:24 AM EDT | Local: Jun 05, 06:24 PM EEST",
-    "link": "https://www.vesselfinder.com/ports/GRJMK001",
-    "guid": "0c07cc120fa0944bc61fa5a68c29c61e7f53a3fc",
-    "pubDate": "Fri, 05 Jun 2026 16:14:52 GMT",
-    "eventUtc": "2026-06-05T15:24:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
     "source": "vf_ship"
   }
 ]
