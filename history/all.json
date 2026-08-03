@@ -220,6 +220,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Departed from Gorda Cay, Bahamas at Aug 02, 04:57 PM EDT. The local time to the port is Aug 02, 04:57 PM EDT",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Aug 2, 20:57 — ET: Aug 02, 04:57 PM EDT | Local: Aug 02, 04:57 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "e458df4738553c8f4aa6bae3a6c4565ff84e7c08",
+    "pubDate": "Mon, 03 Aug 2026 04:51:56 GMT",
+    "eventUtc": "2026-08-02T20:57:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Wish Arrived at Gorda Cay, Bahamas at Aug 02, 07:04 AM EDT. The local time to the port is Aug 02, 07:04 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Aug 2, 11:04 — ET: Aug 02, 07:04 AM EDT | Local: Aug 02, 07:04 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "99ac7e8a7dfd1c17144525a3bf17ef434781627a",
+    "pubDate": "Mon, 03 Aug 2026 04:51:55 GMT",
+    "eventUtc": "2026-08-02T11:04:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Departed from Ketchikan, United States (USA) at Aug 01, 11:07 PM EDT. The local time to the port is Aug 01, 11:07 PM EDT",
     "description": "Ketchikan, United States (USA) Departure (UTC) Aug 2, 03:07 — ET: Aug 01, 11:07 PM EDT | Local: Aug 01, 11:07 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USKTN001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-06-05T15:24:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Gorda Cay, Bahamas at Jun 05, 07:18 AM EDT. The local time to the port is Jun 05, 07:18 AM EDT",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) Jun 5, 11:18 — ET: Jun 05, 07:18 AM EDT | Local: Jun 05, 07:18 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "4708f31f77c0c8ac920d78d42a5102206a3e43e6",
-    "pubDate": "Sat, 06 Jun 2026 04:01:24 GMT",
-    "eventUtc": "2026-06-05T11:18:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Arrived at Cape Canaveral, United States (USA) at Jun 05, 05:51 AM EDT. The local time to the port is Jun 05, 05:51 AM EDT",
-    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Jun 5, 09:51 — ET: Jun 05, 05:51 AM EDT | Local: Jun 05, 05:51 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "916efac73a6035e3c10ab5e75c3979a173b3c0b2",
-    "pubDate": "Fri, 05 Jun 2026 13:24:50 GMT",
-    "eventUtc": "2026-06-05T09:51:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
     "source": "vf_ship"
   }
 ]
