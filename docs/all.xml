@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Mon, 03 Aug 2026 08:26:06 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 03 Aug 2026 11:54:59 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -141,11 +141,32 @@
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
   </item>
   <item>
+    <title>Disney Wish Arrived at Cape Canaveral, United States (USA) at Aug 03, 06:02 AM EDT. The local time to the port is Aug 03, 06:02 AM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USPCV001</link>
+    <guid isPermaLink="false">127768f15a49ec6aec46ccf2ff57002ce246dd07</guid>
+    <pubDate>Mon, 03 Aug 2026 11:50:57 GMT</pubDate>
+    <description><![CDATA[Cape Canaveral, United States (USA) Arrival (UTC) Aug 3, 10:02 — ET: Aug 03, 06:02 AM EDT | Local: Aug 03, 06:02 AM EDT]]></description>
+  </item>
+  <item>
+    <title>Disney Adventure Departed from Singapore, Singapore at Aug 03, 05:14 AM EDT. The local time to the port is Aug 03, 05:14 AM EDT</title>
+    <link>https://www.vesselfinder.com/ports/SGSIN001</link>
+    <guid isPermaLink="false">6eb18e7e009dc0f712652f54d7636003be125b9c</guid>
+    <pubDate>Mon, 03 Aug 2026 11:54:12 GMT</pubDate>
+    <description><![CDATA[Singapore, Singapore Departure (UTC) Aug 3, 09:14 — ET: Aug 03, 05:14 AM EDT | Local: Aug 03, 05:14 AM EDT]]></description>
+  </item>
+  <item>
     <title>Disney Dream Arrived at Southampton, United Kingdom (UK) at Aug 03, 01:37 AM EDT. The local time to the port is Aug 03, 06:37 AM BST</title>
     <link>https://www.vesselfinder.com/ports/GBSOU001</link>
     <guid isPermaLink="false">79226d9d85d9efbd789cfc967cee10e49c50dedd</guid>
     <pubDate>Mon, 03 Aug 2026 08:23:53 GMT</pubDate>
     <description><![CDATA[Southampton, United Kingdom (UK) Arrival (UTC) Aug 3, 05:37 — ET: Aug 03, 01:37 AM EDT | Local: Aug 03, 06:37 AM BST]]></description>
+  </item>
+  <item>
+    <title>Disney Magic Departed from Skagway, United States (USA) at Aug 03, 12:53 AM EDT. The local time to the port is Aug 03, 12:53 AM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USSGY001</link>
+    <guid isPermaLink="false">61fc7be112c89ee3bcb3da3214b2fdc1bb690dad</guid>
+    <pubDate>Mon, 03 Aug 2026 11:52:39 GMT</pubDate>
+    <description><![CDATA[Skagway, United States (USA) Departure (UTC) Aug 3, 04:53 — ET: Aug 03, 12:53 AM EDT | Local: Aug 03, 12:53 AM EDT]]></description>
   </item>
   <item>
     <title>Disney Adventure Arrived at Singapore, Singapore at Aug 02, 05:16 PM EDT. The local time to the port is Aug 02, 05:16 PM EDT</title>
@@ -160,6 +181,13 @@
     <guid isPermaLink="false">e458df4738553c8f4aa6bae3a6c4565ff84e7c08</guid>
     <pubDate>Mon, 03 Aug 2026 04:51:56 GMT</pubDate>
     <description><![CDATA[Gorda Cay, Bahamas Departure (UTC) Aug 2, 20:57 — ET: Aug 02, 04:57 PM EDT | Local: Aug 02, 04:57 PM EDT]]></description>
+  </item>
+  <item>
+    <title>Disney Magic Arrived at Skagway, United States (USA) at Aug 02, 09:11 AM EDT. The local time to the port is Aug 02, 09:11 AM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USSGY001</link>
+    <guid isPermaLink="false">8ca95adf734d22f1837b02d52b626c4a6590b972</guid>
+    <pubDate>Mon, 03 Aug 2026 11:52:38 GMT</pubDate>
+    <description><![CDATA[Skagway, United States (USA) Arrival (UTC) Aug 2, 13:11 — ET: Aug 02, 09:11 AM EDT | Local: Aug 02, 09:11 AM EDT]]></description>
   </item>
   <item>
     <title>Disney Wish Arrived at Gorda Cay, Bahamas at Aug 02, 07:04 AM EDT. The local time to the port is Aug 02, 07:04 AM EDT</title>
@@ -3478,34 +3506,6 @@
     <guid isPermaLink="false">3fd1c777d4d467cb2830df1b0e03a35041d14faa</guid>
     <pubDate>Sat, 06 Jun 2026 11:07:37 GMT</pubDate>
     <description><![CDATA[Cape Canaveral, United States (USA) Arrival (UTC) Jun 6, 10:02 — ET: Jun 06, 06:02 AM EDT | Local: Jun 06, 06:02 AM EDT]]></description>
-  </item>
-  <item>
-    <title>Disney Destiny Arrived at Port Everglades, United States (USA) at Jun 06, 05:08 AM EDT. The local time to the port is Jun 06, 05:08 AM EDT</title>
-    <link>https://www.vesselfinder.com/ports/USPEF001</link>
-    <guid isPermaLink="false">308550e492a5c379ba9202e869556a202b6e2094</guid>
-    <pubDate>Sat, 06 Jun 2026 11:11:16 GMT</pubDate>
-    <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) Jun 6, 09:08 — ET: Jun 06, 05:08 AM EDT | Local: Jun 06, 05:08 AM EDT]]></description>
-  </item>
-  <item>
-    <title>Disney Dream Arrived at Souda, Greece at Jun 05, 11:34 PM EDT. The local time to the port is Jun 06, 06:34 AM EEST</title>
-    <link>https://www.vesselfinder.com/ports/GRSDH001</link>
-    <guid isPermaLink="false">2ff70965ac26b02c44b126665b01d33a736f4fe5</guid>
-    <pubDate>Sat, 06 Jun 2026 07:24:10 GMT</pubDate>
-    <description><![CDATA[Souda, Greece Arrival (UTC) Jun 6, 03:34 — ET: Jun 05, 11:34 PM EDT | Local: Jun 06, 06:34 AM EEST]]></description>
-  </item>
-  <item>
-    <title>Disney Treasure Departed from Gorda Cay, Bahamas at Jun 05, 04:55 PM EDT. The local time to the port is Jun 05, 04:55 PM EDT</title>
-    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
-    <guid isPermaLink="false">04ab6d3a188bac2d06e79f1551dce88c89bae919</guid>
-    <pubDate>Sat, 06 Jun 2026 04:01:25 GMT</pubDate>
-    <description><![CDATA[Gorda Cay, Bahamas Departure (UTC) Jun 5, 20:55 — ET: Jun 05, 04:55 PM EDT | Local: Jun 05, 04:55 PM EDT]]></description>
-  </item>
-  <item>
-    <title>Disney Wish Departed from Cape Canaveral, United States (USA) at Jun 05, 04:43 PM EDT. The local time to the port is Jun 05, 04:43 PM EDT</title>
-    <link>https://www.vesselfinder.com/ports/USPCV001</link>
-    <guid isPermaLink="false">389ac401b0598a0e6f46017c5de90da8ed6c9cfd</guid>
-    <pubDate>Fri, 05 Jun 2026 21:47:47 GMT</pubDate>
-    <description><![CDATA[Cape Canaveral, United States (USA) Departure (UTC) Jun 5, 20:43 — ET: Jun 05, 04:43 PM EDT | Local: Jun 05, 04:43 PM EDT]]></description>
   </item>
 </channel>
 </rss>
