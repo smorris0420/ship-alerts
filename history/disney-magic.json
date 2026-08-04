@@ -33,6 +33,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Hoonah, United States (USA) at Aug 03, 09:12 PM EDT. The local time to the port is Aug 03, 09:12 PM EDT",
+    "description": "Hoonah, United States (USA) Departure (UTC) Aug 4, 01:12 — ET: Aug 03, 09:12 PM EDT | Local: Aug 03, 09:12 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USHNH001",
+    "guid": "35bf68205ae44c35b3dad7a4a00990a1c201ebda",
+    "pubDate": "Tue, 04 Aug 2026 04:31:51 GMT",
+    "eventUtc": "2026-08-04T01:12:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Arrived at Hoonah, United States (USA) at Aug 03, 10:02 AM EDT. The local time to the port is Aug 03, 10:02 AM EDT",
     "description": "Hoonah, United States (USA) Arrival (UTC) Aug 3, 14:02 — ET: Aug 03, 10:02 AM EDT | Local: Aug 03, 10:02 AM EDT",
     "link": "https://www.vesselfinder.com/ports/USHNH001",
@@ -2737,16 +2748,5 @@
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
     "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Galveston, United States (USA) at Dec 11, 11:00 AM EST. The local time to the port is Dec 11, 11:00 AM EST",
-    "description": "Galveston, United States (USA) Departure (UTC) Dec 11, 16:00 — ET: Dec 11, 11:00 AM EST | Local: Dec 11, 11:00 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USGLS001",
-    "guid": "b7986e60d5eb067e95af09b985ea80b666a8f9f8",
-    "pubDate": "Tue, 09 Dec 2025 18:48:49 GMT",
-    "eventUtc": "2025-12-11T16:00:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
-    "source": "vf_port"
   }
 ]

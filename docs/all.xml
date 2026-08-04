@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Tue, 04 Aug 2026 01:14:06 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 04 Aug 2026 04:34:41 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,13 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Magic Departed from Hoonah, United States (USA) at Aug 03, 09:12 PM EDT. The local time to the port is Aug 03, 09:12 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USHNH001</link>
+    <guid isPermaLink="false">35bf68205ae44c35b3dad7a4a00990a1c201ebda</guid>
+    <pubDate>Tue, 04 Aug 2026 04:31:51 GMT</pubDate>
+    <description><![CDATA[Hoonah, United States (USA) Departure (UTC) Aug 4, 01:12 — ET: Aug 03, 09:12 PM EDT | Local: Aug 03, 09:12 PM EDT]]></description>
   </item>
   <item>
     <title>Disney Wonder Departed from Vancouver, Canada at Aug 03, 07:57 PM EDT. The local time to the port is Aug 03, 04:57 PM PDT</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">a01caa85a7602f5742ccf774f426afa5717d476c</guid>
     <pubDate>Sun, 07 Jun 2026 09:51:26 GMT</pubDate>
     <description><![CDATA[Cape Canaveral, United States (USA) Arrival (UTC) Jun 7, 08:22 — ET: Jun 07, 04:22 AM EDT | Local: Jun 07, 04:22 AM EDT]]></description>
-  </item>
-  <item>
-    <title>Disney Wonder Departed from Ketchikan, United States (USA) at Jun 06, 11:14 PM EDT. The local time to the port is Jun 06, 11:14 PM EDT</title>
-    <link>https://www.vesselfinder.com/ports/USKTN001</link>
-    <guid isPermaLink="false">3ab5264399d230804bbb1a44e6abbae7ea1f43de</guid>
-    <pubDate>Sun, 07 Jun 2026 06:42:48 GMT</pubDate>
-    <description><![CDATA[Ketchikan, United States (USA) Departure (UTC) Jun 7, 03:14 — ET: Jun 06, 11:14 PM EDT | Local: Jun 06, 11:14 PM EDT]]></description>
   </item>
 </channel>
 </rss>

@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Hoonah, United States (USA) at Aug 03, 09:12 PM EDT. The local time to the port is Aug 03, 09:12 PM EDT",
+    "description": "Hoonah, United States (USA) Departure (UTC) Aug 4, 01:12 — ET: Aug 03, 09:12 PM EDT | Local: Aug 03, 09:12 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USHNH001",
+    "guid": "35bf68205ae44c35b3dad7a4a00990a1c201ebda",
+    "pubDate": "Tue, 04 Aug 2026 04:31:51 GMT",
+    "eventUtc": "2026-08-04T01:12:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Departed from Vancouver, Canada at Aug 03, 07:57 PM EDT. The local time to the port is Aug 03, 04:57 PM PDT",
     "description": "Vancouver, Canada Departure (UTC) Aug 3, 23:57 — ET: Aug 03, 07:57 PM EDT | Local: Aug 03, 04:57 PM PDT",
     "link": "https://www.vesselfinder.com/ports/CAVAN001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-06-07T08:22:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Departed from Ketchikan, United States (USA) at Jun 06, 11:14 PM EDT. The local time to the port is Jun 06, 11:14 PM EDT",
-    "description": "Ketchikan, United States (USA) Departure (UTC) Jun 7, 03:14 — ET: Jun 06, 11:14 PM EDT | Local: Jun 06, 11:14 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USKTN001",
-    "guid": "3ab5264399d230804bbb1a44e6abbae7ea1f43de",
-    "pubDate": "Sun, 07 Jun 2026 06:42:48 GMT",
-    "eventUtc": "2026-06-07T03:14:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
     "source": "vf_ship"
   }
 ]
