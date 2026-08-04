@@ -22,6 +22,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Fantasy Departed from Gorda Cay, Bahamas at Aug 03, 05:20 PM EDT. The local time to the port is Aug 03, 05:20 PM EDT",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Aug 3, 21:20 — ET: Aug 03, 05:20 PM EDT | Local: Aug 03, 05:20 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "7bbe2dfdc49855df87f0e26c82fe02c7dcf432f3",
+    "pubDate": "Tue, 04 Aug 2026 10:05:05 GMT",
+    "eventUtc": "2026-08-03T21:20:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Fantasy Arrived at Gorda Cay, Bahamas at Aug 03, 07:33 AM EDT. The local time to the port is Aug 03, 07:33 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Aug 3, 11:33 — ET: Aug 03, 07:33 AM EDT | Local: Aug 03, 07:33 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "2d951e0556b04582c6be5ff35d4b724355a7fef7",
+    "pubDate": "Tue, 04 Aug 2026 10:05:03 GMT",
+    "eventUtc": "2026-08-03T11:33:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Departed from Gorda Cay, Bahamas at Aug 01, 05:11 PM EDT. The local time to the port is Aug 01, 05:11 PM EDT",
     "description": "Gorda Cay, Bahamas Departure (UTC) Aug 1, 21:11 — ET: Aug 01, 05:11 PM EDT | Local: Aug 01, 05:11 PM EDT",
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
@@ -2726,27 +2748,5 @@
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
     "source": "vf_port"
-  },
-  {
-    "title": "Disney Fantasy Arrived at Gorda Cay, Bahamas at Dec 27, 01:45 PM EST. The local time to the port is Dec 27, 01:45 PM EST",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) Dec 27, 18:45 — ET: Dec 27, 01:45 PM EST | Local: Dec 27, 01:45 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "8fc10de3af1c068df4301d4215b7c280d41a77d3",
-    "pubDate": "Sat, 27 Dec 2025 13:48:45 GMT",
-    "eventUtc": "2025-12-27T18:45:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
-    "source": "vf_port"
-  },
-  {
-    "title": "Disney Fantasy Arrived at Gorda Cay, Bahamas at Dec 27, 07:39 AM EST. The local time to the port is Dec 27, 07:39 AM EST",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) Dec 27, 12:39 — ET: Dec 27, 07:39 AM EST | Local: Dec 27, 07:39 AM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "e43e0e6c33fda1cb4f8856aca5b652d45b298ca9",
-    "pubDate": "Sat, 27 Dec 2025 13:30:09 GMT",
-    "eventUtc": "2025-12-27T12:39:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
-    "source": "vf_ship"
   }
 ]

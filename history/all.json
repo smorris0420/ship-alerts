@@ -242,6 +242,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Fantasy Departed from Gorda Cay, Bahamas at Aug 03, 05:20 PM EDT. The local time to the port is Aug 03, 05:20 PM EDT",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Aug 3, 21:20 — ET: Aug 03, 05:20 PM EDT | Local: Aug 03, 05:20 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "7bbe2dfdc49855df87f0e26c82fe02c7dcf432f3",
+    "pubDate": "Tue, 04 Aug 2026 10:05:05 GMT",
+    "eventUtc": "2026-08-03T21:20:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Departed from Cape Canaveral, United States (USA) at Aug 03, 04:31 PM EDT. The local time to the port is Aug 03, 04:31 PM EDT",
     "description": "Cape Canaveral, United States (USA) Departure (UTC) Aug 3, 20:31 — ET: Aug 03, 04:31 PM EDT | Local: Aug 03, 04:31 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -294,6 +305,17 @@
     "eventUtc": "2026-08-03T12:16:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Fantasy Arrived at Gorda Cay, Bahamas at Aug 03, 07:33 AM EDT. The local time to the port is Aug 03, 07:33 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Aug 3, 11:33 — ET: Aug 03, 07:33 AM EDT | Local: Aug 03, 07:33 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "2d951e0556b04582c6be5ff35d4b724355a7fef7",
+    "pubDate": "Tue, 04 Aug 2026 10:05:03 GMT",
+    "eventUtc": "2026-08-03T11:33:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
     "source": "vf_ship"
   },
   {
@@ -393,6 +415,17 @@
     "eventUtc": "2026-08-02T03:07:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Treasure Departed from Cape Canaveral, United States (USA) at Aug 01, 05:24 PM EDT. The local time to the port is Aug 01, 05:24 PM EDT",
+    "description": "Cape Canaveral, United States (USA) Departure (UTC) Aug 1, 21:24 — ET: Aug 01, 05:24 PM EDT | Local: Aug 01, 05:24 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "a6b8bfd17f7c3f666f124492f37006f75c62a0bd",
+    "pubDate": "Tue, 04 Aug 2026 10:04:18 GMT",
+    "eventUtc": "2026-08-01T21:24:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
     "source": "vf_ship"
   },
   {
@@ -5462,39 +5495,6 @@
     "guid": "a903997907112aba867a8b9bd218eec5d606d413",
     "pubDate": "Sun, 07 Jun 2026 21:43:34 GMT",
     "eventUtc": "2026-06-07T21:06:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Departed from Gorda Cay, Bahamas at Jun 07, 04:52 PM EDT. The local time to the port is Jun 07, 04:52 PM EDT",
-    "description": "Gorda Cay, Bahamas Departure (UTC) Jun 7, 20:52 — ET: Jun 07, 04:52 PM EDT | Local: Jun 07, 04:52 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "8ab976245946a9fc3f9aeef8a1301b66f41b4077",
-    "pubDate": "Mon, 08 Jun 2026 07:17:22 GMT",
-    "eventUtc": "2026-06-07T20:52:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Arrived at Gorda Cay, Bahamas at Jun 07, 07:28 AM EDT. The local time to the port is Jun 07, 07:28 AM EDT",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) Jun 7, 11:28 — ET: Jun 07, 07:28 AM EDT | Local: Jun 07, 07:28 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "72b661d68b1973d7b18537419d43795d3a91c7a4",
-    "pubDate": "Sun, 07 Jun 2026 13:07:44 GMT",
-    "eventUtc": "2026-06-07T11:28:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Arrived at Cape Canaveral, United States (USA) at Jun 07, 04:22 AM EDT. The local time to the port is Jun 07, 04:22 AM EDT",
-    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Jun 7, 08:22 — ET: Jun 07, 04:22 AM EDT | Local: Jun 07, 04:22 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "a01caa85a7602f5742ccf774f426afa5717d476c",
-    "pubDate": "Sun, 07 Jun 2026 09:51:26 GMT",
-    "eventUtc": "2026-06-07T08:22:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
     "source": "vf_ship"
