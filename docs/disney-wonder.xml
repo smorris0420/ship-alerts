@@ -5,7 +5,7 @@
   <title>Disney Wonder - Arrivals &amp; Departures</title>
   <link>https://www.vesselfinder.com/vessels/details/9126819</link>
   <description>Disney Wonder - Arrivals &amp; Departures - Auto-generated</description>
-  <lastBuildDate>Mon, 03 Aug 2026 23:47:52 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 04 Aug 2026 01:12:39 GMT</lastBuildDate>
   
   <item>
     <title>Disney Wonder Departed from Hobart, Australia at Dec 31, 08:48 AM EST. The local time to the port is Jan 01, 12:48 AM AEDT</title>
@@ -20,6 +20,13 @@
     <guid isPermaLink="false">17aff6dc63c1d854034dba404a0bb7bbc9de0818</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:40 GMT</pubDate>
     <description><![CDATA[Hobart, Australia Arrival (UTC) Dec 30, 20:45 — ET: Dec 30, 03:45 PM EST | Local: Dec 31, 07:45 AM AEDT]]></description>
+  </item>
+  <item>
+    <title>Disney Wonder Departed from Vancouver, Canada at Aug 03, 07:57 PM EDT. The local time to the port is Aug 03, 04:57 PM PDT</title>
+    <link>https://www.vesselfinder.com/ports/CAVAN001</link>
+    <guid isPermaLink="false">de178ad6fd45d68e45153c3c2625736c3b251bd2</guid>
+    <pubDate>Tue, 04 Aug 2026 01:12:36 GMT</pubDate>
+    <description><![CDATA[Vancouver, Canada Departure (UTC) Aug 3, 23:57 — ET: Aug 03, 07:57 PM EDT | Local: Aug 03, 04:57 PM PDT]]></description>
   </item>
   <item>
     <title>Disney Wonder Arrived at Vancouver, Canada at Aug 03, 09:59 AM EDT. The local time to the port is Aug 03, 06:59 AM PDT</title>
@@ -1749,13 +1756,6 @@
     <guid isPermaLink="false">5a6856eb6bad5dc99bbf072fa6d20cdbe368c33b</guid>
     <pubDate>Tue, 16 Dec 2025 05:46:44 GMT</pubDate>
     <description><![CDATA[Wellington, New Zealand Departure (UTC) Dec 16, 05:25 — ET: Dec 16, 12:25 AM EST | Local: Dec 16, 06:25 PM NZDT]]></description>
-  </item>
-  <item>
-    <title>Disney Wonder Arrived at Wellington, New Zealand at Dec 15, 01:10 PM EST. The local time to the port is Dec 16, 07:10 AM NZDT</title>
-    <link>https://www.vesselfinder.com/ports/NZWLG001</link>
-    <guid isPermaLink="false">5a3a4a144b6201d9714080bf5e4ba48808265758</guid>
-    <pubDate>Mon, 15 Dec 2025 18:49:45 GMT</pubDate>
-    <description><![CDATA[Wellington, New Zealand Arrival (UTC) Dec 15, 18:10 — ET: Dec 15, 01:10 PM EST | Local: Dec 16, 07:10 AM NZDT]]></description>
   </item>
 </channel>
 </rss>

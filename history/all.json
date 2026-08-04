@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Departed from Vancouver, Canada at Aug 03, 07:57 PM EDT. The local time to the port is Aug 03, 04:57 PM PDT",
+    "description": "Vancouver, Canada Departure (UTC) Aug 3, 23:57 — ET: Aug 03, 07:57 PM EDT | Local: Aug 03, 04:57 PM PDT",
+    "link": "https://www.vesselfinder.com/ports/CAVAN001",
+    "guid": "de178ad6fd45d68e45153c3c2625736c3b251bd2",
+    "pubDate": "Tue, 04 Aug 2026 01:12:36 GMT",
+    "eventUtc": "2026-08-03T23:57:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Departed from Cozumel, Mexico at Aug 03, 06:17 PM EDT. The local time to the port is Aug 03, 05:17 PM EST",
     "description": "Cozumel, Mexico Departure (UTC) Aug 3, 22:17 — ET: Aug 03, 06:17 PM EDT | Local: Aug 03, 05:17 PM EST",
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-06-07T03:14:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Departed from Nassau, Bahamas at Jun 06, 06:16 PM EDT. The local time to the port is Jun 06, 06:16 PM EDT",
-    "description": "Nassau, Bahamas Departure (UTC) Jun 6, 22:16 — ET: Jun 06, 06:16 PM EDT | Local: Jun 06, 06:16 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "ebdd154acd884c057328db46cda86d62181cea2e",
-    "pubDate": "Sun, 07 Jun 2026 02:00:40 GMT",
-    "eventUtc": "2026-06-06T22:16:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
     "source": "vf_ship"
   }
 ]
