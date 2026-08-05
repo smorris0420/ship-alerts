@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Haugesund, Norway at Aug 05, 11:27 AM EDT. The local time to the port is Aug 05, 05:27 PM CEST",
+    "description": "Haugesund, Norway Departure (UTC) Aug 5, 15:27 — ET: Aug 05, 11:27 AM EDT | Local: Aug 05, 05:27 PM CEST",
+    "link": "https://www.vesselfinder.com/ports/NOHAU001",
+    "guid": "4062e71dbbd05a4f51826cd8bf6de19fb226980e",
+    "pubDate": "Wed, 05 Aug 2026 15:41:39 GMT",
+    "eventUtc": "2026-08-05T15:27:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Arrived at Haugesund, Norway at Aug 05, 03:23 AM EDT. The local time to the port is Aug 05, 09:23 AM CEST",
     "description": "Haugesund, Norway Arrival (UTC) Aug 5, 07:23 — ET: Aug 05, 03:23 AM EDT | Local: Aug 05, 09:23 AM CEST",
     "link": "https://www.vesselfinder.com/ports/NOHAU001",
@@ -2734,17 +2745,6 @@
     "guid": "23cb06f9d3a8ccf6ed6f3e940e1848a6ce48ae83",
     "pubDate": "Fri, 30 Jan 2026 11:08:36 GMT",
     "eventUtc": "2026-01-30T10:20:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Gorda Cay, Bahamas at Jan 29, 05:04 PM EST. The local time to the port is Jan 29, 05:04 PM EST",
-    "description": "Gorda Cay, Bahamas Departure (UTC) Jan 29, 22:04 — ET: Jan 29, 05:04 PM EST | Local: Jan 29, 05:04 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "ace30948b61c60d15bd0b5db98847400eb0511dd",
-    "pubDate": "Fri, 30 Jan 2026 06:11:23 GMT",
-    "eventUtc": "2026-01-29T22:04:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
     "source": "vf_ship"
