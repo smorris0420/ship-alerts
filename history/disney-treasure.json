@@ -44,6 +44,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Departed from Saint Thomas, US Virgin Islands at Aug 05, 04:11 PM EDT. The local time to the port is Aug 05, 04:11 PM EDT",
+    "description": "Saint Thomas, US Virgin Islands Departure (UTC) Aug 5, 20:11 — ET: Aug 05, 04:11 PM EDT | Local: Aug 05, 04:11 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/VISTT001",
+    "guid": "d339c34372fdbe0daea379fbd62029a2c3e5be98",
+    "pubDate": "Wed, 05 Aug 2026 21:39:17 GMT",
+    "eventUtc": "2026-08-05T20:11:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Arrived at Saint Thomas, US Virgin Islands at Aug 05, 07:27 AM EDT. The local time to the port is Aug 05, 07:27 AM EDT",
     "description": "Saint Thomas, US Virgin Islands Arrival (UTC) Aug 5, 11:27 — ET: Aug 05, 07:27 AM EDT | Local: Aug 05, 07:27 AM EDT",
     "link": "https://www.vesselfinder.com/ports/VISTT001",
@@ -2734,17 +2745,6 @@
     "guid": "c81b94c937030e050764180f84e7a7fc2574bad1",
     "pubDate": "Fri, 16 Jan 2026 13:34:50 GMT",
     "eventUtc": "2026-01-16T12:43:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Falmouth, Jamaica at Jan 14, 04:59 PM EST. The local time to the port is Jan 14, 04:59 PM EST",
-    "description": "Falmouth, Jamaica Departure (UTC) Jan 14, 21:59 — ET: Jan 14, 04:59 PM EST | Local: Jan 14, 04:59 PM EST",
-    "link": "https://www.vesselfinder.com/ports/JMFMH001",
-    "guid": "ccc869d22ccd2f44f57ca418965fddc13ace1779",
-    "pubDate": "Thu, 15 Jan 2026 21:31:56 GMT",
-    "eventUtc": "2026-01-14T21:59:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
     "source": "vf_ship"

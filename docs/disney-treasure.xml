@@ -5,7 +5,7 @@
   <title>Disney Treasure - Arrivals &amp; Departures</title>
   <link>https://www.vesselfinder.com/vessels/details/9834753</link>
   <description>Disney Treasure - Arrivals &amp; Departures - Auto-generated</description>
-  <lastBuildDate>Wed, 05 Aug 2026 20:19:56 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 05 Aug 2026 21:39:19 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -34,6 +34,13 @@
     <guid isPermaLink="false">82d28296f402cfdf1461b4ee7ddf9e1831c89886</guid>
     <pubDate>Thu, 01 Jan 2026 00:00:51 GMT</pubDate>
     <description><![CDATA[Georgetown, Grand Cayman Anch., Cayman Islands Arrival (UTC) Dec 29, 12:44 — ET: Dec 29, 07:44 AM EST | Local: Dec 29, 07:44 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Treasure Departed from Saint Thomas, US Virgin Islands at Aug 05, 04:11 PM EDT. The local time to the port is Aug 05, 04:11 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/VISTT001</link>
+    <guid isPermaLink="false">d339c34372fdbe0daea379fbd62029a2c3e5be98</guid>
+    <pubDate>Wed, 05 Aug 2026 21:39:17 GMT</pubDate>
+    <description><![CDATA[Saint Thomas, US Virgin Islands Departure (UTC) Aug 5, 20:11 — ET: Aug 05, 04:11 PM EDT | Local: Aug 05, 04:11 PM EDT]]></description>
   </item>
   <item>
     <title>Disney Treasure Arrived at Saint Thomas, US Virgin Islands at Aug 05, 07:27 AM EDT. The local time to the port is Aug 05, 07:27 AM EDT</title>
@@ -1749,13 +1756,6 @@
     <guid isPermaLink="false">c81b94c937030e050764180f84e7a7fc2574bad1</guid>
     <pubDate>Fri, 16 Jan 2026 13:34:50 GMT</pubDate>
     <description><![CDATA[Gorda Cay, Bahamas Arrival (UTC) Jan 16, 12:43 — ET: Jan 16, 07:43 AM EST | Local: Jan 16, 07:43 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Treasure Departed from Falmouth, Jamaica at Jan 14, 04:59 PM EST. The local time to the port is Jan 14, 04:59 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/JMFMH001</link>
-    <guid isPermaLink="false">ccc869d22ccd2f44f57ca418965fddc13ace1779</guid>
-    <pubDate>Thu, 15 Jan 2026 21:31:56 GMT</pubDate>
-    <description><![CDATA[Falmouth, Jamaica Departure (UTC) Jan 14, 21:59 — ET: Jan 14, 04:59 PM EST | Local: Jan 14, 04:59 PM EST]]></description>
   </item>
 </channel>
 </rss>
