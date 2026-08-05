@@ -33,6 +33,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Ketchikan, United States (USA) at Aug 05, 12:07 AM EDT. The local time to the port is Aug 05, 12:07 AM EDT",
+    "description": "Ketchikan, United States (USA) Departure (UTC) Aug 5, 04:07 — ET: Aug 05, 12:07 AM EDT | Local: Aug 05, 12:07 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USKTN001",
+    "guid": "9b433420e09e9317533c55a3d0bb40c422bb12a9",
+    "pubDate": "Wed, 05 Aug 2026 07:10:48 GMT",
+    "eventUtc": "2026-08-05T04:07:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Magic Arrived at Ketchikan, United States (USA) at Aug 04, 05:25 PM EDT. The local time to the port is Aug 04, 05:25 PM EDT",
+    "description": "Ketchikan, United States (USA) Arrival (UTC) Aug 4, 21:25 — ET: Aug 04, 05:25 PM EDT | Local: Aug 04, 05:25 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USKTN001",
+    "guid": "4ed4ec8e59b834369c1cf7f47d9cc3112730df6b",
+    "pubDate": "Wed, 05 Aug 2026 07:10:46 GMT",
+    "eventUtc": "2026-08-04T21:25:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Departed from Hoonah, United States (USA) at Aug 03, 09:12 PM EDT. The local time to the port is Aug 03, 09:12 PM EDT",
     "description": "Hoonah, United States (USA) Departure (UTC) Aug 4, 01:12 — ET: Aug 03, 09:12 PM EDT | Local: Aug 03, 09:12 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USHNH001",
@@ -2723,28 +2745,6 @@
     "guid": "871b82c09cc620d92981dee75e56cd47354e751f",
     "pubDate": "Mon, 15 Dec 2025 02:25:18 GMT",
     "eventUtc": "2025-12-14T00:00:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Arrived at Progreso, Mexico at Dec 13, 08:12 AM EST. The local time to the port is Dec 13, 08:12 AM EST",
-    "description": "Progreso, Mexico Arrival (UTC) Dec 13, 13:12 — ET: Dec 13, 08:12 AM EST | Local: Dec 13, 08:12 AM EST",
-    "link": "https://www.vesselfinder.com/ports/MXPGO001",
-    "guid": "4c3e319c485b5f4c9effff4f77d34f824a130172",
-    "pubDate": "Mon, 15 Dec 2025 02:25:17 GMT",
-    "eventUtc": "2025-12-13T13:12:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Galveston, United States (USA) at Dec 11, 06:00 PM EST. The local time to the port is Dec 11, 06:00 PM EST",
-    "description": "Galveston, United States (USA) Departure (UTC) Dec 11, 23:00 — ET: Dec 11, 06:00 PM EST | Local: Dec 11, 06:00 PM EST",
-    "link": "https://www.vesselfinder.com/ports/USGLS001",
-    "guid": "25772bcba0689ca75125071e5b47d4161bd30d13",
-    "pubDate": "Thu, 11 Dec 2025 23:12:22 GMT",
-    "eventUtc": "2025-12-11T23:00:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
     "source": "vf_ship"
