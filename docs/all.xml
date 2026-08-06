@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Thu, 06 Aug 2026 10:08:32 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 06 Aug 2026 12:17:15 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,13 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Destiny Arrived at Port Everglades, United States (USA) at Aug 06, 05:59 AM EDT. The local time to the port is Aug 06, 05:59 AM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USPEF001</link>
+    <guid isPermaLink="false">14368af305363b08a9308540fa1962eb5c31defc</guid>
+    <pubDate>Thu, 06 Aug 2026 12:17:13 GMT</pubDate>
+    <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) Aug 6, 09:59 — ET: Aug 06, 05:59 AM EDT | Local: Aug 06, 05:59 AM EDT]]></description>
   </item>
   <item>
     <title>Disney Adventure Departed from Singapore, Singapore at Aug 06, 05:19 AM EDT. The local time to the port is Aug 06, 05:19 AM EDT</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">738a9557bff36658c325f4d58e83364b0573cfd3</guid>
     <pubDate>Tue, 09 Jun 2026 23:42:47 GMT</pubDate>
     <description><![CDATA[Road Town, Tortola, British Virgin Islands Departure (UTC) Jun 9, 22:00 — ET: Jun 09, 06:00 PM EDT | Local: Jun 09, 06:00 PM AST]]></description>
-  </item>
-  <item>
-    <title>Disney Magic Arrived at Ketchikan, United States (USA) at Jun 09, 01:27 PM EDT. The local time to the port is Jun 09, 01:27 PM EDT</title>
-    <link>https://www.vesselfinder.com/ports/USKTN001</link>
-    <guid isPermaLink="false">a0df1d1603ed3c0d93b6740fb8d6514b77b52621</guid>
-    <pubDate>Wed, 10 Jun 2026 06:21:50 GMT</pubDate>
-    <description><![CDATA[Ketchikan, United States (USA) Arrival (UTC) Jun 9, 17:27 — ET: Jun 09, 01:27 PM EDT | Local: Jun 09, 01:27 PM EDT]]></description>
   </item>
 </channel>
 </rss>
