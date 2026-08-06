@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Arrived at Vancouver, Canada at Aug 06, 10:04 AM EDT. The local time to the port is Aug 06, 07:04 AM PDT",
+    "description": "Vancouver, Canada Arrival (UTC) Aug 6, 14:04 — ET: Aug 06, 10:04 AM EDT | Local: Aug 06, 07:04 AM PDT",
+    "link": "https://www.vesselfinder.com/ports/CAVAN001",
+    "guid": "332d2c95f68e065d28f512e2caecd7f2861fb8d3",
+    "pubDate": "Thu, 06 Aug 2026 14:40:40 GMT",
+    "eventUtc": "2026-08-06T14:04:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Arrived at Port Everglades, United States (USA) at Aug 06, 05:59 AM EDT. The local time to the port is Aug 06, 05:59 AM EDT",
     "description": "Port Everglades, United States (USA) Arrival (UTC) Aug 6, 09:59 — ET: Aug 06, 05:59 AM EDT | Local: Aug 06, 05:59 AM EDT",
     "link": "https://www.vesselfinder.com/ports/USPEF001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-06-10T02:22:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Road Town, Tortola, British Virgin Islands at Jun 09, 06:00 PM EDT. The local time to the port is Jun 09, 06:00 PM AST",
-    "description": "Road Town, Tortola, British Virgin Islands Departure (UTC) Jun 9, 22:00 — ET: Jun 09, 06:00 PM EDT | Local: Jun 09, 06:00 PM AST",
-    "link": "https://www.vesselfinder.com/ports/VGRAD001",
-    "guid": "738a9557bff36658c325f4d58e83364b0573cfd3",
-    "pubDate": "Tue, 09 Jun 2026 23:42:47 GMT",
-    "eventUtc": "2026-06-09T22:00:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
