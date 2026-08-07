@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Arrived at Cape Canaveral, United States (USA) at Aug 07, 05:37 AM EDT. The local time to the port is Aug 07, 05:37 AM EDT",
+    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Aug 7, 09:37 — ET: Aug 07, 05:37 AM EDT | Local: Aug 07, 05:37 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "1fa38033b4f6e25275c5ff7e4da5f98cd78969d7",
+    "pubDate": "Fri, 07 Aug 2026 10:35:34 GMT",
+    "eventUtc": "2026-08-07T09:37:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Arrived at Alesund, Norway at Aug 07, 12:25 AM EDT. The local time to the port is Aug 07, 06:25 AM CEST",
     "description": "Alesund, Norway Arrival (UTC) Aug 7, 04:25 — ET: Aug 07, 12:25 AM EDT | Local: Aug 07, 06:25 AM CEST",
     "link": "https://www.vesselfinder.com/ports/NOAES001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-06-10T20:06:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Souda, Greece at Jun 10, 01:14 PM EDT. The local time to the port is Jun 10, 08:14 PM EEST",
-    "description": "Souda, Greece Departure (UTC) Jun 10, 17:14 — ET: Jun 10, 01:14 PM EDT | Local: Jun 10, 08:14 PM EEST",
-    "link": "https://www.vesselfinder.com/ports/GRSDH001",
-    "guid": "b2f7bc1cb9517df5bb39eb778d913fd0c3116f76",
-    "pubDate": "Wed, 10 Jun 2026 17:31:33 GMT",
-    "eventUtc": "2026-06-10T17:14:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
     "source": "vf_ship"
   }
 ]
