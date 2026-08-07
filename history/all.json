@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Alesund, Norway at Aug 07, 10:47 AM EDT. The local time to the port is Aug 07, 04:47 PM CEST",
+    "description": "Alesund, Norway Departure (UTC) Aug 7, 14:47 — ET: Aug 07, 10:47 AM EDT | Local: Aug 07, 04:47 PM CEST",
+    "link": "https://www.vesselfinder.com/ports/NOAES001",
+    "guid": "0257ae85cb6f87ff6b88ced8645bd8f46defae5a",
+    "pubDate": "Fri, 07 Aug 2026 15:38:39 GMT",
+    "eventUtc": "2026-08-07T14:47:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Wonder Arrived at Juneau, United States (USA) at Aug 07, 10:10 AM EDT. The local time to the port is Aug 07, 10:10 AM EDT",
+    "description": "Juneau, United States (USA) Arrival (UTC) Aug 7, 14:10 — ET: Aug 07, 10:10 AM EDT | Local: Aug 07, 10:10 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USJNU001",
+    "guid": "ae3984f12847a9213126a74794497f3c925c71a3",
+    "pubDate": "Fri, 07 Aug 2026 15:38:52 GMT",
+    "eventUtc": "2026-08-07T14:10:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Arrived at Nassau, Bahamas at Aug 07, 07:39 AM EDT. The local time to the port is Aug 07, 07:39 AM EDT",
     "description": "Nassau, Bahamas Arrival (UTC) Aug 7, 11:39 — ET: Aug 07, 07:39 AM EDT | Local: Aug 07, 07:39 AM EDT",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-06-10T21:17:00+00:00",
     "shipSlug": "disney-adventure",
     "shipName": "Disney Adventure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Departed from Gorda Cay, Bahamas at Jun 10, 04:57 PM EDT. The local time to the port is Jun 10, 04:57 PM EDT",
-    "description": "Gorda Cay, Bahamas Departure (UTC) Jun 10, 20:57 — ET: Jun 10, 04:57 PM EDT | Local: Jun 10, 04:57 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "fa50f91d0e1846199303e33bea4fa16b1dcff6df",
-    "pubDate": "Thu, 11 Jun 2026 07:07:20 GMT",
-    "eventUtc": "2026-06-10T20:57:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Departed from Cape Canaveral, United States (USA) at Jun 10, 04:40 PM EDT. The local time to the port is Jun 10, 04:40 PM EDT",
-    "description": "Cape Canaveral, United States (USA) Departure (UTC) Jun 10, 20:40 — ET: Jun 10, 04:40 PM EDT | Local: Jun 10, 04:40 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "d6b32fe1788bc8dfc9839f5e14b47260824ff8ee",
-    "pubDate": "Wed, 10 Jun 2026 22:01:40 GMT",
-    "eventUtc": "2026-06-10T20:40:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
     "source": "vf_ship"
   }
 ]

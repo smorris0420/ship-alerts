@@ -5,7 +5,7 @@
   <title>Disney Dream - Arrivals &amp; Departures</title>
   <link>https://www.vesselfinder.com/vessels/details/9434254</link>
   <description>Disney Dream - Arrivals &amp; Departures - Auto-generated</description>
-  <lastBuildDate>Fri, 07 Aug 2026 14:43:44 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 07 Aug 2026 15:38:41 GMT</lastBuildDate>
   
   <item>
     <title>Disney Dream Departed from Port Everglades, United States (USA) at Dec 29, 04:49 PM EST. The local time to the port is Dec 29, 04:49 PM EST</title>
@@ -20,6 +20,13 @@
     <guid isPermaLink="false">5f7fbac63c07edf9fb1d4a3dd01fd68927534e3b</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:30 GMT</pubDate>
     <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) Dec 29, 10:48 — ET: Dec 29, 05:48 AM EST | Local: Dec 29, 05:48 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Dream Departed from Alesund, Norway at Aug 07, 10:47 AM EDT. The local time to the port is Aug 07, 04:47 PM CEST</title>
+    <link>https://www.vesselfinder.com/ports/NOAES001</link>
+    <guid isPermaLink="false">0257ae85cb6f87ff6b88ced8645bd8f46defae5a</guid>
+    <pubDate>Fri, 07 Aug 2026 15:38:39 GMT</pubDate>
+    <description><![CDATA[Alesund, Norway Departure (UTC) Aug 7, 14:47 — ET: Aug 07, 10:47 AM EDT | Local: Aug 07, 04:47 PM CEST]]></description>
   </item>
   <item>
     <title>Disney Dream Arrived at Alesund, Norway at Aug 07, 12:25 AM EDT. The local time to the port is Aug 07, 06:25 AM CEST</title>
@@ -1749,13 +1756,6 @@
     <guid isPermaLink="false">97e7cc9e12395110eac772e20fd3ca0e177ceed8</guid>
     <pubDate>Thu, 29 Jan 2026 19:24:16 GMT</pubDate>
     <description><![CDATA[Port Everglades, United States (USA) Departure (UTC) Jan 30, 14:30 — ET: Jan 30, 09:30 AM EST | Local: Jan 30, 09:30 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Dream Arrived at Port Everglades, United States (USA) at Jan 30, 09:30 AM EST. The local time to the port is Jan 30, 09:30 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/USPEF001</link>
-    <guid isPermaLink="false">56daa6bc88936478f274f573166be01698b98b67</guid>
-    <pubDate>Thu, 29 Jan 2026 19:24:17 GMT</pubDate>
-    <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) Jan 30, 14:30 — ET: Jan 30, 09:30 AM EST | Local: Jan 30, 09:30 AM EST]]></description>
   </item>
 </channel>
 </rss>
