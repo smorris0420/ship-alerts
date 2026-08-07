@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Arrived at Nassau, Bahamas at Aug 07, 07:39 AM EDT. The local time to the port is Aug 07, 07:39 AM EDT",
+    "description": "Nassau, Bahamas Arrival (UTC) Aug 7, 11:39 — ET: Aug 07, 07:39 AM EDT | Local: Aug 07, 07:39 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "a87e12f21af048dd6b632ce379968ddd82a9dde5",
+    "pubDate": "Fri, 07 Aug 2026 13:45:43 GMT",
+    "eventUtc": "2026-08-07T11:39:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Arrived at Cape Canaveral, United States (USA) at Aug 07, 05:37 AM EDT. The local time to the port is Aug 07, 05:37 AM EDT",
     "description": "Cape Canaveral, United States (USA) Arrival (UTC) Aug 7, 09:37 — ET: Aug 07, 05:37 AM EDT | Local: Aug 07, 05:37 AM EDT",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-06-10T20:40:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Saint Thomas, US Virgin Islands at Jun 10, 04:06 PM EDT. The local time to the port is Jun 10, 04:06 PM EDT",
-    "description": "Saint Thomas, US Virgin Islands Departure (UTC) Jun 10, 20:06 — ET: Jun 10, 04:06 PM EDT | Local: Jun 10, 04:06 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/VISTT001",
-    "guid": "cc3bd1a35e1e37b8e4d4804bc67c5afac80588b9",
-    "pubDate": "Wed, 10 Jun 2026 22:01:27 GMT",
-    "eventUtc": "2026-06-10T20:06:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
