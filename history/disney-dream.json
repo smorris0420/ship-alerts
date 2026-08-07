@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Alesund, Norway at Aug 07, 12:25 AM EDT. The local time to the port is Aug 07, 06:25 AM CEST",
+    "description": "Alesund, Norway Arrival (UTC) Aug 7, 04:25 — ET: Aug 07, 12:25 AM EDT | Local: Aug 07, 06:25 AM CEST",
+    "link": "https://www.vesselfinder.com/ports/NOAES001",
+    "guid": "db7e2e8adf1d8d402a2000297fe16051aa092112",
+    "pubDate": "Fri, 07 Aug 2026 05:10:48 GMT",
+    "eventUtc": "2026-08-07T04:25:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Haugesund, Norway at Aug 05, 11:27 AM EDT. The local time to the port is Aug 05, 05:27 PM CEST",
     "description": "Haugesund, Norway Departure (UTC) Aug 5, 15:27 — ET: Aug 05, 11:27 AM EDT | Local: Aug 05, 05:27 PM CEST",
     "link": "https://www.vesselfinder.com/ports/NOHAU001",
@@ -2737,16 +2748,5 @@
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
     "source": "vf_port"
-  },
-  {
-    "title": "Disney Dream Arrived at Port Everglades, United States (USA) at Jan 30, 05:20 AM EST. The local time to the port is Jan 30, 05:20 AM EST",
-    "description": "Port Everglades, United States (USA) Arrival (UTC) Jan 30, 10:20 — ET: Jan 30, 05:20 AM EST | Local: Jan 30, 05:20 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "23cb06f9d3a8ccf6ed6f3e940e1848a6ce48ae83",
-    "pubDate": "Fri, 30 Jan 2026 11:08:36 GMT",
-    "eventUtc": "2026-01-30T10:20:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
   }
 ]
