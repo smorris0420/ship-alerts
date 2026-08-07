@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Departed from Nassau, Bahamas at Aug 07, 05:53 PM EDT. The local time to the port is Aug 07, 05:53 PM EDT",
+    "description": "Nassau, Bahamas Departure (UTC) Aug 7, 21:53 — ET: Aug 07, 05:53 PM EDT | Local: Aug 07, 05:53 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "047e64d1d61b0f674080e0d2b410425e897cd605",
+    "pubDate": "Fri, 07 Aug 2026 22:22:27 GMT",
+    "eventUtc": "2026-08-07T21:53:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Arrived at Nassau, Bahamas at Aug 07, 07:39 AM EDT. The local time to the port is Aug 07, 07:39 AM EDT",
     "description": "Nassau, Bahamas Arrival (UTC) Aug 7, 11:39 — ET: Aug 07, 07:39 AM EDT | Local: Aug 07, 07:39 AM EDT",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -2733,17 +2744,6 @@
     "link": "https://www.vesselfinder.com/ports/USPEF001",
     "guid": "2fe4f6be490fab73055904ac8ebef4fc59de09e1",
     "pubDate": "Fri, 26 Dec 2025 02:01:42 GMT",
-    "eventUtc": "2025-12-26T15:00:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
-    "source": "vf_port"
-  },
-  {
-    "title": "Disney Destiny Arrived at Port Everglades, United States (USA) at Dec 26, 10:00 AM EST. The local time to the port is Dec 26, 10:00 AM EST",
-    "description": "Port Everglades, United States (USA) Arrival (UTC) Dec 26, 15:00 — ET: Dec 26, 10:00 AM EST | Local: Dec 26, 10:00 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "88ac79bef8ca947cab11dc4516ce263e6f08493a",
-    "pubDate": "Fri, 26 Dec 2025 02:01:43 GMT",
     "eventUtc": "2025-12-26T15:00:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
