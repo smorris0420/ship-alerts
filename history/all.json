@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Vancouver, Canada at Aug 06, 07:13 PM EDT. The local time to the port is Aug 06, 04:13 PM PDT",
+    "description": "Vancouver, Canada Departure (UTC) Aug 6, 23:13 — ET: Aug 06, 07:13 PM EDT | Local: Aug 06, 04:13 PM PDT",
+    "link": "https://www.vesselfinder.com/ports/CAVAN001",
+    "guid": "eabcc8afaee82e878af2c8963c86a4a195c26bcb",
+    "pubDate": "Fri, 07 Aug 2026 00:16:13 GMT",
+    "eventUtc": "2026-08-06T23:13:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Destiny Departed from Port Everglades, United States (USA) at Aug 06, 04:34 PM EDT. The local time to the port is Aug 06, 04:34 PM EDT",
+    "description": "Port Everglades, United States (USA) Departure (UTC) Aug 6, 20:34 — ET: Aug 06, 04:34 PM EDT | Local: Aug 06, 04:34 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPEF001",
+    "guid": "1590ebc6810adbcbd24b13465f15ab1dc5ca77af",
+    "pubDate": "Fri, 07 Aug 2026 00:18:38 GMT",
+    "eventUtc": "2026-08-06T20:34:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Arrived at Vancouver, Canada at Aug 06, 10:04 AM EDT. The local time to the port is Aug 06, 07:04 AM PDT",
     "description": "Vancouver, Canada Arrival (UTC) Aug 6, 14:04 — ET: Aug 06, 10:04 AM EDT | Local: Aug 06, 07:04 AM PDT",
     "link": "https://www.vesselfinder.com/ports/CAVAN001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-06-10T09:38:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Arrived at Souda, Greece at Jun 10, 04:18 AM EDT. The local time to the port is Jun 10, 11:18 AM EEST",
-    "description": "Souda, Greece Arrival (UTC) Jun 10, 08:18 — ET: Jun 10, 04:18 AM EDT | Local: Jun 10, 11:18 AM EEST",
-    "link": "https://www.vesselfinder.com/ports/GRSDH001",
-    "guid": "fbcb2e80b41d643694dd40f889422d60764090b4",
-    "pubDate": "Wed, 10 Jun 2026 10:39:27 GMT",
-    "eventUtc": "2026-06-10T08:18:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Ketchikan, United States (USA) at Jun 09, 10:22 PM EDT. The local time to the port is Jun 09, 10:22 PM EDT",
-    "description": "Ketchikan, United States (USA) Departure (UTC) Jun 10, 02:22 — ET: Jun 09, 10:22 PM EDT | Local: Jun 09, 10:22 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USKTN001",
-    "guid": "624dab38cf71436b00e4f602c364486d859f452a",
-    "pubDate": "Wed, 10 Jun 2026 06:21:52 GMT",
-    "eventUtc": "2026-06-10T02:22:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
