@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Stavanger, Norway at Aug 08, 12:04 PM EDT. The local time to the port is Aug 08, 06:04 PM CEST",
+    "description": "Stavanger, Norway Departure (UTC) Aug 8, 16:04 — ET: Aug 08, 12:04 PM EDT | Local: Aug 08, 06:04 PM CEST",
+    "link": "https://www.vesselfinder.com/ports/NOSVG001",
+    "guid": "d107fe37c130a65cb6311276e4dbd6ab93962f9f",
+    "pubDate": "Sat, 08 Aug 2026 16:16:52 GMT",
+    "eventUtc": "2026-08-08T16:04:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Arrived at Nassau, Bahamas at Aug 08, 10:00 AM EDT. The local time to the port is Aug 08, 10:00 AM EDT",
     "description": "Nassau, Bahamas Arrival (UTC) Aug 8, 14:00 — ET: Aug 08, 10:00 AM EDT | Local: Aug 08, 10:00 AM EDT",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-06-11T23:00:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Departed from Nassau, Bahamas at Jun 11, 06:13 PM EDT. The local time to the port is Jun 11, 06:13 PM EDT",
-    "description": "Nassau, Bahamas Departure (UTC) Jun 11, 22:13 — ET: Jun 11, 06:13 PM EDT | Local: Jun 11, 06:13 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "8568628b3179154783ce25aecd00f290258264aa",
-    "pubDate": "Thu, 11 Jun 2026 22:55:48 GMT",
-    "eventUtc": "2026-06-11T22:13:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
     "source": "vf_ship"
   }
 ]
