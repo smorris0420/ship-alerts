@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Stavanger, Norway at Aug 08, 02:00 AM EDT. The local time to the port is Aug 08, 08:00 AM CEST",
+    "description": "Stavanger, Norway Arrival (UTC) Aug 8, 06:00 — ET: Aug 08, 02:00 AM EDT | Local: Aug 08, 08:00 AM CEST",
+    "link": "https://www.vesselfinder.com/ports/NOSVG001",
+    "guid": "f9063da82bb634b9975f640f39c0447bd8d8385f",
+    "pubDate": "Sat, 08 Aug 2026 07:16:57 GMT",
+    "eventUtc": "2026-08-08T06:00:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Departed from Juneau, United States (USA) at Aug 07, 09:51 PM EDT. The local time to the port is Aug 07, 09:51 PM EDT",
     "description": "Juneau, United States (USA) Departure (UTC) Aug 8, 01:51 — ET: Aug 07, 09:51 PM EDT | Local: Aug 07, 09:51 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USJNU001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-06-11T20:12:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Arrived at Vancouver, Canada at Jun 11, 09:58 AM EDT. The local time to the port is Jun 11, 06:58 AM PDT",
-    "description": "Vancouver, Canada Arrival (UTC) Jun 11, 13:58 — ET: Jun 11, 09:58 AM EDT | Local: Jun 11, 06:58 AM PDT",
-    "link": "https://www.vesselfinder.com/ports/CAVAN001",
-    "guid": "9bd1cc32ed7dca06a98aad768a550e0dc76112e0",
-    "pubDate": "Thu, 11 Jun 2026 15:23:52 GMT",
-    "eventUtc": "2026-06-11T13:58:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
