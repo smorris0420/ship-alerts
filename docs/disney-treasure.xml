@@ -5,7 +5,7 @@
   <title>Disney Treasure - Arrivals &amp; Departures</title>
   <link>https://www.vesselfinder.com/vessels/details/9834753</link>
   <description>Disney Treasure - Arrivals &amp; Departures - Auto-generated</description>
-  <lastBuildDate>Sat, 08 Aug 2026 04:44:13 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 08 Aug 2026 05:29:44 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -34,6 +34,20 @@
     <guid isPermaLink="false">82d28296f402cfdf1461b4ee7ddf9e1831c89886</guid>
     <pubDate>Thu, 01 Jan 2026 00:00:51 GMT</pubDate>
     <description><![CDATA[Georgetown, Grand Cayman Anch., Cayman Islands Arrival (UTC) Dec 29, 12:44 — ET: Dec 29, 07:44 AM EST | Local: Dec 29, 07:44 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Treasure Departed from Gorda Cay, Bahamas at Aug 07, 05:08 PM EDT. The local time to the port is Aug 07, 05:08 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
+    <guid isPermaLink="false">ebd2d6d7b7a11ba2489b78f4ef73f971046cdc61</guid>
+    <pubDate>Sat, 08 Aug 2026 05:29:42 GMT</pubDate>
+    <description><![CDATA[Gorda Cay, Bahamas Departure (UTC) Aug 7, 21:08 — ET: Aug 07, 05:08 PM EDT | Local: Aug 07, 05:08 PM EDT]]></description>
+  </item>
+  <item>
+    <title>Disney Treasure Arrived at Gorda Cay, Bahamas at Aug 07, 07:33 AM EDT. The local time to the port is Aug 07, 07:33 AM EDT</title>
+    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
+    <guid isPermaLink="false">aab08ad6105a11f1053747d9fa90982ad2f4ff38</guid>
+    <pubDate>Sat, 08 Aug 2026 05:29:41 GMT</pubDate>
+    <description><![CDATA[Gorda Cay, Bahamas Arrival (UTC) Aug 7, 11:33 — ET: Aug 07, 07:33 AM EDT | Local: Aug 07, 07:33 AM EDT]]></description>
   </item>
   <item>
     <title>Disney Treasure Departed from Saint Thomas, US Virgin Islands at Aug 05, 04:11 PM EDT. The local time to the port is Aug 05, 04:11 PM EDT</title>
@@ -1742,20 +1756,6 @@
     <guid isPermaLink="false">d0d71d4c7cb6fab577bfbb3ab11f593e926435af</guid>
     <pubDate>Sat, 17 Jan 2026 11:43:44 GMT</pubDate>
     <description><![CDATA[Cape Canaveral, United States (USA) Arrival (UTC) Jan 17, 10:58 — ET: Jan 17, 05:58 AM EST | Local: Jan 17, 05:58 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Treasure Departed from Gorda Cay, Bahamas at Jan 16, 04:46 PM EST. The local time to the port is Jan 16, 04:46 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
-    <guid isPermaLink="false">3d08a6740e322105bebe3537a43b938160400a34</guid>
-    <pubDate>Sat, 17 Jan 2026 02:19:59 GMT</pubDate>
-    <description><![CDATA[Gorda Cay, Bahamas Departure (UTC) Jan 16, 21:46 — ET: Jan 16, 04:46 PM EST | Local: Jan 16, 04:46 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Treasure Arrived at Gorda Cay, Bahamas at Jan 16, 07:43 AM EST. The local time to the port is Jan 16, 07:43 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
-    <guid isPermaLink="false">c81b94c937030e050764180f84e7a7fc2574bad1</guid>
-    <pubDate>Fri, 16 Jan 2026 13:34:50 GMT</pubDate>
-    <description><![CDATA[Gorda Cay, Bahamas Arrival (UTC) Jan 16, 12:43 — ET: Jan 16, 07:43 AM EST | Local: Jan 16, 07:43 AM EST]]></description>
   </item>
 </channel>
 </rss>
