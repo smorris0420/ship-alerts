@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Departed from Juneau, United States (USA) at Aug 07, 09:51 PM EDT. The local time to the port is Aug 07, 09:51 PM EDT",
+    "description": "Juneau, United States (USA) Departure (UTC) Aug 8, 01:51 — ET: Aug 07, 09:51 PM EDT | Local: Aug 07, 09:51 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USJNU001",
+    "guid": "6d7b201fd3deeb6703722423a465a03921941550",
+    "pubDate": "Sat, 08 Aug 2026 02:22:26 GMT",
+    "eventUtc": "2026-08-08T01:51:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Departed from Nassau, Bahamas at Aug 07, 05:53 PM EDT. The local time to the port is Aug 07, 05:53 PM EDT",
     "description": "Nassau, Bahamas Departure (UTC) Aug 7, 21:53 — ET: Aug 07, 05:53 PM EDT | Local: Aug 07, 05:53 PM EDT",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-06-11T12:03:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Arrived at Port Everglades, United States (USA) at Jun 11, 05:50 AM EDT. The local time to the port is Jun 11, 05:50 AM EDT",
-    "description": "Port Everglades, United States (USA) Arrival (UTC) Jun 11, 09:50 — ET: Jun 11, 05:50 AM EDT | Local: Jun 11, 05:50 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "5cbe7e51ced032c98b9dbe1173e9bf27b132d271",
-    "pubDate": "Thu, 11 Jun 2026 11:48:59 GMT",
-    "eventUtc": "2026-06-11T09:50:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
     "source": "vf_ship"
   }
 ]
