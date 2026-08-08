@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Departed from Cape Canaveral, United States (USA) at Aug 08, 05:18 PM EDT. The local time to the port is Aug 08, 05:18 PM EDT",
+    "description": "Cape Canaveral, United States (USA) Departure (UTC) Aug 8, 21:18 — ET: Aug 08, 05:18 PM EDT | Local: Aug 08, 05:18 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "5c3e111a985b0255d89c5799ae855ac6e4c63f51",
+    "pubDate": "Sat, 08 Aug 2026 21:50:32 GMT",
+    "eventUtc": "2026-08-08T21:18:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Stavanger, Norway at Aug 08, 12:04 PM EDT. The local time to the port is Aug 08, 06:04 PM CEST",
     "description": "Stavanger, Norway Departure (UTC) Aug 8, 16:04 — ET: Aug 08, 12:04 PM EDT | Local: Aug 08, 06:04 PM CEST",
     "link": "https://www.vesselfinder.com/ports/NOSVG001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-06-12T09:54:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Vancouver, Canada at Jun 11, 07:00 PM EDT. The local time to the port is Jun 11, 04:00 PM PDT",
-    "description": "Vancouver, Canada Departure (UTC) Jun 11, 23:00 — ET: Jun 11, 07:00 PM EDT | Local: Jun 11, 04:00 PM PDT",
-    "link": "https://www.vesselfinder.com/ports/CAVAN001",
-    "guid": "1785788dd03c1ccae79d7c3389a112bce89ac184",
-    "pubDate": "Fri, 12 Jun 2026 00:20:08 GMT",
-    "eventUtc": "2026-06-11T23:00:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
