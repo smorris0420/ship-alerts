@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Fantasy Arrived at Nassau, Bahamas at Aug 10, 09:00 AM EDT. The local time to the port is Aug 10, 09:00 AM EDT",
+    "description": "Nassau, Bahamas Arrival (UTC) Aug 10, 13:00 — ET: Aug 10, 09:00 AM EDT | Local: Aug 10, 09:00 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "ea6c5c1e62ceac7e7b325d415eb1db89b7bac30e",
+    "pubDate": "Mon, 10 Aug 2026 13:39:07 GMT",
+    "eventUtc": "2026-08-10T13:00:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Treasure Arrived at Cozumel, Mexico at Aug 10, 08:50 AM EDT. The local time to the port is Aug 10, 07:50 AM EST",
+    "description": "Cozumel, Mexico Arrival (UTC) Aug 10, 12:50 — ET: Aug 10, 08:50 AM EDT | Local: Aug 10, 07:50 AM EST",
+    "link": "https://www.vesselfinder.com/ports/MXCZM001",
+    "guid": "f3009bff89d31be090f499a4b392261729a73fb2",
+    "pubDate": "Mon, 10 Aug 2026 13:38:58 GMT",
+    "eventUtc": "2026-08-10T12:50:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Arrived at Cape Canaveral, United States (USA) at Aug 10, 05:48 AM EDT. The local time to the port is Aug 10, 05:48 AM EDT",
     "description": "Cape Canaveral, United States (USA) Arrival (UTC) Aug 10, 09:48 — ET: Aug 10, 05:48 AM EDT | Local: Aug 10, 05:48 AM EDT",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-06-14T11:42:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Arrived at Cape Canaveral, United States (USA) at Jun 14, 04:07 AM EDT. The local time to the port is Jun 14, 04:07 AM EDT",
-    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Jun 14, 08:07 — ET: Jun 14, 04:07 AM EDT | Local: Jun 14, 04:07 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "340dd7d4c501352c629aa59651b4c6d022e5f315",
-    "pubDate": "Sun, 14 Jun 2026 10:02:37 GMT",
-    "eventUtc": "2026-06-14T08:07:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Arrived at Kerkira (Corfu), Greece at Jun 14, 12:03 AM EDT. The local time to the port is Jun 14, 07:03 AM EEST",
-    "description": "Kerkira (Corfu), Greece Arrival (UTC) Jun 14, 04:03 — ET: Jun 14, 12:03 AM EDT | Local: Jun 14, 07:03 AM EEST",
-    "link": "https://www.vesselfinder.com/ports/GRCFU001",
-    "guid": "96491230689c8da78baae1616c5183d2a043bf86",
-    "pubDate": "Sun, 14 Jun 2026 06:24:13 GMT",
-    "eventUtc": "2026-06-14T04:03:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
     "source": "vf_ship"
   }
 ]
