@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Southampton, United Kingdom (UK) at Aug 10, 01:00 AM EDT. The local time to the port is Aug 10, 06:00 AM BST",
+    "description": "Southampton, United Kingdom (UK) Arrival (UTC) Aug 10, 05:00 — ET: Aug 10, 01:00 AM EDT | Local: Aug 10, 06:00 AM BST",
+    "link": "https://www.vesselfinder.com/ports/GBSOU001",
+    "guid": "01da53ebd3a20a2b1d2112ddb0bd08a272ca90f1",
+    "pubDate": "Mon, 10 Aug 2026 05:50:28 GMT",
+    "eventUtc": "2026-08-10T05:00:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Stavanger, Norway at Aug 08, 12:04 PM EDT. The local time to the port is Aug 08, 06:04 PM CEST",
     "description": "Stavanger, Norway Departure (UTC) Aug 8, 16:04 — ET: Aug 08, 12:04 PM EDT | Local: Aug 08, 06:04 PM CEST",
     "link": "https://www.vesselfinder.com/ports/NOSVG001",
@@ -2737,16 +2748,5 @@
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
     "source": "vf_port"
-  },
-  {
-    "title": "Disney Dream Arrived at Port Everglades, United States (USA) at Feb 02, 05:19 AM EST. The local time to the port is Feb 02, 05:19 AM EST",
-    "description": "Port Everglades, United States (USA) Arrival (UTC) Feb 2, 10:19 — ET: Feb 02, 05:19 AM EST | Local: Feb 02, 05:19 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "0bfb0167119c19cd8c2bd734b468a606e94e38be",
-    "pubDate": "Mon, 02 Feb 2026 11:07:48 GMT",
-    "eventUtc": "2026-02-02T10:19:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
   }
 ]

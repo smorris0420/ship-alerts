@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Mon, 10 Aug 2026 04:20:40 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 10 Aug 2026 05:52:44 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,13 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Dream Arrived at Southampton, United Kingdom (UK) at Aug 10, 01:00 AM EDT. The local time to the port is Aug 10, 06:00 AM BST</title>
+    <link>https://www.vesselfinder.com/ports/GBSOU001</link>
+    <guid isPermaLink="false">01da53ebd3a20a2b1d2112ddb0bd08a272ca90f1</guid>
+    <pubDate>Mon, 10 Aug 2026 05:50:28 GMT</pubDate>
+    <description><![CDATA[Southampton, United Kingdom (UK) Arrival (UTC) Aug 10, 05:00 — ET: Aug 10, 01:00 AM EDT | Local: Aug 10, 06:00 AM BST]]></description>
   </item>
   <item>
     <title>Disney Adventure Arrived at Singapore, Singapore at Aug 09, 05:19 PM EDT. The local time to the port is Aug 09, 05:19 PM EDT</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">c853d284104652cd198a02593f195b2ef067715f</guid>
     <pubDate>Sun, 14 Jun 2026 06:24:27 GMT</pubDate>
     <description><![CDATA[Ketchikan, United States (USA) Arrival (UTC) Jun 13, 18:06 — ET: Jun 13, 02:06 PM EDT | Local: Jun 13, 02:06 PM EDT]]></description>
-  </item>
-  <item>
-    <title>Disney Dream Departed from Dubrovnik, Croatia at Jun 13, 12:08 PM EDT. The local time to the port is Jun 13, 06:08 PM CEST</title>
-    <link>https://www.vesselfinder.com/ports/HRDBV001</link>
-    <guid isPermaLink="false">818a69698e76c2fde7c54287b334fcd3c886ae2e</guid>
-    <pubDate>Sat, 13 Jun 2026 16:48:01 GMT</pubDate>
-    <description><![CDATA[Dubrovnik, Croatia Departure (UTC) Jun 13, 16:08 — ET: Jun 13, 12:08 PM EDT | Local: Jun 13, 06:08 PM CEST]]></description>
   </item>
 </channel>
 </rss>

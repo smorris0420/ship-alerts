@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Southampton, United Kingdom (UK) at Aug 10, 01:00 AM EDT. The local time to the port is Aug 10, 06:00 AM BST",
+    "description": "Southampton, United Kingdom (UK) Arrival (UTC) Aug 10, 05:00 — ET: Aug 10, 01:00 AM EDT | Local: Aug 10, 06:00 AM BST",
+    "link": "https://www.vesselfinder.com/ports/GBSOU001",
+    "guid": "01da53ebd3a20a2b1d2112ddb0bd08a272ca90f1",
+    "pubDate": "Mon, 10 Aug 2026 05:50:28 GMT",
+    "eventUtc": "2026-08-10T05:00:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Arrived at Singapore, Singapore at Aug 09, 05:19 PM EDT. The local time to the port is Aug 09, 05:19 PM EDT",
     "description": "Singapore, Singapore Arrival (UTC) Aug 9, 21:19 — ET: Aug 09, 05:19 PM EDT | Local: Aug 09, 05:19 PM EDT",
     "link": "https://www.vesselfinder.com/ports/SGSIN001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-06-13T18:06:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Dubrovnik, Croatia at Jun 13, 12:08 PM EDT. The local time to the port is Jun 13, 06:08 PM CEST",
-    "description": "Dubrovnik, Croatia Departure (UTC) Jun 13, 16:08 — ET: Jun 13, 12:08 PM EDT | Local: Jun 13, 06:08 PM CEST",
-    "link": "https://www.vesselfinder.com/ports/HRDBV001",
-    "guid": "818a69698e76c2fde7c54287b334fcd3c886ae2e",
-    "pubDate": "Sat, 13 Jun 2026 16:48:01 GMT",
-    "eventUtc": "2026-06-13T16:08:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
     "source": "vf_ship"
   }
 ]
