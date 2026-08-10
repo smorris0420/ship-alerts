@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Arrived at Vancouver, Canada at Aug 10, 09:59 AM EDT. The local time to the port is Aug 10, 06:59 AM PDT",
+    "description": "Vancouver, Canada Arrival (UTC) Aug 10, 13:59 — ET: Aug 10, 09:59 AM EDT | Local: Aug 10, 06:59 AM PDT",
+    "link": "https://www.vesselfinder.com/ports/CAVAN001",
+    "guid": "e985b1623af3dfc19b5da7e4c60df2877c2b1013",
+    "pubDate": "Mon, 10 Aug 2026 14:46:01 GMT",
+    "eventUtc": "2026-08-10T13:59:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Arrived at Nassau, Bahamas at Aug 10, 09:00 AM EDT. The local time to the port is Aug 10, 09:00 AM EDT",
     "description": "Nassau, Bahamas Arrival (UTC) Aug 10, 13:00 — ET: Aug 10, 09:00 AM EDT | Local: Aug 10, 09:00 AM EDT",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-06-14T13:30:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Arrived at Gorda Cay, Bahamas at Jun 14, 07:42 AM EDT. The local time to the port is Jun 14, 07:42 AM EDT",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) Jun 14, 11:42 — ET: Jun 14, 07:42 AM EDT | Local: Jun 14, 07:42 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "297e69c06c7bcc8bffc1f305289110150e02c90d",
-    "pubDate": "Mon, 15 Jun 2026 05:30:07 GMT",
-    "eventUtc": "2026-06-14T11:42:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
     "source": "vf_ship"
   }
 ]

@@ -5,7 +5,7 @@
   <title>Disney Wonder - Arrivals &amp; Departures</title>
   <link>https://www.vesselfinder.com/vessels/details/9126819</link>
   <description>Disney Wonder - Arrivals &amp; Departures - Auto-generated</description>
-  <lastBuildDate>Mon, 10 Aug 2026 13:41:29 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 10 Aug 2026 14:46:03 GMT</lastBuildDate>
   
   <item>
     <title>Disney Wonder Departed from Hobart, Australia at Dec 31, 08:48 AM EST. The local time to the port is Jan 01, 12:48 AM AEDT</title>
@@ -20,6 +20,13 @@
     <guid isPermaLink="false">17aff6dc63c1d854034dba404a0bb7bbc9de0818</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:40 GMT</pubDate>
     <description><![CDATA[Hobart, Australia Arrival (UTC) Dec 30, 20:45 — ET: Dec 30, 03:45 PM EST | Local: Dec 31, 07:45 AM AEDT]]></description>
+  </item>
+  <item>
+    <title>Disney Wonder Arrived at Vancouver, Canada at Aug 10, 09:59 AM EDT. The local time to the port is Aug 10, 06:59 AM PDT</title>
+    <link>https://www.vesselfinder.com/ports/CAVAN001</link>
+    <guid isPermaLink="false">e985b1623af3dfc19b5da7e4c60df2877c2b1013</guid>
+    <pubDate>Mon, 10 Aug 2026 14:46:01 GMT</pubDate>
+    <description><![CDATA[Vancouver, Canada Arrival (UTC) Aug 10, 13:59 — ET: Aug 10, 09:59 AM EDT | Local: Aug 10, 06:59 AM PDT]]></description>
   </item>
   <item>
     <title>Disney Wonder Departed from Ketchikan, United States (USA) at Aug 08, 11:10 PM EDT. The local time to the port is Aug 08, 11:10 PM EDT</title>
@@ -1749,13 +1756,6 @@
     <guid isPermaLink="false">b5e775ddfaad274f2969fe9b77273694543c37a0</guid>
     <pubDate>Mon, 22 Dec 2025 15:49:20 GMT</pubDate>
     <description><![CDATA[Napier, New Zealand Arrival (UTC) Dec 21, 18:59 — ET: Dec 21, 01:59 PM EST | Local: Dec 22, 07:59 AM NZDT]]></description>
-  </item>
-  <item>
-    <title>Disney Wonder Departed from Tauranga, New Zealand at Dec 20, 02:08 AM EST. The local time to the port is Dec 20, 08:08 PM NZDT</title>
-    <link>https://www.vesselfinder.com/ports/NZTRG001</link>
-    <guid isPermaLink="false">2869cd9574b088e7adb4c9bff0ec4c6e2a28a299</guid>
-    <pubDate>Sat, 20 Dec 2025 07:26:12 GMT</pubDate>
-    <description><![CDATA[Tauranga, New Zealand Departure (UTC) Dec 20, 07:08 — ET: Dec 20, 02:08 AM EST | Local: Dec 20, 08:08 PM NZDT]]></description>
   </item>
 </channel>
 </rss>
