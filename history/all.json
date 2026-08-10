@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Arrived at Cape Canaveral, United States (USA) at Aug 10, 05:48 AM EDT. The local time to the port is Aug 10, 05:48 AM EDT",
+    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Aug 10, 09:48 — ET: Aug 10, 05:48 AM EDT | Local: Aug 10, 05:48 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "ebe8b2f47d6aaaf168909c63e637f4e1e9884afb",
+    "pubDate": "Mon, 10 Aug 2026 11:18:18 GMT",
+    "eventUtc": "2026-08-10T09:48:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Destiny Arrived at Port Everglades, United States (USA) at Aug 10, 05:41 AM EDT. The local time to the port is Aug 10, 05:41 AM EDT",
+    "description": "Port Everglades, United States (USA) Arrival (UTC) Aug 10, 09:41 — ET: Aug 10, 05:41 AM EDT | Local: Aug 10, 05:41 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPEF001",
+    "guid": "0126d8977917ebe8467db57edcdd744e175b0578",
+    "pubDate": "Mon, 10 Aug 2026 11:22:47 GMT",
+    "eventUtc": "2026-08-10T09:41:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Departed from Singapore, Singapore at Aug 10, 05:07 AM EDT. The local time to the port is Aug 10, 05:07 AM EDT",
     "description": "Singapore, Singapore Departure (UTC) Aug 10, 09:07 — ET: Aug 10, 05:07 AM EDT | Local: Aug 10, 05:07 AM EDT",
     "link": "https://www.vesselfinder.com/ports/SGSIN001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-06-13T22:14:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Departed from Gorda Cay, Bahamas at Jun 13, 05:05 PM EDT. The local time to the port is Jun 13, 05:05 PM EDT",
-    "description": "Gorda Cay, Bahamas Departure (UTC) Jun 13, 21:05 — ET: Jun 13, 05:05 PM EDT | Local: Jun 13, 05:05 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "b4bef5ac40d8929f59c3177df7dd2cc72c39442f",
-    "pubDate": "Sat, 13 Jun 2026 23:25:50 GMT",
-    "eventUtc": "2026-06-13T21:05:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Cape Canaveral, United States (USA) at Jun 13, 05:02 PM EDT. The local time to the port is Jun 13, 05:02 PM EDT",
-    "description": "Cape Canaveral, United States (USA) Departure (UTC) Jun 13, 21:02 — ET: Jun 13, 05:02 PM EDT | Local: Jun 13, 05:02 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "66a11069b7d4ec39a83af3d160c5da0886df5239",
-    "pubDate": "Sat, 13 Jun 2026 22:09:42 GMT",
-    "eventUtc": "2026-06-13T21:02:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
