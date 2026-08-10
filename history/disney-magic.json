@@ -33,6 +33,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Skagway, United States (USA) at Aug 10, 12:07 AM EDT. The local time to the port is Aug 10, 12:07 AM EDT",
+    "description": "Skagway, United States (USA) Departure (UTC) Aug 10, 04:07 — ET: Aug 10, 12:07 AM EDT | Local: Aug 10, 12:07 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USSGY001",
+    "guid": "3a342e0af247b67196e6680188f9bcd0d57926ce",
+    "pubDate": "Mon, 10 Aug 2026 12:06:12 GMT",
+    "eventUtc": "2026-08-10T04:07:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Magic Arrived at Skagway, United States (USA) at Aug 09, 10:57 AM EDT. The local time to the port is Aug 09, 10:57 AM EDT",
+    "description": "Skagway, United States (USA) Arrival (UTC) Aug 9, 14:57 — ET: Aug 09, 10:57 AM EDT | Local: Aug 09, 10:57 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USSGY001",
+    "guid": "76c712c8d81ebbff9b48b1100cd41299b66a3eac",
+    "pubDate": "Mon, 10 Aug 2026 12:06:11 GMT",
+    "eventUtc": "2026-08-09T14:57:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Departed from Vancouver, Canada at Aug 06, 07:13 PM EDT. The local time to the port is Aug 06, 04:13 PM PDT",
     "description": "Vancouver, Canada Departure (UTC) Aug 6, 23:13 — ET: Aug 06, 07:13 PM EDT | Local: Aug 06, 04:13 PM PDT",
     "link": "https://www.vesselfinder.com/ports/CAVAN001",
@@ -2726,27 +2748,5 @@
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
     "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Galveston, United States (USA) at Dec 15, 11:00 AM EST. The local time to the port is Dec 15, 11:00 AM EST",
-    "description": "Galveston, United States (USA) Departure (UTC) Dec 15, 16:00 — ET: Dec 15, 11:00 AM EST | Local: Dec 15, 11:00 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USGLS001",
-    "guid": "8dc638b625c7fdb11e5f6e3f9f10a724ece6e32c",
-    "pubDate": "Sun, 14 Dec 2025 01:48:51 GMT",
-    "eventUtc": "2025-12-15T16:00:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
-    "source": "vf_port"
-  },
-  {
-    "title": "Disney Magic Arrived at Galveston, United States (USA) at Dec 15, 11:00 AM EST. The local time to the port is Dec 15, 11:00 AM EST",
-    "description": "Galveston, United States (USA) Arrival (UTC) Dec 15, 16:00 — ET: Dec 15, 11:00 AM EST | Local: Dec 15, 11:00 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USGLS001",
-    "guid": "20a9a2623afca9d02bd4ee1193467dc4a2351617",
-    "pubDate": "Sun, 14 Dec 2025 01:48:51 GMT",
-    "eventUtc": "2025-12-15T16:00:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
-    "source": "vf_port"
   }
 ]

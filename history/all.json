@@ -253,6 +253,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Skagway, United States (USA) at Aug 10, 12:07 AM EDT. The local time to the port is Aug 10, 12:07 AM EDT",
+    "description": "Skagway, United States (USA) Departure (UTC) Aug 10, 04:07 — ET: Aug 10, 12:07 AM EDT | Local: Aug 10, 12:07 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USSGY001",
+    "guid": "3a342e0af247b67196e6680188f9bcd0d57926ce",
+    "pubDate": "Mon, 10 Aug 2026 12:06:12 GMT",
+    "eventUtc": "2026-08-10T04:07:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Arrived at Singapore, Singapore at Aug 09, 05:19 PM EDT. The local time to the port is Aug 09, 05:19 PM EDT",
     "description": "Singapore, Singapore Arrival (UTC) Aug 9, 21:19 — ET: Aug 09, 05:19 PM EDT | Local: Aug 09, 05:19 PM EDT",
     "link": "https://www.vesselfinder.com/ports/SGSIN001",
@@ -283,6 +294,17 @@
     "eventUtc": "2026-08-09T20:34:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Magic Arrived at Skagway, United States (USA) at Aug 09, 10:57 AM EDT. The local time to the port is Aug 09, 10:57 AM EDT",
+    "description": "Skagway, United States (USA) Arrival (UTC) Aug 9, 14:57 — ET: Aug 09, 10:57 AM EDT | Local: Aug 09, 10:57 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USSGY001",
+    "guid": "76c712c8d81ebbff9b48b1100cd41299b66a3eac",
+    "pubDate": "Mon, 10 Aug 2026 12:06:11 GMT",
+    "eventUtc": "2026-08-09T14:57:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
     "source": "vf_ship"
   },
   {
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-06-14T04:03:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Departed from Ketchikan, United States (USA) at Jun 13, 11:12 PM EDT. The local time to the port is Jun 13, 11:12 PM EDT",
-    "description": "Ketchikan, United States (USA) Departure (UTC) Jun 14, 03:12 — ET: Jun 13, 11:12 PM EDT | Local: Jun 13, 11:12 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USKTN001",
-    "guid": "898d392a26b35d7ebd44955801436363f403a296",
-    "pubDate": "Sun, 14 Jun 2026 06:24:28 GMT",
-    "eventUtc": "2026-06-14T03:12:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Departed from Nassau, Bahamas at Jun 13, 06:14 PM EDT. The local time to the port is Jun 13, 06:14 PM EDT",
-    "description": "Nassau, Bahamas Departure (UTC) Jun 13, 22:14 — ET: Jun 13, 06:14 PM EDT | Local: Jun 13, 06:14 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "84f0ed0fd8fd9d7adee62cdaf383e7033b2fdfa8",
-    "pubDate": "Sat, 13 Jun 2026 23:21:05 GMT",
-    "eventUtc": "2026-06-13T22:14:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
     "source": "vf_ship"
   }
 ]
