@@ -33,6 +33,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Hoonah, United States (USA) at Aug 10, 09:28 PM EDT. The local time to the port is Aug 10, 09:28 PM EDT",
+    "description": "Hoonah, United States (USA) Departure (UTC) Aug 11, 01:28 — ET: Aug 10, 09:28 PM EDT | Local: Aug 10, 09:28 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USHNH001",
+    "guid": "0761cd6ea5d67390f6314a4653949dcccfa0e780",
+    "pubDate": "Tue, 11 Aug 2026 03:15:03 GMT",
+    "eventUtc": "2026-08-11T01:28:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Magic Arrived at Hoonah, United States (USA) at Aug 10, 10:04 AM EDT. The local time to the port is Aug 10, 10:04 AM EDT",
+    "description": "Hoonah, United States (USA) Arrival (UTC) Aug 10, 14:04 — ET: Aug 10, 10:04 AM EDT | Local: Aug 10, 10:04 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USHNH001",
+    "guid": "d022d852cb20f6c572f6423f609888ee9e9e4730",
+    "pubDate": "Tue, 11 Aug 2026 03:15:01 GMT",
+    "eventUtc": "2026-08-10T14:04:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Departed from Skagway, United States (USA) at Aug 10, 12:07 AM EDT. The local time to the port is Aug 10, 12:07 AM EDT",
     "description": "Skagway, United States (USA) Departure (UTC) Aug 10, 04:07 — ET: Aug 10, 12:07 AM EDT | Local: Aug 10, 12:07 AM EDT",
     "link": "https://www.vesselfinder.com/ports/USSGY001",
@@ -2723,28 +2745,6 @@
     "guid": "8f3b946d70cc668eebac0916a51b6ea12b1628a3",
     "pubDate": "Fri, 19 Dec 2025 04:54:09 GMT",
     "eventUtc": "2025-12-18T00:08:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Arrived at Progreso, Mexico at Dec 17, 07:53 AM EST. The local time to the port is Dec 17, 07:53 AM EST",
-    "description": "Progreso, Mexico Arrival (UTC) Dec 17, 12:53 — ET: Dec 17, 07:53 AM EST | Local: Dec 17, 07:53 AM EST",
-    "link": "https://www.vesselfinder.com/ports/MXPGO001",
-    "guid": "fb85d3d4bdfee30ff7aa3939b67c9fd01eb63234",
-    "pubDate": "Fri, 19 Dec 2025 04:54:08 GMT",
-    "eventUtc": "2025-12-17T12:53:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Galveston, United States (USA) at Dec 15, 06:02 PM EST. The local time to the port is Dec 15, 06:02 PM EST",
-    "description": "Galveston, United States (USA) Departure (UTC) Dec 15, 23:02 — ET: Dec 15, 06:02 PM EST | Local: Dec 15, 06:02 PM EST",
-    "link": "https://www.vesselfinder.com/ports/USGLS001",
-    "guid": "cf12d8e8990d5e8cd89b5a59723e83468795a2f4",
-    "pubDate": "Mon, 15 Dec 2025 23:21:10 GMT",
-    "eventUtc": "2025-12-15T23:02:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
     "source": "vf_ship"
