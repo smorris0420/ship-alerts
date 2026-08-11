@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Tue, 11 Aug 2026 22:15:46 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 11 Aug 2026 23:08:36 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -146,6 +146,13 @@
     <guid isPermaLink="false">7f188e6cea16a861885358d34c15076f6be2c09b</guid>
     <pubDate>Tue, 11 Aug 2026 22:10:19 GMT</pubDate>
     <description><![CDATA[Nassau, Bahamas Departure (UTC) Aug 11, 21:51 — ET: Aug 11, 05:51 PM EDT | Local: Aug 11, 05:51 PM EDT]]></description>
+  </item>
+  <item>
+    <title>Disney Magic Arrived at Ketchikan, United States (USA) at Aug 11, 05:34 PM EDT. The local time to the port is Aug 11, 05:34 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USKTN001</link>
+    <guid isPermaLink="false">398c11493539be646c6b26dcb79f26b752fb7d15</guid>
+    <pubDate>Tue, 11 Aug 2026 23:05:40 GMT</pubDate>
+    <description><![CDATA[Ketchikan, United States (USA) Arrival (UTC) Aug 11, 21:34 — ET: Aug 11, 05:34 PM EDT | Local: Aug 11, 05:34 PM EDT]]></description>
   </item>
   <item>
     <title>Disney Wish Arrived at Nassau, Bahamas at Aug 11, 08:58 AM EDT. The local time to the port is Aug 11, 08:58 AM EDT</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">bca7dd2ce4019cfe5c47c01e047fab53245eb362</guid>
     <pubDate>Mon, 15 Jun 2026 22:30:44 GMT</pubDate>
     <description><![CDATA[Port Everglades, United States (USA) Departure (UTC) Jun 15, 20:29 — ET: Jun 15, 04:29 PM EDT | Local: Jun 15, 04:29 PM EDT]]></description>
-  </item>
-  <item>
-    <title>Disney Magic Arrived at Hoonah, United States (USA) at Jun 15, 10:16 AM EDT. The local time to the port is Jun 15, 10:16 AM EDT</title>
-    <link>https://www.vesselfinder.com/ports/USHNH001</link>
-    <guid isPermaLink="false">31766fe3322922cd290df557f758b49725f9e376</guid>
-    <pubDate>Tue, 16 Jun 2026 15:31:49 GMT</pubDate>
-    <description><![CDATA[Hoonah, United States (USA) Arrival (UTC) Jun 15, 14:16 — ET: Jun 15, 10:16 AM EDT | Local: Jun 15, 10:16 AM EDT]]></description>
   </item>
 </channel>
 </rss>

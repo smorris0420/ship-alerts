@@ -220,6 +220,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Arrived at Ketchikan, United States (USA) at Aug 11, 05:34 PM EDT. The local time to the port is Aug 11, 05:34 PM EDT",
+    "description": "Ketchikan, United States (USA) Arrival (UTC) Aug 11, 21:34 — ET: Aug 11, 05:34 PM EDT | Local: Aug 11, 05:34 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USKTN001",
+    "guid": "398c11493539be646c6b26dcb79f26b752fb7d15",
+    "pubDate": "Tue, 11 Aug 2026 23:05:40 GMT",
+    "eventUtc": "2026-08-11T21:34:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Arrived at Nassau, Bahamas at Aug 11, 08:58 AM EDT. The local time to the port is Aug 11, 08:58 AM EDT",
     "description": "Nassau, Bahamas Arrival (UTC) Aug 11, 12:58 — ET: Aug 11, 08:58 AM EDT | Local: Aug 11, 08:58 AM EDT",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-06-15T20:29:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Arrived at Hoonah, United States (USA) at Jun 15, 10:16 AM EDT. The local time to the port is Jun 15, 10:16 AM EDT",
-    "description": "Hoonah, United States (USA) Arrival (UTC) Jun 15, 14:16 — ET: Jun 15, 10:16 AM EDT | Local: Jun 15, 10:16 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/USHNH001",
-    "guid": "31766fe3322922cd290df557f758b49725f9e376",
-    "pubDate": "Tue, 16 Jun 2026 15:31:49 GMT",
-    "eventUtc": "2026-06-15T14:16:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
