@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Departed from Vancouver, Canada at Aug 10, 08:55 PM EDT. The local time to the port is Aug 10, 05:55 PM PDT",
+    "description": "Vancouver, Canada Departure (UTC) Aug 11, 00:55 — ET: Aug 10, 08:55 PM EDT | Local: Aug 10, 05:55 PM PDT",
+    "link": "https://www.vesselfinder.com/ports/CAVAN001",
+    "guid": "36cc12f9e496653f5ccf1f168545a5fc955f3d23",
+    "pubDate": "Tue, 11 Aug 2026 01:20:47 GMT",
+    "eventUtc": "2026-08-11T00:55:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Departed from Nassau, Bahamas at Aug 10, 06:27 PM EDT. The local time to the port is Aug 10, 06:27 PM EDT",
     "description": "Nassau, Bahamas Departure (UTC) Aug 10, 22:27 — ET: Aug 10, 06:27 PM EDT | Local: Aug 10, 06:27 PM EDT",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-06-15T09:57:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Arrived at Port Everglades, United States (USA) at Jun 15, 05:28 AM EDT. The local time to the port is Jun 15, 05:28 AM EDT",
-    "description": "Port Everglades, United States (USA) Arrival (UTC) Jun 15, 09:28 — ET: Jun 15, 05:28 AM EDT | Local: Jun 15, 05:28 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "484f43a3d76ff1d24c6cfdac6cc261a418723629",
-    "pubDate": "Mon, 15 Jun 2026 11:36:18 GMT",
-    "eventUtc": "2026-06-15T09:28:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
     "source": "vf_ship"
   }
 ]

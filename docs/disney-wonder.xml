@@ -5,7 +5,7 @@
   <title>Disney Wonder - Arrivals &amp; Departures</title>
   <link>https://www.vesselfinder.com/vessels/details/9126819</link>
   <description>Disney Wonder - Arrivals &amp; Departures - Auto-generated</description>
-  <lastBuildDate>Mon, 10 Aug 2026 23:57:42 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 11 Aug 2026 01:20:49 GMT</lastBuildDate>
   
   <item>
     <title>Disney Wonder Departed from Hobart, Australia at Dec 31, 08:48 AM EST. The local time to the port is Jan 01, 12:48 AM AEDT</title>
@@ -20,6 +20,13 @@
     <guid isPermaLink="false">17aff6dc63c1d854034dba404a0bb7bbc9de0818</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:40 GMT</pubDate>
     <description><![CDATA[Hobart, Australia Arrival (UTC) Dec 30, 20:45 — ET: Dec 30, 03:45 PM EST | Local: Dec 31, 07:45 AM AEDT]]></description>
+  </item>
+  <item>
+    <title>Disney Wonder Departed from Vancouver, Canada at Aug 10, 08:55 PM EDT. The local time to the port is Aug 10, 05:55 PM PDT</title>
+    <link>https://www.vesselfinder.com/ports/CAVAN001</link>
+    <guid isPermaLink="false">36cc12f9e496653f5ccf1f168545a5fc955f3d23</guid>
+    <pubDate>Tue, 11 Aug 2026 01:20:47 GMT</pubDate>
+    <description><![CDATA[Vancouver, Canada Departure (UTC) Aug 11, 00:55 — ET: Aug 10, 08:55 PM EDT | Local: Aug 10, 05:55 PM PDT]]></description>
   </item>
   <item>
     <title>Disney Wonder Arrived at Vancouver, Canada at Aug 10, 09:59 AM EDT. The local time to the port is Aug 10, 06:59 AM PDT</title>
@@ -1749,13 +1756,6 @@
     <guid isPermaLink="false">48c44907a1a260af010ab6a3b9e10f905ce0713f</guid>
     <pubDate>Mon, 22 Dec 2025 15:49:21 GMT</pubDate>
     <description><![CDATA[Napier, New Zealand Departure (UTC) Dec 22, 04:34 — ET: Dec 21, 11:34 PM EST | Local: Dec 22, 05:34 PM NZDT]]></description>
-  </item>
-  <item>
-    <title>Disney Wonder Arrived at Napier, New Zealand at Dec 21, 01:59 PM EST. The local time to the port is Dec 22, 07:59 AM NZDT</title>
-    <link>https://www.vesselfinder.com/ports/NZNPE001</link>
-    <guid isPermaLink="false">b5e775ddfaad274f2969fe9b77273694543c37a0</guid>
-    <pubDate>Mon, 22 Dec 2025 15:49:20 GMT</pubDate>
-    <description><![CDATA[Napier, New Zealand Arrival (UTC) Dec 21, 18:59 — ET: Dec 21, 01:59 PM EST | Local: Dec 22, 07:59 AM NZDT]]></description>
   </item>
 </channel>
 </rss>
