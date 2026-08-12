@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Bilbao, Spain at Aug 12, 12:42 AM EDT. The local time to the port is Aug 12, 06:42 AM CEST",
+    "description": "Bilbao, Spain Arrival (UTC) Aug 12, 04:42 — ET: Aug 12, 12:42 AM EDT | Local: Aug 12, 06:42 AM CEST",
+    "link": "https://www.vesselfinder.com/ports/ESBIO001",
+    "guid": "b39c58084a7fcc49d5c2bd178d58c937f36780e6",
+    "pubDate": "Wed, 12 Aug 2026 05:20:35 GMT",
+    "eventUtc": "2026-08-12T04:42:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Departed from Nassau, Bahamas at Aug 11, 05:51 PM EDT. The local time to the port is Aug 11, 05:51 PM EDT",
     "description": "Nassau, Bahamas Departure (UTC) Aug 11, 21:51 — ET: Aug 11, 05:51 PM EDT | Local: Aug 11, 05:51 PM EDT",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-06-15T20:37:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Departed from Port Everglades, United States (USA) at Jun 15, 04:29 PM EDT. The local time to the port is Jun 15, 04:29 PM EDT",
-    "description": "Port Everglades, United States (USA) Departure (UTC) Jun 15, 20:29 — ET: Jun 15, 04:29 PM EDT | Local: Jun 15, 04:29 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "bca7dd2ce4019cfe5c47c01e047fab53245eb362",
-    "pubDate": "Mon, 15 Jun 2026 22:30:44 GMT",
-    "eventUtc": "2026-06-15T20:29:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
     "source": "vf_ship"
   }
 ]
