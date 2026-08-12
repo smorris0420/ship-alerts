@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Wed, 12 Aug 2026 15:48:24 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 12 Aug 2026 16:43:25 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,13 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Dream Departed from Bilbao, Spain at Aug 12, 11:43 AM EDT. The local time to the port is Aug 12, 05:43 PM CEST</title>
+    <link>https://www.vesselfinder.com/ports/ESBIO001</link>
+    <guid isPermaLink="false">f081369833b0f506110fc52e036ee7204c136c07</guid>
+    <pubDate>Wed, 12 Aug 2026 16:41:05 GMT</pubDate>
+    <description><![CDATA[Bilbao, Spain Departure (UTC) Aug 12, 15:43 — ET: Aug 12, 11:43 AM EDT | Local: Aug 12, 05:43 PM CEST]]></description>
   </item>
   <item>
     <title>Disney Destiny Arrived at Nassau, Bahamas at Aug 12, 07:35 AM EDT. The local time to the port is Aug 12, 07:35 AM EDT</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">cc47a1923a7548761640447310bfd2e107f76569</guid>
     <pubDate>Tue, 16 Jun 2026 05:38:30 GMT</pubDate>
     <description><![CDATA[Valletta, Malta Departure (UTC) Jun 16, 01:05 — ET: Jun 15, 09:05 PM EDT | Local: Jun 16, 03:05 AM CEST]]></description>
-  </item>
-  <item>
-    <title>Disney Wonder Departed from Vancouver, Canada at Jun 15, 07:52 PM EDT. The local time to the port is Jun 15, 04:52 PM PDT</title>
-    <link>https://www.vesselfinder.com/ports/CAVAN001</link>
-    <guid isPermaLink="false">63345ac73c1790ed59af9654a9679ed44dd97f1c</guid>
-    <pubDate>Tue, 16 Jun 2026 00:14:58 GMT</pubDate>
-    <description><![CDATA[Vancouver, Canada Departure (UTC) Jun 15, 23:52 — ET: Jun 15, 07:52 PM EDT | Local: Jun 15, 04:52 PM PDT]]></description>
   </item>
 </channel>
 </rss>

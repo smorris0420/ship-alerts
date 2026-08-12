@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Bilbao, Spain at Aug 12, 11:43 AM EDT. The local time to the port is Aug 12, 05:43 PM CEST",
+    "description": "Bilbao, Spain Departure (UTC) Aug 12, 15:43 — ET: Aug 12, 11:43 AM EDT | Local: Aug 12, 05:43 PM CEST",
+    "link": "https://www.vesselfinder.com/ports/ESBIO001",
+    "guid": "f081369833b0f506110fc52e036ee7204c136c07",
+    "pubDate": "Wed, 12 Aug 2026 16:41:05 GMT",
+    "eventUtc": "2026-08-12T15:43:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Arrived at Bilbao, Spain at Aug 12, 12:42 AM EDT. The local time to the port is Aug 12, 06:42 AM CEST",
     "description": "Bilbao, Spain Arrival (UTC) Aug 12, 04:42 — ET: Aug 12, 12:42 AM EDT | Local: Aug 12, 06:42 AM CEST",
     "link": "https://www.vesselfinder.com/ports/ESBIO001",
@@ -2734,17 +2745,6 @@
     "guid": "070882e5861bb05f850c7a7db0a797051e922ae6",
     "pubDate": "Tue, 03 Feb 2026 13:46:23 GMT",
     "eventUtc": "2026-02-03T12:23:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Port Everglades, United States (USA) at Feb 02, 04:05 PM EST. The local time to the port is Feb 02, 04:05 PM EST",
-    "description": "Port Everglades, United States (USA) Departure (UTC) Feb 2, 21:05 — ET: Feb 02, 04:05 PM EST | Local: Feb 02, 04:05 PM EST",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "4414ad55abee6f6d375779ebd7d7f4c43d6b252e",
-    "pubDate": "Mon, 02 Feb 2026 23:11:39 GMT",
-    "eventUtc": "2026-02-02T21:05:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
     "source": "vf_ship"
