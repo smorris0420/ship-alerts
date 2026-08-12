@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Wed, 12 Aug 2026 21:25:33 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 12 Aug 2026 22:12:24 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,13 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Adventure Arrived at Singapore, Singapore at Aug 12, 05:27 PM EDT. The local time to the port is Aug 12, 05:27 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/SGSIN001</link>
+    <guid isPermaLink="false">c105e9df157b6f2c05e73057f0245b8ff92c9864</guid>
+    <pubDate>Wed, 12 Aug 2026 22:11:39 GMT</pubDate>
+    <description><![CDATA[Singapore, Singapore Arrival (UTC) Aug 12, 21:27 — ET: Aug 12, 05:27 PM EDT | Local: Aug 12, 05:27 PM EDT]]></description>
   </item>
   <item>
     <title>Disney Dream Departed from Bilbao, Spain at Aug 12, 11:43 AM EDT. The local time to the port is Aug 12, 05:43 PM CEST</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">68f4018472865b0cf2425605442774a224f4f1ae</guid>
     <pubDate>Tue, 16 Jun 2026 15:31:50 GMT</pubDate>
     <description><![CDATA[Hoonah, United States (USA) Departure (UTC) Jun 16, 01:13 — ET: Jun 15, 09:13 PM EDT | Local: Jun 15, 09:13 PM EDT]]></description>
-  </item>
-  <item>
-    <title>Disney Dream Departed from Valletta, Malta at Jun 15, 09:05 PM EDT. The local time to the port is Jun 16, 03:05 AM CEST</title>
-    <link>https://www.vesselfinder.com/ports/MTMLA001</link>
-    <guid isPermaLink="false">cc47a1923a7548761640447310bfd2e107f76569</guid>
-    <pubDate>Tue, 16 Jun 2026 05:38:30 GMT</pubDate>
-    <description><![CDATA[Valletta, Malta Departure (UTC) Jun 16, 01:05 — ET: Jun 15, 09:05 PM EDT | Local: Jun 16, 03:05 AM CEST]]></description>
   </item>
 </channel>
 </rss>

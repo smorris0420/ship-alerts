@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Adventure Arrived at Singapore, Singapore at Aug 12, 05:27 PM EDT. The local time to the port is Aug 12, 05:27 PM EDT",
+    "description": "Singapore, Singapore Arrival (UTC) Aug 12, 21:27 — ET: Aug 12, 05:27 PM EDT | Local: Aug 12, 05:27 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/SGSIN001",
+    "guid": "c105e9df157b6f2c05e73057f0245b8ff92c9864",
+    "pubDate": "Wed, 12 Aug 2026 22:11:39 GMT",
+    "eventUtc": "2026-08-12T21:27:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Bilbao, Spain at Aug 12, 11:43 AM EDT. The local time to the port is Aug 12, 05:43 PM CEST",
     "description": "Bilbao, Spain Departure (UTC) Aug 12, 15:43 — ET: Aug 12, 11:43 AM EDT | Local: Aug 12, 05:43 PM CEST",
     "link": "https://www.vesselfinder.com/ports/ESBIO001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-06-16T01:13:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Valletta, Malta at Jun 15, 09:05 PM EDT. The local time to the port is Jun 16, 03:05 AM CEST",
-    "description": "Valletta, Malta Departure (UTC) Jun 16, 01:05 — ET: Jun 15, 09:05 PM EDT | Local: Jun 16, 03:05 AM CEST",
-    "link": "https://www.vesselfinder.com/ports/MTMLA001",
-    "guid": "cc47a1923a7548761640447310bfd2e107f76569",
-    "pubDate": "Tue, 16 Jun 2026 05:38:30 GMT",
-    "eventUtc": "2026-06-16T01:05:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
     "source": "vf_ship"
   }
 ]
