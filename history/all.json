@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Arrived at Nassau, Bahamas at Aug 12, 07:35 AM EDT. The local time to the port is Aug 12, 07:35 AM EDT",
+    "description": "Nassau, Bahamas Arrival (UTC) Aug 12, 11:35 — ET: Aug 12, 07:35 AM EDT | Local: Aug 12, 07:35 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "4005a058094c11134fe391522f6ab2957bb206cb",
+    "pubDate": "Wed, 12 Aug 2026 12:15:36 GMT",
+    "eventUtc": "2026-08-12T11:35:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Arrived at Bilbao, Spain at Aug 12, 12:42 AM EDT. The local time to the port is Aug 12, 06:42 AM CEST",
     "description": "Bilbao, Spain Arrival (UTC) Aug 12, 04:42 — ET: Aug 12, 12:42 AM EDT | Local: Aug 12, 06:42 AM CEST",
     "link": "https://www.vesselfinder.com/ports/ESBIO001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-06-15T23:52:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Departed from Nassau, Bahamas at Jun 15, 06:39 PM EDT. The local time to the port is Jun 15, 06:39 PM EDT",
-    "description": "Nassau, Bahamas Departure (UTC) Jun 15, 22:39 — ET: Jun 15, 06:39 PM EDT | Local: Jun 15, 06:39 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "329dba30f1d1853f42394b5b72df7adac45e4154",
-    "pubDate": "Tue, 16 Jun 2026 00:13:28 GMT",
-    "eventUtc": "2026-06-15T22:39:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
     "source": "vf_ship"
   }
 ]
