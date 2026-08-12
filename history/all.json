@@ -253,6 +253,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Departed from Gorda Cay, Bahamas at Aug 11, 05:06 PM EDT. The local time to the port is Aug 11, 05:06 PM EDT",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Aug 11, 21:06 — ET: Aug 11, 05:06 PM EDT | Local: Aug 11, 05:06 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "9818d0280e6e377c8e99c223d0394cf14a9ab325",
+    "pubDate": "Wed, 12 Aug 2026 10:38:16 GMT",
+    "eventUtc": "2026-08-11T21:06:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Arrived at Nassau, Bahamas at Aug 11, 08:58 AM EDT. The local time to the port is Aug 11, 08:58 AM EDT",
     "description": "Nassau, Bahamas Arrival (UTC) Aug 11, 12:58 — ET: Aug 11, 08:58 AM EDT | Local: Aug 11, 08:58 AM EDT",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -261,6 +272,17 @@
     "eventUtc": "2026-08-11T12:58:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Destiny Arrived at Gorda Cay, Bahamas at Aug 11, 07:56 AM EDT. The local time to the port is Aug 11, 07:56 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Aug 11, 11:56 — ET: Aug 11, 07:56 AM EDT | Local: Aug 11, 07:56 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "f32ad02c686c2433031c91df421d7002ee9010b4",
+    "pubDate": "Wed, 12 Aug 2026 10:38:11 GMT",
+    "eventUtc": "2026-08-11T11:56:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
     "source": "vf_ship"
   },
   {
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-06-15T22:39:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Cozumel, Mexico at Jun 15, 06:01 PM EDT. The local time to the port is Jun 15, 05:01 PM EST",
-    "description": "Cozumel, Mexico Departure (UTC) Jun 15, 22:01 — ET: Jun 15, 06:01 PM EDT | Local: Jun 15, 05:01 PM EST",
-    "link": "https://www.vesselfinder.com/ports/MXCZM001",
-    "guid": "885b4b3ebf72ea328d524b72b89d42f0d7f22a0c",
-    "pubDate": "Mon, 15 Jun 2026 22:26:57 GMT",
-    "eventUtc": "2026-06-15T22:01:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Georgetown, Grand Cayman Anch., Cayman Islands at Jun 15, 06:01 PM EDT. The local time to the port is Jun 15, 05:01 PM EST",
-    "description": "Georgetown, Grand Cayman Anch., Cayman Islands Departure (UTC) Jun 15, 22:01 — ET: Jun 15, 06:01 PM EDT | Local: Jun 15, 05:01 PM EST",
-    "link": "https://www.vesselfinder.com/ports/KYGEC001",
-    "guid": "f638aeef26a5081aca149a3e1993174afaa8300e",
-    "pubDate": "Tue, 16 Jun 2026 19:04:46 GMT",
-    "eventUtc": "2026-06-15T22:01:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
