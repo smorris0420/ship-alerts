@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Departed from Nassau, Bahamas at Aug 12, 06:30 PM EDT. The local time to the port is Aug 12, 06:30 PM EDT",
+    "description": "Nassau, Bahamas Departure (UTC) Aug 12, 22:30 — ET: Aug 12, 06:30 PM EDT | Local: Aug 12, 06:30 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "d45afa0649a101b43446c46906b3db947ac838c2",
+    "pubDate": "Wed, 12 Aug 2026 23:03:14 GMT",
+    "eventUtc": "2026-08-12T22:30:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Arrived at Singapore, Singapore at Aug 12, 05:27 PM EDT. The local time to the port is Aug 12, 05:27 PM EDT",
     "description": "Singapore, Singapore Arrival (UTC) Aug 12, 21:27 — ET: Aug 12, 05:27 PM EDT | Local: Aug 12, 05:27 PM EDT",
     "link": "https://www.vesselfinder.com/ports/SGSIN001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-06-16T11:31:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Hoonah, United States (USA) at Jun 15, 09:13 PM EDT. The local time to the port is Jun 15, 09:13 PM EDT",
-    "description": "Hoonah, United States (USA) Departure (UTC) Jun 16, 01:13 — ET: Jun 15, 09:13 PM EDT | Local: Jun 15, 09:13 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USHNH001",
-    "guid": "68f4018472865b0cf2425605442774a224f4f1ae",
-    "pubDate": "Tue, 16 Jun 2026 15:31:50 GMT",
-    "eventUtc": "2026-06-16T01:13:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
