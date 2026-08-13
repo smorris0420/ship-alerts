@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Adventure Departed from Singapore, Singapore at Aug 13, 05:15 AM EDT. The local time to the port is Aug 13, 05:15 AM EDT",
+    "description": "Singapore, Singapore Departure (UTC) Aug 13, 09:15 — ET: Aug 13, 05:15 AM EDT | Local: Aug 13, 05:15 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/SGSIN001",
+    "guid": "0074272624b0377f34da14f3a32c44fbf1c333a0",
+    "pubDate": "Thu, 13 Aug 2026 09:36:41 GMT",
+    "eventUtc": "2026-08-13T09:15:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Departed from Nassau, Bahamas at Aug 12, 06:30 PM EDT. The local time to the port is Aug 12, 06:30 PM EDT",
     "description": "Nassau, Bahamas Departure (UTC) Aug 12, 22:30 — ET: Aug 12, 06:30 PM EDT | Local: Aug 12, 06:30 PM EDT",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-06-16T13:02:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Arrived at Gorda Cay, Bahamas at Jun 16, 07:31 AM EDT. The local time to the port is Jun 16, 07:31 AM EDT",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) Jun 16, 11:31 — ET: Jun 16, 07:31 AM EDT | Local: Jun 16, 07:31 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "aceecf5c33b3e4a64f48be2bf85190a07f995043",
-    "pubDate": "Tue, 16 Jun 2026 15:34:03 GMT",
-    "eventUtc": "2026-06-16T11:31:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
     "source": "vf_ship"
   }
 ]
