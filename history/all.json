@@ -253,6 +253,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Departed from Gorda Cay, Bahamas at Aug 12, 04:50 PM EDT. The local time to the port is Aug 12, 04:50 PM EDT",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Aug 12, 20:50 — ET: Aug 12, 04:50 PM EDT | Local: Aug 12, 04:50 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "c63ae14e47da29bbe33873d49067216ac3823013",
+    "pubDate": "Thu, 13 Aug 2026 16:05:57 GMT",
+    "eventUtc": "2026-08-12T20:50:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Bilbao, Spain at Aug 12, 11:43 AM EDT. The local time to the port is Aug 12, 05:43 PM CEST",
     "description": "Bilbao, Spain Departure (UTC) Aug 12, 15:43 — ET: Aug 12, 11:43 AM EDT | Local: Aug 12, 05:43 PM CEST",
     "link": "https://www.vesselfinder.com/ports/ESBIO001",
@@ -272,6 +283,17 @@
     "eventUtc": "2026-08-12T11:35:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Wish Arrived at Gorda Cay, Bahamas at Aug 12, 07:03 AM EDT. The local time to the port is Aug 12, 07:03 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Aug 12, 11:03 — ET: Aug 12, 07:03 AM EDT | Local: Aug 12, 07:03 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "64f763403ca3454695fdf8fb05f46a359096ad2a",
+    "pubDate": "Thu, 13 Aug 2026 16:05:56 GMT",
+    "eventUtc": "2026-08-12T11:03:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
     "source": "vf_ship"
   },
   {
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-06-16T22:47:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Departed from Gorda Cay, Bahamas at Jun 16, 06:12 PM EDT. The local time to the port is Jun 16, 06:12 PM EDT",
-    "description": "Gorda Cay, Bahamas Departure (UTC) Jun 16, 22:12 — ET: Jun 16, 06:12 PM EDT | Local: Jun 16, 06:12 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "b68355e6e07f5f4e24511b2f6352138ac3f00fce",
-    "pubDate": "Tue, 16 Jun 2026 23:17:54 GMT",
-    "eventUtc": "2026-06-16T22:12:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Arrived at Ketchikan, United States (USA) at Jun 16, 05:29 PM EDT. The local time to the port is Jun 16, 05:29 PM EDT",
-    "description": "Ketchikan, United States (USA) Arrival (UTC) Jun 16, 21:29 — ET: Jun 16, 05:29 PM EDT | Local: Jun 16, 05:29 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USKTN001",
-    "guid": "3aa75e2831dba6437431e5f689415c8111e6a7e9",
-    "pubDate": "Wed, 17 Jun 2026 06:54:55 GMT",
-    "eventUtc": "2026-06-16T21:29:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
