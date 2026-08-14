@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Fantasy Arrived at Cape Canaveral, United States (USA) at Aug 14, 06:01 AM EDT. The local time to the port is Aug 14, 06:01 AM EDT",
+    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Aug 14, 10:01 — ET: Aug 14, 06:01 AM EDT | Local: Aug 14, 06:01 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "21b0f3bcfb5c4166374e08586722ba9a15ed53d9",
+    "pubDate": "Fri, 14 Aug 2026 10:44:35 GMT",
+    "eventUtc": "2026-08-14T10:01:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Arrived at Cape Canaveral, United States (USA) at Aug 14, 05:07 AM EDT. The local time to the port is Aug 14, 05:07 AM EDT",
     "description": "Cape Canaveral, United States (USA) Arrival (UTC) Aug 14, 09:07 — ET: Aug 14, 05:07 AM EDT | Local: Aug 14, 05:07 AM EDT",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-06-17T20:57:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Civitavecchia, Italy at Jun 17, 12:12 PM EDT. The local time to the port is Jun 17, 06:12 PM CEST",
-    "description": "Civitavecchia, Italy Departure (UTC) Jun 17, 16:12 — ET: Jun 17, 12:12 PM EDT | Local: Jun 17, 06:12 PM CEST",
-    "link": "https://www.vesselfinder.com/ports/ITCVV001",
-    "guid": "e934f4bef582fdc0a238420bd91ae7f24d9153de",
-    "pubDate": "Wed, 17 Jun 2026 17:39:31 GMT",
-    "eventUtc": "2026-06-17T16:12:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
     "source": "vf_ship"
   }
 ]
