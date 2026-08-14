@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Vancouver, Canada at Aug 13, 08:10 PM EDT. The local time to the port is Aug 13, 05:10 PM PDT",
+    "description": "Vancouver, Canada Departure (UTC) Aug 14, 00:10 — ET: Aug 13, 08:10 PM EDT | Local: Aug 13, 05:10 PM PDT",
+    "link": "https://www.vesselfinder.com/ports/CAVAN001",
+    "guid": "1ef3d4742c4e24ed4905dd54966a13a47e93ca23",
+    "pubDate": "Fri, 14 Aug 2026 02:38:18 GMT",
+    "eventUtc": "2026-08-14T00:10:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Arrived at Vancouver, Canada at Aug 13, 09:57 AM EDT. The local time to the port is Aug 13, 06:57 AM PDT",
     "description": "Vancouver, Canada Arrival (UTC) Aug 13, 13:57 — ET: Aug 13, 09:57 AM EDT | Local: Aug 13, 06:57 AM PDT",
     "link": "https://www.vesselfinder.com/ports/CAVAN001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-06-17T03:24:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Departed from Nassau, Bahamas at Jun 16, 06:47 PM EDT. The local time to the port is Jun 16, 06:47 PM EDT",
-    "description": "Nassau, Bahamas Departure (UTC) Jun 16, 22:47 — ET: Jun 16, 06:47 PM EDT | Local: Jun 16, 06:47 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "30cd62801147904b10ec1799e7b5f48619a2728b",
-    "pubDate": "Tue, 16 Jun 2026 23:13:33 GMT",
-    "eventUtc": "2026-06-16T22:47:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
     "source": "vf_ship"
   }
 ]

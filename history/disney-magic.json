@@ -33,6 +33,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Vancouver, Canada at Aug 13, 08:10 PM EDT. The local time to the port is Aug 13, 05:10 PM PDT",
+    "description": "Vancouver, Canada Departure (UTC) Aug 14, 00:10 — ET: Aug 13, 08:10 PM EDT | Local: Aug 13, 05:10 PM PDT",
+    "link": "https://www.vesselfinder.com/ports/CAVAN001",
+    "guid": "1ef3d4742c4e24ed4905dd54966a13a47e93ca23",
+    "pubDate": "Fri, 14 Aug 2026 02:38:18 GMT",
+    "eventUtc": "2026-08-14T00:10:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Arrived at Vancouver, Canada at Aug 13, 09:57 AM EDT. The local time to the port is Aug 13, 06:57 AM PDT",
     "description": "Vancouver, Canada Arrival (UTC) Aug 13, 13:57 — ET: Aug 13, 09:57 AM EDT | Local: Aug 13, 06:57 AM PDT",
     "link": "https://www.vesselfinder.com/ports/CAVAN001",
@@ -2737,16 +2748,5 @@
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
     "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Galveston, United States (USA) at Dec 19, 11:00 AM EST. The local time to the port is Dec 19, 11:00 AM EST",
-    "description": "Galveston, United States (USA) Departure (UTC) Dec 19, 16:00 — ET: Dec 19, 11:00 AM EST | Local: Dec 19, 11:00 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USGLS001",
-    "guid": "47e257a439a1ea35445f1eedc0f43f04b02e3ea8",
-    "pubDate": "Thu, 18 Dec 2025 04:22:01 GMT",
-    "eventUtc": "2025-12-19T16:00:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
-    "source": "vf_port"
   }
 ]
