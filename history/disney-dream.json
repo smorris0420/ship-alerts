@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Southampton, United Kingdom (UK) at Aug 14, 11:36 AM EDT. The local time to the port is Aug 14, 04:36 PM BST",
+    "description": "Southampton, United Kingdom (UK) Departure (UTC) Aug 14, 15:36 — ET: Aug 14, 11:36 AM EDT | Local: Aug 14, 04:36 PM BST",
+    "link": "https://www.vesselfinder.com/ports/GBSOU001",
+    "guid": "0a985c40361a85d92d6df6e6f42b8bcd879e2f85",
+    "pubDate": "Fri, 14 Aug 2026 16:32:41 GMT",
+    "eventUtc": "2026-08-14T15:36:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Arrived at Southampton, United Kingdom (UK) at Aug 14, 01:25 AM EDT. The local time to the port is Aug 14, 06:25 AM BST",
     "description": "Southampton, United Kingdom (UK) Arrival (UTC) Aug 14, 05:25 — ET: Aug 14, 01:25 AM EDT | Local: Aug 14, 06:25 AM BST",
     "link": "https://www.vesselfinder.com/ports/GBSOU001",
@@ -2734,17 +2745,6 @@
     "guid": "7f66dd31cb2f9cedf649dd2053dbf0d9010fe3a3",
     "pubDate": "Fri, 06 Feb 2026 11:54:41 GMT",
     "eventUtc": "2026-02-06T10:52:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Nassau, Bahamas at Feb 03, 06:33 PM EST. The local time to the port is Feb 03, 06:33 PM EST",
-    "description": "Nassau, Bahamas Departure (UTC) Feb 3, 23:33 — ET: Feb 03, 06:33 PM EST | Local: Feb 03, 06:33 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "d323d80fc8e1fd3c1a0da06796b827a624ea7ee5",
-    "pubDate": "Tue, 03 Feb 2026 23:41:13 GMT",
-    "eventUtc": "2026-02-03T23:33:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
     "source": "vf_ship"
