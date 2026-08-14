@@ -220,6 +220,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Fantasy Departed from Gorda Cay, Bahamas at Aug 13, 04:39 PM EDT. The local time to the port is Aug 13, 04:39 PM EDT",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Aug 13, 20:39 — ET: Aug 13, 04:39 PM EDT | Local: Aug 13, 04:39 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "723a3af8840e813ca9da5a1e93098fc6a8866562",
+    "pubDate": "Fri, 14 Aug 2026 05:57:26 GMT",
+    "eventUtc": "2026-08-13T20:39:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Arrived at Vancouver, Canada at Aug 13, 09:57 AM EDT. The local time to the port is Aug 13, 06:57 AM PDT",
     "description": "Vancouver, Canada Arrival (UTC) Aug 13, 13:57 — ET: Aug 13, 09:57 AM EDT | Local: Aug 13, 06:57 AM PDT",
     "link": "https://www.vesselfinder.com/ports/CAVAN001",
@@ -228,6 +239,17 @@
     "eventUtc": "2026-08-13T13:57:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Fantasy Arrived at Gorda Cay, Bahamas at Aug 13, 06:58 AM EDT. The local time to the port is Aug 13, 06:58 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Aug 13, 10:58 — ET: Aug 13, 06:58 AM EDT | Local: Aug 13, 06:58 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "f2644eeaf4d31d6ae46d576e622ab58359a2a6dc",
+    "pubDate": "Fri, 14 Aug 2026 05:57:25 GMT",
+    "eventUtc": "2026-08-13T10:58:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
     "source": "vf_ship"
   },
   {
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-06-17T11:23:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Ketchikan, United States (USA) at Jun 16, 11:24 PM EDT. The local time to the port is Jun 16, 11:24 PM EDT",
-    "description": "Ketchikan, United States (USA) Departure (UTC) Jun 17, 03:24 — ET: Jun 16, 11:24 PM EDT | Local: Jun 16, 11:24 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USKTN001",
-    "guid": "ecd5bd732919e9e36e7ec913515eb1320a7e61c7",
-    "pubDate": "Wed, 17 Jun 2026 06:54:56 GMT",
-    "eventUtc": "2026-06-17T03:24:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Arrived at Civitavecchia, Italy at Jun 16, 11:24 PM EDT. The local time to the port is Jun 17, 05:24 AM CEST",
-    "description": "Civitavecchia, Italy Arrival (UTC) Jun 17, 03:24 — ET: Jun 16, 11:24 PM EDT | Local: Jun 17, 05:24 AM CEST",
-    "link": "https://www.vesselfinder.com/ports/ITCVV001",
-    "guid": "8a9765878e8b1f9ef0869e218c40e2a677a4dcbc",
-    "pubDate": "Wed, 17 Jun 2026 06:55:08 GMT",
-    "eventUtc": "2026-06-17T03:24:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
     "source": "vf_ship"
   }
 ]
