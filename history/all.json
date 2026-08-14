@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Southampton, United Kingdom (UK) at Aug 14, 01:25 AM EDT. The local time to the port is Aug 14, 06:25 AM BST",
+    "description": "Southampton, United Kingdom (UK) Arrival (UTC) Aug 14, 05:25 — ET: Aug 14, 01:25 AM EDT | Local: Aug 14, 06:25 AM BST",
+    "link": "https://www.vesselfinder.com/ports/GBSOU001",
+    "guid": "ebc7717c260dd43a43b15621fcd49207d75d19c1",
+    "pubDate": "Fri, 14 Aug 2026 07:29:56 GMT",
+    "eventUtc": "2026-08-14T05:25:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Departed from Vancouver, Canada at Aug 13, 08:10 PM EDT. The local time to the port is Aug 13, 05:10 PM PDT",
     "description": "Vancouver, Canada Departure (UTC) Aug 14, 00:10 — ET: Aug 13, 08:10 PM EDT | Local: Aug 13, 05:10 PM PDT",
     "link": "https://www.vesselfinder.com/ports/CAVAN001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-06-17T11:38:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Arrived at Nassau, Bahamas at Jun 17, 07:23 AM EDT. The local time to the port is Jun 17, 07:23 AM EDT",
-    "description": "Nassau, Bahamas Arrival (UTC) Jun 17, 11:23 — ET: Jun 17, 07:23 AM EDT | Local: Jun 17, 07:23 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "cad94b6f3c6e1960e6886907fd9e486d7535342b",
-    "pubDate": "Wed, 17 Jun 2026 14:42:57 GMT",
-    "eventUtc": "2026-06-17T11:23:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
     "source": "vf_ship"
   }
 ]
