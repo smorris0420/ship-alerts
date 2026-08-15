@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Unknown Port at Aug 15, 04:46 AM EDT. The local time to the port is Aug 15, 04:46 AM EDT",
+    "description": "Unknown Port Arrival (UTC) Aug 15, 08:46 — ET: Aug 15, 04:46 AM EDT | Local: Aug 15, 04:46 AM EDT",
+    "link": "https://www.vesselfinder.com/vessels/details/9434254",
+    "guid": "1bdc10296a839d54190e707d1b997567da92761c",
+    "pubDate": "Sat, 15 Aug 2026 09:43:56 GMT",
+    "eventUtc": "2026-08-15T08:46:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Departed from Juneau, United States (USA) at Aug 14, 09:06 PM EDT. The local time to the port is Aug 14, 09:06 PM EDT",
     "description": "Juneau, United States (USA) Departure (UTC) Aug 15, 01:06 — ET: Aug 14, 09:06 PM EDT | Local: Aug 14, 09:06 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USJNU001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-06-19T09:10:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Vancouver, Canada at Jun 18, 07:34 PM EDT. The local time to the port is Jun 18, 04:34 PM PDT",
-    "description": "Vancouver, Canada Departure (UTC) Jun 18, 23:34 — ET: Jun 18, 07:34 PM EDT | Local: Jun 18, 04:34 PM PDT",
-    "link": "https://www.vesselfinder.com/ports/CAVAN001",
-    "guid": "fb3a4f375ce456d2fae4b7a6f9542dfae8633f0d",
-    "pubDate": "Thu, 18 Jun 2026 23:45:12 GMT",
-    "eventUtc": "2026-06-18T23:34:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
