@@ -5,7 +5,7 @@
   <title>Disney Destiny - Arrivals &amp; Departures</title>
   <link>https://www.vesselfinder.com/vessels/details/9834741</link>
   <description>Disney Destiny - Arrivals &amp; Departures - Auto-generated</description>
-  <lastBuildDate>Sat, 15 Aug 2026 20:01:06 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 15 Aug 2026 20:25:19 GMT</lastBuildDate>
   
   <item>
     <title>Disney Destiny Departed from Port Everglades, United States (USA) at Dec 30, 04:22 PM EST. The local time to the port is Dec 30, 04:22 PM EST</title>
@@ -20,6 +20,13 @@
     <guid isPermaLink="false">5860149e96892fc0e11adacb796749937ec68385</guid>
     <pubDate>Thu, 01 Jan 2026 00:02:09 GMT</pubDate>
     <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) Dec 30, 10:47 — ET: Dec 30, 05:47 AM EST | Local: Dec 30, 05:47 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Destiny Departed from Port Everglades, United States (USA) at Aug 15, 04:20 PM EDT. The local time to the port is Aug 15, 04:20 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USPEF001</link>
+    <guid isPermaLink="false">a8884967480a0c6a01361ab63d0d08e053295427</guid>
+    <pubDate>Sat, 15 Aug 2026 20:25:17 GMT</pubDate>
+    <description><![CDATA[Port Everglades, United States (USA) Departure (UTC) Aug 15, 20:20 — ET: Aug 15, 04:20 PM EDT | Local: Aug 15, 04:20 PM EDT]]></description>
   </item>
   <item>
     <title>Disney Destiny Arrived at Port Everglades, United States (USA) at Aug 15, 06:15 AM EDT. The local time to the port is Aug 15, 06:15 AM EDT</title>
@@ -1749,13 +1756,6 @@
     <guid isPermaLink="false">793fc0a45fd22f35ff770d1ee65c379440862561</guid>
     <pubDate>Sun, 04 Jan 2026 09:52:00 GMT</pubDate>
     <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) Jan 4, 09:06 — ET: Jan 04, 04:06 AM EST | Local: Jan 04, 04:06 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Destiny Departed from Gorda Cay, Bahamas at Jan 01, 04:56 PM EST. The local time to the port is Jan 01, 04:56 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
-    <guid isPermaLink="false">b4130a295f85f65c217545ff9fac1c94f25af935</guid>
-    <pubDate>Thu, 01 Jan 2026 22:23:24 GMT</pubDate>
-    <description><![CDATA[Gorda Cay, Bahamas Departure (UTC) Jan 1, 21:56 — ET: Jan 01, 04:56 PM EST | Local: Jan 01, 04:56 PM EST]]></description>
   </item>
 </channel>
 </rss>
