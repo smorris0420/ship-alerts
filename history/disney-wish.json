@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Departed from Nassau, Bahamas at Aug 15, 06:16 PM EDT. The local time to the port is Aug 15, 06:16 PM EDT",
+    "description": "Nassau, Bahamas Departure (UTC) Aug 15, 22:16 — ET: Aug 15, 06:16 PM EDT | Local: Aug 15, 06:16 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "36f5ea61da79825b62ab5a8021405efdd5f646c3",
+    "pubDate": "Sat, 15 Aug 2026 22:33:06 GMT",
+    "eventUtc": "2026-08-15T22:16:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Arrived at Nassau, Bahamas at Aug 15, 09:19 AM EDT. The local time to the port is Aug 15, 09:19 AM EDT",
     "description": "Nassau, Bahamas Arrival (UTC) Aug 15, 13:19 — ET: Aug 15, 09:19 AM EDT | Local: Aug 15, 09:19 AM EDT",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -2734,17 +2745,6 @@
     "guid": "bd0e1455d2691277e8c539ba825e15f0a8f3575b",
     "pubDate": "Sun, 01 Mar 2026 21:47:00 GMT",
     "eventUtc": "2026-03-01T12:28:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Departed from Nassau, Bahamas at Feb 28, 06:31 PM EST. The local time to the port is Feb 28, 06:31 PM EST",
-    "description": "Nassau, Bahamas Departure (UTC) Feb 28, 23:31 — ET: Feb 28, 06:31 PM EST | Local: Feb 28, 06:31 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSNAS001",
-    "guid": "030c54dde87a0e57097cef78a86d671d4b446d32",
-    "pubDate": "Sat, 28 Feb 2026 23:40:09 GMT",
-    "eventUtc": "2026-02-28T23:31:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
     "source": "vf_ship"

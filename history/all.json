@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Departed from Nassau, Bahamas at Aug 15, 06:16 PM EDT. The local time to the port is Aug 15, 06:16 PM EDT",
+    "description": "Nassau, Bahamas Departure (UTC) Aug 15, 22:16 — ET: Aug 15, 06:16 PM EDT | Local: Aug 15, 06:16 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "36f5ea61da79825b62ab5a8021405efdd5f646c3",
+    "pubDate": "Sat, 15 Aug 2026 22:33:06 GMT",
+    "eventUtc": "2026-08-15T22:16:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Treasure Departed from Cape Canaveral, United States (USA) at Aug 15, 05:03 PM EDT. The local time to the port is Aug 15, 05:03 PM EDT",
+    "description": "Cape Canaveral, United States (USA) Departure (UTC) Aug 15, 21:03 — ET: Aug 15, 05:03 PM EDT | Local: Aug 15, 05:03 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "8947fced27ff6e560e8c2791213ba13425b5101c",
+    "pubDate": "Sat, 15 Aug 2026 22:33:21 GMT",
+    "eventUtc": "2026-08-15T21:03:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Departed from Port Everglades, United States (USA) at Aug 15, 04:20 PM EDT. The local time to the port is Aug 15, 04:20 PM EDT",
     "description": "Port Everglades, United States (USA) Departure (UTC) Aug 15, 20:20 — ET: Aug 15, 04:20 PM EDT | Local: Aug 15, 04:20 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USPEF001",
@@ -5473,28 +5495,6 @@
     "guid": "02c56472b5bdaaeec0f1f08e216b726f8b41162d",
     "pubDate": "Sat, 20 Jun 2026 10:43:07 GMT",
     "eventUtc": "2026-06-20T08:19:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Arrived at Mykonos, Greece at Jun 19, 11:07 PM EDT. The local time to the port is Jun 20, 06:07 AM EEST",
-    "description": "Mykonos, Greece Arrival (UTC) Jun 20, 03:07 — ET: Jun 19, 11:07 PM EDT | Local: Jun 20, 06:07 AM EEST",
-    "link": "https://www.vesselfinder.com/ports/GRJMK001",
-    "guid": "df1c097ac80986733b13cf29b0f70693d711f822",
-    "pubDate": "Sat, 20 Jun 2026 04:47:24 GMT",
-    "eventUtc": "2026-06-20T03:07:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Gorda Cay, Bahamas at Jun 19, 04:57 PM EDT. The local time to the port is Jun 19, 04:57 PM EDT",
-    "description": "Gorda Cay, Bahamas Departure (UTC) Jun 19, 20:57 — ET: Jun 19, 04:57 PM EDT | Local: Jun 19, 04:57 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "e02eaba332431a511c9cea6b15cb47f54a944912",
-    "pubDate": "Sat, 20 Jun 2026 04:45:55 GMT",
-    "eventUtc": "2026-06-19T20:57:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
     "source": "vf_ship"
