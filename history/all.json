@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Departed from Juneau, United States (USA) at Aug 14, 09:06 PM EDT. The local time to the port is Aug 14, 09:06 PM EDT",
+    "description": "Juneau, United States (USA) Departure (UTC) Aug 15, 01:06 — ET: Aug 14, 09:06 PM EDT | Local: Aug 14, 09:06 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USJNU001",
+    "guid": "236c206267ace58cdd72c75fd85262ca135bab6d",
+    "pubDate": "Sat, 15 Aug 2026 06:50:25 GMT",
+    "eventUtc": "2026-08-15T01:06:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Departed from Gorda Cay, Bahamas at Aug 14, 05:14 PM EDT. The local time to the port is Aug 14, 05:14 PM EDT",
     "description": "Gorda Cay, Bahamas Departure (UTC) Aug 14, 21:14 — ET: Aug 14, 05:14 PM EDT | Local: Aug 14, 05:14 PM EDT",
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
@@ -250,6 +261,17 @@
     "eventUtc": "2026-08-14T15:36:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Wonder Arrived at Juneau, United States (USA) at Aug 14, 10:07 AM EDT. The local time to the port is Aug 14, 10:07 AM EDT",
+    "description": "Juneau, United States (USA) Arrival (UTC) Aug 14, 14:07 — ET: Aug 14, 10:07 AM EDT | Local: Aug 14, 10:07 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USJNU001",
+    "guid": "b6679917a19b15c1c9e14b15f2f29b7a5b9ea51c",
+    "pubDate": "Sat, 15 Aug 2026 06:50:23 GMT",
+    "eventUtc": "2026-08-14T14:07:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
     "source": "vf_ship"
   },
   {
@@ -5473,28 +5495,6 @@
     "guid": "fb3a4f375ce456d2fae4b7a6f9542dfae8633f0d",
     "pubDate": "Thu, 18 Jun 2026 23:45:12 GMT",
     "eventUtc": "2026-06-18T23:34:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Departed from Gorda Cay, Bahamas at Jun 18, 05:00 PM EDT. The local time to the port is Jun 18, 05:00 PM EDT",
-    "description": "Gorda Cay, Bahamas Departure (UTC) Jun 18, 21:00 — ET: Jun 18, 05:00 PM EDT | Local: Jun 18, 05:00 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "6a556b566ce5f681966b77e6babe5e19f97e0e4d",
-    "pubDate": "Fri, 19 Jun 2026 08:18:22 GMT",
-    "eventUtc": "2026-06-18T21:00:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Arrived at Vancouver, Canada at Jun 18, 10:02 AM EDT. The local time to the port is Jun 18, 07:02 AM PDT",
-    "description": "Vancouver, Canada Arrival (UTC) Jun 18, 14:02 — ET: Jun 18, 10:02 AM EDT | Local: Jun 18, 07:02 AM PDT",
-    "link": "https://www.vesselfinder.com/ports/CAVAN001",
-    "guid": "781ab64ead8679e89fa0a1ee0d3fa8577ac569fe",
-    "pubDate": "Thu, 18 Jun 2026 17:36:12 GMT",
-    "eventUtc": "2026-06-18T14:02:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
     "source": "vf_ship"
