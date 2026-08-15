@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Arrived at Cape Canaveral, United States (USA) at Aug 15, 05:54 AM EDT. The local time to the port is Aug 15, 05:54 AM EDT",
+    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Aug 15, 09:54 — ET: Aug 15, 05:54 AM EDT | Local: Aug 15, 05:54 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "b805c4200cad140e40eac47ca9b337739cf861ec",
+    "pubDate": "Sat, 15 Aug 2026 10:32:01 GMT",
+    "eventUtc": "2026-08-15T09:54:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Arrived at Unknown Port at Aug 15, 04:46 AM EDT. The local time to the port is Aug 15, 04:46 AM EDT",
     "description": "Unknown Port Arrival (UTC) Aug 15, 08:46 — ET: Aug 15, 04:46 AM EDT | Local: Aug 15, 04:46 AM EDT",
     "link": "https://www.vesselfinder.com/vessels/details/9434254",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-06-19T09:52:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Arrived at Cape Canaveral, United States (USA) at Jun 19, 05:10 AM EDT. The local time to the port is Jun 19, 05:10 AM EDT",
-    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Jun 19, 09:10 — ET: Jun 19, 05:10 AM EDT | Local: Jun 19, 05:10 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "b0a43e2373d5797644ee11f27631babc7902b217",
-    "pubDate": "Fri, 19 Jun 2026 12:26:43 GMT",
-    "eventUtc": "2026-06-19T09:10:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
     "source": "vf_ship"
   }
 ]
