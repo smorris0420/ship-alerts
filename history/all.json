@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Arrived at Nassau, Bahamas at Aug 15, 09:19 AM EDT. The local time to the port is Aug 15, 09:19 AM EDT",
+    "description": "Nassau, Bahamas Arrival (UTC) Aug 15, 13:19 — ET: Aug 15, 09:19 AM EDT | Local: Aug 15, 09:19 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "9e5f42a899dc5d2f4a4dd66a038ea04ed29a554a",
+    "pubDate": "Sat, 15 Aug 2026 13:59:13 GMT",
+    "eventUtc": "2026-08-15T13:19:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Arrived at Port Everglades, United States (USA) at Aug 15, 06:15 AM EDT. The local time to the port is Aug 15, 06:15 AM EDT",
     "description": "Port Everglades, United States (USA) Arrival (UTC) Aug 15, 10:15 — ET: Aug 15, 06:15 AM EDT | Local: Aug 15, 06:15 AM EDT",
     "link": "https://www.vesselfinder.com/ports/USPEF001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-06-19T20:37:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Gorda Cay, Bahamas at Jun 19, 07:17 AM EDT. The local time to the port is Jun 19, 07:17 AM EDT",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) Jun 19, 11:17 — ET: Jun 19, 07:17 AM EDT | Local: Jun 19, 07:17 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "bb303e39335f24f15f2e5567f5071b7909fdee4a",
-    "pubDate": "Sat, 20 Jun 2026 04:45:54 GMT",
-    "eventUtc": "2026-06-19T11:17:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
