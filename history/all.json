@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Arrived at Gorda Cay, Bahamas at Aug 16, 06:51 AM EDT. The local time to the port is Aug 16, 06:51 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Aug 16, 10:51 — ET: Aug 16, 06:51 AM EDT | Local: Aug 16, 06:51 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "aac3a6f2eabb03639d14b4b2db84be0e2b79d6aa",
+    "pubDate": "Sun, 16 Aug 2026 11:52:44 GMT",
+    "eventUtc": "2026-08-16T10:51:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Departed from Ketchikan, United States (USA) at Aug 15, 11:02 PM EDT. The local time to the port is Aug 15, 11:02 PM EDT",
     "description": "Ketchikan, United States (USA) Departure (UTC) Aug 16, 03:02 — ET: Aug 15, 11:02 PM EDT | Local: Aug 15, 11:02 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USKTN001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-06-20T20:05:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Arrived at Ketchikan, United States (USA) at Jun 20, 01:50 PM EDT. The local time to the port is Jun 20, 01:50 PM EDT",
-    "description": "Ketchikan, United States (USA) Arrival (UTC) Jun 20, 17:50 — ET: Jun 20, 01:50 PM EDT | Local: Jun 20, 01:50 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USKTN001",
-    "guid": "d6df44347d90226182ad4c15752da730b9abaf38",
-    "pubDate": "Sun, 21 Jun 2026 05:12:57 GMT",
-    "eventUtc": "2026-06-20T17:50:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
     "source": "vf_ship"
   }
 ]
