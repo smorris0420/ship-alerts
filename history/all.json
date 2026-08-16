@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Departed from Gorda Cay, Bahamas at Aug 16, 04:52 PM EDT. The local time to the port is Aug 16, 04:52 PM EDT",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Aug 16, 20:52 — ET: Aug 16, 04:52 PM EDT | Local: Aug 16, 04:52 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "09ed4d424413f0e0de6e3a0eff406a646d73a8c4",
+    "pubDate": "Sun, 16 Aug 2026 21:13:23 GMT",
+    "eventUtc": "2026-08-16T20:52:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Arrived at Gorda Cay, Bahamas at Aug 16, 06:51 AM EDT. The local time to the port is Aug 16, 06:51 AM EDT",
     "description": "Gorda Cay, Bahamas Arrival (UTC) Aug 16, 10:51 — ET: Aug 16, 06:51 AM EDT | Local: Aug 16, 06:51 AM EDT",
     "link": "https://www.vesselfinder.com/ports/BSGOC001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-06-20T20:47:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Departed from Port Everglades, United States (USA) at Jun 20, 04:05 PM EDT. The local time to the port is Jun 20, 04:05 PM EDT",
-    "description": "Port Everglades, United States (USA) Departure (UTC) Jun 20, 20:05 — ET: Jun 20, 04:05 PM EDT | Local: Jun 20, 04:05 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "70b94ff1c43d9931b5f948a2a4d70f6b2d14af3a",
-    "pubDate": "Sat, 20 Jun 2026 20:27:26 GMT",
-    "eventUtc": "2026-06-20T20:05:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
     "source": "vf_ship"
   }
 ]
