@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Arrived at Cape Canaveral, United States (USA) at Aug 17, 05:36 AM EDT. The local time to the port is Aug 17, 05:36 AM EDT",
+    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Aug 17, 09:36 — ET: Aug 17, 05:36 AM EDT | Local: Aug 17, 05:36 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "5ced27d80bb7a835c277e8e5d9f4d7c7ddbbf2b3",
+    "pubDate": "Mon, 17 Aug 2026 10:22:27 GMT",
+    "eventUtc": "2026-08-17T09:36:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Departed from Singapore, Singapore at Aug 17, 04:59 AM EDT. The local time to the port is Aug 17, 04:59 AM EDT",
     "description": "Singapore, Singapore Departure (UTC) Aug 17, 08:59 — ET: Aug 17, 04:59 AM EDT | Local: Aug 17, 04:59 AM EDT",
     "link": "https://www.vesselfinder.com/ports/SGSIN001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-06-21T11:45:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Arrived at Souda, Greece at Jun 20, 11:46 PM EDT. The local time to the port is Jun 21, 06:46 AM EEST",
-    "description": "Souda, Greece Arrival (UTC) Jun 21, 03:46 — ET: Jun 20, 11:46 PM EDT | Local: Jun 21, 06:46 AM EEST",
-    "link": "https://www.vesselfinder.com/ports/GRSDH001",
-    "guid": "8778f51f3f3e56a61e2b085329082e06b8a67882",
-    "pubDate": "Sun, 21 Jun 2026 05:12:45 GMT",
-    "eventUtc": "2026-06-21T03:46:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
     "source": "vf_ship"
   }
 ]
