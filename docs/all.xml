@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Mon, 17 Aug 2026 20:15:41 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 17 Aug 2026 20:48:57 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,13 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Wish Departed from Cape Canaveral, United States (USA) at Aug 17, 04:27 PM EDT. The local time to the port is Aug 17, 04:27 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USPCV001</link>
+    <guid isPermaLink="false">64ee5f6497a2cee88436fce4032d6f896597df94</guid>
+    <pubDate>Mon, 17 Aug 2026 20:44:10 GMT</pubDate>
+    <description><![CDATA[Cape Canaveral, United States (USA) Departure (UTC) Aug 17, 20:27 — ET: Aug 17, 04:27 PM EDT | Local: Aug 17, 04:27 PM EDT]]></description>
   </item>
   <item>
     <title>Disney Dream Departed from Southampton, United Kingdom (UK) at Aug 17, 12:17 PM EDT. The local time to the port is Aug 17, 05:17 PM BST</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">c3e223aada86bfd2630c8866866661efcf79e8fd</guid>
     <pubDate>Mon, 22 Jun 2026 11:14:43 GMT</pubDate>
     <description><![CDATA[Cape Canaveral, United States (USA) Arrival (UTC) Jun 22, 09:51 — ET: Jun 22, 05:51 AM EDT | Local: Jun 22, 05:51 AM EDT]]></description>
-  </item>
-  <item>
-    <title>Disney Adventure Departed from Singapore, Singapore at Jun 22, 04:53 AM EDT. The local time to the port is Jun 22, 04:53 AM EDT</title>
-    <link>https://www.vesselfinder.com/ports/SGSIN001</link>
-    <guid isPermaLink="false">579d7bd3a7c7e37c42226671640d7073e76a7cc8</guid>
-    <pubDate>Mon, 22 Jun 2026 11:18:35 GMT</pubDate>
-    <description><![CDATA[Singapore, Singapore Departure (UTC) Jun 22, 08:53 — ET: Jun 22, 04:53 AM EDT | Local: Jun 22, 04:53 AM EDT]]></description>
   </item>
 </channel>
 </rss>
