@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Arrived at Cozumel, Mexico at Aug 17, 08:07 AM EDT. The local time to the port is Aug 17, 07:07 AM EST",
+    "description": "Cozumel, Mexico Arrival (UTC) Aug 17, 12:07 — ET: Aug 17, 08:07 AM EDT | Local: Aug 17, 07:07 AM EST",
+    "link": "https://www.vesselfinder.com/ports/MXCZM001",
+    "guid": "3180d6cdc7aeadd2c671cee911d75539d07c3025",
+    "pubDate": "Mon, 17 Aug 2026 13:14:12 GMT",
+    "eventUtc": "2026-08-17T12:07:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Departed from Port Everglades, United States (USA) at Aug 15, 04:20 PM EDT. The local time to the port is Aug 15, 04:20 PM EDT",
     "description": "Port Everglades, United States (USA) Departure (UTC) Aug 15, 20:20 — ET: Aug 15, 04:20 PM EDT | Local: Aug 15, 04:20 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USPEF001",
@@ -2734,17 +2745,6 @@
     "guid": "ff8bd448c5cdf41ba2042c142a532aa5651e9b20",
     "pubDate": "Sun, 04 Jan 2026 22:43:42 GMT",
     "eventUtc": "2026-01-04T22:16:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Arrived at Port Everglades, United States (USA) at Jan 04, 04:06 AM EST. The local time to the port is Jan 04, 04:06 AM EST",
-    "description": "Port Everglades, United States (USA) Arrival (UTC) Jan 4, 09:06 — ET: Jan 04, 04:06 AM EST | Local: Jan 04, 04:06 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "793fc0a45fd22f35ff770d1ee65c379440862561",
-    "pubDate": "Sun, 04 Jan 2026 09:52:00 GMT",
-    "eventUtc": "2026-01-04T09:06:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
     "source": "vf_ship"

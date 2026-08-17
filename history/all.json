@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Arrived at Cozumel, Mexico at Aug 17, 08:07 AM EDT. The local time to the port is Aug 17, 07:07 AM EST",
+    "description": "Cozumel, Mexico Arrival (UTC) Aug 17, 12:07 — ET: Aug 17, 08:07 AM EDT | Local: Aug 17, 07:07 AM EST",
+    "link": "https://www.vesselfinder.com/ports/MXCZM001",
+    "guid": "3180d6cdc7aeadd2c671cee911d75539d07c3025",
+    "pubDate": "Mon, 17 Aug 2026 13:14:12 GMT",
+    "eventUtc": "2026-08-17T12:07:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Arrived at Nassau, Bahamas at Aug 17, 06:29 AM EDT. The local time to the port is Aug 17, 06:29 AM EDT",
     "description": "Nassau, Bahamas Arrival (UTC) Aug 17, 10:29 — ET: Aug 17, 06:29 AM EDT | Local: Aug 17, 06:29 AM EDT",
     "link": "https://www.vesselfinder.com/ports/BSNAS001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-06-21T21:10:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Souda, Greece at Jun 21, 12:10 PM EDT. The local time to the port is Jun 21, 07:10 PM EEST",
-    "description": "Souda, Greece Departure (UTC) Jun 21, 16:10 — ET: Jun 21, 12:10 PM EDT | Local: Jun 21, 07:10 PM EEST",
-    "link": "https://www.vesselfinder.com/ports/GRSDH001",
-    "guid": "1362fc0808451c8ca14901609d9f0b9c366fdee3",
-    "pubDate": "Sun, 21 Jun 2026 17:10:37 GMT",
-    "eventUtc": "2026-06-21T16:10:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
     "source": "vf_ship"
   }
 ]
