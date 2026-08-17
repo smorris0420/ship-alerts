@@ -5,7 +5,7 @@
   <title>Disney Wonder - Arrivals &amp; Departures</title>
   <link>https://www.vesselfinder.com/vessels/details/9126819</link>
   <description>Disney Wonder - Arrivals &amp; Departures - Auto-generated</description>
-  <lastBuildDate>Mon, 17 Aug 2026 14:22:43 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 17 Aug 2026 14:53:15 GMT</lastBuildDate>
   
   <item>
     <title>Disney Wonder Departed from Hobart, Australia at Dec 31, 08:48 AM EST. The local time to the port is Jan 01, 12:48 AM AEDT</title>
@@ -20,6 +20,13 @@
     <guid isPermaLink="false">17aff6dc63c1d854034dba404a0bb7bbc9de0818</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:40 GMT</pubDate>
     <description><![CDATA[Hobart, Australia Arrival (UTC) Dec 30, 20:45 — ET: Dec 30, 03:45 PM EST | Local: Dec 31, 07:45 AM AEDT]]></description>
+  </item>
+  <item>
+    <title>Disney Wonder Arrived at Vancouver, Canada at Aug 17, 09:50 AM EDT. The local time to the port is Aug 17, 06:50 AM PDT</title>
+    <link>https://www.vesselfinder.com/ports/CAVAN001</link>
+    <guid isPermaLink="false">92ae486ad4d0e196b28cb7d228f761869e9d5b2e</guid>
+    <pubDate>Mon, 17 Aug 2026 14:53:13 GMT</pubDate>
+    <description><![CDATA[Vancouver, Canada Arrival (UTC) Aug 17, 13:50 — ET: Aug 17, 09:50 AM EDT | Local: Aug 17, 06:50 AM PDT]]></description>
   </item>
   <item>
     <title>Disney Wonder Departed from Ketchikan, United States (USA) at Aug 15, 11:02 PM EDT. The local time to the port is Aug 15, 11:02 PM EDT</title>
@@ -1749,13 +1756,6 @@
     <guid isPermaLink="false">e353b6943129b9ceb5150d6f22aa8a706aaf82e3</guid>
     <pubDate>Sun, 28 Dec 2025 20:22:14 GMT</pubDate>
     <description><![CDATA[Sydney, Australia Arrival (UTC) Dec 28, 19:34 — ET: Dec 28, 02:34 PM EST | Local: Dec 29, 06:34 AM AEDT]]></description>
-  </item>
-  <item>
-    <title>Disney Wonder Departed from Lyttelton, New Zealand at Dec 24, 12:36 AM EST. The local time to the port is Dec 24, 06:36 PM NZDT</title>
-    <link>https://www.vesselfinder.com/ports/NZLYT001</link>
-    <guid isPermaLink="false">ddf9248a9398a6c842938586f9110d0d7e50ed58</guid>
-    <pubDate>Wed, 24 Dec 2025 05:48:39 GMT</pubDate>
-    <description><![CDATA[Lyttelton, New Zealand Departure (UTC) Dec 24, 05:36 — ET: Dec 24, 12:36 AM EST | Local: Dec 24, 06:36 PM NZDT]]></description>
   </item>
 </channel>
 </rss>

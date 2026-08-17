@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wonder Arrived at Vancouver, Canada at Aug 17, 09:50 AM EDT. The local time to the port is Aug 17, 06:50 AM PDT",
+    "description": "Vancouver, Canada Arrival (UTC) Aug 17, 13:50 — ET: Aug 17, 09:50 AM EDT | Local: Aug 17, 06:50 AM PDT",
+    "link": "https://www.vesselfinder.com/ports/CAVAN001",
+    "guid": "92ae486ad4d0e196b28cb7d228f761869e9d5b2e",
+    "pubDate": "Mon, 17 Aug 2026 14:53:13 GMT",
+    "eventUtc": "2026-08-17T13:50:00+00:00",
+    "shipSlug": "disney-wonder",
+    "shipName": "Disney Wonder",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Arrived at Cozumel, Mexico at Aug 17, 08:07 AM EDT. The local time to the port is Aug 17, 07:07 AM EST",
     "description": "Cozumel, Mexico Arrival (UTC) Aug 17, 12:07 — ET: Aug 17, 08:07 AM EDT | Local: Aug 17, 07:07 AM EST",
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-06-21T21:36:00+00:00",
     "shipSlug": "disney-adventure",
     "shipName": "Disney Adventure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Departed from Gorda Cay, Bahamas at Jun 21, 05:10 PM EDT. The local time to the port is Jun 21, 05:10 PM EDT",
-    "description": "Gorda Cay, Bahamas Departure (UTC) Jun 21, 21:10 — ET: Jun 21, 05:10 PM EDT | Local: Jun 21, 05:10 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "29ffd27592552c9fa8a60ef6b79fe7f7d8c1cc1d",
-    "pubDate": "Wed, 24 Jun 2026 08:06:37 GMT",
-    "eventUtc": "2026-06-21T21:10:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
     "source": "vf_ship"
   }
 ]
