@@ -209,6 +209,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Departed from Cozumel, Mexico at Aug 17, 06:15 PM EDT. The local time to the port is Aug 17, 05:15 PM EST",
+    "description": "Cozumel, Mexico Departure (UTC) Aug 17, 22:15 — ET: Aug 17, 06:15 PM EDT | Local: Aug 17, 05:15 PM EST",
+    "link": "https://www.vesselfinder.com/ports/MXCZM001",
+    "guid": "ec7bf96f49c4f0decb4447d03f59102db9c35332",
+    "pubDate": "Mon, 17 Aug 2026 22:35:09 GMT",
+    "eventUtc": "2026-08-17T22:15:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Fantasy Departed from Nassau, Bahamas at Aug 17, 05:48 PM EDT. The local time to the port is Aug 17, 05:48 PM EDT",
+    "description": "Nassau, Bahamas Departure (UTC) Aug 17, 21:48 — ET: Aug 17, 05:48 PM EDT | Local: Aug 17, 05:48 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "3f66cd264dce6462ed05073dfe76a83cf7a8fad8",
+    "pubDate": "Mon, 17 Aug 2026 22:32:26 GMT",
+    "eventUtc": "2026-08-17T21:48:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Departed from Cape Canaveral, United States (USA) at Aug 17, 04:27 PM EDT. The local time to the port is Aug 17, 04:27 PM EDT",
     "description": "Cape Canaveral, United States (USA) Departure (UTC) Aug 17, 20:27 — ET: Aug 17, 04:27 PM EDT | Local: Aug 17, 04:27 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-06-22T14:03:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Arrived at Gorda Cay, Bahamas at Jun 22, 08:09 AM EDT. The local time to the port is Jun 22, 08:09 AM EDT",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) Jun 22, 12:09 — ET: Jun 22, 08:09 AM EDT | Local: Jun 22, 08:09 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "ed45e59e9e0c3bd476304f321e123679eff555b1",
-    "pubDate": "Tue, 23 Jun 2026 00:24:30 GMT",
-    "eventUtc": "2026-06-22T12:09:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Arrived at Cape Canaveral, United States (USA) at Jun 22, 05:51 AM EDT. The local time to the port is Jun 22, 05:51 AM EDT",
-    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Jun 22, 09:51 — ET: Jun 22, 05:51 AM EDT | Local: Jun 22, 05:51 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "c3e223aada86bfd2630c8866866661efcf79e8fd",
-    "pubDate": "Mon, 22 Jun 2026 11:14:43 GMT",
-    "eventUtc": "2026-06-22T09:51:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
     "source": "vf_ship"
   }
 ]
