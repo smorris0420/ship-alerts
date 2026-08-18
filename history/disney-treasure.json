@@ -44,6 +44,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Departed from Road Town, Tortola, British Virgin Islands at Aug 18, 06:03 PM EDT. The local time to the port is Aug 18, 06:03 PM AST",
+    "description": "Road Town, Tortola, British Virgin Islands Departure (UTC) Aug 18, 22:03 — ET: Aug 18, 06:03 PM EDT | Local: Aug 18, 06:03 PM AST",
+    "link": "https://www.vesselfinder.com/ports/VGRAD001",
+    "guid": "6f022f92b0d09864f2d7f8b98da7fee02ea11039",
+    "pubDate": "Tue, 18 Aug 2026 23:12:42 GMT",
+    "eventUtc": "2026-08-18T22:03:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Arrived at Road Town, Tortola, British Virgin Islands at Aug 18, 07:16 AM EDT. The local time to the port is Aug 18, 07:16 AM AST",
     "description": "Road Town, Tortola, British Virgin Islands Arrival (UTC) Aug 18, 11:16 — ET: Aug 18, 07:16 AM EDT | Local: Aug 18, 07:16 AM AST",
     "link": "https://www.vesselfinder.com/ports/VGRAD001",
@@ -2734,17 +2745,6 @@
     "guid": "1a4b35ae18c272e108987c198148db3a8113848c",
     "pubDate": "Fri, 30 Jan 2026 06:09:10 GMT",
     "eventUtc": "2026-01-28T11:57:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Cozumel, Mexico at Jan 26, 05:35 PM EST. The local time to the port is Jan 26, 05:35 PM EST",
-    "description": "Cozumel, Mexico Departure (UTC) Jan 26, 22:35 — ET: Jan 26, 05:35 PM EST | Local: Jan 26, 05:35 PM EST",
-    "link": "https://www.vesselfinder.com/ports/MXCZM001",
-    "guid": "0dacb15f998e68d995b0294eedcb6628df8d6917",
-    "pubDate": "Mon, 26 Jan 2026 22:54:41 GMT",
-    "eventUtc": "2026-01-26T22:35:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
     "source": "vf_ship"

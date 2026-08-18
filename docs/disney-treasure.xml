@@ -5,7 +5,7 @@
   <title>Disney Treasure - Arrivals &amp; Departures</title>
   <link>https://www.vesselfinder.com/vessels/details/9834753</link>
   <description>Disney Treasure - Arrivals &amp; Departures - Auto-generated</description>
-  <lastBuildDate>Tue, 18 Aug 2026 16:46:44 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 18 Aug 2026 23:12:44 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -34,6 +34,13 @@
     <guid isPermaLink="false">82d28296f402cfdf1461b4ee7ddf9e1831c89886</guid>
     <pubDate>Thu, 01 Jan 2026 00:00:51 GMT</pubDate>
     <description><![CDATA[Georgetown, Grand Cayman Anch., Cayman Islands Arrival (UTC) Dec 29, 12:44 — ET: Dec 29, 07:44 AM EST | Local: Dec 29, 07:44 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Treasure Departed from Road Town, Tortola, British Virgin Islands at Aug 18, 06:03 PM EDT. The local time to the port is Aug 18, 06:03 PM AST</title>
+    <link>https://www.vesselfinder.com/ports/VGRAD001</link>
+    <guid isPermaLink="false">6f022f92b0d09864f2d7f8b98da7fee02ea11039</guid>
+    <pubDate>Tue, 18 Aug 2026 23:12:42 GMT</pubDate>
+    <description><![CDATA[Road Town, Tortola, British Virgin Islands Departure (UTC) Aug 18, 22:03 — ET: Aug 18, 06:03 PM EDT | Local: Aug 18, 06:03 PM AST]]></description>
   </item>
   <item>
     <title>Disney Treasure Arrived at Road Town, Tortola, British Virgin Islands at Aug 18, 07:16 AM EDT. The local time to the port is Aug 18, 07:16 AM AST</title>
@@ -1749,13 +1756,6 @@
     <guid isPermaLink="false">1a4b35ae18c272e108987c198148db3a8113848c</guid>
     <pubDate>Fri, 30 Jan 2026 06:09:10 GMT</pubDate>
     <description><![CDATA[Falmouth, Jamaica Arrival (UTC) Jan 28, 11:57 — ET: Jan 28, 06:57 AM EST | Local: Jan 28, 06:57 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Treasure Departed from Cozumel, Mexico at Jan 26, 05:35 PM EST. The local time to the port is Jan 26, 05:35 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/MXCZM001</link>
-    <guid isPermaLink="false">0dacb15f998e68d995b0294eedcb6628df8d6917</guid>
-    <pubDate>Mon, 26 Jan 2026 22:54:41 GMT</pubDate>
-    <description><![CDATA[Cozumel, Mexico Departure (UTC) Jan 26, 22:35 — ET: Jan 26, 05:35 PM EST | Local: Jan 26, 05:35 PM EST]]></description>
   </item>
 </channel>
 </rss>

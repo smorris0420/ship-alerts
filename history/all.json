@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Departed from Road Town, Tortola, British Virgin Islands at Aug 18, 06:03 PM EDT. The local time to the port is Aug 18, 06:03 PM AST",
+    "description": "Road Town, Tortola, British Virgin Islands Departure (UTC) Aug 18, 22:03 — ET: Aug 18, 06:03 PM EDT | Local: Aug 18, 06:03 PM AST",
+    "link": "https://www.vesselfinder.com/ports/VGRAD001",
+    "guid": "6f022f92b0d09864f2d7f8b98da7fee02ea11039",
+    "pubDate": "Tue, 18 Aug 2026 23:12:42 GMT",
+    "eventUtc": "2026-08-18T22:03:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Arrived at Road Town, Tortola, British Virgin Islands at Aug 18, 07:16 AM EDT. The local time to the port is Aug 18, 07:16 AM AST",
     "description": "Road Town, Tortola, British Virgin Islands Arrival (UTC) Aug 18, 11:16 — ET: Aug 18, 07:16 AM EDT | Local: Aug 18, 07:16 AM AST",
     "link": "https://www.vesselfinder.com/ports/VGRAD001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-06-23T11:27:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Arrived at Napoli, Italy at Jun 23, 01:18 AM EDT. The local time to the port is Jun 23, 07:18 AM CEST",
-    "description": "Napoli, Italy Arrival (UTC) Jun 23, 05:18 — ET: Jun 23, 01:18 AM EDT | Local: Jun 23, 07:18 AM CEST",
-    "link": "https://www.vesselfinder.com/ports/ITNAP001",
-    "guid": "9b27b838a24ee07b586f2382502bc131ae5c924d",
-    "pubDate": "Tue, 23 Jun 2026 08:20:47 GMT",
-    "eventUtc": "2026-06-23T05:18:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
     "source": "vf_ship"
   }
 ]

@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Tue, 18 Aug 2026 16:51:18 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 18 Aug 2026 23:17:07 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,13 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Treasure Departed from Road Town, Tortola, British Virgin Islands at Aug 18, 06:03 PM EDT. The local time to the port is Aug 18, 06:03 PM AST</title>
+    <link>https://www.vesselfinder.com/ports/VGRAD001</link>
+    <guid isPermaLink="false">6f022f92b0d09864f2d7f8b98da7fee02ea11039</guid>
+    <pubDate>Tue, 18 Aug 2026 23:12:42 GMT</pubDate>
+    <description><![CDATA[Road Town, Tortola, British Virgin Islands Departure (UTC) Aug 18, 22:03 — ET: Aug 18, 06:03 PM EDT | Local: Aug 18, 06:03 PM AST]]></description>
   </item>
   <item>
     <title>Disney Treasure Arrived at Road Town, Tortola, British Virgin Islands at Aug 18, 07:16 AM EDT. The local time to the port is Aug 18, 07:16 AM AST</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">06a06c3834a65560e11d23f230b9bf40958f1e0e</guid>
     <pubDate>Tue, 23 Jun 2026 14:03:22 GMT</pubDate>
     <description><![CDATA[Road Town, Tortola, British Virgin Islands Arrival (UTC) Jun 23, 11:27 — ET: Jun 23, 07:27 AM EDT | Local: Jun 23, 07:27 AM AST]]></description>
-  </item>
-  <item>
-    <title>Disney Dream Arrived at Napoli, Italy at Jun 23, 01:18 AM EDT. The local time to the port is Jun 23, 07:18 AM CEST</title>
-    <link>https://www.vesselfinder.com/ports/ITNAP001</link>
-    <guid isPermaLink="false">9b27b838a24ee07b586f2382502bc131ae5c924d</guid>
-    <pubDate>Tue, 23 Jun 2026 08:20:47 GMT</pubDate>
-    <description><![CDATA[Napoli, Italy Arrival (UTC) Jun 23, 05:18 — ET: Jun 23, 01:18 AM EDT | Local: Jun 23, 07:18 AM CEST]]></description>
   </item>
 </channel>
 </rss>
