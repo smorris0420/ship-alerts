@@ -220,6 +220,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Hoonah, United States (USA) at Aug 17, 08:13 PM EDT. The local time to the port is Aug 17, 08:13 PM EDT",
+    "description": "Hoonah, United States (USA) Departure (UTC) Aug 18, 00:13 — ET: Aug 17, 08:13 PM EDT | Local: Aug 17, 08:13 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USHNH001",
+    "guid": "cdf2be6ace50ba5007b0962e68c022cf2316fe74",
+    "pubDate": "Tue, 18 Aug 2026 08:33:06 GMT",
+    "eventUtc": "2026-08-18T00:13:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wonder Departed from Vancouver, Canada at Aug 17, 07:32 PM EDT. The local time to the port is Aug 17, 04:32 PM PDT",
     "description": "Vancouver, Canada Departure (UTC) Aug 17, 23:32 — ET: Aug 17, 07:32 PM EDT | Local: Aug 17, 04:32 PM PDT",
     "link": "https://www.vesselfinder.com/ports/CAVAN001",
@@ -272,6 +283,17 @@
     "eventUtc": "2026-08-17T16:17:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Magic Arrived at Hoonah, United States (USA) at Aug 17, 10:03 AM EDT. The local time to the port is Aug 17, 10:03 AM EDT",
+    "description": "Hoonah, United States (USA) Arrival (UTC) Aug 17, 14:03 — ET: Aug 17, 10:03 AM EDT | Local: Aug 17, 10:03 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USHNH001",
+    "guid": "6c423de36cb308707f57bcdcd0ea3d7b80d9d0cd",
+    "pubDate": "Tue, 18 Aug 2026 08:33:05 GMT",
+    "eventUtc": "2026-08-17T14:03:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
     "source": "vf_ship"
   },
   {
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-06-22T23:32:00+00:00",
     "shipSlug": "disney-wonder",
     "shipName": "Disney Wonder",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Departed from Gorda Cay, Bahamas at Jun 22, 04:47 PM EDT. The local time to the port is Jun 22, 04:47 PM EDT",
-    "description": "Gorda Cay, Bahamas Departure (UTC) Jun 22, 20:47 — ET: Jun 22, 04:47 PM EDT | Local: Jun 22, 04:47 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "e0123c48ebd8041d6a26cf913fb9e6ca7aa39b5e",
-    "pubDate": "Tue, 23 Jun 2026 00:24:31 GMT",
-    "eventUtc": "2026-06-22T20:47:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Departed from Cape Canaveral, United States (USA) at Jun 22, 04:33 PM EDT. The local time to the port is Jun 22, 04:33 PM EDT",
-    "description": "Cape Canaveral, United States (USA) Departure (UTC) Jun 22, 20:33 — ET: Jun 22, 04:33 PM EDT | Local: Jun 22, 04:33 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USPCV001",
-    "guid": "f389ae2e68e17bf848bf6c2ab0ff161b8bac4a32",
-    "pubDate": "Mon, 22 Jun 2026 21:48:45 GMT",
-    "eventUtc": "2026-06-22T20:33:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
     "source": "vf_ship"
   }
 ]
