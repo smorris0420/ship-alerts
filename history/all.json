@@ -308,6 +308,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Wish Departed from Gorda Cay, Bahamas at Aug 18, 04:46 PM EDT. The local time to the port is Aug 18, 04:46 PM EDT",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Aug 18, 20:46 — ET: Aug 18, 04:46 PM EDT | Local: Aug 18, 04:46 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "bc54c5fd0d86206eaf1807f76e29a188bd2e5f61",
+    "pubDate": "Wed, 19 Aug 2026 22:27:15 GMT",
+    "eventUtc": "2026-08-18T20:46:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Magic Arrived at Ketchikan, United States (USA) at Aug 18, 12:40 PM EDT. The local time to the port is Aug 18, 12:40 PM EDT",
     "description": "Ketchikan, United States (USA) Arrival (UTC) Aug 18, 16:40 — ET: Aug 18, 12:40 PM EDT | Local: Aug 18, 12:40 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USKTN001",
@@ -316,6 +327,17 @@
     "eventUtc": "2026-08-18T16:40:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Wish Arrived at Gorda Cay, Bahamas at Aug 18, 07:24 AM EDT. The local time to the port is Aug 18, 07:24 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Aug 18, 11:24 — ET: Aug 18, 07:24 AM EDT | Local: Aug 18, 07:24 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "3c5c7b01e209da4eb06a62063fbf8f7d28d714cc",
+    "pubDate": "Wed, 19 Aug 2026 22:27:13 GMT",
+    "eventUtc": "2026-08-18T11:24:00+00:00",
+    "shipSlug": "disney-wish",
+    "shipName": "Disney Wish",
     "source": "vf_ship"
   },
   {
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-06-24T12:25:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Arrived at Georgetown, Grand Cayman Anch., Cayman Islands at Jun 24, 08:25 AM EDT. The local time to the port is Jun 24, 07:25 AM EST",
-    "description": "Georgetown, Grand Cayman Anch., Cayman Islands Arrival (UTC) Jun 24, 12:25 — ET: Jun 24, 08:25 AM EDT | Local: Jun 24, 07:25 AM EST",
-    "link": "https://www.vesselfinder.com/ports/KYGEC001",
-    "guid": "70b252c8a920c1c9ff1372a77f7c27847a06ae09",
-    "pubDate": "Thu, 25 Jun 2026 17:09:41 GMT",
-    "eventUtc": "2026-06-24T12:25:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Saint Thomas, US Virgin Islands at Jun 24, 07:20 AM EDT. The local time to the port is Jun 24, 07:20 AM EDT",
-    "description": "Saint Thomas, US Virgin Islands Arrival (UTC) Jun 24, 11:20 — ET: Jun 24, 07:20 AM EDT | Local: Jun 24, 07:20 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/VISTT001",
-    "guid": "7bdc6d10661e6b29bc3f9cfebbbcf44d8b96c002",
-    "pubDate": "Wed, 24 Jun 2026 15:56:33 GMT",
-    "eventUtc": "2026-06-24T11:20:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
