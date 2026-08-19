@@ -209,6 +209,39 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Fantasy Departed from Cape Canaveral, United States (USA) at Aug 19, 04:25 PM EDT. The local time to the port is Aug 19, 04:25 PM EDT",
+    "description": "Cape Canaveral, United States (USA) Departure (UTC) Aug 19, 20:25 — ET: Aug 19, 04:25 PM EDT | Local: Aug 19, 04:25 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "4186d4acf8f95f41fef5803a662bf76e7c05f5fc",
+    "pubDate": "Wed, 19 Aug 2026 21:43:25 GMT",
+    "eventUtc": "2026-08-19T20:25:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Treasure Departed from Saint Thomas, US Virgin Islands at Aug 19, 03:59 PM EDT. The local time to the port is Aug 19, 03:59 PM EDT",
+    "description": "Saint Thomas, US Virgin Islands Departure (UTC) Aug 19, 19:59 — ET: Aug 19, 03:59 PM EDT | Local: Aug 19, 03:59 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/VISTT001",
+    "guid": "27054572d2570f491bbb4fff83b33838d94b21fd",
+    "pubDate": "Wed, 19 Aug 2026 21:43:12 GMT",
+    "eventUtc": "2026-08-19T19:59:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Dream Departed from A Coruna, Spain at Aug 19, 11:43 AM EDT. The local time to the port is Aug 19, 05:43 PM CEST",
+    "description": "A Coruna, Spain Departure (UTC) Aug 19, 15:43 — ET: Aug 19, 11:43 AM EDT | Local: Aug 19, 05:43 PM CEST",
+    "link": "https://www.vesselfinder.com/ports/ESLCG001",
+    "guid": "89b32b2aa1b44feef6f71b44186f87f69c5306e9",
+    "pubDate": "Wed, 19 Aug 2026 21:44:20 GMT",
+    "eventUtc": "2026-08-19T15:43:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Arrived at Saint Thomas, US Virgin Islands at Aug 19, 07:20 AM EDT. The local time to the port is Aug 19, 07:20 AM EDT",
     "description": "Saint Thomas, US Virgin Islands Arrival (UTC) Aug 19, 11:20 — ET: Aug 19, 07:20 AM EDT | Local: Aug 19, 07:20 AM EDT",
     "link": "https://www.vesselfinder.com/ports/VISTT001",
@@ -5464,39 +5497,6 @@
     "eventUtc": "2026-06-24T09:52:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Arrived at Civitavecchia, Italy at Jun 23, 11:32 PM EDT. The local time to the port is Jun 24, 05:32 AM CEST",
-    "description": "Civitavecchia, Italy Arrival (UTC) Jun 24, 03:32 — ET: Jun 23, 11:32 PM EDT | Local: Jun 24, 05:32 AM CEST",
-    "link": "https://www.vesselfinder.com/ports/ITCVV001",
-    "guid": "05b5d9772672d351079c69f5793bbdbbd7bd3842",
-    "pubDate": "Wed, 24 Jun 2026 04:42:52 GMT",
-    "eventUtc": "2026-06-24T03:32:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Departed from Ketchikan, United States (USA) at Jun 23, 10:15 PM EDT. The local time to the port is Jun 23, 10:15 PM EDT",
-    "description": "Ketchikan, United States (USA) Departure (UTC) Jun 24, 02:15 — ET: Jun 23, 10:15 PM EDT | Local: Jun 23, 10:15 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USKTN001",
-    "guid": "42b284873569692004f44919e5f6515a046a2277",
-    "pubDate": "Wed, 24 Jun 2026 04:42:40 GMT",
-    "eventUtc": "2026-06-24T02:15:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Road Town, Tortola, British Virgin Islands at Jun 23, 06:00 PM EDT. The local time to the port is Jun 23, 06:00 PM AST",
-    "description": "Road Town, Tortola, British Virgin Islands Departure (UTC) Jun 23, 22:00 — ET: Jun 23, 06:00 PM EDT | Local: Jun 23, 06:00 PM AST",
-    "link": "https://www.vesselfinder.com/ports/VGRAD001",
-    "guid": "545d20c3dfa90ec608fe78296f6a7bec78679d31",
-    "pubDate": "Tue, 23 Jun 2026 23:19:18 GMT",
-    "eventUtc": "2026-06-23T22:00:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
