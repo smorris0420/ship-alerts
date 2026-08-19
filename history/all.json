@@ -209,6 +209,50 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Arrived at Saint Thomas, US Virgin Islands at Aug 19, 07:20 AM EDT. The local time to the port is Aug 19, 07:20 AM EDT",
+    "description": "Saint Thomas, US Virgin Islands Arrival (UTC) Aug 19, 11:20 — ET: Aug 19, 07:20 AM EDT | Local: Aug 19, 07:20 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/VISTT001",
+    "guid": "b64e6162214eed6980c1889d70c519a07b62a164",
+    "pubDate": "Wed, 19 Aug 2026 15:18:12 GMT",
+    "eventUtc": "2026-08-19T11:20:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Fantasy Arrived at Cape Canaveral, United States (USA) at Aug 19, 05:58 AM EDT. The local time to the port is Aug 19, 05:58 AM EDT",
+    "description": "Cape Canaveral, United States (USA) Arrival (UTC) Aug 19, 09:58 — ET: Aug 19, 05:58 AM EDT | Local: Aug 19, 05:58 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "455da7511a9803266de122b6fe69da239813f8a0",
+    "pubDate": "Wed, 19 Aug 2026 15:18:19 GMT",
+    "eventUtc": "2026-08-19T09:58:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Dream Arrived at A Coruna, Spain at Aug 18, 11:54 PM EDT. The local time to the port is Aug 19, 05:54 AM CEST",
+    "description": "A Coruna, Spain Arrival (UTC) Aug 19, 03:54 — ET: Aug 18, 11:54 PM EDT | Local: Aug 19, 05:54 AM CEST",
+    "link": "https://www.vesselfinder.com/ports/ESLCG001",
+    "guid": "f25a4e14d6d9c3589ebb8d3321f5e129b8e55cbf",
+    "pubDate": "Wed, 19 Aug 2026 15:18:45 GMT",
+    "eventUtc": "2026-08-19T03:54:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Magic Departed from Ketchikan, United States (USA) at Aug 18, 11:04 PM EDT. The local time to the port is Aug 18, 11:04 PM EDT",
+    "description": "Ketchikan, United States (USA) Departure (UTC) Aug 19, 03:04 — ET: Aug 18, 11:04 PM EDT | Local: Aug 18, 11:04 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USKTN001",
+    "guid": "3264246f90104afdf4de1e9977cc6ac5b55e1044",
+    "pubDate": "Wed, 19 Aug 2026 15:18:33 GMT",
+    "eventUtc": "2026-08-19T03:04:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Departed from Road Town, Tortola, British Virgin Islands at Aug 18, 06:03 PM EDT. The local time to the port is Aug 18, 06:03 PM AST",
     "description": "Road Town, Tortola, British Virgin Islands Departure (UTC) Aug 18, 22:03 — ET: Aug 18, 06:03 PM EDT | Local: Aug 18, 06:03 PM AST",
     "link": "https://www.vesselfinder.com/ports/VGRAD001",
@@ -217,6 +261,17 @@
     "eventUtc": "2026-08-18T22:03:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Magic Arrived at Ketchikan, United States (USA) at Aug 18, 12:40 PM EDT. The local time to the port is Aug 18, 12:40 PM EDT",
+    "description": "Ketchikan, United States (USA) Arrival (UTC) Aug 18, 16:40 — ET: Aug 18, 12:40 PM EDT | Local: Aug 18, 12:40 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USKTN001",
+    "guid": "9abe3e1e9eab465ef42fb0892918a651480abfb5",
+    "pubDate": "Wed, 19 Aug 2026 15:18:32 GMT",
+    "eventUtc": "2026-08-18T16:40:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
     "source": "vf_ship"
   },
   {
@@ -5440,61 +5495,6 @@
     "guid": "545d20c3dfa90ec608fe78296f6a7bec78679d31",
     "pubDate": "Tue, 23 Jun 2026 23:19:18 GMT",
     "eventUtc": "2026-06-23T22:00:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Departed from Gorda Cay, Bahamas at Jun 23, 04:45 PM EDT. The local time to the port is Jun 23, 04:45 PM EDT",
-    "description": "Gorda Cay, Bahamas Departure (UTC) Jun 23, 20:45 — ET: Jun 23, 04:45 PM EDT | Local: Jun 23, 04:45 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "f3588aab9eef43bc0f4b99db12e44d67526d6284",
-    "pubDate": "Thu, 25 Jun 2026 12:05:34 GMT",
-    "eventUtc": "2026-06-23T20:45:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Napoli, Italy at Jun 23, 02:08 PM EDT. The local time to the port is Jun 23, 08:08 PM CEST",
-    "description": "Napoli, Italy Departure (UTC) Jun 23, 18:08 — ET: Jun 23, 02:08 PM EDT | Local: Jun 23, 08:08 PM CEST",
-    "link": "https://www.vesselfinder.com/ports/ITNAP001",
-    "guid": "b2326bd08f500ac920af3b0e9ed2618492df1fe0",
-    "pubDate": "Tue, 23 Jun 2026 18:30:38 GMT",
-    "eventUtc": "2026-06-23T18:08:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Arrived at Ketchikan, United States (USA) at Jun 23, 01:41 PM EDT. The local time to the port is Jun 23, 01:41 PM EDT",
-    "description": "Ketchikan, United States (USA) Arrival (UTC) Jun 23, 17:41 — ET: Jun 23, 01:41 PM EDT | Local: Jun 23, 01:41 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USKTN001",
-    "guid": "4e033ea7300ef6ba906e87951dfd226f053aa3a8",
-    "pubDate": "Wed, 24 Jun 2026 04:42:39 GMT",
-    "eventUtc": "2026-06-23T17:41:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wish Arrived at Gorda Cay, Bahamas at Jun 23, 07:30 AM EDT. The local time to the port is Jun 23, 07:30 AM EDT",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) Jun 23, 11:30 — ET: Jun 23, 07:30 AM EDT | Local: Jun 23, 07:30 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "4922e05e8f66629933eeae25832adee8e7998497",
-    "pubDate": "Thu, 25 Jun 2026 12:05:32 GMT",
-    "eventUtc": "2026-06-23T11:30:00+00:00",
-    "shipSlug": "disney-wish",
-    "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Road Town, Tortola, British Virgin Islands at Jun 23, 07:27 AM EDT. The local time to the port is Jun 23, 07:27 AM AST",
-    "description": "Road Town, Tortola, British Virgin Islands Arrival (UTC) Jun 23, 11:27 — ET: Jun 23, 07:27 AM EDT | Local: Jun 23, 07:27 AM AST",
-    "link": "https://www.vesselfinder.com/ports/VGRAD001",
-    "guid": "06a06c3834a65560e11d23f230b9bf40958f1e0e",
-    "pubDate": "Tue, 23 Jun 2026 14:03:22 GMT",
-    "eventUtc": "2026-06-23T11:27:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
     "source": "vf_ship"
