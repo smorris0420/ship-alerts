@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Thu, 20 Aug 2026 00:04:47 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 20 Aug 2026 01:50:31 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -148,6 +148,13 @@
     <description><![CDATA[Singapore, Singapore Arrival (UTC) Aug 19, 21:19 — ET: Aug 19, 05:19 PM EDT | Local: Aug 19, 05:19 PM EDT]]></description>
   </item>
   <item>
+    <title>Disney Destiny Departed from Gorda Cay, Bahamas at Aug 19, 05:16 PM EDT. The local time to the port is Aug 19, 05:16 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
+    <guid isPermaLink="false">7c7f45a47f62c9cbbb96b9b113f2fce69e7bc661</guid>
+    <pubDate>Thu, 20 Aug 2026 01:50:29 GMT</pubDate>
+    <description><![CDATA[Gorda Cay, Bahamas Departure (UTC) Aug 19, 21:16 — ET: Aug 19, 05:16 PM EDT | Local: Aug 19, 05:16 PM EDT]]></description>
+  </item>
+  <item>
     <title>Disney Fantasy Departed from Cape Canaveral, United States (USA) at Aug 19, 04:25 PM EDT. The local time to the port is Aug 19, 04:25 PM EDT</title>
     <link>https://www.vesselfinder.com/ports/USPCV001</link>
     <guid isPermaLink="false">4186d4acf8f95f41fef5803a662bf76e7c05f5fc</guid>
@@ -167,6 +174,13 @@
     <guid isPermaLink="false">89b32b2aa1b44feef6f71b44186f87f69c5306e9</guid>
     <pubDate>Wed, 19 Aug 2026 21:44:20 GMT</pubDate>
     <description><![CDATA[A Coruna, Spain Departure (UTC) Aug 19, 15:43 — ET: Aug 19, 11:43 AM EDT | Local: Aug 19, 05:43 PM CEST]]></description>
+  </item>
+  <item>
+    <title>Disney Destiny Arrived at Gorda Cay, Bahamas at Aug 19, 07:43 AM EDT. The local time to the port is Aug 19, 07:43 AM EDT</title>
+    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
+    <guid isPermaLink="false">fbc4e9439faa0f9372f1601b88337372a580d634</guid>
+    <pubDate>Thu, 20 Aug 2026 01:50:27 GMT</pubDate>
+    <description><![CDATA[Gorda Cay, Bahamas Arrival (UTC) Aug 19, 11:43 — ET: Aug 19, 07:43 AM EDT | Local: Aug 19, 07:43 AM EDT]]></description>
   </item>
   <item>
     <title>Disney Treasure Arrived at Saint Thomas, US Virgin Islands at Aug 19, 07:20 AM EDT. The local time to the port is Aug 19, 07:20 AM EDT</title>
@@ -3492,20 +3506,6 @@
     <guid isPermaLink="false">2293b2bdc038a0db8e10a8bca3d936549a8c81a4</guid>
     <pubDate>Wed, 24 Jun 2026 21:14:17 GMT</pubDate>
     <description><![CDATA[Saint Thomas, US Virgin Islands Departure (UTC) Jun 24, 20:09 — ET: Jun 24, 04:09 PM EDT | Local: Jun 24, 04:09 PM EDT]]></description>
-  </item>
-  <item>
-    <title>Disney Dream Departed from Civitavecchia, Italy at Jun 24, 11:53 AM EDT. The local time to the port is Jun 24, 05:53 PM CEST</title>
-    <link>https://www.vesselfinder.com/ports/ITCVV001</link>
-    <guid isPermaLink="false">ab2f4095f8260633226284df0bad828555704d5d</guid>
-    <pubDate>Wed, 24 Jun 2026 17:57:57 GMT</pubDate>
-    <description><![CDATA[Civitavecchia, Italy Departure (UTC) Jun 24, 15:53 — ET: Jun 24, 11:53 AM EDT | Local: Jun 24, 05:53 PM CEST]]></description>
-  </item>
-  <item>
-    <title>Disney Destiny Arrived at Cozumel, Mexico at Jun 24, 08:25 AM EDT. The local time to the port is Jun 24, 07:25 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/MXCZM001</link>
-    <guid isPermaLink="false">510bde9279a6509afde3d13607c9d21ffeb95775</guid>
-    <pubDate>Wed, 24 Jun 2026 13:36:30 GMT</pubDate>
-    <description><![CDATA[Cozumel, Mexico Arrival (UTC) Jun 24, 12:25 — ET: Jun 24, 08:25 AM EDT | Local: Jun 24, 07:25 AM EST]]></description>
   </item>
 </channel>
 </rss>

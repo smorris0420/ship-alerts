@@ -220,6 +220,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Departed from Gorda Cay, Bahamas at Aug 19, 05:16 PM EDT. The local time to the port is Aug 19, 05:16 PM EDT",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Aug 19, 21:16 — ET: Aug 19, 05:16 PM EDT | Local: Aug 19, 05:16 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "7c7f45a47f62c9cbbb96b9b113f2fce69e7bc661",
+    "pubDate": "Thu, 20 Aug 2026 01:50:29 GMT",
+    "eventUtc": "2026-08-19T21:16:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Fantasy Departed from Cape Canaveral, United States (USA) at Aug 19, 04:25 PM EDT. The local time to the port is Aug 19, 04:25 PM EDT",
     "description": "Cape Canaveral, United States (USA) Departure (UTC) Aug 19, 20:25 — ET: Aug 19, 04:25 PM EDT | Local: Aug 19, 04:25 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -250,6 +261,17 @@
     "eventUtc": "2026-08-19T15:43:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Destiny Arrived at Gorda Cay, Bahamas at Aug 19, 07:43 AM EDT. The local time to the port is Aug 19, 07:43 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Aug 19, 11:43 — ET: Aug 19, 07:43 AM EDT | Local: Aug 19, 07:43 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "fbc4e9439faa0f9372f1601b88337372a580d634",
+    "pubDate": "Thu, 20 Aug 2026 01:50:27 GMT",
+    "eventUtc": "2026-08-19T11:43:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
     "source": "vf_ship"
   },
   {
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-06-24T20:09:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Civitavecchia, Italy at Jun 24, 11:53 AM EDT. The local time to the port is Jun 24, 05:53 PM CEST",
-    "description": "Civitavecchia, Italy Departure (UTC) Jun 24, 15:53 — ET: Jun 24, 11:53 AM EDT | Local: Jun 24, 05:53 PM CEST",
-    "link": "https://www.vesselfinder.com/ports/ITCVV001",
-    "guid": "ab2f4095f8260633226284df0bad828555704d5d",
-    "pubDate": "Wed, 24 Jun 2026 17:57:57 GMT",
-    "eventUtc": "2026-06-24T15:53:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Destiny Arrived at Cozumel, Mexico at Jun 24, 08:25 AM EDT. The local time to the port is Jun 24, 07:25 AM EST",
-    "description": "Cozumel, Mexico Arrival (UTC) Jun 24, 12:25 — ET: Jun 24, 08:25 AM EDT | Local: Jun 24, 07:25 AM EST",
-    "link": "https://www.vesselfinder.com/ports/MXCZM001",
-    "guid": "510bde9279a6509afde3d13607c9d21ffeb95775",
-    "pubDate": "Wed, 24 Jun 2026 13:36:30 GMT",
-    "eventUtc": "2026-06-24T12:25:00+00:00",
-    "shipSlug": "disney-destiny",
-    "shipName": "Disney Destiny",
     "source": "vf_ship"
   }
 ]
