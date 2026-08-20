@@ -5,7 +5,7 @@
   <title>Disney Magic - Arrivals &amp; Departures</title>
   <link>https://www.vesselfinder.com/vessels/details/9126807</link>
   <description>Disney Magic - Arrivals &amp; Departures - Auto-generated</description>
-  <lastBuildDate>Thu, 20 Aug 2026 23:03:18 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 20 Aug 2026 23:36:30 GMT</lastBuildDate>
   
   <item>
     <title>Disney Magic Arrived at Progreso, Mexico at Dec 31, 10:27 AM EST. The local time to the port is Dec 31, 10:27 AM EST</title>
@@ -27,6 +27,13 @@
     <guid isPermaLink="false">e3f33dd1a2a99877e5076290efe2ecc4b5fa0861</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:16 GMT</pubDate>
     <description><![CDATA[Cozumel, Mexico Arrival (UTC) Dec 30, 16:33 — ET: Dec 30, 11:33 AM EST | Local: Dec 30, 11:33 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Magic Departed from Vancouver, Canada at Aug 20, 07:13 PM EDT. The local time to the port is Aug 20, 04:13 PM PDT</title>
+    <link>https://www.vesselfinder.com/ports/CAVAN001</link>
+    <guid isPermaLink="false">cc3184d0f441c44747cc49e1cd1447dba530a68e</guid>
+    <pubDate>Thu, 20 Aug 2026 23:36:26 GMT</pubDate>
+    <description><![CDATA[Vancouver, Canada Departure (UTC) Aug 20, 23:13 — ET: Aug 20, 07:13 PM EDT | Local: Aug 20, 04:13 PM PDT]]></description>
   </item>
   <item>
     <title>Disney Magic Arrived at Vancouver, Canada at Aug 20, 09:56 AM EDT. The local time to the port is Aug 20, 06:56 AM PDT</title>
@@ -1749,13 +1756,6 @@
     <guid isPermaLink="false">8e338f945d603da259a3ce18442ad4ebbb6b3ae1</guid>
     <pubDate>Wed, 24 Dec 2025 23:15:04 GMT</pubDate>
     <description><![CDATA[Galveston, United States (USA) Departure (UTC) Dec 24, 23:08 — ET: Dec 24, 06:08 PM EST | Local: Dec 24, 06:08 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Magic Arrived at Galveston, United States (USA) at Dec 24, 07:25 AM EST. The local time to the port is Dec 24, 07:25 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/USGLS001</link>
-    <guid isPermaLink="false">10228814d23b34577edec86f1c0e32981aa81d44</guid>
-    <pubDate>Wed, 24 Dec 2025 13:21:26 GMT</pubDate>
-    <description><![CDATA[Galveston, United States (USA) Arrival (UTC) Dec 24, 12:25 — ET: Dec 24, 07:25 AM EST | Local: Dec 24, 07:25 AM EST]]></description>
   </item>
 </channel>
 </rss>

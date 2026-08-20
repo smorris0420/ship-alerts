@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Vancouver, Canada at Aug 20, 07:13 PM EDT. The local time to the port is Aug 20, 04:13 PM PDT",
+    "description": "Vancouver, Canada Departure (UTC) Aug 20, 23:13 — ET: Aug 20, 07:13 PM EDT | Local: Aug 20, 04:13 PM PDT",
+    "link": "https://www.vesselfinder.com/ports/CAVAN001",
+    "guid": "cc3184d0f441c44747cc49e1cd1447dba530a68e",
+    "pubDate": "Thu, 20 Aug 2026 23:36:26 GMT",
+    "eventUtc": "2026-08-20T23:13:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Departed from Port Everglades, United States (USA) at Aug 20, 04:16 PM EDT. The local time to the port is Aug 20, 04:16 PM EDT",
     "description": "Port Everglades, United States (USA) Departure (UTC) Aug 20, 20:16 — ET: Aug 20, 04:16 PM EDT | Local: Aug 20, 04:16 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USPEF001",
@@ -5484,17 +5495,6 @@
     "guid": "fac1d8e923c3866cf46a35c0317981c1510a12e8",
     "pubDate": "Thu, 25 Jun 2026 09:43:11 GMT",
     "eventUtc": "2026-06-25T09:10:00+00:00",
-    "shipSlug": "disney-adventure",
-    "shipName": "Disney Adventure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Adventure Arrived at Singapore, Singapore at Jun 24, 05:33 PM EDT. The local time to the port is Jun 24, 05:33 PM EDT",
-    "description": "Singapore, Singapore Arrival (UTC) Jun 24, 21:33 — ET: Jun 24, 05:33 PM EDT | Local: Jun 24, 05:33 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/SGSIN001",
-    "guid": "2f87936551c932cbb5c83823c81a9ca21800567b",
-    "pubDate": "Wed, 24 Jun 2026 22:45:31 GMT",
-    "eventUtc": "2026-06-24T21:33:00+00:00",
     "shipSlug": "disney-adventure",
     "shipName": "Disney Adventure",
     "source": "vf_ship"
