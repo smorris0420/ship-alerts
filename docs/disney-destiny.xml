@@ -5,7 +5,7 @@
   <title>Disney Destiny - Arrivals &amp; Departures</title>
   <link>https://www.vesselfinder.com/vessels/details/9834741</link>
   <description>Disney Destiny - Arrivals &amp; Departures - Auto-generated</description>
-  <lastBuildDate>Thu, 20 Aug 2026 10:19:10 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 20 Aug 2026 10:54:46 GMT</lastBuildDate>
   
   <item>
     <title>Disney Destiny Departed from Port Everglades, United States (USA) at Dec 30, 04:22 PM EST. The local time to the port is Dec 30, 04:22 PM EST</title>
@@ -20,6 +20,13 @@
     <guid isPermaLink="false">5860149e96892fc0e11adacb796749937ec68385</guid>
     <pubDate>Thu, 01 Jan 2026 00:02:09 GMT</pubDate>
     <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) Dec 30, 10:47 — ET: Dec 30, 05:47 AM EST | Local: Dec 30, 05:47 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Destiny Arrived at Port Everglades, United States (USA) at Aug 20, 06:06 AM EDT. The local time to the port is Aug 20, 06:06 AM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USPEF001</link>
+    <guid isPermaLink="false">714b95f3c7ac0df928564ab552f5559148a296e9</guid>
+    <pubDate>Thu, 20 Aug 2026 10:54:44 GMT</pubDate>
+    <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) Aug 20, 10:06 — ET: Aug 20, 06:06 AM EDT | Local: Aug 20, 06:06 AM EDT]]></description>
   </item>
   <item>
     <title>Disney Destiny Departed from Gorda Cay, Bahamas at Aug 19, 05:16 PM EDT. The local time to the port is Aug 19, 05:16 PM EDT</title>
@@ -1749,13 +1756,6 @@
     <guid isPermaLink="false">740fe4feaf9084fce03583cae40d33917503c4c2</guid>
     <pubDate>Thu, 08 Jan 2026 21:32:11 GMT</pubDate>
     <description><![CDATA[Port Everglades, United States (USA) Departure (UTC) Jan 8, 21:10 — ET: Jan 08, 04:10 PM EST | Local: Jan 08, 04:10 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Destiny Arrived at Port Everglades, United States (USA) at Jan 08, 05:39 AM EST. The local time to the port is Jan 08, 05:39 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/USPEF001</link>
-    <guid isPermaLink="false">9297e3029760d0fe73641d5c58cb5357c8b9ed89</guid>
-    <pubDate>Thu, 08 Jan 2026 11:34:49 GMT</pubDate>
-    <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) Jan 8, 10:39 — ET: Jan 08, 05:39 AM EST | Local: Jan 08, 05:39 AM EST]]></description>
   </item>
 </channel>
 </rss>
