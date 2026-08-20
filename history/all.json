@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Adventure Departed from Singapore, Singapore at Aug 20, 04:59 AM EDT. The local time to the port is Aug 20, 04:59 AM EDT",
+    "description": "Singapore, Singapore Departure (UTC) Aug 20, 08:59 — ET: Aug 20, 04:59 AM EDT | Local: Aug 20, 04:59 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/SGSIN001",
+    "guid": "ec281351e063c05a91329066de8e56773e4e3f88",
+    "pubDate": "Thu, 20 Aug 2026 09:05:46 GMT",
+    "eventUtc": "2026-08-20T08:59:00+00:00",
+    "shipSlug": "disney-adventure",
+    "shipName": "Disney Adventure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Arrived at Singapore, Singapore at Aug 19, 05:19 PM EDT. The local time to the port is Aug 19, 05:19 PM EDT",
     "description": "Singapore, Singapore Arrival (UTC) Aug 19, 21:19 — ET: Aug 19, 05:19 PM EDT | Local: Aug 19, 05:19 PM EDT",
     "link": "https://www.vesselfinder.com/ports/SGSIN001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-06-24T20:57:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Saint Thomas, US Virgin Islands at Jun 24, 04:09 PM EDT. The local time to the port is Jun 24, 04:09 PM EDT",
-    "description": "Saint Thomas, US Virgin Islands Departure (UTC) Jun 24, 20:09 — ET: Jun 24, 04:09 PM EDT | Local: Jun 24, 04:09 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/VISTT001",
-    "guid": "2293b2bdc038a0db8e10a8bca3d936549a8c81a4",
-    "pubDate": "Wed, 24 Jun 2026 21:14:17 GMT",
-    "eventUtc": "2026-06-24T20:09:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
     "source": "vf_ship"
   }
 ]
