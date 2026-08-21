@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Southampton, United Kingdom (UK) at Aug 21, 12:58 AM EDT. The local time to the port is Aug 21, 05:58 AM BST",
+    "description": "Southampton, United Kingdom (UK) Arrival (UTC) Aug 21, 04:58 — ET: Aug 21, 12:58 AM EDT | Local: Aug 21, 05:58 AM BST",
+    "link": "https://www.vesselfinder.com/ports/GBSOU001",
+    "guid": "9c7f294c8e321744d711e32d64f116bdb9440889",
+    "pubDate": "Fri, 21 Aug 2026 05:43:40 GMT",
+    "eventUtc": "2026-08-21T04:58:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Wish Arrived at Cape Canaveral, United States (USA) at Aug 20, 11:41 PM EDT. The local time to the port is Aug 20, 11:41 PM EDT",
     "description": "Cape Canaveral, United States (USA) Arrival (UTC) Aug 21, 03:41 — ET: Aug 20, 11:41 PM EDT | Local: Aug 20, 11:41 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-06-25T13:56:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Arrived at Gorda Cay, Bahamas at Jun 25, 07:56 AM EDT. The local time to the port is Jun 25, 07:56 AM EDT",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) Jun 25, 11:56 — ET: Jun 25, 07:56 AM EDT | Local: Jun 25, 07:56 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "fefebf2427a1a3b5046e638368745e559dd0bb66",
-    "pubDate": "Sat, 27 Jun 2026 15:02:52 GMT",
-    "eventUtc": "2026-06-25T11:56:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
     "source": "vf_ship"
   }
 ]

@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Southampton, United Kingdom (UK) at Aug 21, 12:58 AM EDT. The local time to the port is Aug 21, 05:58 AM BST",
+    "description": "Southampton, United Kingdom (UK) Arrival (UTC) Aug 21, 04:58 — ET: Aug 21, 12:58 AM EDT | Local: Aug 21, 05:58 AM BST",
+    "link": "https://www.vesselfinder.com/ports/GBSOU001",
+    "guid": "9c7f294c8e321744d711e32d64f116bdb9440889",
+    "pubDate": "Fri, 21 Aug 2026 05:43:40 GMT",
+    "eventUtc": "2026-08-21T04:58:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from A Coruna, Spain at Aug 19, 11:43 AM EDT. The local time to the port is Aug 19, 05:43 PM CEST",
     "description": "A Coruna, Spain Departure (UTC) Aug 19, 15:43 — ET: Aug 19, 11:43 AM EDT | Local: Aug 19, 05:43 PM CEST",
     "link": "https://www.vesselfinder.com/ports/ESLCG001",
@@ -2734,17 +2745,6 @@
     "guid": "348f5180321e24c581b25c7a5c370ba44a393c29",
     "pubDate": "Thu, 12 Feb 2026 22:55:55 GMT",
     "eventUtc": "2026-02-12T22:03:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Arrived at Gorda Cay, Bahamas at Feb 12, 08:08 AM EST. The local time to the port is Feb 12, 08:08 AM EST",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) Feb 12, 13:08 — ET: Feb 12, 08:08 AM EST | Local: Feb 12, 08:08 AM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "d844deecd3ba4acb278e52e962b72b6b58d12f0f",
-    "pubDate": "Thu, 12 Feb 2026 22:55:54 GMT",
-    "eventUtc": "2026-02-12T13:08:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
     "source": "vf_ship"
