@@ -5,7 +5,7 @@
   <title>Disney Dream - Arrivals &amp; Departures</title>
   <link>https://www.vesselfinder.com/vessels/details/9434254</link>
   <description>Disney Dream - Arrivals &amp; Departures - Auto-generated</description>
-  <lastBuildDate>Fri, 21 Aug 2026 16:26:59 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 21 Aug 2026 17:03:38 GMT</lastBuildDate>
   
   <item>
     <title>Disney Dream Departed from Port Everglades, United States (USA) at Dec 29, 04:49 PM EST. The local time to the port is Dec 29, 04:49 PM EST</title>
@@ -20,6 +20,13 @@
     <guid isPermaLink="false">5f7fbac63c07edf9fb1d4a3dd01fd68927534e3b</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:30 GMT</pubDate>
     <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) Dec 29, 10:48 — ET: Dec 29, 05:48 AM EST | Local: Dec 29, 05:48 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Dream Departed from Southampton, United Kingdom (UK) at Aug 21, 12:35 PM EDT. The local time to the port is Aug 21, 05:35 PM BST</title>
+    <link>https://www.vesselfinder.com/ports/GBSOU001</link>
+    <guid isPermaLink="false">15b3e7250a86f01125f007c746e95aae5d38ea55</guid>
+    <pubDate>Fri, 21 Aug 2026 17:03:34 GMT</pubDate>
+    <description><![CDATA[Southampton, United Kingdom (UK) Departure (UTC) Aug 21, 16:35 — ET: Aug 21, 12:35 PM EDT | Local: Aug 21, 05:35 PM BST]]></description>
   </item>
   <item>
     <title>Disney Dream Arrived at Southampton, United Kingdom (UK) at Aug 21, 12:58 AM EDT. The local time to the port is Aug 21, 05:58 AM BST</title>
@@ -1749,13 +1756,6 @@
     <guid isPermaLink="false">240be3c0d257dde5385c778dd103c20df52b3ee1</guid>
     <pubDate>Thu, 12 Feb 2026 19:59:13 GMT</pubDate>
     <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) Feb 13, 05:01 — ET: Feb 13, 12:01 AM EST | Local: Feb 13, 12:01 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Dream Departed from Gorda Cay, Bahamas at Feb 12, 05:03 PM EST. The local time to the port is Feb 12, 05:03 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
-    <guid isPermaLink="false">348f5180321e24c581b25c7a5c370ba44a393c29</guid>
-    <pubDate>Thu, 12 Feb 2026 22:55:55 GMT</pubDate>
-    <description><![CDATA[Gorda Cay, Bahamas Departure (UTC) Feb 12, 22:03 — ET: Feb 12, 05:03 PM EST | Local: Feb 12, 05:03 PM EST]]></description>
   </item>
 </channel>
 </rss>
