@@ -5,7 +5,7 @@
   <title>Disney Destiny - Arrivals &amp; Departures</title>
   <link>https://www.vesselfinder.com/vessels/details/9834741</link>
   <description>Disney Destiny - Arrivals &amp; Departures - Auto-generated</description>
-  <lastBuildDate>Fri, 21 Aug 2026 18:56:10 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 21 Aug 2026 19:22:22 GMT</lastBuildDate>
   
   <item>
     <title>Disney Destiny Departed from Port Everglades, United States (USA) at Dec 30, 04:22 PM EST. The local time to the port is Dec 30, 04:22 PM EST</title>
@@ -20,6 +20,13 @@
     <guid isPermaLink="false">5860149e96892fc0e11adacb796749937ec68385</guid>
     <pubDate>Thu, 01 Jan 2026 00:02:09 GMT</pubDate>
     <description><![CDATA[Port Everglades, United States (USA) Arrival (UTC) Dec 30, 10:47 — ET: Dec 30, 05:47 AM EST | Local: Dec 30, 05:47 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Destiny Arrived at Nassau, Bahamas at Aug 21, 07:48 AM EDT. The local time to the port is Aug 21, 07:48 AM EDT</title>
+    <link>https://www.vesselfinder.com/ports/BSNAS001</link>
+    <guid isPermaLink="false">0c76ca51a912acb15cc8bff17a1cd40ddc76649f</guid>
+    <pubDate>Fri, 21 Aug 2026 19:22:21 GMT</pubDate>
+    <description><![CDATA[Nassau, Bahamas Arrival (UTC) Aug 21, 11:48 — ET: Aug 21, 07:48 AM EDT | Local: Aug 21, 07:48 AM EDT]]></description>
   </item>
   <item>
     <title>Disney Destiny Departed from Port Everglades, United States (USA) at Aug 20, 04:16 PM EDT. The local time to the port is Aug 20, 04:16 PM EDT</title>
@@ -1749,13 +1756,6 @@
     <guid isPermaLink="false">18553b80a6bc44105d15b21c8894c169ffd6f85d</guid>
     <pubDate>Sat, 10 Jan 2026 22:25:53 GMT</pubDate>
     <description><![CDATA[Gorda Cay, Bahamas Departure (UTC) Jan 10, 22:07 — ET: Jan 10, 05:07 PM EST | Local: Jan 10, 05:07 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Destiny Arrived at Gorda Cay, Bahamas at Jan 10, 07:56 AM EST. The local time to the port is Jan 10, 07:56 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
-    <guid isPermaLink="false">bb70d6f701d04def4ee3d6a218124c3e5f4f4c2a</guid>
-    <pubDate>Sat, 10 Jan 2026 22:25:52 GMT</pubDate>
-    <description><![CDATA[Gorda Cay, Bahamas Arrival (UTC) Jan 10, 12:56 — ET: Jan 10, 07:56 AM EST | Local: Jan 10, 07:56 AM EST]]></description>
   </item>
 </channel>
 </rss>

@@ -220,6 +220,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Destiny Arrived at Nassau, Bahamas at Aug 21, 07:48 AM EDT. The local time to the port is Aug 21, 07:48 AM EDT",
+    "description": "Nassau, Bahamas Arrival (UTC) Aug 21, 11:48 — ET: Aug 21, 07:48 AM EDT | Local: Aug 21, 07:48 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSNAS001",
+    "guid": "0c76ca51a912acb15cc8bff17a1cd40ddc76649f",
+    "pubDate": "Fri, 21 Aug 2026 19:22:21 GMT",
+    "eventUtc": "2026-08-21T11:48:00+00:00",
+    "shipSlug": "disney-destiny",
+    "shipName": "Disney Destiny",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Arrived at Southampton, United Kingdom (UK) at Aug 21, 12:58 AM EDT. The local time to the port is Aug 21, 05:58 AM BST",
     "description": "Southampton, United Kingdom (UK) Arrival (UTC) Aug 21, 04:58 — ET: Aug 21, 12:58 AM EDT | Local: Aug 21, 05:58 AM BST",
     "link": "https://www.vesselfinder.com/ports/GBSOU001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-06-25T22:22:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Fantasy Departed from Gorda Cay, Bahamas at Jun 25, 05:06 PM EDT. The local time to the port is Jun 25, 05:06 PM EDT",
-    "description": "Gorda Cay, Bahamas Departure (UTC) Jun 25, 21:06 — ET: Jun 25, 05:06 PM EDT | Local: Jun 25, 05:06 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "66eae13bf7d9509fb2603beded87ba3b46f0d1f7",
-    "pubDate": "Sat, 27 Jun 2026 15:02:54 GMT",
-    "eventUtc": "2026-06-25T21:06:00+00:00",
-    "shipSlug": "disney-fantasy",
-    "shipName": "Disney Fantasy",
     "source": "vf_ship"
   }
 ]
