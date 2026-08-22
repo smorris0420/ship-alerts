@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Sat, 22 Aug 2026 18:44:37 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 22 Aug 2026 19:09:25 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -218,6 +218,13 @@
     <description><![CDATA[Vancouver, Canada Departure (UTC) Aug 20, 23:13 — ET: Aug 20, 07:13 PM EDT | Local: Aug 20, 04:13 PM PDT]]></description>
   </item>
   <item>
+    <title>Disney Fantasy Departed from Gorda Cay, Bahamas at Aug 20, 04:56 PM EDT. The local time to the port is Aug 20, 04:56 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
+    <guid isPermaLink="false">021ff7c15f29c4833d8b93b52e64450ccfe20bcc</guid>
+    <pubDate>Sat, 22 Aug 2026 19:04:58 GMT</pubDate>
+    <description><![CDATA[Gorda Cay, Bahamas Departure (UTC) Aug 20, 20:56 — ET: Aug 20, 04:56 PM EDT | Local: Aug 20, 04:56 PM EDT]]></description>
+  </item>
+  <item>
     <title>Disney Destiny Departed from Port Everglades, United States (USA) at Aug 20, 04:16 PM EDT. The local time to the port is Aug 20, 04:16 PM EDT</title>
     <link>https://www.vesselfinder.com/ports/USPEF001</link>
     <guid isPermaLink="false">6fd163c5b713f3756c9e2769a6c9c4233f52f7ce</guid>
@@ -230,6 +237,13 @@
     <guid isPermaLink="false">553fac149e2055b12323ad63465716820f2d1fe9</guid>
     <pubDate>Thu, 20 Aug 2026 14:51:21 GMT</pubDate>
     <description><![CDATA[Vancouver, Canada Arrival (UTC) Aug 20, 13:56 — ET: Aug 20, 09:56 AM EDT | Local: Aug 20, 06:56 AM PDT]]></description>
+  </item>
+  <item>
+    <title>Disney Fantasy Arrived at Gorda Cay, Bahamas at Aug 20, 07:31 AM EDT. The local time to the port is Aug 20, 07:31 AM EDT</title>
+    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
+    <guid isPermaLink="false">1479abeaae5030c43c8f13b0924788f619532347</guid>
+    <pubDate>Sat, 22 Aug 2026 19:04:56 GMT</pubDate>
+    <description><![CDATA[Gorda Cay, Bahamas Arrival (UTC) Aug 20, 11:31 — ET: Aug 20, 07:31 AM EDT | Local: Aug 20, 07:31 AM EDT]]></description>
   </item>
   <item>
     <title>Disney Destiny Arrived at Port Everglades, United States (USA) at Aug 20, 06:06 AM EDT. The local time to the port is Aug 20, 06:06 AM EDT</title>
@@ -3492,20 +3506,6 @@
     <guid isPermaLink="false">36c280095c25b1721a044d84f4e42cf9f1fa6b0b</guid>
     <pubDate>Sat, 27 Jun 2026 11:55:03 GMT</pubDate>
     <description><![CDATA[Cape Canaveral, United States (USA) Arrival (UTC) Jun 27, 09:52 — ET: Jun 27, 05:52 AM EDT | Local: Jun 27, 05:52 AM EDT]]></description>
-  </item>
-  <item>
-    <title>Disney Dream Arrived at Kerkira (Corfu), Greece at Jun 27, 02:44 AM EDT. The local time to the port is Jun 27, 09:44 AM EEST</title>
-    <link>https://www.vesselfinder.com/ports/GRCFU001</link>
-    <guid isPermaLink="false">2a6b97d7a7fb2715cc8d2163f0cf486b9e685d46</guid>
-    <pubDate>Sat, 27 Jun 2026 08:17:07 GMT</pubDate>
-    <description><![CDATA[Kerkira (Corfu), Greece Arrival (UTC) Jun 27, 06:44 — ET: Jun 27, 02:44 AM EDT | Local: Jun 27, 09:44 AM EEST]]></description>
-  </item>
-  <item>
-    <title>Disney Treasure Departed from Gorda Cay, Bahamas at Jun 26, 04:57 PM EDT. The local time to the port is Jun 26, 04:57 PM EDT</title>
-    <link>https://www.vesselfinder.com/ports/BSGOC001</link>
-    <guid isPermaLink="false">4b90bbc4452e27d2cef217d438b49e7221643286</guid>
-    <pubDate>Fri, 26 Jun 2026 22:19:06 GMT</pubDate>
-    <description><![CDATA[Gorda Cay, Bahamas Departure (UTC) Jun 26, 20:57 — ET: Jun 26, 04:57 PM EDT | Local: Jun 26, 04:57 PM EDT]]></description>
   </item>
 </channel>
 </rss>

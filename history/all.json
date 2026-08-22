@@ -330,6 +330,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Fantasy Departed from Gorda Cay, Bahamas at Aug 20, 04:56 PM EDT. The local time to the port is Aug 20, 04:56 PM EDT",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Aug 20, 20:56 — ET: Aug 20, 04:56 PM EDT | Local: Aug 20, 04:56 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "021ff7c15f29c4833d8b93b52e64450ccfe20bcc",
+    "pubDate": "Sat, 22 Aug 2026 19:04:58 GMT",
+    "eventUtc": "2026-08-20T20:56:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Destiny Departed from Port Everglades, United States (USA) at Aug 20, 04:16 PM EDT. The local time to the port is Aug 20, 04:16 PM EDT",
     "description": "Port Everglades, United States (USA) Departure (UTC) Aug 20, 20:16 — ET: Aug 20, 04:16 PM EDT | Local: Aug 20, 04:16 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USPEF001",
@@ -349,6 +360,17 @@
     "eventUtc": "2026-08-20T13:56:00+00:00",
     "shipSlug": "disney-magic",
     "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Fantasy Arrived at Gorda Cay, Bahamas at Aug 20, 07:31 AM EDT. The local time to the port is Aug 20, 07:31 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Aug 20, 11:31 — ET: Aug 20, 07:31 AM EDT | Local: Aug 20, 07:31 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "1479abeaae5030c43c8f13b0924788f619532347",
+    "pubDate": "Sat, 22 Aug 2026 19:04:56 GMT",
+    "eventUtc": "2026-08-20T11:31:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
     "source": "vf_ship"
   },
   {
@@ -5473,28 +5495,6 @@
     "guid": "36c280095c25b1721a044d84f4e42cf9f1fa6b0b",
     "pubDate": "Sat, 27 Jun 2026 11:55:03 GMT",
     "eventUtc": "2026-06-27T09:52:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Arrived at Kerkira (Corfu), Greece at Jun 27, 02:44 AM EDT. The local time to the port is Jun 27, 09:44 AM EEST",
-    "description": "Kerkira (Corfu), Greece Arrival (UTC) Jun 27, 06:44 — ET: Jun 27, 02:44 AM EDT | Local: Jun 27, 09:44 AM EEST",
-    "link": "https://www.vesselfinder.com/ports/GRCFU001",
-    "guid": "2a6b97d7a7fb2715cc8d2163f0cf486b9e685d46",
-    "pubDate": "Sat, 27 Jun 2026 08:17:07 GMT",
-    "eventUtc": "2026-06-27T06:44:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Gorda Cay, Bahamas at Jun 26, 04:57 PM EDT. The local time to the port is Jun 26, 04:57 PM EDT",
-    "description": "Gorda Cay, Bahamas Departure (UTC) Jun 26, 20:57 — ET: Jun 26, 04:57 PM EDT | Local: Jun 26, 04:57 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "4b90bbc4452e27d2cef217d438b49e7221643286",
-    "pubDate": "Fri, 26 Jun 2026 22:19:06 GMT",
-    "eventUtc": "2026-06-26T20:57:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
     "source": "vf_ship"
