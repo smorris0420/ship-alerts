@@ -44,6 +44,28 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Departed from Gorda Cay, Bahamas at Aug 21, 05:06 PM EDT. The local time to the port is Aug 21, 05:06 PM EDT",
+    "description": "Gorda Cay, Bahamas Departure (UTC) Aug 21, 21:06 — ET: Aug 21, 05:06 PM EDT | Local: Aug 21, 05:06 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "3bb61726a46a84706c60228eeefdc794549419ea",
+    "pubDate": "Sat, 22 Aug 2026 05:04:04 GMT",
+    "eventUtc": "2026-08-21T21:06:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Treasure Arrived at Gorda Cay, Bahamas at Aug 21, 08:10 AM EDT. The local time to the port is Aug 21, 08:10 AM EDT",
+    "description": "Gorda Cay, Bahamas Arrival (UTC) Aug 21, 12:10 — ET: Aug 21, 08:10 AM EDT | Local: Aug 21, 08:10 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/BSGOC001",
+    "guid": "002dcf6cd9d48803249c9eeeb58a0587e4c40b42",
+    "pubDate": "Sat, 22 Aug 2026 05:04:02 GMT",
+    "eventUtc": "2026-08-21T12:10:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Departed from Saint Thomas, US Virgin Islands at Aug 19, 03:59 PM EDT. The local time to the port is Aug 19, 03:59 PM EDT",
     "description": "Saint Thomas, US Virgin Islands Departure (UTC) Aug 19, 19:59 — ET: Aug 19, 03:59 PM EDT | Local: Aug 19, 03:59 PM EDT",
     "link": "https://www.vesselfinder.com/ports/VISTT001",
@@ -2723,28 +2745,6 @@
     "guid": "b2e77ceb8278a827436c663f4e730694e50571f1",
     "pubDate": "Sat, 31 Jan 2026 11:53:09 GMT",
     "eventUtc": "2026-01-31T11:02:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Gorda Cay, Bahamas at Jan 30, 05:10 PM EST. The local time to the port is Jan 30, 05:10 PM EST",
-    "description": "Gorda Cay, Bahamas Departure (UTC) Jan 30, 22:10 — ET: Jan 30, 05:10 PM EST | Local: Jan 30, 05:10 PM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "6fb1640b47635925f1c1aa52563155201ecbc9db",
-    "pubDate": "Sat, 31 Jan 2026 05:55:45 GMT",
-    "eventUtc": "2026-01-30T22:10:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Gorda Cay, Bahamas at Jan 30, 07:58 AM EST. The local time to the port is Jan 30, 07:58 AM EST",
-    "description": "Gorda Cay, Bahamas Arrival (UTC) Jan 30, 12:58 — ET: Jan 30, 07:58 AM EST | Local: Jan 30, 07:58 AM EST",
-    "link": "https://www.vesselfinder.com/ports/BSGOC001",
-    "guid": "b7e80526d4eb167affc2641b3544567ee0022680",
-    "pubDate": "Sat, 31 Jan 2026 05:55:44 GMT",
-    "eventUtc": "2026-01-30T12:58:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
     "source": "vf_ship"
