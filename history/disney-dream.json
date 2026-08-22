@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Zeebrugge, Belgium at Aug 22, 07:00 PM EDT. The local time to the port is Aug 23, 01:00 AM CEST",
+    "description": "Zeebrugge, Belgium Arrival (UTC) Aug 22, 23:00 — ET: Aug 22, 07:00 PM EDT | Local: Aug 23, 01:00 AM CEST",
+    "link": "https://www.vesselfinder.com/ports/BEZEE001",
+    "guid": "7425daef51bb564e122543cb04bce90680a041e5",
+    "pubDate": "Sat, 22 Aug 2026 23:44:14 GMT",
+    "eventUtc": "2026-08-22T23:00:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Southampton, United Kingdom (UK) at Aug 21, 12:35 PM EDT. The local time to the port is Aug 21, 05:35 PM BST",
     "description": "Southampton, United Kingdom (UK) Departure (UTC) Aug 21, 16:35 — ET: Aug 21, 12:35 PM EDT | Local: Aug 21, 05:35 PM BST",
     "link": "https://www.vesselfinder.com/ports/GBSOU001",
@@ -2733,17 +2744,6 @@
     "link": "https://www.vesselfinder.com/ports/USPEF001",
     "guid": "23ab21103e90d2bdaec93a837cd256be4b0ad0b5",
     "pubDate": "Thu, 12 Feb 2026 19:59:11 GMT",
-    "eventUtc": "2026-02-13T05:01:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_port"
-  },
-  {
-    "title": "Disney Dream Arrived at Port Everglades, United States (USA) at Feb 13, 12:01 AM EST. The local time to the port is Feb 13, 12:01 AM EST",
-    "description": "Port Everglades, United States (USA) Arrival (UTC) Feb 13, 05:01 — ET: Feb 13, 12:01 AM EST | Local: Feb 13, 12:01 AM EST",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "240be3c0d257dde5385c778dd103c20df52b3ee1",
-    "pubDate": "Thu, 12 Feb 2026 19:59:13 GMT",
     "eventUtc": "2026-02-13T05:01:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
