@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Fantasy Departed from Cape Canaveral, United States (USA) at Aug 23, 04:32 PM EDT. The local time to the port is Aug 23, 04:32 PM EDT",
+    "description": "Cape Canaveral, United States (USA) Departure (UTC) Aug 23, 20:32 — ET: Aug 23, 04:32 PM EDT | Local: Aug 23, 04:32 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USPCV001",
+    "guid": "f56fff804e761c3b780988b01969c9f73e38597b",
+    "pubDate": "Sun, 23 Aug 2026 20:50:35 GMT",
+    "eventUtc": "2026-08-23T20:32:00+00:00",
+    "shipSlug": "disney-fantasy",
+    "shipName": "Disney Fantasy",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Departed from Zeebrugge, Belgium at Aug 23, 11:32 AM EDT. The local time to the port is Aug 23, 05:32 PM CEST",
     "description": "Zeebrugge, Belgium Departure (UTC) Aug 23, 15:32 — ET: Aug 23, 11:32 AM EDT | Local: Aug 23, 05:32 PM CEST",
     "link": "https://www.vesselfinder.com/ports/BEZEE001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-06-27T20:00:00+00:00",
     "shipSlug": "disney-destiny",
     "shipName": "Disney Destiny",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Arrived at Ketchikan, United States (USA) at Jun 27, 01:50 PM EDT. The local time to the port is Jun 27, 01:50 PM EDT",
-    "description": "Ketchikan, United States (USA) Arrival (UTC) Jun 27, 17:50 — ET: Jun 27, 01:50 PM EDT | Local: Jun 27, 01:50 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USKTN001",
-    "guid": "eb9736a1a8767c59907b8489e839421fd8e4b3b0",
-    "pubDate": "Sun, 28 Jun 2026 06:07:41 GMT",
-    "eventUtc": "2026-06-27T17:50:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
     "source": "vf_ship"
   }
 ]
