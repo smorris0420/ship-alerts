@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from Southampton, United Kingdom (UK) at Aug 24, 12:30 PM EDT. The local time to the port is Aug 24, 05:30 PM BST",
+    "description": "Southampton, United Kingdom (UK) Departure (UTC) Aug 24, 16:30 — ET: Aug 24, 12:30 PM EDT | Local: Aug 24, 05:30 PM BST",
+    "link": "https://www.vesselfinder.com/ports/GBSOU001",
+    "guid": "1e0cb31e30e6f740f47be8490f45bedb0727c12f",
+    "pubDate": "Mon, 24 Aug 2026 17:03:11 GMT",
+    "eventUtc": "2026-08-24T16:30:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Arrived at Cozumel, Mexico at Aug 24, 08:47 AM EDT. The local time to the port is Aug 24, 07:47 AM EST",
     "description": "Cozumel, Mexico Arrival (UTC) Aug 24, 12:47 — ET: Aug 24, 08:47 AM EDT | Local: Aug 24, 07:47 AM EST",
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-06-29T10:05:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Adventure Departed from Singapore, Singapore at Jun 29, 04:55 AM EDT. The local time to the port is Jun 29, 04:55 AM EDT",
-    "description": "Singapore, Singapore Departure (UTC) Jun 29, 08:55 — ET: Jun 29, 04:55 AM EDT | Local: Jun 29, 04:55 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/SGSIN001",
-    "guid": "9d2558ba2890ae2e56b95909886d72ad1e628495",
-    "pubDate": "Mon, 29 Jun 2026 11:33:51 GMT",
-    "eventUtc": "2026-06-29T08:55:00+00:00",
-    "shipSlug": "disney-adventure",
-    "shipName": "Disney Adventure",
     "source": "vf_ship"
   }
 ]
