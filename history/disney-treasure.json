@@ -44,6 +44,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Arrived at Cozumel, Mexico at Aug 24, 08:47 AM EDT. The local time to the port is Aug 24, 07:47 AM EST",
+    "description": "Cozumel, Mexico Arrival (UTC) Aug 24, 12:47 — ET: Aug 24, 08:47 AM EDT | Local: Aug 24, 07:47 AM EST",
+    "link": "https://www.vesselfinder.com/ports/MXCZM001",
+    "guid": "a73ae5596e0ac9ba0c30cc4f3272c2062e2f2d92",
+    "pubDate": "Mon, 24 Aug 2026 14:10:42 GMT",
+    "eventUtc": "2026-08-24T12:47:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Departed from Cape Canaveral, United States (USA) at Aug 22, 05:00 PM EDT. The local time to the port is Aug 22, 05:00 PM EDT",
     "description": "Cape Canaveral, United States (USA) Departure (UTC) Aug 22, 21:00 — ET: Aug 22, 05:00 PM EDT | Local: Aug 22, 05:00 PM EDT",
     "link": "https://www.vesselfinder.com/ports/USPCV001",
@@ -2734,17 +2745,6 @@
     "guid": "64817fd31d9e7a823e1977dfa2a4a207e581f23f",
     "pubDate": "Tue, 03 Feb 2026 10:25:06 GMT",
     "eventUtc": "2026-02-03T09:22:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at San Juan, Puerto Rico at Feb 03, 03:28 AM EST. The local time to the port is Feb 03, 04:28 AM AST",
-    "description": "San Juan, Puerto Rico Arrival (UTC) Feb 3, 08:28 — ET: Feb 03, 03:28 AM EST | Local: Feb 03, 04:28 AM AST",
-    "link": "https://www.vesselfinder.com/ports/PRSJU001",
-    "guid": "839ee1dd455c3ffaf2d61246b5b4bbd4a9bea0ea",
-    "pubDate": "Tue, 03 Feb 2026 10:25:04 GMT",
-    "eventUtc": "2026-02-03T08:28:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
     "source": "vf_ship"

@@ -5,7 +5,7 @@
   <title>DCL Ships - Arrivals &amp; Departures (All)</title>
   <link>https://github.com/</link>
   <description>DCL Ships - Arrivals &amp; Departures (All) - Auto-generated</description>
-  <lastBuildDate>Mon, 24 Aug 2026 13:30:18 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 24 Aug 2026 14:14:59 GMT</lastBuildDate>
   
   <item>
     <title>Disney Treasure Departed from Falmouth, Jamaica at Dec 31, 05:09 PM EST. The local time to the port is Dec 31, 05:09 PM EST</title>
@@ -139,6 +139,13 @@
     <guid isPermaLink="false">543a91752aedb8a938e4191aacda261174119c3c</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:54 GMT</pubDate>
     <description><![CDATA[Bremerhaven, Germany Arrival (UTC) Dec 11, 13:00 — ET: Dec 11, 08:00 AM EST | Local: Dec 11, 02:00 PM CET]]></description>
+  </item>
+  <item>
+    <title>Disney Treasure Arrived at Cozumel, Mexico at Aug 24, 08:47 AM EDT. The local time to the port is Aug 24, 07:47 AM EST</title>
+    <link>https://www.vesselfinder.com/ports/MXCZM001</link>
+    <guid isPermaLink="false">a73ae5596e0ac9ba0c30cc4f3272c2062e2f2d92</guid>
+    <pubDate>Mon, 24 Aug 2026 14:10:42 GMT</pubDate>
+    <description><![CDATA[Cozumel, Mexico Arrival (UTC) Aug 24, 12:47 — ET: Aug 24, 08:47 AM EDT | Local: Aug 24, 07:47 AM EST]]></description>
   </item>
   <item>
     <title>Disney Wish Arrived at Cape Canaveral, United States (USA) at Aug 24, 05:48 AM EDT. The local time to the port is Aug 24, 05:48 AM EDT</title>
@@ -3499,13 +3506,6 @@
     <guid isPermaLink="false">9d2558ba2890ae2e56b95909886d72ad1e628495</guid>
     <pubDate>Mon, 29 Jun 2026 11:33:51 GMT</pubDate>
     <description><![CDATA[Singapore, Singapore Departure (UTC) Jun 29, 08:55 — ET: Jun 29, 04:55 AM EDT | Local: Jun 29, 04:55 AM EDT]]></description>
-  </item>
-  <item>
-    <title>Disney Dream Arrived at Mykonos, Greece at Jun 28, 11:15 PM EDT. The local time to the port is Jun 29, 06:15 AM EEST</title>
-    <link>https://www.vesselfinder.com/ports/GRJMK001</link>
-    <guid isPermaLink="false">4e5ddc387a7da15d6b8fe3fbd630857b2cd32a38</guid>
-    <pubDate>Mon, 29 Jun 2026 06:26:09 GMT</pubDate>
-    <description><![CDATA[Mykonos, Greece Arrival (UTC) Jun 29, 03:15 — ET: Jun 28, 11:15 PM EDT | Local: Jun 29, 06:15 AM EEST]]></description>
   </item>
 </channel>
 </rss>
