@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Arrived at Southampton, United Kingdom (UK) at Aug 24, 12:55 AM EDT. The local time to the port is Aug 24, 05:55 AM BST",
+    "description": "Southampton, United Kingdom (UK) Arrival (UTC) Aug 24, 04:55 — ET: Aug 24, 12:55 AM EDT | Local: Aug 24, 05:55 AM BST",
+    "link": "https://www.vesselfinder.com/ports/GBSOU001",
+    "guid": "a12a275bf7dabec79662f6f2e308777506b47f1c",
+    "pubDate": "Mon, 24 Aug 2026 05:50:54 GMT",
+    "eventUtc": "2026-08-24T04:55:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Adventure Arrived at Singapore, Singapore at Aug 23, 05:12 PM EDT. The local time to the port is Aug 23, 05:12 PM EDT",
     "description": "Singapore, Singapore Arrival (UTC) Aug 23, 21:12 — ET: Aug 23, 05:12 PM EDT | Local: Aug 23, 05:12 PM EDT",
     "link": "https://www.vesselfinder.com/ports/SGSIN001",
@@ -5486,17 +5497,6 @@
     "eventUtc": "2026-06-28T08:22:00+00:00",
     "shipSlug": "disney-fantasy",
     "shipName": "Disney Fantasy",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Wonder Departed from Ketchikan, United States (USA) at Jun 27, 11:10 PM EDT. The local time to the port is Jun 27, 11:10 PM EDT",
-    "description": "Ketchikan, United States (USA) Departure (UTC) Jun 28, 03:10 — ET: Jun 27, 11:10 PM EDT | Local: Jun 27, 11:10 PM EDT",
-    "link": "https://www.vesselfinder.com/ports/USKTN001",
-    "guid": "e4628fa1630012dafe1cb5aafefb5ebbc4ce2aad",
-    "pubDate": "Sun, 28 Jun 2026 06:07:43 GMT",
-    "eventUtc": "2026-06-28T03:10:00+00:00",
-    "shipSlug": "disney-wonder",
-    "shipName": "Disney Wonder",
     "source": "vf_ship"
   }
 ]
