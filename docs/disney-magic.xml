@@ -5,7 +5,7 @@
   <title>Disney Magic - Arrivals &amp; Departures</title>
   <link>https://www.vesselfinder.com/vessels/details/9126807</link>
   <description>Disney Magic - Arrivals &amp; Departures - Auto-generated</description>
-  <lastBuildDate>Tue, 25 Aug 2026 20:04:48 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 25 Aug 2026 20:42:09 GMT</lastBuildDate>
   
   <item>
     <title>Disney Magic Arrived at Progreso, Mexico at Dec 31, 10:27 AM EST. The local time to the port is Dec 31, 10:27 AM EST</title>
@@ -27,6 +27,20 @@
     <guid isPermaLink="false">e3f33dd1a2a99877e5076290efe2ecc4b5fa0861</guid>
     <pubDate>Thu, 01 Jan 2026 00:01:16 GMT</pubDate>
     <description><![CDATA[Cozumel, Mexico Arrival (UTC) Dec 30, 16:33 — ET: Dec 30, 11:33 AM EST | Local: Dec 30, 11:33 AM EST]]></description>
+  </item>
+  <item>
+    <title>Disney Magic Departed from Hoonah, United States (USA) at Aug 24, 09:13 PM EDT. The local time to the port is Aug 24, 09:13 PM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USHNH001</link>
+    <guid isPermaLink="false">8ee466122993cc98b65263e2309abb97a2ef92da</guid>
+    <pubDate>Tue, 25 Aug 2026 20:41:35 GMT</pubDate>
+    <description><![CDATA[Hoonah, United States (USA) Departure (UTC) Aug 25, 01:13 — ET: Aug 24, 09:13 PM EDT | Local: Aug 24, 09:13 PM EDT]]></description>
+  </item>
+  <item>
+    <title>Disney Magic Arrived at Hoonah, United States (USA) at Aug 24, 10:06 AM EDT. The local time to the port is Aug 24, 10:06 AM EDT</title>
+    <link>https://www.vesselfinder.com/ports/USHNH001</link>
+    <guid isPermaLink="false">b5e44a3b1654be758d7c95ff4008d73be6de40c8</guid>
+    <pubDate>Tue, 25 Aug 2026 20:41:34 GMT</pubDate>
+    <description><![CDATA[Hoonah, United States (USA) Arrival (UTC) Aug 24, 14:06 — ET: Aug 24, 10:06 AM EDT | Local: Aug 24, 10:06 AM EDT]]></description>
   </item>
   <item>
     <title>Disney Magic Departed from Vancouver, Canada at Aug 20, 07:13 PM EDT. The local time to the port is Aug 20, 04:13 PM PDT</title>
@@ -1742,20 +1756,6 @@
     <guid isPermaLink="false">85c70e083be8a9c1a490f4cf36ae86c3a7858298</guid>
     <pubDate>Sun, 28 Dec 2025 02:10:16 GMT</pubDate>
     <description><![CDATA[Progreso, Mexico Departure (UTC) Dec 27, 00:15 — ET: Dec 26, 07:15 PM EST | Local: Dec 26, 07:15 PM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Magic Arrived at Progreso, Mexico at Dec 26, 07:57 AM EST. The local time to the port is Dec 26, 07:57 AM EST</title>
-    <link>https://www.vesselfinder.com/ports/MXPGO001</link>
-    <guid isPermaLink="false">10ce8fa831b7f07aa1c790fa0522aabbc08ba329</guid>
-    <pubDate>Sun, 28 Dec 2025 02:10:15 GMT</pubDate>
-    <description><![CDATA[Progreso, Mexico Arrival (UTC) Dec 26, 12:57 — ET: Dec 26, 07:57 AM EST | Local: Dec 26, 07:57 AM EST]]></description>
-  </item>
-  <item>
-    <title>Disney Magic Departed from Galveston, United States (USA) at Dec 24, 06:08 PM EST. The local time to the port is Dec 24, 06:08 PM EST</title>
-    <link>https://www.vesselfinder.com/ports/USGLS001</link>
-    <guid isPermaLink="false">8e338f945d603da259a3ce18442ad4ebbb6b3ae1</guid>
-    <pubDate>Wed, 24 Dec 2025 23:15:04 GMT</pubDate>
-    <description><![CDATA[Galveston, United States (USA) Departure (UTC) Dec 24, 23:08 — ET: Dec 24, 06:08 PM EST | Local: Dec 24, 06:08 PM EST]]></description>
   </item>
 </channel>
 </rss>

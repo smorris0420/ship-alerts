@@ -209,6 +209,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Magic Departed from Hoonah, United States (USA) at Aug 24, 09:13 PM EDT. The local time to the port is Aug 24, 09:13 PM EDT",
+    "description": "Hoonah, United States (USA) Departure (UTC) Aug 25, 01:13 — ET: Aug 24, 09:13 PM EDT | Local: Aug 24, 09:13 PM EDT",
+    "link": "https://www.vesselfinder.com/ports/USHNH001",
+    "guid": "8ee466122993cc98b65263e2309abb97a2ef92da",
+    "pubDate": "Tue, 25 Aug 2026 20:41:35 GMT",
+    "eventUtc": "2026-08-25T01:13:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Departed from Cozumel, Mexico at Aug 24, 05:58 PM EDT. The local time to the port is Aug 24, 04:58 PM EST",
     "description": "Cozumel, Mexico Departure (UTC) Aug 24, 21:58 — ET: Aug 24, 05:58 PM EDT | Local: Aug 24, 04:58 PM EST",
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
@@ -261,6 +272,17 @@
     "eventUtc": "2026-08-24T16:30:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Magic Arrived at Hoonah, United States (USA) at Aug 24, 10:06 AM EDT. The local time to the port is Aug 24, 10:06 AM EDT",
+    "description": "Hoonah, United States (USA) Arrival (UTC) Aug 24, 14:06 — ET: Aug 24, 10:06 AM EDT | Local: Aug 24, 10:06 AM EDT",
+    "link": "https://www.vesselfinder.com/ports/USHNH001",
+    "guid": "b5e44a3b1654be758d7c95ff4008d73be6de40c8",
+    "pubDate": "Tue, 25 Aug 2026 20:41:34 GMT",
+    "eventUtc": "2026-08-24T14:06:00+00:00",
+    "shipSlug": "disney-magic",
+    "shipName": "Disney Magic",
     "source": "vf_ship"
   },
   {
@@ -5475,28 +5497,6 @@
     "eventUtc": "2026-06-29T20:22:00+00:00",
     "shipSlug": "disney-wish",
     "shipName": "Disney Wish",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Mykonos, Greece at Jun 29, 12:05 PM EDT. The local time to the port is Jun 29, 07:05 PM EEST",
-    "description": "Mykonos, Greece Departure (UTC) Jun 29, 16:05 — ET: Jun 29, 12:05 PM EDT | Local: Jun 29, 07:05 PM EEST",
-    "link": "https://www.vesselfinder.com/ports/GRJMK001",
-    "guid": "6e24d2cffba559fb46367d085b4d61e42e77262f",
-    "pubDate": "Mon, 29 Jun 2026 17:49:13 GMT",
-    "eventUtc": "2026-06-29T16:05:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Magic Arrived at Hoonah, United States (USA) at Jun 29, 10:24 AM EDT. The local time to the port is Jun 29, 10:24 AM EDT",
-    "description": "Hoonah, United States (USA) Arrival (UTC) Jun 29, 14:24 — ET: Jun 29, 10:24 AM EDT | Local: Jun 29, 10:24 AM EDT",
-    "link": "https://www.vesselfinder.com/ports/USHNH001",
-    "guid": "d8d03cecb0ea8543face61785bd362fc794a6e8e",
-    "pubDate": "Tue, 30 Jun 2026 20:23:29 GMT",
-    "eventUtc": "2026-06-29T14:24:00+00:00",
-    "shipSlug": "disney-magic",
-    "shipName": "Disney Magic",
     "source": "vf_ship"
   }
 ]
