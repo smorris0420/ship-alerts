@@ -55,11 +55,33 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Treasure Departed from Georgetown, Grand Cayman Anch., Cayman Islands at Aug 24, 05:58 PM EDT. The local time to the port is Aug 24, 04:58 PM EST",
+    "description": "Georgetown, Grand Cayman Anch., Cayman Islands Departure (UTC) Aug 24, 21:58 — ET: Aug 24, 05:58 PM EDT | Local: Aug 24, 04:58 PM EST",
+    "link": "https://www.vesselfinder.com/ports/KYGEC001",
+    "guid": "01b96c084e3ada17aae10d3c39b9f0f94c693580",
+    "pubDate": "Tue, 25 Aug 2026 15:58:40 GMT",
+    "eventUtc": "2026-08-24T21:58:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Treasure Arrived at Cozumel, Mexico at Aug 24, 08:47 AM EDT. The local time to the port is Aug 24, 07:47 AM EST",
     "description": "Cozumel, Mexico Arrival (UTC) Aug 24, 12:47 — ET: Aug 24, 08:47 AM EDT | Local: Aug 24, 07:47 AM EST",
     "link": "https://www.vesselfinder.com/ports/MXCZM001",
     "guid": "a73ae5596e0ac9ba0c30cc4f3272c2062e2f2d92",
     "pubDate": "Mon, 24 Aug 2026 14:10:42 GMT",
+    "eventUtc": "2026-08-24T12:47:00+00:00",
+    "shipSlug": "disney-treasure",
+    "shipName": "Disney Treasure",
+    "source": "vf_ship"
+  },
+  {
+    "title": "Disney Treasure Arrived at Georgetown, Grand Cayman Anch., Cayman Islands at Aug 24, 08:47 AM EDT. The local time to the port is Aug 24, 07:47 AM EST",
+    "description": "Georgetown, Grand Cayman Anch., Cayman Islands Arrival (UTC) Aug 24, 12:47 — ET: Aug 24, 08:47 AM EDT | Local: Aug 24, 07:47 AM EST",
+    "link": "https://www.vesselfinder.com/ports/KYGEC001",
+    "guid": "25030ef149834100bd1c2029cab785ff448ced24",
+    "pubDate": "Tue, 25 Aug 2026 15:58:38 GMT",
     "eventUtc": "2026-08-24T12:47:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
@@ -2723,28 +2745,6 @@
     "guid": "5d6d31db131d22ae206345988edf1d9810485140",
     "pubDate": "Sat, 07 Feb 2026 11:28:54 GMT",
     "eventUtc": "2026-02-07T10:48:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Departed from Road Town, Tortola, British Virgin Islands at Feb 04, 02:19 PM EST. The local time to the port is Feb 04, 03:19 PM AST",
-    "description": "Road Town, Tortola, British Virgin Islands Departure (UTC) Feb 4, 19:19 — ET: Feb 04, 02:19 PM EST | Local: Feb 04, 03:19 PM AST",
-    "link": "https://www.vesselfinder.com/ports/VGRAD001",
-    "guid": "c2ed1e79fec7678bd073faa6838b3e1c5f0a2dee",
-    "pubDate": "Wed, 04 Feb 2026 19:48:27 GMT",
-    "eventUtc": "2026-02-04T19:19:00+00:00",
-    "shipSlug": "disney-treasure",
-    "shipName": "Disney Treasure",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Treasure Arrived at Road Town, Tortola, British Virgin Islands at Feb 04, 06:38 AM EST. The local time to the port is Feb 04, 07:38 AM AST",
-    "description": "Road Town, Tortola, British Virgin Islands Arrival (UTC) Feb 4, 11:38 — ET: Feb 04, 06:38 AM EST | Local: Feb 04, 07:38 AM AST",
-    "link": "https://www.vesselfinder.com/ports/VGRAD001",
-    "guid": "224a91ea49d49b1772005d041b20c7557ca896e1",
-    "pubDate": "Wed, 04 Feb 2026 12:26:31 GMT",
-    "eventUtc": "2026-02-04T11:38:00+00:00",
     "shipSlug": "disney-treasure",
     "shipName": "Disney Treasure",
     "source": "vf_ship"
