@@ -22,6 +22,17 @@
     "source": "vf_ship"
   },
   {
+    "title": "Disney Dream Departed from A Coruna, Spain at Aug 26, 11:50 AM EDT. The local time to the port is Aug 26, 05:50 PM CEST",
+    "description": "A Coruna, Spain Departure (UTC) Aug 26, 15:50 — ET: Aug 26, 11:50 AM EDT | Local: Aug 26, 05:50 PM CEST",
+    "link": "https://www.vesselfinder.com/ports/ESLCG001",
+    "guid": "205601b9495bb67a25f26a07cd05cb70dfbae585",
+    "pubDate": "Wed, 26 Aug 2026 16:23:53 GMT",
+    "eventUtc": "2026-08-26T15:50:00+00:00",
+    "shipSlug": "disney-dream",
+    "shipName": "Disney Dream",
+    "source": "vf_ship"
+  },
+  {
     "title": "Disney Dream Arrived at A Coruna, Spain at Aug 25, 11:55 PM EDT. The local time to the port is Aug 26, 05:55 AM CEST",
     "description": "A Coruna, Spain Arrival (UTC) Aug 26, 03:55 — ET: Aug 25, 11:55 PM EDT | Local: Aug 26, 05:55 AM CEST",
     "link": "https://www.vesselfinder.com/ports/ESLCG001",
@@ -2734,17 +2745,6 @@
     "guid": "21af00c93496256c317e8e899a159626928f8b52",
     "pubDate": "Sun, 15 Feb 2026 13:14:05 GMT",
     "eventUtc": "2026-02-15T12:28:00+00:00",
-    "shipSlug": "disney-dream",
-    "shipName": "Disney Dream",
-    "source": "vf_ship"
-  },
-  {
-    "title": "Disney Dream Departed from Port Everglades, United States (USA) at Feb 13, 04:42 PM EST. The local time to the port is Feb 13, 04:42 PM EST",
-    "description": "Port Everglades, United States (USA) Departure (UTC) Feb 13, 21:42 — ET: Feb 13, 04:42 PM EST | Local: Feb 13, 04:42 PM EST",
-    "link": "https://www.vesselfinder.com/ports/USPEF001",
-    "guid": "755e4d93a69fd529c3c7b31fbf678f8f80de6f03",
-    "pubDate": "Fri, 13 Feb 2026 22:04:15 GMT",
-    "eventUtc": "2026-02-13T21:42:00+00:00",
     "shipSlug": "disney-dream",
     "shipName": "Disney Dream",
     "source": "vf_ship"
